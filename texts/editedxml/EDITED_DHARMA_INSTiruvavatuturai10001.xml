@@ -13,17 +13,9 @@
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <!-- Work done in the file, e.g. editor ...-->
-               <persName ref="part:reda">
-                  <forename>Renato</forename>
-                  <surname>Dávalos</surname>
-               </persName>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>
-               </persName>
-               <persName ref="part:matr">
-                  <forename>Margherita</forename>
-                  <surname>Trento</surname>
                </persName>
             </respStmt>
             <respStmt>
