@@ -130,14 +130,18 @@
 		
 		<pb n="1v"/>
 		<lb n="1v1=14"/>...
-		</p>
-	</div>
+		
+		<pb n="2r"/>
+		<lb n="2r1=29"/>...
+		<lb n="2r4=33"/>...
+	</p>
+</div>
 	
 <div type="textpart" xml:lang="san-Latn" n="2">
 <head xml:lang="eng">Grant no. 2</head>
 		
 	<p>
-		<lb n="n=n"/>...		
+		<lb n="2r5=34"/>...		
 	</p>
 	
 </div>
@@ -156,7 +160,11 @@
 	</div>
 	
 <div type="translation" resp="part:reda part:emfr part:matr">
-		<!--translation encoded as per EGD §9.2 -->
+	
+	<div type="textpart" xml:lang="san-Latn" n="1">
+	<head xml:lang="eng">Grant no. 1</head>
+		<p>...</p>
+	</div>
 	</div>
 	
 <div type="commentary">
