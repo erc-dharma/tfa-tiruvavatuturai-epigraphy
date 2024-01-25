@@ -9,7 +9,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvāvaṭutuṟai, Gomuktīśvara temple, label no. 1</title>
+				<title>Tiruvāvaṭutuṟai, Gomuktīśvara temple, label</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:emfr">
@@ -52,7 +52,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p/>							
+							<p/>
 						</handDesc>
 					</physDesc>
 				</msDesc>
