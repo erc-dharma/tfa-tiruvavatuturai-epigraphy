@@ -18,7 +18,6 @@
 				</respStmt>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
-					<!-- This may be the same as the creator of the file -->
 					<persName ref="part:reda">
 						<forename>Renato</forename>
 						<surname>Dávalos</surname>
@@ -35,9 +34,8 @@
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
-				<pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+				<pubPlace>Aubervilliers</pubPlace>
 				<idno type="filename">DHARMA_INSTiruvavatuturai00001</idno>
-				<!-- Replace by filename, e.g. Pallava00001 -->
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -69,11 +67,7 @@
 					<physDesc>
 						<handDesc>
 							<p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
-							<!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
-								<summary><p><p/></summary>
-								<handNote xml:id="Pallava00001_hand1"></handNote>
-								<handNote xml:id="Pallava00001_hand2"></handNote>
-							-->
+							
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -98,16 +92,8 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:axja" when="2020-10-12"
-				>Version 3.2 : moving the xml:lang to the root</change>
-			<change who="part:axja" when="2020-07-02"
-				>Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
-			<change who="part:axja" when="2020-03-18"
-				>Version 2: addition of handDesc and summary</change>
-			<change who="part:axja" when="2019-12-18" status="draft"
-				>Creation of the
-				template</change>
-			<!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
+			<change who="part:matr" when="2024-01-26"
+				>Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
 	
@@ -116,7 +102,7 @@
 <body>
 		
 		
-<div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
+<div type="edition" xml:lang="tam-Latn">
 			
 <div type="textpart" xml:lang="san-Latn" n="1">
 <head xml:lang="eng">Grant no. 1</head>
@@ -126,7 +112,9 @@
 		<fw place="top-left" n="1r"><hi rend="grantha">śubham astu</hi></fw>
 		<fw place="left" n="1r">1</fw>
 		
-		<lb n="1r1=1"/>...
+		<lb n="1r1=1"/><hi rend="grantha">śrī</hi> <hi rend="grantha">sakāttam‌</hi> <!--update transcription--> 1000+ 4 100+ 4 10+ 8 ṉ mēl cellā niṉṟa viya-<hi rend="grantha">saṁ</hi>va<hi rend="grantha">t·sara</hi>t=tu tu 
+		<lb n="1r2=2" break="no"/><hi rend="grantha">lā</hi>-nā<supplied reason="omitted">ya</supplied>ṟṟu <hi rend="grantha">pūrvva</hi>-pa<hi rend="grantha">kṣa</hi>t=tu <hi rend="grantha">sukra</hi>vā<hi rend="grantha">ramum</hi> peṟṟa puṇarpūcat=tu nāḷ‌ miḻa
+		
 		
 		<pb n="1v"/>
 		<lb n="1v1=14"/>...
