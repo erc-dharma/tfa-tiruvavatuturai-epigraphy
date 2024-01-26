@@ -137,11 +137,9 @@
 
 	<p>
 		Iṉ-ṉilattil Eṇ mā
-		<lb n="27"/><unclear>varaiyu</unclear> * mām pāttiyil <unclear>A</unclear>rai māvum Ir *
+		<lb n="27"/><unclear>varaiyu</unclear> <gap reason="lost" unit="character" quantity="1"/> mām pāttiyil <unclear>A</unclear>rai māvum Ir <gap reason="lost" unit="character" quantity="1"/>
 		<lb n="28"/><gap reason="lost" unit="character" quantity="4"/> ti Araikkāṟ cey <gap reason="lost" unit="character" quantity="2"/> <!--update encoding of missing vowel-->t[V]vaṉa<unclear>m</unclear> tirut
-		<lb n="29" break="no"/><gap reason="lost" unit="character" quantity="2"/> <unclear>ṟkka</unclear> tiru U<unclear>va</unclear>ccaka<choice><unclear>ḷ</unclear><unclear>ṉ</unclear></choice> <gap reason="lost" unit="character" quantity="2"/> <supplied reason="lost">Ā</supplied><hi rend="grantha"><unclear>can</unclear></hi>
-		
-		<hi rend="grantha"><choice><orig><unclear>t</unclear></orig><reg><unclear>d</unclear></reg></choice><unclear>r</unclear></hi><hi rend="grantha">āditya</hi>vaṟ
+		<lb n="29" break="no"/><gap reason="lost" unit="character" quantity="2"/> <unclear>ṟkka</unclear> tiru U<unclear>va</unclear>ccaka<choice><unclear>ḷ</unclear><unclear>ṉ</unclear></choice> <gap reason="lost" unit="character" quantity="2"/> <supplied reason="lost">Ā</supplied><hi rend="grantha"><unclear>can</unclear></hi><hi rend="grantha"><choice><orig><unclear>t</unclear></orig><reg><unclear>d</unclear></reg></choice><unclear>r</unclear></hi><hi rend="grantha">āditya</hi>vaṟ
 	</p>
 	
 </div>
