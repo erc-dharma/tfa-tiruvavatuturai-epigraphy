@@ -8,46 +8,26 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvāvaṭutuṟai, Gomuktīśvara temple, ...</title>
-				<!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
+				<title>Tiruvāvaṭutuṟai, Gomuktīśvara temple, time of Parakesarivarman, year 30</title>
 				<respStmt>
-					<resp>EpiDoc Encoding</resp>
-					<!-- Work done in the file, e.g. editor ...-->
-					<persName ref="part:reda">
-						<forename>Renato</forename>
-						<surname>Dávalos</surname>
-					</persName>
+					<resp>EpiDoc Encoding</resp>					
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
-					</persName>
-					<persName ref="part:matr">
-						<forename>Margherita</forename>
-						<surname>Trento</surname>
-					</persName>
+					</persName>					
 				</respStmt>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
-					<!-- This may be the same as the creator of the file -->
-					<persName ref="part:reda">
-						<forename>Renato</forename>
-						<surname>Dávalos</surname>
-					</persName>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
-					</persName>
-					<persName ref="part:matr">
-						<forename>Margherita</forename>
-						<surname>Trento</surname>
 					</persName>
 				</respStmt>
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
-				<pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+				<pubPlace>Aubervilliers</pubPlace>
 				<idno type="filename">DHARMA_INSTiruvavatuturai10002</idno>
-				<!-- Replace by filename, e.g. Pallava00001 -->
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -63,27 +43,17 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<!-- only the handDesc can be filled in at this stage -->
 				<msDesc>
-					<!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
 					<msIdentifier>
 						<repository>DHARMAbase</repository>
 						<idno/>
-						<!-- don't modify this -->
 					</msIdentifier>
 					<msContents>
-						<!-- describe the intellectual content of an inscription -->
-						<summary><!-- //// NOT MANDATORY  ////--></summary>
-						<!-- offers the possibility to give a summary of the inscription's content -->
+						<summary>blabla</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
-							<!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
-								<summary><p><p/></summary>
-								<handNote xml:id="Pallava00001_hand1"></handNote>
-								<handNote xml:id="Pallava00001_hand2"></handNote>
-							-->
+							<p><foreign>ṉ</foreign> looks like <foreign>ḷ</foreign>.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -108,21 +78,11 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:axja" when="2020-10-12"
-				>Version 3.2 : moving the xml:lang to the root</change>
-			<change who="part:axja" when="2020-07-02"
-				>Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
-			<change who="part:axja" when="2020-03-18"
-				>Version 2: addition of handDesc and summary</change>
-			<change who="part:axja" when="2019-12-18" status="draft"
-				>Creation of the
-				template</change>
-			<!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
+			<change who="part:emfr" when="2024-01-26">creation of the file</change>			
 		</revisionDesc>
 	</teiHeader>
 
-
-<text xml:space="preserve">
+	<text xml:space="preserve">
 
 <body>
 
