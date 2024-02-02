@@ -175,13 +175,29 @@
 		<l n="d">pālanād acyutam· padam· <g type="ddanda">.</g></l> 
 	</lg>
 	
-	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn">
+	<lg n="2" met="anuṣṭubh" xml:lang="san-Latn">
 		<l n="a">svadattāt· dviguṇam‌· puṇyam‌·</l> 
 		<l n="b">paradattānupā/la\<!--update encoding-->nam· <g type="danda">.</g></l> 
 		<l n="c"><lb n="1v12=25"/>paradattāpahārēṇa</l> 
 		<l n="d">svadattan niṣphalam‌· bhavēt·<g type="ddanda">.</g></l> 
 	</lg>
 	
+	<lg n="3" met="anuṣṭubh" xml:lang="san-Latn">
+		<l n="a">svadattām‌· paradattāṁ vā</l> 
+		<l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas[va>u]n‌<lb n="1v13=26" break="no"/>dharām <g type="danda">.</g></l> 
+		<l n="c">ṣaṣṭi((r))<!--update encoding-->-varṣa-sahasrāṇi</l> 
+		<l n="d"> viṣṭhāyāñ jāyate kṛmiḥ <g type="ddanda">.</g></l> 
+	</lg>
+ 
+ 	<lg n="4" met="anuṣṭubh" xml:lang="san-Latn">
+		<l n="a">Ekaika bhaginī loke </l> 
+		<l n="b"><lb n="1v13=27"/>sarvveṣām eva bhūbhujāḥ<g type="danda">.</g></l> 
+		<l n="c">nā bhōjyā na k<unclear>a</unclear>ragrāhyā</l> 
+		<l n="d">vipradattā vasundharāḥ<g type="ddanda">.</g></l> 
+	</lg>
+  
+ 
+  
 
 	<p>
 		<pb n="1v"/>
