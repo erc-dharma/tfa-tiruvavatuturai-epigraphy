@@ -107,11 +107,11 @@
 <div type="textpart" xml:lang="san-Latn" n="1">
 <head xml:lang="eng">Grant no. 1</head>
 		
-	<p>
+	<ab>
 		<pb n="1r"/>
 		<fw place="top-left" n="1r"><hi rend="grantha">śubham astu</hi></fw>
 		<fw place="left" n="1r">1</fw>
-	</p>	
+	</ab>	
 	
 	<p>
 		<lb n="1r1=1"/><hi rend="grantha">śrī</hi> 	
@@ -168,14 +168,14 @@
 	</p>
 	
 	
-	<lg n="1" met="anuṣṭubh">
+	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn">
 		<l n="a">dānapālanayōr maddhyē</l> 
 		<l n="b">dānāt· cchreyo ’nupālanam· <g type="danda">.</g></l> 
 		<l n="c">dānā<lb n="1v11=24" break="no"/>t· svargam avāpnōti</l> 
 		<l n="d">pālanād acyutam· padam· <g type="ddanda">.</g></l> 
 	</lg>
 	
-	<lg n="1" met="anuṣṭubh">
+	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn">
 		<l n="a">svadattāt· dviguṇam‌· puṇyam‌·</l> 
 		<l n="b">paradattānupā/la\<!--update encoding-->nam· <g type="danda">.</g></l> 
 		<l n="c"><lb n="1v12=25"/>paradattāpahārēṇa</l> 
