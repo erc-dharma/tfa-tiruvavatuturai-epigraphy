@@ -226,16 +226,6 @@
 <ab>satyam</ab>
 
 
-  
-
-	<p>
-		<pb n="1v"/>
-		<lb n="1v1=14"/>...
-		
-		<pb n="2r"/>
-		..
-		<lb n="2r4=33"/>...
-	</p>
 </div>
 	
 <div type="textpart" xml:lang="san-Latn" n="2">
@@ -265,6 +255,8 @@
 	<div type="textpart" xml:lang="san-Latn" n="1">
 	<head xml:lang="eng">Grant no. 1</head>
 		<p>...</p>
+<!--	specify the lines insde the <p> tag-->
+	
 	</div>
 	</div>
 	
