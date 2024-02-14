@@ -10,7 +10,7 @@
 			<titleStmt>
 				<title>Tiruvāvaṭutuṟai Copper Plates, Set no. 1</title>
 				<respStmt>
-					<resp>EpiDoc Encoding</resp>					
+					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:matr">
 						<forename>Margherita</forename>
 						<surname>Trento</surname>
@@ -45,7 +45,7 @@
 							California, 94041, USA.</p>
 						<p>Copyright (c) 2019-2025 by John 
 							Doe.</p>
-						<!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+						<!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3" if necessary — the copyright is that of the encoder(s) -->
 					</licence>
 				</availability>
 				<date from="2019" to="2025">2019-2025</date>
@@ -61,7 +61,7 @@
 					</msIdentifier>
 					<msContents>
 						<!-- describe the intellectual content of an inscription -->
-						<summary><!-- //// NOT MANDATORY  ////--></summary>
+						<summary><!-- //// NOT MANDATORY ////--></summary>
 						<!-- offers the possibility to give a summary of the inscription's content -->
 					</msContents>
 					<physDesc>
@@ -92,12 +92,11 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:matr" when="2024-01-26"
-				>Creation of the file</change>
+			<change who="part:matr" when="2024-01-26">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
 	
-<text xml:space="preserve">
+	<text xml:space="preserve">
 	
 <body>
 		
@@ -126,13 +125,13 @@
 	<p>	
 		miḻa	
 		<lb n="1r3=3" break="no"/>lai-k-kūṟṟat=tu naṭuviṟ-kūṟṟu ta<choice><orig>n</orig><reg>ṉ</reg></choice>iyūr tirupperuntuṟai Āḷuṭaiya 
-		<lb n="1r4=4"/> parama-<hi rend="grantha">svāmi</hi>yaḷukku Aṟantāṅki Aracu Ēkapperumāḷ‌ toṇṭai 
-		<lb n="1r5=5" break="no"/>māṉār‌ poṉṉampala-nāta-toṇṭaimāṉār 
+		<lb n="1r4=4"/> parama-<hi rend="grantha">svāmi</hi>yaḷukku Aṟantāṅki Aracu Ēkapperumāḷ toṇṭai 
+		<lb n="1r5=5" break="no"/>māṉār poṉṉampala-nāta-toṇṭaimāṉār 
 	</p>
 	
 	<p>	
-		Ūrkaḷ‌ u<hi rend="grantha">pakṣa</hi>ya-<hi rend="grantha">dhā</hi> 
-		<lb n="1r6=6" break="no"/> <hi rend="grantha">rā-pūrvva</hi>m-āka vilaippiṟamāṇam‌ paṇṇik‌ koṭut=ta Ūrkaḷ āvaṉa 
+		Ūrkaḷ u<hi rend="grantha">pakṣa</hi>ya-<hi rend="grantha">dhā</hi> 
+		<lb n="1r6=6" break="no"/> <hi rend="grantha">rā-pūrvva</hi>m-āka vilaippiṟamāṇam paṇṇik koṭut=ta Ūrkaḷ āvaṉa 
 	</p>	
 	
 	<p>
@@ -143,13 +142,13 @@
 	
 	<p>
 		kīḻpāṟk’ ellai tirupperuntuṟai 
-		<lb n="1r9=9"/>Ellaikku mēṟkum‌
+		<lb n="1r9=9"/>Ellaikku mēṟkum 
 		
 		teṉpāṟk’ ellai paḻantāmarai-k-kuḷat=tukkum vāyit=talaik=ku 
-		<lb n="1r10=10" break="no"/>m ciṟṟaṭampūr‌ marutaṅkuṭi Ellaikkum‌ vaṭakkum‌
+		<lb n="1r10=10" break="no"/>m ciṟṟaṭampūr marutaṅkuṭi Ellaikkum vaṭakkum 
 		
-		mēṟpā<unclear>ṟ</unclear>kellai vīramaṅ‌ 
-		<lb n="1r11=11" break="no"/>kalat=til‌ Ellaikkuk‌ kiḻakku<supplied reason="omitted">m</supplied> 
+		mēṟpā<unclear>ṟ</unclear>kellai vīramaṅ 
+		<lb n="1r11=11" break="no"/>kalat=til Ellaikkuk kiḻakku<supplied reason="omitted">m</supplied> 
 		
 		vaṭapāṟkellai veḷḷāṟṟu teṟkum Āka 
 	</p>
@@ -157,22 +156,22 @@
 	<p>	
 		yicai 
 		<lb n="1r12=12" break="no"/>nta peruṉā<choice><orig>n</orig><reg>ṉ</reg></choice>k’ ellaikku Uṭpaṭṭa peruṉāvallūrukkum vaṭaveḷḷā
-		 <lb n="1r13=13" break="no"/>ṟṟu-nāṭṭup‌ paṉaiṅkaiya-nāṭṭu Araiyar‌ kuḷapaṟṟu vēṅkūr Eḻuvaṉēri peru 
-		<pb n="1v"/><lb n="1v1=14" break="no"/> ṉānkellaikku Uḷpaṭṭaṉavum‌ yiṉṉā<unclear>ṭṭi</unclear>l‌ yinta paṟṟu śrī-kaṇṭamaṅkalam ca
-		<lb n="1v2=15" break="no"/>tu-<hi rend="grantha">sī</hi>maikku Uḷpaṭṭaṉavum‌ Āka 
+		 <lb n="1r13=13" break="no"/>ṟṟu-nāṭṭup paṉaiṅkaiya-nāṭṭu Araiyar kuḷapaṟṟu vēṅkūr Eḻuvaṉēri peru 
+		<pb n="1v"/><lb n="1v1=14" break="no"/> ṉānkellaikku Uḷpaṭṭaṉavum yiṉṉā<unclear>ṭṭi</unclear>l yinta paṟṟu śrī-kaṇṭamaṅkalam ca
+		<lb n="1v2=15" break="no"/>tu-<hi rend="grantha">sī</hi>maikku Uḷpaṭṭaṉavum Āka 
 	</p>
 	
 	<p>
 		yinta Ūrkaḷukku uṇṭā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">sakala-samudā</hi>ya- 
-		<lb n="1v3=16" break="no"/><hi rend="grantha">‌prāpti</hi>kaḷum‌ maṟṟum‌ nāmaṅ koḷum‌ yiṟai yu<hi rend="grantha">pā</hi>tikaḷ‌ maṟṟum‌ +/E\‌<!-- update encoding-->pēṟpa		
-		<lb n="1v4=17" break="no"/>ṭ=ṭaṉavum <hi rend="grantha">‌sarvva</hi>mu<supplied reason="omitted">m‌</supplied> sarvvamāṉyamāka Upa<hi rend="grantha">kṣaya-dhāra</hi>pūṟuvamāka vilaippiṟama 
-		<lb n="1v5=18" break="no"/>āṉam‌ paṇṇi vilai niccaitta cakkaram‌ poṉ‌ <num value="3000">3 <g type="numeral">1000</g></num> yippoṉ‌ mūvvāyirat 
-		<lb n="1v6=19" break="no"/>tukkum U‌yinta Ūrkaḷ‌ cantiRĀtit<unclear>=ta</unclear>varai cella <hi rend="grantha">dhārāpūrvvamā</hi>ka koṭuttatōm‌ 
+		<lb n="1v3=16" break="no"/><hi rend="grantha"> prāpti</hi>kaḷum maṟṟum nāmaṅ koḷum yiṟai yu<hi rend="grantha">pā</hi>tikaḷ maṟṟum +/E\ <!-- update encoding-->pēṟpa		
+		<lb n="1v4=17" break="no"/>ṭ=ṭaṉavum <hi rend="grantha"> sarvva</hi>mu<supplied reason="omitted">m </supplied> sarvvamāṉyamāka Upa<hi rend="grantha">kṣaya-dhāra</hi>pūṟuvamāka vilaippiṟama 
+		<lb n="1v5=18" break="no"/>āṉam paṇṇi vilai niccaitta cakkaram poṉ <num value="3000">3 <g type="numeral">1000</g></num> yippoṉ mūvvāyirat 
+		<lb n="1v6=19" break="no"/>tukkum U yinta Ūrkaḷ cantiRĀtit<unclear>=ta</unclear>varai cella <hi rend="grantha">dhārāpūrvvamā</hi>ka koṭuttatōm 
 	</p>
 	<p>
-		<lb n="1v7=20"/>Āḷuṭaiya pa<hi rend="grantha">ra<supplied reason="omitted">ma</supplied>svāmi</hi>kku poṉṉampalat toṇṭaimāṉāRŌm‌ yiṉṉā 
-		<lb n="1v8=21" break="no"/>ḷil‌ miḻalaikkūṟṟattu paḻantaRĀ([p>>m])‌<!-- update encoding-->mai puravu Aṟikil‌ kuṭi nīṅkāt tēvatāṉamāka ca 
-		<lb n="1v9=22" break="no"/>ntiRĀti<hi rend="grantha">tya</hi>varai cellak kuṭuttamaikkum‌ cempilum‌ kallilu<supplied reason="omitted">m</supplied> veṭ=ṭikkoḷḷa-
+		<lb n="1v7=20"/>Āḷuṭaiya pa<hi rend="grantha">ra<supplied reason="omitted">ma</supplied>svāmi</hi>kku poṉṉampalat toṇṭaimāṉāRŌm yiṉṉā 
+		<lb n="1v8=21" break="no"/>ḷil miḻalaikkūṟṟattu paḻantaRĀ([p>>m]) <!-- update encoding-->mai puravu Aṟikil kuṭi nīṅkāt tēvatāṉamāka ca 
+		<lb n="1v9=22" break="no"/>ntiRĀti<hi rend="grantha">tya</hi>varai cellak kuṭuttamaikkum cempilum kallilu<supplied reason="omitted">m</supplied> veṭ=ṭikkoḷḷa-
 		<lb n="1v10=23" break="no"/>kkē kaṭavaR Ākavum 
 	</p>
 
@@ -189,15 +188,15 @@
 	</lg>
 	
 	<lg n="2" met="anuṣṭubh" xml:lang="san-Latn">
-		<l n="a">svadattāt· dviguṇam‌· puṇyam‌·</l> 
+		<l n="a">svadattāt· dviguṇam · puṇyam ·</l> 
 		<l n="b">paradattānupā/la\<!--update encoding-->nam· <g type="danda">.</g></l> 
 		<l n="c"><lb n="1v12=25"/>paradattāpahārēṇa</l> 
-		<l n="d">svadattan niṣphalam‌· bhavēt·<g type="ddanda">.</g></l> 
+		<l n="d">svadattan niṣphalam · bhavēt·<g type="ddanda">.</g></l> 
 	</lg>
 	
 	<lg n="3" met="anuṣṭubh" xml:lang="san-Latn">
-		<l n="a">svadattām‌· paradattāṁ vā</l> 
-		<l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas[va>u]n‌<lb n="1v13=26" break="no"/>dharām <g type="danda">.</g></l> 
+		<l n="a">svadattām · paradattāṁ vā</l> 
+		<l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas[va>u]n <lb n="1v13=26" break="no"/>dharām <g type="danda">.</g></l> 
 		<l n="c">ṣaṣṭi((r))<!--update encoding-->-varṣa-sahasrāṇi</l> 
 		<l n="d"> viṣṭhāyāñ jāyate kṛmiḥ <g type="ddanda">.</g></l> 
 	</lg>
@@ -208,19 +207,19 @@
 		<l n="c">nā bhōjyā na k<unclear>a</unclear>ragrāhyā</l> 
 		<l n="d">vipradattā vasundharāḥ<g type="ddanda">.</g></l> 
 	</lg>
-  
+ 
 	<lg n="5" met="anuṣṭubh" xml:lang="san-Latn">
 		<l n="a">sā<lb n="1v15=28"/>māṉyo yan dharmma-setu(r) nṛpāṇāṁ</l>
 		<l n="b">kāle kāle pālanīyo bhavat·bhi[ḥ*] <g type="danda">.</g></l>
-		<l n="c">sarvān etā(nn) <pb n="2r"/><lb n="2r1=29"/>bhāvinaḥ‌ pā[r*]tthivendr[a>ā]n‌·</l>
-		<l n="d">bhūyo bhūyo yācate rām‌acandraḥ‌ <g type="ddanda">.</g></l>
+		<l n="c">sarvān etā(nn) <pb n="2r"/><lb n="2r1=29"/>bhāvinaḥ pā[r*]tthivendr[a>ā]n ·</l>
+		<l n="d">bhūyo bhūyo yācate rām acandraḥ <g type="ddanda">.</g></l>
 	</lg>
 	
 	<p>
-		yinta dharmmattukku Ahitam‌ pa- 
-		<lb n="2r2=30"/> ṇṇiṉavarkaḷ‌ gaṁgaik‌ karai<supplied reason="omitted">yi</supplied>lē kapilaiyum‌ kaRĀm‌ pacuvaiyu<supplied reason="omitted">m</supplied> guruvaiyum‌ brāhma- 
-		<lb n="2r3=31"/> ṇaṉai<supplied reason="omitted">yu</supplied>m‌ mā<choice><orig>d</orig><reg>t</reg></choice>ā-pi<choice><orig>d</orig><reg>t</reg></choice>]āvaiyum taṅkaiyālē koṉṟa pāpattilē pōka kaṭava- 
-		<lb n="2r4=32"/> RĀkavum‌ samam‌ Ippaṭ=ṭikku cantiRĀ<supplied reason="omitted">ti</supplied>tyavarai cella naṭattik‌ koḷḷavum‌ <g type="ddanda">.</g> 
+		yinta dharmmattukku Ahitam pa- 
+		<lb n="2r2=30"/> ṇṇiṉavarkaḷ gaṁgaik karai<supplied reason="omitted">yi</supplied>lē kapilaiyum kaRĀm pacuvaiyu<supplied reason="omitted">m</supplied> guruvaiyum brāhma- 
+		<lb n="2r3=31"/> ṇaṉai<supplied reason="omitted">yu</supplied>m mā<choice><orig>d</orig><reg>t</reg></choice>ā-pi<choice><orig>d</orig><reg>t</reg></choice>]āvaiyum taṅkaiyālē koṉṟa pāpattilē pōka kaṭava- 
+		<lb n="2r4=32"/> RĀkavum samam Ippaṭ=ṭikku cantiRĀ<supplied reason="omitted">ti</supplied>tyavarai cella naṭattik koḷḷavum <g type="ddanda">.</g> 
 	</p>
 	
 <ab>satyam</ab>
@@ -292,3 +291,5 @@
 </text>
 	
 </TEI>
+
+
