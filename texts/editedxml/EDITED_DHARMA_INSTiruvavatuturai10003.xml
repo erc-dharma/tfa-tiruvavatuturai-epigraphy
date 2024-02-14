@@ -90,7 +90,7 @@
 <div type="edition" xml:lang="tam-Latn">
 	
 	<ab>
-		<lb n="1"/><gap reason="illegible" quantity="5" unit="character"/>
+		<milestone type="pagelike" n="1" unit="zone"/><label xml:lang="eng">First Wall Portion</label><lb n="1"/><gap reason="illegible" quantity="5" unit="character"/>
 	</ab>
 	
 	<ab>
@@ -98,9 +98,9 @@
 	</ab>
 	
 	<p>		
-		<lb n="3"/>matirai koṇṭa
+		<lb n="3"/>mat<choice><orig>i</orig><reg>u</reg></choice>rai koṇṭa
 		<lb n="4"/>kō-p-para-kēcari-pa
-		<lb n="5"/><hi rend="grantha">nma</hi>kki yāṇṭu <num value="30">3 <g type="numeral">10</g> 6</num> Āvatu
+		<lb n="5" break="no"/><hi rend="grantha">nma</hi>kki yāṇṭu <num value="30">3 <g type="numeral">10</g> 6</num> Āvatu
 	</p>
 		
 </div>
