@@ -133,7 +133,7 @@
 	
 	<p>	
 		Ūrkaḷ u<hi rend="grantha">pakṣa</hi>ya-<hi rend="grantha">dhā</hi> 
-		<lb n="1r6=6" break="no"/> <hi rend="grantha">rā-pūrvva</hi>m-āka vilaippiṟamāṇam paṇṇik koṭut=ta Ūrkaḷ āvaṉa 
+		<lb n="1r6=6" break="no"/> <hi rend="grantha">rā-pūrvva</hi>m-āka vilaippiṟamāṇam paṇṇik koṭut=ta Ūrkaḷ āvaṉa
 	</p>	
 	
 	<p>
@@ -164,7 +164,7 @@
 	</p>
 	
 	<p>
-		yinta Ūrkaḷukku uṇṭā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">sakala-samudā</hi>ya- 
+		yinta Ūrkaḷukku uṇṭā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">sakala-samudā</hi>ya 
 		<lb n="1v3=16" break="no"/><hi rend="grantha"> prāpti</hi>kaḷum maṟṟum nāmaṅ koḷum yiṟai yu<hi rend="grantha">pā</hi>tikaḷ maṟṟum <add place="below" rend="mark">E</add>pēṟpa		
 		<lb n="1v4=17" break="no"/>ṭ=ṭaṉavum <hi rend="grantha"> sarvva</hi>mu<supplied reason="omitted">m </supplied> sarvvamāṉyamāka Upa<hi rend="grantha">kṣaya-dhāra</hi>pūṟuvamāka vilaippiṟama 
 		<lb n="1v5=18" break="no"/>āṉam paṇṇi vilai niccaitta cakkaram poṉ <num value="3000">3 <g type="numeral">1000</g></num> yippoṉ mūvvāyirat 
@@ -218,7 +218,7 @@
 	</lg>
 	
 	<p>
-		yinta dharmmattukku Ahitam pa- 
+		yinta <hi rend="grantha">dharmma</hi>ttukku Ahitam pa- 
 		<lb n="2r2=30"/> ṇṇiṉavarkaḷ gaṁgaik karai<supplied reason="omitted">yi</supplied>lē kapilaiyum kaRĀm pacuvaiyu<supplied reason="omitted">m</supplied> guruvaiyum brāhma- 
 		<lb n="2r3=31"/> ṇaṉai<supplied reason="omitted">yu</supplied>m mā<choice><orig>d</orig><reg>t</reg></choice>ā-pi<choice><orig>d</orig><reg>t</reg></choice>]āvaiyum taṅkaiyālē koṉṟa pāpattilē pōka kaṭava- 
 		<lb n="2r4=32"/> RĀkavum samam Ippaṭ=ṭikku cantiRĀ<supplied reason="omitted">ti</supplied>tyavarai cella naṭattik koḷḷavum <g type="ddanda">.</g> 
@@ -243,12 +243,16 @@
 	
 <div type="apparatus">
 		<!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-		<listApp><!-- one <app> for each apparatus entry -->
-			<app loc="line"><!-- update the value of @loc. (this always refers to line beginning)-->
-				<lem><!-- fill in a lemma here (as I read it)--></lem>
-				<rdg source="bib:Kirusnamurtti2000_01"><!-- update the @source value, fill in variant reading here --></rdg>
-			</app>
-		</listApp>
+		
+	<listApp><!-- one <app> for each apparatus entry -->
+			
+		<app loc="line"><!-- update the value of @loc. (this always refers to line beginning)-->
+		<lem><!-- fill in a lemma here (as I read it)--></lem>
+		<rdg source="bib:Kirusnamurtti2000_01"><!-- update the @source value, fill in variant reading here --></rdg>
+		<note>...</note>
+		</app>
+		
+	</listApp>
 	</div>
 	
 <div type="translation" resp="part:reda part:emfr part:matr">
@@ -269,7 +273,7 @@
 		<!--bibliography encoded as per section §9.4 -->
 		
 		<p>
-			First edited <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 1).
+			First edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 1). This edition is not taken systematically into account because/since ...
 		</p>
 		
 		<p>
