@@ -189,14 +189,14 @@
 	
 	<lg n="2" met="anuṣṭubh" xml:lang="san-Latn">
 		<l n="a">svadattāt· dviguṇam · puṇyam ·</l> 
-		<l n="b">paradattānupā/la\<!--update encoding-->nam· <g type="danda">.</g></l> 
+		<l n="b">paradattānupā<add place="below" rend="mark">la</add>nam· <g type="danda">.</g></l> 
 		<l n="c"><lb n="1v12=25"/>paradattāpahārēṇa</l> 
 		<l n="d">svadattan niṣphalam · bhavēt·<g type="ddanda">.</g></l> 
 	</lg>
 	
 	<lg n="3" met="anuṣṭubh" xml:lang="san-Latn">
 		<l n="a">svadattām · paradattāṁ vā</l> 
-		<l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas[va>u]n <lb n="1v13=26" break="no"/>dharām <g type="danda">.</g></l> 
+		<l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas<choice><sic>va</sic><corr>u</corr></choice>n <lb n="1v13=26" break="no"/>dharām <g type="danda">.</g></l> 
 		<l n="c">ṣaṣṭi((r))<!--update encoding-->-varṣa-sahasrāṇi</l> 
 		<l n="d"> viṣṭhāyāñ jāyate kṛmiḥ <g type="ddanda">.</g></l> 
 	</lg>
@@ -209,9 +209,9 @@
 	</lg>
  
 	<lg n="5" met="anuṣṭubh" xml:lang="san-Latn">
-		<l n="a">sā<lb n="1v15=28"/>māṉyo yan dharmma-setu(r) nṛpāṇāṁ</l>
-		<l n="b">kāle kāle pālanīyo bhavat·bhi[ḥ*] <g type="danda">.</g></l>
-		<l n="c">sarvān etā(nn) <pb n="2r"/><lb n="2r1=29"/>bhāvinaḥ pā[r*]tthivendr[a>ā]n ·</l>
+		<l n="a">sā<lb n="1v15=28"/>māṉyo yan dharmma-setu<unclear>r</unclear> nṛpāṇāṁ</l>
+		<l n="b">kāle kāle pālanīyo bhavat·bhi<supplied reason="omitted">ḥ</supplied> <g type="danda">.</g></l>
+		<l n="c">sarvān etā<unclear>nn</unclear> <pb n="2r"/><lb n="2r1=29"/>bhāvinaḥ pā<supplied reason="omitted">r</supplied>tthivendr<choice><sic>a</sic><corr>ā</corr></choice>n ·</l>
 		<l n="d">bhūyo bhūyo yācate rām acandraḥ <g type="ddanda">.</g></l>
 	</lg>
 	
