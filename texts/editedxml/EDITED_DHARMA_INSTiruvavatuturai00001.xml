@@ -199,7 +199,7 @@
 	<lg n="3" met="anuṣṭubh" xml:lang="san-Latn">
 		<l n="a">svadattām · paradattāṁ vā</l> 
 		<l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas<choice><sic>va</sic><corr>u</corr></choice>n <lb n="1v13=26" break="no"/>dharām <g type="danda">.</g></l> 
-		<l n="c">ṣaṣṭi((r))<!--update encoding-->-varṣa-sahasrāṇi</l> 
+		<l n="c">ṣaṣṭi<surplus>r</surplus>-varṣa-sahasrāṇi</l> 
 		<l n="d"> viṣṭhāyāñ jāyate kṛmiḥ <g type="ddanda">.</g></l> 
 	</lg>
  
@@ -244,8 +244,8 @@
 <div type="apparatus">
 		<!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
 		<listApp><!-- one <app> for each apparatus entry -->
-			<app loc="line"><!-- update the value of @loc.-->
-				<lem><!-- fill in a lemma here --></lem>
+			<app loc="line"><!-- update the value of @loc. (this always refers to line beginning)-->
+				<lem><!-- fill in a lemma here (as I read it)--></lem>
 				<rdg source="bib:Kirusnamurtti2000_01"><!-- update the @source value, fill in variant reading here --></rdg>
 			</app>
 		</listApp>
@@ -256,7 +256,7 @@
 	<div type="textpart" xml:lang="san-Latn" n="1">
 	<head xml:lang="eng">Grant no. 1</head>
 		<p>...</p>
-<!--	specify the lines insde the <p> tag-->
+<!--specify the lines insde the <p> tag, as <p n="1">...</p>  ; when it's the translation of a stanza, <p rend="stanza" n="1"> </p> and the number is in this second type of translation tag is taken from the <lg> number-->
 	
 	</div>
 	</div>
