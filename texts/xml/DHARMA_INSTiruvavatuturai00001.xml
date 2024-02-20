@@ -255,7 +255,7 @@
 	
 <div type="translation" resp="part:reda part:emfr part:matr">
 	
-	<div type="textpart" xml:lang="san-Latn" n="1">
+	<div type="textpart" n="1">
 	<head xml:lang="eng">Grant no. 1</head>
 		<p>...</p>
 <!--specify the lines insde the <p> tag, as <p n="1">...</p>  ; when it's the translation of a stanza, <p rend="stanza" n="1"> </p> and the number is in this second type of translation tag is taken from the <lg> number-->
