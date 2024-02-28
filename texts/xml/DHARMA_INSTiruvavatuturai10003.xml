@@ -18,9 +18,17 @@
 				</respStmt>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
+					</persName>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
+					</persName>
+					<persName ref="part:matr">
+						<forename>Margherita</forename>
+						<surname>Trento</surname>
 					</persName>
 				</respStmt>
 			</titleStmt>
@@ -51,7 +59,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>							
+							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -88,11 +96,12 @@
 <div type="edition" xml:lang="tam-Latn">
 	
 	<ab>
-		<milestone type="pagelike" n="1" unit="zone"/><label xml:lang="eng">First Wall Portion</label><lb n="1"/><gap reason="illegible" quantity="5" unit="character"/>
+		<milestone type="pagelike" n="1" unit="zone"/><label xml:lang="eng">First Wall Portion</label>
+		<lb n="1"/><gap reason="illegible" quantity="3" unit="character"/> <unclear><g type="pc"/></unclear>
 	</ab>
 	
 	<ab>
-		<lb n="2"/><hi rend="grantha">svasti śrī</hi>
+		<lb n="2"/><gap reason="illegible" quantity="1" unit="character"/> <hi rend="grantha">svasti śrī</hi>
 	</ab>
 	
 	<p>		
@@ -100,17 +109,27 @@
 		<lb n="4"/>kō-p-para-kēcari-pa
 		<lb n="5" break="no"/><hi rend="grantha">nma</hi>kki yāṇṭu <num value="30">3 <g type="numeral">10</g> 6</num> Āvatu
 	</p>
+	
+	<p>
+		<lb n="6"/>teṉ<unclear>ka</unclear>rai-t tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu
+		<lb n="7"/><hi rend="grantha">brahma</hi>tē<unclear>ya</unclear>ñ cāttaṉūr <hi rend="grantha">śrī</hi>-tiru
+		<lb n="8" break="no"/>-vāvaṭu<supplied reason="lost">tu</supplied>ṟ<supplied reason="lost">ai</supplied> Āḷvārkku Ivar aṭiyē
+		<lb n="6" break="no"/>ṉ miṟai-k-<unclear>kū</unclear>ṟṟattu v<choice><orig>i</orig><reg>ī</reg></choice>ra-māṅk-u
+		<lb n="10" break="no"/>ṭaiyāṉ t<unclear>āya</unclear>ṅkāṭaṉ-ēṉ
+		ciru-pu
+		<lb n="11" break="no"/>liyūr ...
+
+	</p>
 		
 </div>
 	
 	
 <!--<div type="apparatus">
-	<!-\-apparatus encoded as per EGD §9.1, basic elements for apparatus below-\->
 	
-	<listApp><!-\- one <app> for each apparatus entry -\->
-		<app loc="line"><!-\- update the value of @loc.-\->
-			<lem><!-\- fill in a lemma here -\-></lem>
-			<rdg source="bib:..."><!-\- update the @source value, fill in variant reading here -\-></rdg>
+	<listApp>
+		<app loc="line">
+			<lem>...</lem>
+			<rdg source="bib:...">...</rdg>
 		</app>
 	</listApp>
 </div>-->
@@ -122,27 +141,36 @@
 	
 	<p n="2">Prosperity! Fortune!</p>
 	
-	<p n="4-6">36th year of the king Parakesarivarman, who took Maturai.</p>
+	<p n="3-5">36th year of the king Parakesarivarman, who took Maturai.</p>
+	
+	<p n="6-"></p>
 	
 </div>
 	
 	
 <div type="commentary">
+	
 	<p n="1-4">Lines 1-4 are in fact layed-out in 2 columns, each with 2 lines, that is, column 1 for lines 1-2 and column 2 for lines 3-4.</p>
+	
 </div>
 	
 <div type="bibliography">
 				
 	<p>
-		First edited here for DHARMA (ERC n° 809994) by Emmanuel Francis, based on EFEO photographs (2006)<!-- by Ravi, Babu?-->.
+		First reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/111).
 	</p>
+	
+	<p>
+		First edited here for DHARMA (ERC n° 809994) by Renato Davalos, Emmanuel Francis and Margherita Trento, based on EFEO photographs (2006)<!-- by Ravi, Babu?-->.
+	</p>
+	
 	
 	<!--<listBibl type="primary">
 		
-		<bibl n="K">
-			<ptr target="bib:."/>
-			<citedRange unit="page">TBC</citedRange>
-			<citedRange unit="item">TBC</citedRange>
+		<bibl n="...">
+			<ptr target="bib:..."/>
+			<citedRange unit="page">...</citedRange>
+			<citedRange unit="item">...</citedRange>
 		</bibl>
 		
 	</listBibl>-->
