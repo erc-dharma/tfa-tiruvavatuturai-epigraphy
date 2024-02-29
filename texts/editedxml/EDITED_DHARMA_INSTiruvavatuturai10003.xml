@@ -119,22 +119,61 @@
 		<lb n="6" break="no"/>ṉ miṟai-k-<unclear>kū</unclear>ṟṟattu v<choice><orig>i</orig><reg>ī</reg></choice>ra-māṅk-u
 		<lb n="10" break="no"/>ṭaiyāṉ t<unclear>āya</unclear>ṅkāṭaṉ-ēṉ
 		ciru-pu
-		<lb n="11" break="no"/>liyūr ...
+		<lb n="11" break="no"/>liyūr <hi rend="grantha">sabhai</hi>yār iṭai Iṟai-Ili koṇ
+		<lb n="12" break="no"/>ṭa nilamum
+		ciṟṟ<unclear>āṉai</unclear>ccūr-k koṇṭu I
+		<lb n="13" break="no"/>ṟaiyi<unclear>li</unclear> ceyta nilamum
+	</p>
+	
+	<p>
+		Ivv-iraṇ
+		<lb n="14" break="no"/>ṭu <unclear reason="eccentric_ductus">2</unclear> <hi rend="grantha">sa<unclear>bh</unclear>ai</hi>yā<unclear>r</unclear> <supplied reason="lost">i</supplied>ṭaiyum can=tirātitta
+		<lb n="15" break="no"/>val Iṟai-k <supplied reason="lost">kuṭu</supplied>ppat’ āka poṉ koṇ		
+		<lb n="16" break="no"/>ṭ<unclear>u</unclear> Iṟai-Ili <unclear>ceyta</unclear> nilattukk’ el
+		<lb n="17" break="no"/>l<unclear>ai</unclear>
+		
+		<list>
+			<item>
+				k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pāṟk’ ellai It-tēvar ma<unclear>ṇa</unclear>
+				<lb n="18" break="no"/>liṭṭukkum It-tēvar Ātitta-karat			
+				<lb n="19" break="no"/>tu tēvar nilattukku mē<supplied reason="omitted">ṟ</supplied>kku
+			</item>
+			
+			<item>
+				teṉ
+				<lb n="20" break="no"/>-pārk’ ellai ciṟṟāṉaiccūrār iṭai Ivaṉē
+				<lb n="21" break="no"/>y Iṟaiyili koṇṭu nilattukk’ el
+				<lb n="22" break="no"/>l<choice><sic>i</sic><corr>ai</corr></choice> Ivaṉēy viṭṭa kaṭampaṉ vāykk<unclear>ā</unclear>
+				<lb n="23" break="no"/>lukku <unclear>va</unclear><supplied reason="lost">ṭak</supplied>kum
+			</item>
+		</list>
 
+	</p>
+	
+	<p>
+		<milestone type="pagelike" n="2" unit="zone"/><label xml:lang="eng">Second Wall Portion</label>
+		<lb n="1-35"/>...
+		
+		<milestone type="pagelike" n="3" unit="zone"/><label xml:lang="eng">Third Wall Portion</label>
+		<lb n="1-35"/>...
+		
+		<milestone type="pagelike" n="4" unit="zone"/><label xml:lang="eng">Fourth Wall Portion</label>
+		<lb n="1-35"/>...
+	
 	</p>
 		
 </div>
 	
 	
-<!--<div type="apparatus">
+<div type="apparatus">
 	
 	<listApp>
-		<app loc="line">
-			<lem>...</lem>
-			<rdg source="bib:...">...</rdg>
+		<app loc="15">
+			<lem><supplied reason="lost">kuṭu</supplied>ppat’ āka</lem>
+			<note>There is possibly not enough space to accomodate 2 characters. Restore alternatively as <foreign><supplied reason="lost">ku</supplied><supplied reason="omitted">ṭu</supplied>ppat’ āka</foreign>.</note>
 		</app>
 	</listApp>
-</div>-->
+</div>
 	
 	
 <div type="translation" resp="part:emfr">
