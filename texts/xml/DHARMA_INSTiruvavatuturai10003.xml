@@ -144,20 +144,54 @@
 				<lb n="22" break="no"/>l<choice><sic>i</sic><corr>ai</corr></choice> Ivaṉēy viṭṭa kaṭampaṉ vāykk<unclear>ā</unclear>
 				<lb n="23" break="no"/>lukku <unclear>va</unclear><supplied reason="lost">ṭak</supplied>kum
 			</item>
+			
+			<item>
+				mē<unclear reason="eccentric_ductus">l</unclear>-pā<choice><orig>l</orig><reg>ṟ</reg></choice>kk’ ellai
+				<lb n="24"/>tiruvāva<unclear>ṭutu</unclear>ṟai Āḷvārkku veḷḷ<choice><sic>a</sic><corr>ā</corr></choice>ṟu-t taṉi
+				<lb n="25"/><gap reason="illegible" quantity="3" unit="character"/> <unclear>ca</unclear>mavētam vallār piramaṇar tēva
+				<lb n="26" break="no"/>r muṉ <unclear>U</unclear>ṇpataṟk<unclear>u</unclear> vilai koṇṭu ka<unclear>l</unclear>luvicca
+				<lb n="27"/>nilattukku kiḻakkum
+			</item>
+			
+			<item>
+				vaṭa-pā<choice><orig>l</orig><reg>ṟ</reg></choice>k’ ellai pe
+				<lb n="28" break="no"/>rum peru-<unclear>vaḻikkum</unclear> tēvar maṇaliṭtukkum civa
+				<lb n="29" break="no"/><supplied reason="lost">paṭu</supplied> <unclear>tiru</unclear>_na=ntavāṉattukku teṟku<choice><orig>mm</orig><reg>m</reg></choice>	
+			</item>
 		</list>
 
 	</p>
 	
 	<p>
-		<milestone type="pagelike" n="2" unit="zone"/><label xml:lang="eng">Second Wall Portion</label>
-		<lb n="1-35"/>...
-		
+		<supplied reason="lost">i</supplied>
+		<lb n="30" break="no"/>ṉ-ṉā<unclear>ṉ</unclear>k’ <supplied reason="lost">e</supplied>llaiyilum naṭu-vupaṭṭa ko
+		<lb n="31" break="no"/>l<unclear>lai</unclear>yum pu<unclear>ṉ</unclear>ceyyum teṟk’ aṭai
+		<lb n="32" break="no"/>ya Ivaṉē kalluvicca n<choice><orig>i</orig><reg>ī</reg></choice><supplied reason="lost">r</supplied>-n<supplied reason="lost">i</supplied><surplus><gap reason="illegible" quantity="3" unit="character"/></surplus>lamum
+		<lb n="33"/>kalliṉa paḻaṅkaṭampaṉ vā<supplied reason="lost">ṉa</supplied>m I
+		<lb n="34" break="no"/>v-vāykkāl Iraṇṭu karaiyilum
+		<lb n="35"/>kalliṉa kollaiyum <unclear>puṉ</unclear>cey<unclear>um</unclear>
+	</p>
+	
+	<p>
+		<lb n="36"/>Iraṇṭu <unclear>2</unclear> nilattilum <gap reason="illegible" quantity="6" unit="character"/>
+		<lb n="37" break="no"/><unclear>kiṉ</unclear> <gap reason="illegible" quantity="1" unit="character"/> ñ-ñilattuḷ teṟk’ aṭaiya <gap reason="illegible" quantity="3" unit="character"/>
+		<lb n="38" break="no"/>ki<unclear>ṉ</unclear> n<choice><orig>i</orig><reg>ī</reg></choice>r-nilam Iraṇṭē kāl
+	</p>
+	
+	<p>
+		Iv-vi
+		<milestone type="pagelike" n="2" unit="zone" break="no"/>
+		<label xml:lang="eng">Second Wall Portion</label>
+		<lb n="39" break="no"/>raṇtē kālilum mē<supplied reason="omitted">ṟ</supplied>kk’ aṭai<unclear>ya</unclear>-<supplied reason="lost">p</supplied>
+		<lb n="40" break="no"/><unclear>p</unclear>atiyam
+	</p>
+	
+	<p>
 		<milestone type="pagelike" n="3" unit="zone"/><label xml:lang="eng">Third Wall Portion</label>
 		<lb n="1-35"/>...
 		
 		<milestone type="pagelike" n="4" unit="zone"/><label xml:lang="eng">Fourth Wall Portion</label>
-		<lb n="1-35"/>...
-	
+		<lb n="1-35"/>...	
 	</p>
 		
 </div>
@@ -204,7 +238,7 @@
 		</list>		
 	</p>
 	
-	<p n="29ff."></p>
+	<p n="29ff."/>
 	 
 </div>
 	
