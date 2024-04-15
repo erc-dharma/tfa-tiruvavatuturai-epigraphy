@@ -97,12 +97,12 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
             	
-	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
 		<milestone type="pagelike" n="1" unit="zone"/><label xml:lang="eng">First Wall Portion</label>
 		<lb n="1"/><gap reason="illegible" quantity="3" unit="character"/> <unclear><g type="pc"/></unclear>
 	</ab>
 	
-	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
 		<lb n="2"/><gap reason="illegible" quantity="1" unit="character"/> <hi rend="grantha">svasti śrī</hi>
 	</ab>
 	
