@@ -8,7 +8,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tiruvāvaṭutuṟai, Gomuktīśvara temple, time of Parakesarivarman, year 36</title>
+            <title>Tiruvāvaṭutuṟai, Gomuktīśvara temple, time of Parakesarivarman, year
+					36</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <persName ref="part:emfr">
@@ -59,7 +60,8 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                     <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+								nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -67,7 +69,9 @@
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            <p>The project DHARMA has received funding from the European Research Council (ERC)
+					under the European Union’s Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
          </projectDesc>
          <schemaRef type="guide"
                     key="EGDv01"
@@ -77,12 +81,14 @@
             <prefixDef ident="bib"
                        matchPattern="([a-zA-Z0-9\-\_]+)"
                        replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
             <prefixDef ident="part"
                        matchPattern="([a-z]+)"
                        replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
-               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+               <p>Internal URIs using the part prefix to point to person elements in the
+							<ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -116,7 +122,7 @@
 		<lb n="6"/>teṉ<unclear>ka</unclear>rai-t tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu
 		<lb n="7"/><hi rend="grantha">brahma</hi>tē<unclear>ya</unclear>ñ cāttaṉūr <hi rend="grantha">śrī</hi>-tiru
 		<lb n="8" break="no"/>-vāvaṭu<supplied reason="lost">tu</supplied>ṟ<supplied reason="lost">ai</supplied> Āḷvārkku Ivar aṭiyē
-		<lb n="6" break="no"/>ṉ miṟai-k-<unclear>kū</unclear>ṟṟattu v<choice><orig>i</orig><reg>ī</reg></choice>ra-māṅk-u
+		<lb n="9" break="no"/>ṉ miṟai-k-<unclear>kū</unclear>ṟṟattu v<choice><orig>i</orig><reg>ī</reg></choice>ra-māṅk-u
 		<lb n="10" break="no"/>ṭaiyāṉ t<unclear>āya</unclear>ṅkāṭaṉ-ēṉ
 		ciṟu-pu
 		<lb n="11" break="no"/>liyūr <hi rend="grantha">sabhai</hi>yār iṭai Iṟai-Ili koṇ
@@ -177,23 +183,23 @@
 	<p>
 		<lb n="36"/>Iraṇṭu <unclear>2</unclear> nilattilum <gap reason="illegible" quantity="6" unit="character"/>
 		<lb n="37" break="no"/><unclear>kiṉ</unclear> <gap reason="illegible" quantity="1" unit="character"/> ñ-ñilattuḷ teṟk’ aṭaiya <gap reason="illegible" quantity="3" unit="character"/>
-		<lb n="38" break="no"/>ki<unclear>ṉ</unclear> n<choice><orig>i</orig><reg>ī</reg></choice>r-nilam Iraṇṭē kāl
+		<lb n="39" break="no"/>ki<unclear>ṉ</unclear> n<choice><orig>i</orig><reg>ī</reg></choice>r-nilam Iraṇṭē kāl
 	</p>
 	
 	<p>
 		Iv-vi
 		<milestone type="pagelike" n="2" unit="zone" break="no"/>
 		<label xml:lang="eng">Second Wall Portion</label>
-		<lb n="39" break="no"/>raṇtē kālilum mē<supplied reason="omitted">ṟ</supplied>kk’ aṭai<unclear>ya</unclear>-<supplied reason="lost">p</supplied>
-		<lb n="40"/><unclear>p</unclear>atiyam
+		<lb n="40" break="no"/>raṇtē kālilum mē<supplied reason="omitted">ṟ</supplied>kk’ aṭai<unclear>ya</unclear>-<supplied reason="lost">p</supplied>
+		<lb n="41"/><unclear>p</unclear>atiyam
 	</p>
 	
 	<p>
 		<milestone type="pagelike" n="3" unit="zone"/><label xml:lang="eng">Third Wall Portion</label>
-		<lb n="1-35"/>...
+		
 		
 		<milestone type="pagelike" n="4" unit="zone"/><label xml:lang="eng">Fourth Wall Portion</label>
-		<lb n="1-35"/>...	
+			
 	</p>
 		
 </div>
