@@ -110,16 +110,25 @@
 	
 		<lb n="1r1=1"/> <hi rend="grantha">svasti śrī</hi></ab>
 		
-		<p>
+	<p>
 		<hi rend="grantha">śāli</hi>vāka<hi rend="grantha">na-śakāptaṁ</hi> <num value="1651"><g type="numeral">1000</g> 6 <g type="numeral">100</g> 5 <g type="numeral">10</g> 1 </num> Iti
-<lb n="1r2=2" break="no"/>ṉ mēl cel=lā niṉṟa <hi rend="grantha">saumya</hi>-nā<hi rend="grantha">ma-saṁ</hi>va<hi rend="grantha">t·saratti-</hi>
-<lb n="1r3=3" break="no"/>l U<hi rend="grantha">ttarā</hi>yaṇat=til va<hi rend="grantha">santa-ṛt</hi>uvil cit=tirai {mācam}
-<lb n="1r4=4"/>16 {tēti} cukla-paṭcattil cukravāramum captamiyu-
-<lb n="1r5=5"/>m Anu<hi rend="grantha">ṣa</hi>-naṭcettiramum pirā<hi rend="grantha">ha</hi>mi-nāma-yōkamum kūṭi-
-<lb n="1r6=6"/>ṉa cupatiṉattil 
-		
+		<lb n="1r2=2" break="no"/>ṉ mēl cel=lā niṉṟa <hi rend="grantha">saumya</hi>-nā<hi rend="grantha">ma-saṁ</hi>va<hi rend="grantha">t·saratti-</hi>
+		<lb n="1r3=3" break="no"/>l U<hi rend="grantha">ttarā</hi>yaṇat=til va<hi rend="grantha">santa-ṛt</hi>uvil cit=tirai <g type="mācam"/>
+		<lb n="1r4=4" break="yes"/> <g type="numeral">10</g> 6 <g type="tēti"/> <hi rend="grantha">śukla-pakṣa</hi>ttil <hi rend="grantha">śukra</hi>vā<hi rend="grantha">ramuṁ captami</hi>yu-
+		<lb n="1r5=5" break="no"/><hi rend="grantha">ṁ Anuṣa-nakṣetramuṁ prāha-nāma</hi>-yō<hi rend="grantha">gamuṁ</hi> kūṭi-
+		<lb n="1r6=6" break="no"/>ṉa cupatiṉattil 	
 	</p>
+		tēvai-nakarātipaṉ cētu-mūla-
+<lb n="1r7=7" break="no"/>reṭcā-turantaraṉ civa-pūcā-turantaraṉ rāmaṉā-
+<lb n="1r8=8" break="no"/>ta-cuvāmi-kāriyā-turattaraṉ pararāca-kēca-ciṅka-
+<lb n="1r9=9" break="no"/>m pararāca-cēkaraṉ ravikula-cēkaraṉ, ravivarm-
+<lb n="1r10=10" break="no"/> maṉ corimuttu vaṉṉiyaṉ
+
 		
+	<p>
+		
+		
+	</p>	
 	<!--<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
 		<l n="a">dānapālanayōr maddhyē</l> 
 		<l n="b">dānāt· cchreyo ’nupālanam· <g type="danda">.</g></l> 
@@ -194,7 +203,7 @@
 		</p>
 		
 		<p>
-			Edited here for DHARMA (ERC n° 809994) by Renato Dávalos, Emmanuel Francis and Margherita Trento (2024), based on EFEO photographs (2015).
+			Edited here for DHARMA (ERC n° 809994) by Margherita Trento (2024), based on EFEO photographs (2015).
 		</p>
 		
 		<listBibl type="primary">
