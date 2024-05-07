@@ -111,12 +111,12 @@
 		<lb n="1r1=1"/>svasti śrī</ab>
 		
 	<p>
-		<hi rend="grantha">śāli</hi>vāka<hi rend="grantha">na-śakāptaṁ</hi> <num value="1651"><g type="numeral">1000</g> 6 <g type="numeral">100</g> 5 <g type="numeral">10</g> 1 </num> Iti
-		<lb n="1r2=2" break="no"/>ṉ mēl cel=lā niṉṟa <hi rend="grantha">saumya</hi>-nā<hi rend="grantha">ma-saṁ</hi>va<hi rend="grantha">t·saratti-</hi>
-		<lb n="1r3=3" break="no"/>l U<hi rend="grantha">ttarā</hi>yaṇat=til va<hi rend="grantha">santa-ṛt</hi>uvil cit=tirai <g type="mācam"/>
-		<lb n="1r4=4" break="yes"/> <g type="numeral">10</g> 6 <g type="tēti"/> <hi rend="grantha">śukla-pakṣa</hi>ttil <hi rend="grantha">śukra</hi>vā<hi rend="grantha">ramuṁ captami</hi>yu-
-		<lb n="1r5=5" break="no"/><hi rend="grantha">ṁ Anuṣa-nakṣetramuṁ prāha-nāma</hi>-yō<hi rend="grantha">gamuṁ</hi> kūṭi-
-		<lb n="1r6=6" break="no"/>ṉa cupatiṉattil 	
+		<hi rend="grantha">śāl<choice><orig>ī</orig><reg>i</reg></choice></hi>vāka<hi rend="grantha">na-śakābdaṁ</hi> <num value="1651"><g type="numeral">1000</g> 6 <g type="numeral">100</g> 5 <g type="numeral">10</g> 1 </num> Iti
+		<lb n="1r2=2" break="no"/>ṉ mēl cel=lā niṉṟa <hi rend="grantha">sau<!--kombu missing-->mya</hi>-nā<hi rend="grantha">ma-saṁ</hi>va<hi rend="grantha">t·sara</hi>tti	
+		<lb n="1r3=3" break="no"/>l U<hi rend="grantha">ttarā</hi>yaṇat=til va<hi rend="grantha">sa</hi>nta-<hi rend="grantha">ṛtu</hi>vil cit=tirai <g type="mācam"/>
+		<lb n="1r4=4" break="yes"/><g type="numeral">10</g> 6 <g type="tēti"/> <hi rend="grantha">śukla-pakṣa</hi>ttil <hi rend="grantha">śukra</hi>vā<hi rend="grantha">ramuṁ saptami</hi>yu-
+		<lb n="1r5=5" break="no"/><hi rend="grantha">ṁ Anuṣa-nakṣetramuṁ brāhmi-nāma</hi>-yō<hi rend="grantha">gamuṁ</hi> kūṭi-
+		<lb n="1r6=6" break="no"/>ṉa cup=patiṉattil	
 	</p>
 	
 	<p>
@@ -124,24 +124,24 @@
 		<lb n="1r7=7" break="no"/>reṭcā-turantaraṉ civa-pūcā-turantaraṉ rāmaṉā-
 		<lb n="1r8=8" break="no"/>ta-cuvāmi-kāriyā-turantaraṉ para-rāca-kēca-ciṅka-
 		<lb n="1r9=9" break="no"/>m pararāca-cēkaraṉ ravikula-cēkaraṉ ravivaṟ<unclear reason="illegible">m</unclear>-
-		<lb n="1r10=10" break="no"/> maṉ corimuttu vaṉṉiyaṉ
+		<lb n="1r10=10" break="no"/>maṉ corimuttu vaṉṉiyaṉ
 	</p>
 		<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
 		svasti śrī</ab>
 	<p>
-		 makā-maṉ
-		<lb n="1r11=11" break="no"/>alēcuparaṉ Ari-RĀyar taḷavipāṭaṉ pācaik=ku t=tap
-		<lb n="1r12=12" break="no"/>pu v<choice><sic>ā</sic><corr>a</corr></choice>rāta kaṇṭaṉ mūvaRĀyira-kaṇṭaṉ kaṇṭa ṉā
+		 makā-maṇ
+		<lb n="1r11=11" break="no"/>ṭalēcuparaṉ Ari-RĀyar taḷavipāṭaṉ pācaik=ku t=tap
+		<lb n="1r12=12" break="no"/>pu-v-arā<supplied reason="omitted">ya</supplied>r <choice><sic>t</sic><corr>k</corr></choice>-kaṇṭaṉ mūvaRĀyira-kaṇṭaṉ kaṇṭa ṉā
 		<lb n="1r13=13" break="no"/>ṭu koṇṭu koṇṭa ṉāṭu kuṭātāṉ paṭ=ṭamāṉaṅ
-		<lb n="1r14=14" break="no"/>kāt=tāṉ pāṇṭi-maṇṭala-t=tāpaṉācariyaṉ cō
-		<lb n="1r15=15" break="no"/>ḻa-maṇṭala-piṟatiṭ-ṭāpaṉācāriyaṉ toṇṭa-maṇ
-		<lb n="1r16=16" break="no"/><choice><orig><hi rend="grantha">ṁ</hi></orig><reg/></choice>ṭala-piṟacaṇṭaṉ Īḻamum koṅkum yāḷppāṇa
+		<lb n="1r14=14" break="no"/>kāt=tāṉ p<unclear reason="illegible">ā</unclear>ṇṭi-maṇṭala-t=tāpaṉācariyaṉ cō
+		<lb n="1r15=15" break="no"/>ḻa-maṇṭala-piṟatiṭ-ṭāpaṉācāriyaṉ toṇ<supplied reason="omitted">ṭi</supplied>-maṇ
+		<lb n="1r16=16" break="no"/><choice><orig><hi rend="grantha">ṁ</hi></orig><reg/></choice>ṭala-piṟacaṇṭaṉ Īḷamum koṅkum yāḷppāṇa
 		<lb n="1r17=17" break="no"/>paṭ=ṭaṇamum kecavēṭṭai kaṇṭa<supplied reason="omitted">ru</supplied>ḷiya RĀc
-		<lb n="1r18=18" break="no"/>ātirācaṉ rācaparamēcuraṉ rācam<supplied reason="omitted">r</supplied>āt=tā
+		<lb n="1r18=18" break="no"/>ātirācaṉ rācaparamēcuraṉ rāca-ma<supplied reason="omitted">r</supplied>āt=tā
 		<lb n="1r19=19" break="no"/>ṇṭaṉ tuṭ=ṭaRĀyira kaṇṭaṉ puvaṉēka-vīraṉ vīra
 		<lb n="1r20=20" break="no"/>kaṉ cutaṉ vīra-vaḷa-ṉātaṉ vētiyar kāvalaṉ Ara
-		<lb n="1r21=21" break="no"/>ca-ravaṇa-rāmaṉ Aṭiyār vēḷaikkāṟaṉ A
-		<lb n="1r22=22" break="no"/>ntampiṟa-kaṇṭaṇ cāmaturōkiyaḷ muṇṭa
+		<lb n="1r21=21" break="no"/>ca-rāvaṇa-rāmaṉ Aṭiyār vē<choice><orig>ḷ</orig><reg>l</reg></choice>aikkāṟaṉ A
+		<lb n="1r22=22" break="no"/>n-tampiṟa-kaṇṭaṇ cāmaturōkiyaḷ muṇṭa
 		<lb n="1r23=23" break="no"/>ṉ pañca-vaṟṇa-rāya-rākut=taṉ paṉuk=kuvār kaṇ
 		<lb n="1r24=24" break="no"/>ṭaṉ vicaiyaleṭcumi kāntaṉ kalai teri
 		<lb n="1r25=25" break="no"/>yum viṟpaṉaṉ kāmaṇikantappaṉ cat-tiya A
@@ -181,6 +181,7 @@
 		<lb n="1v21=52" break="no"/>ṉāṭṭil miḻalai-k-kūttattil naṭuvil kūttam taṉiyū
 		<lb n="1v22=53" break="no"/>r <hi rend="grantha">brahmadeśaṁ</hi> pavittira-māṇikkam catu<choice><orig>ru</orig><reg>r</reg></choice>vē<choice><sic>ta</sic><corr>ti</corr></choice>-maṅka
 		<lb n="1v23=54" break="no"/>la-puram Āti-kayilāca-civapura-cēttiram-ākiya tirupperun
+		
 		<lb n="1v24=55" break="no"/>tuṟaiyil viḷaṅkā ṉiṉṟa <hi rend="grantha">brahma</hi>-vi<hi rend="grantha">ṣṇu-rudra-mahe</hi>
 		<lb n="1v25=56" break="no"/>śvara-sadāśiva-<!--rakunāta-->-parāśakti-ku mēl-āki
 		<lb n="1v26=57" break="no"/> ya 
@@ -279,7 +280,7 @@
 	
 	<p n="10">Fortune! Prosperity!</p>
 	
-	<p n="10-45"><supplied reason="subaudible">I</supplied>, the overlord of the great region,  the winner over the enemy kings, the chastiser of those who commit mistakes with regard to language, or of those kings who do not keep their word, the one who rules over the three kings, i.e., Chola, Chera, Pandiyan, the one who conquers whatever country he sees, and does not give away any country he has conquered, the one who protects the suffering minds, the one who sthapanacarya of the Pandimandalam, the pratishtapanacarya of Cholamandalam;  the great man of the Toṇṭamaṇṭala; the king of kings who conducted elephant hunts in Ceylon, Kongu, and Jaffna, the supreme king, the Sun-king, 
+	<p n="10-45"><supplied reason="subaudible">I</supplied>, the overlord of the great region, the winner over the enemy kings, the chastiser of those who commit mistakes with regard to language, or of those kings who do not keep their word, the one who rules over the three kings, i.e., Chola, Chera, Pandiyan, the one who conquers whatever country he sees, and does not give away any country he has conquered, the one who protects the offended pride, the one who sthapanacarya of the Pandimandalam, the pratishtapanacarya of Cholamandalam;  the great man of the Toṇṭamaṇṭala; the king of kings who conducted elephant hunts in Ceylon, Kongu, and Jaffna, the supreme king, the Sun-king, the one who chastises evil kings, 
 
 		
 	</p>
