@@ -114,15 +114,15 @@
 			<lb n="1r2=2" break="no"/>ṉ mēl cel=lā niṉṟa <hi rend="grantha">sau<!--kombu missing-->mya</hi>-nā<hi rend="grantha">ma-saṁ</hi>va<hi rend="grantha">t·sara</hi>tti	
 			<lb n="1r3=3" break="no"/>l U<hi rend="grantha">ttarā</hi>yaṇat=til va<hi rend="grantha">sa</hi>nta-<hi rend="grantha">ṛtu</hi>vil cit=tirai <g type="mācam"/>
 			<lb n="1r4=4"/><g type="numeral">10</g> 6 <g type="tēti"></g> <hi rend="grantha">śukla-pakṣa</hi>ttil <hi rend="grantha">śukra</hi>vā<hi rend="grantha">ramuṁ saptami</hi>yu
-			<lb n="1r5=5" break="no"/><hi rend="grantha">ṁ Anuṣa-nakṣetramuṁ brāhmi-nāma</hi>-yō<hi rend="grantha">gamuṁ</hi> kūṭi
-			<lb n="1r6=6" break="no"/>ṉa cup=patiṉattil	
+			<lb n="1r5=5" break="no"/><hi rend="grantha">ṁ Anuṣa-nakṣatramuṁ brāhmi-nāma</hi>-yō<hi rend="grantha">gamuṁ</hi> kūṭi
+			<lb n="1r6=6" break="no"/>ṉa cu<choice><sic>y</sic><corr>p</corr></choice>atiṉattil	
 		</p>
 		
 		<p>
 			tēvai-nakarātipaṉ cētu-mūla-
-			<lb n="1r7=7" break="no"/>reṭcā-turantaraṉ civa-pūcā-turantaraṉ rāmaṉā
+			<lb n="1r7=7"/>reṭcā-turantaraṉ civa-pūcā-turantaraṉ rāmaṉā
 			<lb n="1r8=8" break="no"/>ta-cuvāmi-kāriyā-turantaraṉ para-rāca-kēca-ciṅka
-			<lb n="1r9=9" break="no"/>m pararāca-cēkaraṉ ravikula-cēkaraṉ ravivaṟ<unclear reason="illegible">m</unclear>-
+			<lb n="1r9=9" break="no"/>m pararāca-cēkaraṉ ravikula-cēkaraṉ ravivaṟ<surplus>m</surplus>
 			<lb n="1r10=10" break="no"/>maṉ corimuttu vaṉṉiyaṉ
 		</p>
 		<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
@@ -133,10 +133,10 @@
 			<lb n="1r12=12" break="no"/>pu-v-arā<supplied reason="omitted">ya</supplied>r <choice><sic>t</sic><corr>k</corr></choice>-kaṇṭaṉ mūvaRĀyira-kaṇṭaṉ kaṇṭa ṉā
 			<lb n="1r13=13" break="no"/>ṭu koṇṭu koṇṭa ṉāṭu kuṭātāṉ paṭ=ṭa māṉaṅ
 			<lb n="1r14=14"/>kāt=tāṉ p<unclear reason="illegible">ā</unclear>ṇṭi-maṇṭala-t=tāpaṉācariyaṉ cō
-			<lb n="1r15=15" break="no"/>ḻa-maṇṭala-piṟatiṭ-ṭāpaṉācāriyaṉ toṇ<supplied reason="omitted">ṭi</supplied>-maṇ
-			<lb n="1r16=16" break="no"/><choice><orig><hi rend="grantha">ṁ</hi></orig><reg></reg></choice>ṭala-piṟacaṇṭaṉ Īḷamum koṅkum yāḷppāṇa
-			<lb n="1r17=17"/>paṭ=ṭaṇamum kecavēṭṭai kaṇṭa<supplied reason="omitted">ru</supplied>ḷiya RĀc
-			<lb n="1r18=18" break="no"/>ātirācaṉ rācaparamēcuraṉ rāca-ma<supplied reason="omitted">r</supplied>āt=tā
+			<lb n="1r15=15" break="no"/>ḻa-maṇṭala-piṟatiṭ=ṭāpaṉācāriyaṉ toṇ<supplied reason="omitted">ṭi</supplied>-maṇ
+			<lb n="1r16=16" break="no"/><surplus>ṁ</surplus>ṭala-piṟacaṇṭaṉ Ī<choice><orig>ḷ</orig><reg>ḻ</reg></choice>amum koṅkum yā<choice><orig>ḷ</orig><reg>ḻ</reg></choice>ppāṇa-
+			<lb n="1r17=17"/>paṭ=ṭaṇamum keca-vēṭṭai kaṇṭa<supplied reason="omitted">ru</supplied>ḷiya RĀc
+			<lb n="1r18=18" break="no"/>ātirācaṉ rācaparamēcuraṉ rāca-mā<supplied reason="omitted">r</supplied>t=tā
 			<lb n="1r19=19" break="no"/>ṇṭaṉ tuṭ=ṭaRĀyira kaṇṭaṉ puvaṉēka-vīraṉ vīra
 			<lb n="1r20=20" break="no"/>kaṉ cutaṉ vīra-vaḷa-ṉātaṉ vētiyar kāvalaṉ Ara
 			<lb n="1r21=21" break="no"/>ca-rāvaṇa-rāmaṉ Aṭiyār vē<choice><orig>ḷ</orig><reg>l</reg></choice>aikkāṟaṉ A
