@@ -9,7 +9,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvāvaṭutuṟai, Gomuktīśvara temple, label</title>
+				<title>Tiruvāvaṭutuṟai, Gomuktīśvara, label</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:emfr">
@@ -86,7 +86,7 @@
 		
 		<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
             	
-	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+	<ab xml:lang="san-Latn" rendition="class:tamil maturity:83215">
 				<lb n="1"/>svasti śrī
 			</ab>
 			
@@ -98,7 +98,7 @@
 			</p>
 			
 			<ab>
-				na<hi rend="grantha">maśśi</hi>vāya
+				na<hi rend="grantha">maś śi</hi>vāya
 			</ab>
 
 		</div>
@@ -135,9 +135,8 @@
 		
 <div type="bibliography">
 			
-	<p>
-		First edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on EFEO photographs (2006)<!-- by Ravi, Babu?-->.
-	</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/142).</p>
+	<p>Edited here by Emmanuel Francis (2024), based on EFEO photographs (2006)<!-- by Ravi, Babu?-->.</p>
 	
 	<!--<listBibl type="primary">
 		
