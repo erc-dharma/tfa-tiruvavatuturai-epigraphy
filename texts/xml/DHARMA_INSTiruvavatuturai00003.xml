@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Maṉṉār calāpam grant, Śaka year 1651</title>
+				<title>Maṉṉār Calāpam grant, Śaka year 1651</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:matr">
@@ -277,43 +277,38 @@
 		
 	<p n="1">Fortune! Prosperity!</p>
 	
-	<p n="1-6">In the year called saumiya, ongoing during the śālivakana year 1651 of the Śaka era, while the sun is moving northward, in the season of spring, on the 16th day of the month of cittirai, during the bright half [of the month], i.e., the days of the waxing moon, on a auspicious day connected with the seventh day [of the lunar month], on a Saturday, on the day of the star anuṣa and of the planetary alignement prāha, on the auspicious day when [all these elements] are co-occurring,</p>
+	<p n="1-6">In the year called Saumiya, ongoing during the Śālivakana year 1651 of the Śaka era, while the sun is moving northward, in the season of spring, on the 16th day of the month of Cittirai, during the bright half [of the month], i.e., the days of the waxing moon, on a auspicious day connected with the seventh day [of the lunar month], on a Saturday, on the day of the star Anuṣa and of the planetary alignement Prāha, on the auspicious day when [all these elements] are co-occurring,</p>
 	
-	<p n="6-10"><supplied reason="subaudible">I</supplied>, the lord of the city of Rameswaram, the one in charge of the protection of the foundation of the strait, the one in charge of the worship to Śiva, the one responsible for the service to Śiva in his form as Ramanathaswamy, the one who is a hairy lion to his foes, the one who wins over the enemies, the one who is  eminent in the sun dynasty, the sun-king, the lord with abundant pearls (or: a Ayyaṉar);
+	<p n="6-10"><supplied reason="subaudible">I</supplied>, the lord of the city of Rāmeśvaram, the one in charge of the protection of the foundation of the strait, the one in charge of the worship to Śiva, the one responsible for the service to Śiva in his form as Rāmanāthasvāmi, the one who is a hairy lion to his foes, the one who wins over the enemies, the one who is eminent in the sun dynasty, the sun-king, the lord with abundant pearls<note>Or: a Ayyaṉar.</note>;
 	</p>
 	
 	<p n="10">Fortune! Prosperity!</p>
 	
-	<p n="10-45"><supplied reason="subaudible">I</supplied>, the overlord of the great region, the winner over the enemy kings, the chastiser of those who commit mistakes with regard to language [or: of those kings who do not keep their word], the one who rules over the three kings, i.e., Cōḻa, Cēra, Pāṇṭiya, the one who conquers whatever country he sees, and does not relinquish any country he has conquered, the one who protects the suffering pride, the one who is tāpaṉācariyaṉ of the Pāṇṭiya region, and piratittāpaṉācariyaṉ of Cōḻa region, the great man of the Toṇṭai region, the king of kings who conducted elephant hunts in Īḻam, Koṅku, and Yāḻppāṇapaṭṭaṇam, the supreme king, the Sun-king, the one who chastises evil kings, a hero of innumerable places, the clever man, the charioteer, a lord of growing heroism, the protector of Brahmins, a Rāma for king Ravana, the servant of the devotees, the chastiser of ..., the conqueror of treachery, the royal rider of the 5 types of horses, the slayer of those who sprinkle <supplied reason="subaudible">disease</supplied>, the husband of Vicayaleṭcumi, a connaisseur of the arts, ...., the true Ariccantiraṉ, the one who follows the path of heroism, the one who possess fame, the one from the prosperous country of the Vaikai, the one who conquers arrogance, a Nārāyaṇaṉ among horsemen, the one who slays those who ride stepping on stirrups over horses, a garland of heroic verses, a strong lion, a lion to the hateful enemies, a lion, the refuge, the one who provides protection, a fence for the <supplied reason="subaudible">marital</supplied> tāli, the slayer of enemies, the one who crushed the pride of the Vaṉṉiyar, the one who crushed the illusions of the Turks, the destroyer of those who run away, the one who crushes the illusions of those who run away, ...
-
-
-		
+	<p n="10-45"><supplied reason="subaudible">I</supplied>, the overlord of the great region, the winner over the enemy kings, the chastiser of those who commit mistakes with regard to language<note>Or: of those kings who do not keep their word.</note>, the one who rules over the three kings, i.e., Cōḻa, Cēra, Pāṇṭiya, the one who conquers whatever country he sees, and does not relinquish any country he has conquered, the one who protects the suffering pride, the one who is <foreign>tāpaṉācariyaṉ</foreign> of the Pāṇṭiya region, and <foreign>piratittāpaṉācariyaṉ</foreign> of Cōḻa region, the great man of the Toṇṭai region, the king of kings who conducted elephant hunts in Īḻam, Koṅku, and Yāḻppāṇapaṭṭaṇam, the supreme king, the Sun-king, the one who chastises evil kings, a hero of innumerable places, the clever man, the charioteer, a lord of growing heroism, the protector of Brahmins, a Rāma for king Rāvaṇa, the servant of the devotees, the chastiser of ..., the conqueror of treachery, the royal rider of the five types of horses, the slayer of those who sprinkle <supplied reason="subaudible">disease</supplied>, the husband of Vicayaleṭcumi, a connaisseur of the arts, ..., the true Ariccantiraṉ, the one who follows the path of heroism, the one who possess fame, the one from the prosperous country of the Vaikai, the one who conquers arrogance, a Nārāyaṇaṉ among horsemen, the one who slays those who ride stepping on stirrups over horses, a garland of heroic verses, a strong lion, a lion to the hateful enemies, a lion, the refuge, the one who provides protection, a fence for the <supplied reason="subaudible">marital</supplied> <foreign>tāli</foreign>, the slayer of enemies, the one who crushed the pride of the Vaṉṉiyar, the one who crushed the illusions of the Turks, the destroyer of those who run away, the one who crushes the illusions of those who run away, ...		
 	</p>
 	
 	</div>
 	
-<div type="commentary">
-		<!--commentary encoded as per section §9.3 -->
-	</div>
+<!--<div type="commentary">
+		
+</div>-->
 	
 <div type="bibliography">
-		<!--bibliography encoded as per section §9.4 -->
 		
 		<p>
-			First edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 1). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling, and in the case of this specific inscription, confused most lines of the vers of the plate (likely because of the inserted invocation). 
-			
+			Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 25). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling, and, in the case of this specific inscription, confused most lines of the verso of the plate (likely because of the inserted invocation).			
 		</p>
 		
 		<p>
-			Edited here for DHARMA (ERC n° 809994) by Margherita Trento (2024), based on EFEO photographs (2015).
+			This edition by Margherita Trento (2024), based on EFEO photographs (2015).
 		</p>
 		
 		<listBibl type="primary">
 			
 			<bibl n="K">
 				<ptr target="bib:Kirusnamurtti2000_01"/>
-				<citedRange unit="page">36-39</citedRange>
-				<citedRange unit="item">1</citedRange>
+				<citedRange unit="page">107-111</citedRange>
+				<citedRange unit="item">25</citedRange>
 			</bibl>
 						
 		</listBibl>
