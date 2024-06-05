@@ -259,19 +259,19 @@
 </div>
 	
 	
-<div type="apparatus">
-		<!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+<!--<div type="apparatus">
+		<!-\-apparatus encoded as per EGD §9.1, basic elements for apparatus below-\->
 		
-	<listApp><!-- one <app> for each apparatus entry -->
+	<listApp><!-\- one <app> for each apparatus entry -\->
 			
-		<app loc="line"><!-- update the value of @loc. (this always refers to line beginning)-->
-		<lem><!-- fill in a lemma here (as I read it)--></lem>
-		<rdg source="bib:Kirusnamurtti2000_01"><!-- update the @source value, fill in variant reading here --></rdg>
+		<app loc="line"><!-\- update the value of @loc. (this always refers to line beginning)-\->
+		<lem><!-\- fill in a lemma here (as I read it)-\-></lem>
+		<rdg source="bib:Kirusnamurtti2000_01"><!-\- update the @source value, fill in variant reading here -\-></rdg>
 		<note>...</note>
 		</app>
 		
 	</listApp>
-	</div>
+</div>-->
 	
 <div type="translation" resp="part:matr">
 		

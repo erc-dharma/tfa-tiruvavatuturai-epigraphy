@@ -146,57 +146,58 @@
 </div>
 	
 	
-<div type="apparatus">
-		<!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+<!--<div type="apparatus">
+		<!-\-apparatus encoded as per EGD §9.1, basic elements for apparatus below-\->
 		
-	<listApp><!-- one <app> for each apparatus entry -->
+	<listApp><!-\- one <app> for each apparatus entry -\->
 			
-		<app loc="line"><!-- update the value of @loc. (this always refers to line beginning)-->
-		<lem><!-- fill in a lemma here (as I read it)--></lem>
-		<rdg source="bib:Kirusnamurtti2000_01"><!-- update the @source value, fill in variant reading here --></rdg>
+		<app loc="line"><!-\- update the value of @loc. (this always refers to line beginning)-\->
+		<lem><!-\- fill in a lemma here (as I read it)-\-></lem>
+		<rdg source="bib:Kirusnamurtti2000_01"><!-\- update the @source value, fill in variant reading here -\-></rdg>
 		<note>...</note>
 		</app>
 		
 	</listApp>
-	</div>
+</div>-->
 	
 <div type="translation" resp="part:matr">
 		
 		<p n="1-2">....</p>
 	
 	
-<!--specify the lines insde the <p> tag, as <p n="1">...</p>  ; when it's the translation of a stanza, <p rend="stanza" n="1"> </p> and the number is in this second type of translation tag is taken from the <lg> number-->
+<!--specify the lines inside the <p> tag, as <p n="1">...</p>  ; when it's the translation of a stanza, <p rend="stanza" n="1"> </p> and the number is in this second type of translation tag is taken from the <lg> number-->
 	
 	
 	</div>
 	
-<div type="commentary">
-		<!--commentary encoded as per section §9.3 -->
-	</div>
+<!--<div type="commentary">
 	
-<div type="bibliography">
-		<!--bibliography encoded as per section §9.4 -->
+</div>-->
+	
+	<div type="bibliography">
+		
 		
 		<p>
-			First edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 1). This edition is not taken systematically into account because/since ...
+			Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. **). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.
 		</p>
 		
 		<p>
-			Edited here for DHARMA (ERC n° 809994) by Renato Dávalos, Emmanuel Francis and Margherita Trento (2024), based on EFEO photographs (2015).
+			This edition by Renato Dávalos, Emmanuel Francis and Margherita Trento (2024), based on EFEO photographs (2015).
 		</p>
 		
 		<listBibl type="primary">
 			
 			<bibl n="K">
 				<ptr target="bib:Kirusnamurtti2000_01"/>
-				<citedRange unit="page">36-39</citedRange>
-				<citedRange unit="item">1</citedRange>
+				<citedRange unit="page">TBC</citedRange>
+				<citedRange unit="item">TBC</citedRange>
 			</bibl>
-						
+			
 		</listBibl>
-		<listBibl type="secondary">
-			<bibl/><!-- one <bibl/> per item of secondary bibliography -->
-		</listBibl>
+		
+		<!--<listBibl type="secondary">
+			<bibl/><!-\- one <bibl/> per item of secondary bibliography -\->
+		</listBibl>-->
 </div>
 </body>
 </text>
