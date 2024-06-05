@@ -150,12 +150,7 @@
 			<lb n="1r29=29" break="no"/>ṭaṉ vīra-ve<choice><orig>m</orig><reg>ṇ</reg></choice>pā-mālai taḷaciṅkam pakai-ma
 			<lb n="1r30=30" break="no"/>ṉṉar ciṅka matappuli Aṭai<seg type="aksara">k=ka</seg><seg type="aksara">la=M</seg> kāttāṉ
 			<lb n="1r31=31"/>tāli<seg type="aksara">k=ku</seg> vēli cattuRĀtiyaḷ muṇṭaṉ
-			<pb n="1v"/>
-			
-			<fw n="1v" place="bottom"><!--check with DB; add new value for @place-->
-				<hi rend="grantha">śrī-śaṁkaran·</hi> tuṇai
-			</fw>
-			
+			<pb n="1v"/>	
 			<lb n="1v1=32"/>vaṉṉiyar āṭṭam taviḻttāṉ tulukkar 
 			<lb n="1v2=33"/>mōkan taviḻttāṉ O<seg type="aksara">ṭ=ṭi</seg>yar taḷavipāṭaṉ O
 			<lb n="1v3=34" break="no"/><seg type="aksara">ṭ=ṭi</seg>yar mōkan taviḻ<seg type="aksara">t=t</seg>āṉ mēvalar kōḷa
@@ -224,9 +219,12 @@
 			<lb n="1v38=69" break="no"/> navarkaḷ keṅke-<seg type="aksara">k=ka</seg>raiyilum cētu-<seg type="aksara">k=ka</seg>raiyi
 			<lb n="1v39=70" break="no"/><unclear reason="illegible">lu</unclear> mātā-pitā-kuruvaiyum pacuvaiyum vatai
 			<lb n="1v40=71"/> ceyta tō<hi rend="grantha">ṣa</hi><seg type="aksara">t=ti</seg><supplied reason="omitted">ṟ</supplied> pōka<seg type="aksara">k=ka</seg>ṭavaR Ākavum <g type="piḷḷaiyārcuḻi"></g>
-		</p>	
+		</p>		
 		
-	
+		<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+			<lb n="1v28=59=A01"/><hi rend="grantha">śrī-śaṁkaran·</hi> tuṇai
+		</ab>		
+		
 	<!--<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<l n="a">dānapālanayōr maddhyē</l> 
 		<l n="b">dānāt· cchreyo ’nupālanam· <g type="danda">.</g></l> 
@@ -295,9 +293,9 @@
 	
 	</div>
 	
-<!--<div type="commentary">
-		
-</div>-->
+<div type="commentary">
+		<p>The blessing <foreign><hi rend="grantha">śrī-śaṁkaran·</hi> tuṇai</foreign> is engraved in a cartouche and interrupts lines 1v28-29 = lines 59-60.</p>
+</div>
 	
 <div type="bibliography">
 		
