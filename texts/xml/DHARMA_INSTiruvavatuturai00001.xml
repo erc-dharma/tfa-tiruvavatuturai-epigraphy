@@ -103,7 +103,7 @@
 		
 <div type="edition">
 			
-<div type="textpart" xml:lang="tam-Latn" n="1" rendition="class:57475 maturity:83215">
+<div type="textpart" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:83215">
 <head xml:lang="eng">Grant no. 1</head>
 		
 	<ab>
@@ -180,35 +180,35 @@
 	</ab>
 	
 	
-	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<l n="a">dānapālanayōr maddhyē</l> 
 		<l n="b">dānāt· cchreyo ’nupālanam· <g type="danda">.</g></l> 
 		<l n="c">dānā<lb n="1v11=24" break="no"/>t· svargam avāpnōti</l> 
 		<l n="d">pālanād acyutam· padam· <g type="ddanda">.</g></l> 
 	</lg>
 	
-	<lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+	<lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<l n="a">svadattāt· dviguṇam · puṇyam ·</l> 
 		<l n="b">paradattānupā<add place="below" rend="mark">la</add>nam· <g type="danda">.</g></l> 
 		<l n="c"><lb n="1v12=25"/>paradattāpahārēṇa</l> 
 		<l n="d">svadattan niṣphalam · bhavēt·<g type="ddanda">.</g></l> 
 	</lg>
 	
-	<lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+	<lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<l n="a">svadattām · paradattāṁ vā</l> 
 		<l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas<choice><sic>va</sic><corr>u</corr></choice>n <lb n="1v13=26" break="no"/>dharām <g type="danda">.</g></l> 
 		<l n="c">ṣaṣṭi<surplus>r</surplus>-varṣa-sahasrāṇi</l> 
 		<l n="d"> viṣṭhāyāñ jāyate kṛmiḥ <g type="ddanda">.</g></l> 
 	</lg>
  
- 	<lg n="4" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+ 	<lg n="4" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<l n="a">Ekaika bhaginī loke</l> 
 		<l n="b"><lb n="1v14=27"/>sarvveṣām eva bhūbhujāḥ<g type="danda">.</g></l> 
 		<l n="c">nā bhōjyā na k<unclear>a</unclear>ragrāhyā</l> 
 		<l n="d">vipradattā vasundharāḥ<g type="ddanda">.</g></l> 
 	</lg>
  
-	<lg n="5" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+	<lg n="5" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<l n="a">sā<lb n="1v15=28"/>māṉyo yan dharmma-setu<unclear>r</unclear> nṛpāṇāṁ</l>
 		<l n="b">kāle kāle pālanīyo bhavat·bhi<supplied reason="omitted">ḥ</supplied> <g type="danda">.</g></l>
 		<l n="c">sarvān etā<unclear>nn</unclear> <pb n="2r"/><lb n="2r1=29"/>bhāvinaḥ pā<supplied reason="omitted">r</supplied>tthivendr<choice><sic>a</sic><corr>ā</corr></choice>n ·</l>
@@ -227,7 +227,7 @@
 
 </div>
 	
-<div type="textpart" xml:lang="tam-Latn" n="2" rendition="class:57475 maturity:83215">
+<div type="textpart" xml:lang="tam-Latn" n="2" rendition="class:tamil maturity:83215">
 <head xml:lang="eng">Grant no. 2</head>
 		
 	<p>
@@ -236,30 +236,38 @@
 	
 </div>
 	
+<div type="textpart" xml:lang="tam-Latn" n="3" rendition="class:tamil maturity:83215">
+<head xml:lang="eng">Grant no. 3</head>
+		
+	<p>
+		<lb n="2v9=1"/>...		
+	</p>
+</div>
+	
 </div>
 	
 	
-<div type="apparatus">
-		<!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+<!--<div type="apparatus">
+		<!-\-apparatus encoded as per EGD §9.1, basic elements for apparatus below-\->
 		
-	<listApp><!-- one <app> for each apparatus entry -->
+	<listApp><!-\- one <app> for each apparatus entry -\->
 			
-		<app loc="line"><!-- update the value of @loc. (this always refers to line beginning)-->
-		<lem><!-- fill in a lemma here (as I read it)--></lem>
-		<rdg source="bib:Kirusnamurtti2000_01"><!-- update the @source value, fill in variant reading here --></rdg>
+		<app loc="line"><!-\- update the value of @loc. (this always refers to line beginning)-\->
+		<lem><!-\- fill in a lemma here (as I read it)-\-></lem>
+		<rdg source="bib:Kirusnamurtti2000_01"><!-\- update the @source value, fill in variant reading here -\-></rdg>
 		<note>...</note>
 		</app>
 		
 	</listApp>
-	</div>
+</div>-->
 	
 <div type="translation" resp="part:reda part:emfr part:matr">
 	
-	<div type="textpart" n="1">
-	<head xml:lang="eng">Grant no. 1</head>
-		<p n="1-2">Fortune! In the Viya year, while the Śaka year 1448 is going on, on the month of the libra<note>i.e. the seventh month</note>, during the first half<note>i.e. the days of the waxing moon</note>, and on a Friday, on the day of the seventh star<note>puṇarpūcam = punarvasu ?</note>,</p>
+<div type="textpart" n="1">
+<head xml:lang="eng">Grant no. 1</head>
+		<p n="1-2">Fortune! In the Viya year, while the Śaka year 1448 is going on, on the month of the libra<note>I.e. the seventh month.</note>, during the first half<note>I.e. the days of the waxing moon.</note>, and on a Friday, on the day of the seventh star <supplied reason="subaudible"><foreign>puṇarpūcam</foreign><note>I.e. <foreign>punarvasu</foreign>?</note></supplied></p>
 		<p n="2-5"><supplied reason="subaudible">I</supplied>, Toṇṭaimāṉ Poṉṉampalanātaṉ, son of Toṇṭaimāṉ Ēkapperumāḷ, king of Aṟantāṅki, to the supreme Lord who rules in Tirupperuntuṟai, an independent settlement <supplied reason="explanation"><foreign>taṉiyūr</foreign></supplied> in the Naṭuviṟkūṟu in Miḻalaikkūṟṟam,</p>
-		<p n="5-6">give the settlements which follow, after having made a sale-deed <supplied reason="explanation"><foreign>vilaippiṟamāṇam</foreign></supplied> with water <supplied reason="explanation"><foreign>dhārāpūrvamāka</foreign></supplied> for the donation <note>upakṣaya?</note> of such settlements.</p>
+		<p n="5-6">give the settlements which follow, after having made a sale-deed <supplied reason="explanation"><foreign>vilaippiṟamāṇam</foreign></supplied> with ... and water <supplied reason="explanation"><foreign>upakṣaya-dhārā-pūrvam-āka</foreign></supplied> for the donation of such settlements.</p>
 		<p n="6-8">These are the four great boundaries of the the endowed land <supplied reason="explanation"><foreign>puravukku</foreign></supplied> which lies within Peruṉāvallūr, in the above-mentioned kūṟu in the Miḻalaikkūṟṟam:</p>
 		<p n="8-11">the boundary on the eastern side is on the west of the boundary of Tirupperuntuṟai; the boundary on the southern side is north of the boundary of Ciṟṟatampūr Marutaṅkuṭi, of the old lotus pond, and of the head-sluice of channel; the boundary on the western side is east of the boundary in Vīramaṅkalam; the northern boundary is south of the Vēḷḷāṟu river.</p>
 		<p n="11-15">This being so, to Peruṉāvallūr which is within these four aforementioned boundaries, to Eḻuvaṉēri Vēṅkūr which is adjacent to Araiyar kuḷa in the Paṉaiṅkaiya region in the region of the northern Veḷḷāṟu and is within these four boundaries, and to Śrī Kaṇtamaṅkalam in this country which is adjacent to that, and is completely within these four boundaries,</p>
@@ -273,38 +281,49 @@
 <p rend="stanza" n="5">This bridge of Dharma which is common to all the kings, you always must protect it [...]</p>
 <p n="29-32">Whoever harms this dharma, will incur in the same sin as if killing with his own hands his mother, father, guru, a brahmin, a calf or a tawny cow on the shores of the Ganga ; and this will last until the sun and the moon.</p>	
 		<p n="32">This is the truth.</p>
-<!--specify the lines insde the <p> tag, as <p n="1">...</p>  ; when it's the translation of a stanza, <p rend="stanza" n="1"> </p> and the number is in this second type of translation tag is taken from the <lg> number-->
+<!--specify the lines insde the <p> tag, as <p n="1">...</p>  ; when it's the translation of a stanza, <p rend="stanza" n="1"> </p> and the number is in this second type of translation tag is taken from the <lg> number-->	
 	
-	</div>
-	</div>
+</div>
 	
-<div type="commentary">
-		<!--commentary encoded as per section §9.3 -->
-	</div>
+<div type="textpart" n="2">
+<head xml:lang="eng">Grant no. 2</head>
+	
+</div>
+	
+<div type="textpart" n="3">
+<head xml:lang="eng">Grant no. 3</head>
+	
+</div>
+		
+</div>
+	
+<!--<div type="commentary">
+	
+</div>-->
 	
 <div type="bibliography">
-		<!--bibliography encoded as per section §9.4 -->
+	
+	<p>
+		Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> as individual grants (nos. 1-3), whereas they are in fact found in succession in a single set of plates. These editions are not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.
+	</p>
+	
+	<p>
+		Edited here for DHARMA (ERC n° 809994) by Renato Dávalos, Emmanuel Francis and Margherita Trento (2024), based on EFEO photographs (2015).
+	</p>
+	
+	<listBibl type="primary">
 		
-		<p>
-			First edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 1). This edition is not taken systematically into account because/since ...
-		</p>
+		<bibl n="K">
+			<ptr target="bib:Kirusnamurtti2000_01"/>
+			<citedRange unit="page">36-44</citedRange>
+			<citedRange unit="item">1-3</citedRange>
+		</bibl>
 		
-		<p>
-			Edited here for DHARMA (ERC n° 809994) by Renato Dávalos, Emmanuel Francis and Margherita Trento (2024), based on EFEO photographs (2015).
-		</p>
-		
-		<listBibl type="primary">
-			
-			<bibl n="K">
-				<ptr target="bib:Kirusnamurtti2000_01"/>
-				<citedRange unit="page">36-39</citedRange>
-				<citedRange unit="item">1</citedRange>
-			</bibl>
-						
-		</listBibl>
-		<listBibl type="secondary">
-			<bibl/><!-- one <bibl/> per item of secondary bibliography -->
-		</listBibl>
+	</listBibl>
+	
+	<!--<listBibl type="secondary">
+		<bibl/>
+	</listBibl>-->
 </div>
 </body>
 </text>
