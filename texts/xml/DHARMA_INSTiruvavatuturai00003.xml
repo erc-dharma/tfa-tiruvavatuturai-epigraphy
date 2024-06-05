@@ -102,9 +102,9 @@
 <body>
 		
 		
-	<div type="edition" xml:lang="tam-Latn" n="1" rendition="class:57475 maturity:83215">		
+	<div type="edition" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:83215">		
 		
-		<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+		<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 			<pb n="1r"/>
 			
 			<lb n="1r1=1"/>svasti śrī</ab>
@@ -125,7 +125,7 @@
 			<lb n="1r9=9" break="no"/>m pararāca-cēkaraṉ ravikula-cēkaraṉ ravivaṟ<surplus>m</surplus>
 			<lb n="1r10=10" break="no"/>maṉ corimuttu vaṉṉiyaṉ
 		</p>
-		<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+		<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 			svasti śrī</ab>
 		<p>
 			makā-maṇ
@@ -151,6 +151,11 @@
 			<lb n="1r30=30" break="no"/>ṉṉar ciṅka matappuli Aṭai<seg type="aksara">k=ka</seg><seg type="aksara">la=M</seg> kāttāṉ
 			<lb n="1r31=31"/>tāli<seg type="aksara">k=ku</seg> vēli cattuRĀtiyaḷ muṇṭaṉ
 			<pb n="1v"/>
+			
+			<fw n="1v" place="bottom"><!--check with DB; add new value for @place-->
+				<hi rend="grantha">śrī-śaṁkaran·</hi> tuṇai
+			</fw>
+			
 			<lb n="1v1=32"/>vaṉṉiyar āṭṭam taviḻttāṉ tulukkar 
 			<lb n="1v2=33"/>mōkan taviḻttāṉ O<seg type="aksara">ṭ=ṭi</seg>yar taḷavipāṭaṉ O
 			<lb n="1v3=34" break="no"/><seg type="aksara">ṭ=ṭi</seg>yar mōkan taviḻ<seg type="aksara">t=t</seg>āṉ mēvalar kōḷa
@@ -191,8 +196,8 @@
 			<lb n="1v27=58" break="no"/>ṭākĀRA-ca<hi rend="grantha">ccidā</hi>na<hi rend="grantha">nta-svarūpa-<choice><sic>sō</sic><corr>svayaṁ</corr></choice>-pra</hi>kāca-va<hi rend="grantha">stu</hi>-v-ākiya <hi rend="grantha">s</hi>
 			<lb n="1v28=59" break="no"/>āmi śrī-Ā<hi rend="grantha">tma</hi>ṉāta-cuvāmiyAR ca<hi rend="grantha">nni</hi>t
 			<lb n="1v29=60" break="no"/>āṉa<seg type="aksara">t=tu</seg><seg type="aksara">k=ku=M</seg>
-		</p>	
-		<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">śrī śaṁkara tuṇai</ab>
+		</p>
+		
 		<p>
 			civayōka-ṉāyaki A
 			<lb n="1v30=61" break="no"/>mmaṉu<seg type="aksara">k=ku=M</seg> Aṭ<choice><orig>a</orig><reg>ai</reg></choice>p=pa-varicai Āparaṇa<seg type="aksara">t=tu=k=ku=M</seg> 
@@ -219,37 +224,38 @@
 			<lb n="1v38=69" break="no"/> navarkaḷ keṅke-<seg type="aksara">k=ka</seg>raiyilum cētu-<seg type="aksara">k=ka</seg>raiyi
 			<lb n="1v39=70" break="no"/><unclear reason="illegible">lu</unclear> mātā-pitā-kuruvaiyum pacuvaiyum vatai
 			<lb n="1v40=71"/> ceyta tō<hi rend="grantha">ṣa</hi><seg type="aksara">t=ti</seg><supplied reason="omitted">ṟ</supplied> pōka<seg type="aksara">k=ka</seg>ṭavaR Ākavum <g type="piḷḷaiyārcuḻi"></g>
-		</p>
+		</p>	
+		
 	
-	<!--<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+	<!--<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<l n="a">dānapālanayōr maddhyē</l> 
 		<l n="b">dānāt· cchreyo ’nupālanam· <g type="danda">.</g></l> 
 		<l n="c">dānā<lb n="1v11=24" break="no"/>t· svargam avāpnōti</l> 
 		<l n="d">pālanād acyutam· padam· <g type="ddanda">.</g></l> 
 	</lg>
 	
-	<lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+	<lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<l n="a">svadattāt· dviguṇam · puṇyam ·</l> 
 		<l n="b">paradattānupā<add place="below" rend="mark">la</add>nam· <g type="danda">.</g></l> 
 		<l n="c"><lb n="1v12=25"/>paradattāpahārēṇa</l> 
 		<l n="d">svadattan niṣphalam · bhavēt·<g type="ddanda">.</g></l> 
 	</lg>
 	
-	<lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+	<lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<l n="a">svadattām · paradattāṁ vā</l> 
 		<l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas<choice><sic>va</sic><corr>u</corr></choice>n <lb n="1v13=26" break="no"/>dharām <g type="danda">.</g></l> 
 		<l n="c">ṣaṣṭi<surplus>r</surplus>-varṣa-sahasrāṇi</l> 
 		<l n="d"> viṣṭhāyāñ jāyate kṛmiḥ <g type="ddanda">.</g></l> 
 	</lg>
  
- 	<lg n="4" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+ 	<lg n="4" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<l n="a">Ekaika bhaginī loke</l> 
 		<l n="b"><lb n="1v14=27"/>sarvveṣām eva bhūbhujāḥ<g type="danda">.</g></l> 
 		<l n="c">nā bhōjyā na k<unclear>a</unclear>ragrāhyā</l> 
 		<l n="d">vipradattā vasundharāḥ<g type="ddanda">.</g></l> 
 	</lg>
  
-	<lg n="5" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+	<lg n="5" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<l n="a">sā<lb n="1v15=28"/>māṉyo yan dharmma-setu<unclear>r</unclear> nṛpāṇāṁ</l>
 		<l n="b">kāle kāle pālanīyo bhavat·bhi<supplied reason="omitted">ḥ</supplied> <g type="danda">.</g></l>
 		<l n="c">sarvān etā<unclear>nn</unclear> <pb n="2r"/><lb n="2r1=29"/>bhāvinaḥ pā<supplied reason="omitted">r</supplied>tthivendr<choice><sic>a</sic><corr>ā</corr></choice>n ·</l>
@@ -275,14 +281,14 @@
 	
 <div type="translation" resp="part:matr">
 		
-	<p n="1">Fortune! Prosperity!</p>
+	<p n="1">Prosperity! Fortune!</p>
 	
 	<p n="1-6">In the year called Saumiya, ongoing during the Śālivakana year 1651 of the Śaka era, while the sun is moving northward, in the season of spring, on the 16th day of the month of Cittirai, during the bright half [of the month], i.e., the days of the waxing moon, on a auspicious day connected with the seventh day [of the lunar month], on a Saturday, on the day of the star Anuṣa and of the planetary alignement Prāha, on the auspicious day when [all these elements] are co-occurring,</p>
 	
 	<p n="6-10"><supplied reason="subaudible">I</supplied>, the lord of the city of Rāmeśvaram, the one in charge of the protection of the foundation of the strait, the one in charge of the worship to Śiva, the one responsible for the service to Śiva in his form as Rāmanāthasvāmi, the one who is a hairy lion to his foes, the one who wins over the enemies, the one who is eminent in the sun dynasty, the sun-king, the lord with abundant pearls<note>Or: a Ayyaṉar.</note>;
 	</p>
 	
-	<p n="10">Fortune! Prosperity!</p>
+	<p n="10">Prosperity! Fortune!</p>
 	
 	<p n="10-45"><supplied reason="subaudible">I</supplied>, the overlord of the great region, the winner over the enemy kings, the chastiser of those who commit mistakes with regard to language<note>Or: of those kings who do not keep their word.</note>, the one who rules over the three kings, i.e., Cōḻa, Cēra, Pāṇṭiya, the one who conquers whatever country he sees, and does not relinquish any country he has conquered, the one who protects the suffering pride, the one who is <foreign>tāpaṉācariyaṉ</foreign> of the Pāṇṭiya region, and <foreign>piratittāpaṉācariyaṉ</foreign> of Cōḻa region, the great man of the Toṇṭai region, the king of kings who conducted elephant hunts in Īḻam, Koṅku, and Yāḻppāṇapaṭṭaṇam, the supreme king, the Sun-king, the one who chastises evil kings, a hero of innumerable places, the clever man, the charioteer, a lord of growing heroism, the protector of Brahmins, a Rāma for king Rāvaṇa, the servant of the devotees, the chastiser of ..., the conqueror of treachery, the royal rider of the five types of horses, the slayer of those who sprinkle <supplied reason="subaudible">disease</supplied>, the husband of Vicayaleṭcumi, a connaisseur of the arts, ..., the true Ariccantiraṉ, the one who follows the path of heroism, the one who possess fame, the one from the prosperous country of the Vaikai, the one who conquers arrogance, a Nārāyaṇaṉ among horsemen, the one who slays those who ride stepping on stirrups over horses, a garland of heroic verses, a strong lion, a lion to the hateful enemies, a lion, the refuge, the one who provides protection, a fence for the <supplied reason="subaudible">marital</supplied> <foreign>tāli</foreign>, the slayer of enemies, the one who crushed the pride of the Vaṉṉiyar, the one who crushed the illusions of the Turks, the destroyer of those who run away, the one who crushes the illusions of those who run away, ...		
 	</p>
