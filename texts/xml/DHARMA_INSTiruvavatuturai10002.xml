@@ -100,10 +100,10 @@
 	</p>
 	
 	<p>
-		teṉ-karai-t tiru-vaḻuntūr-nāṭṭu <hi rend="grantha">brahma
-		<lb n="4" break="no"/>de</hi>yam ciṟṟāṉaiccūr <hi rend="grantha">sabhai</hi><unclear>yō</unclear>m <hi rend="grantha">śrī</hi>-ti
-		<lb n="5" break="no"/>ru-vāvaṭu-tuṟai tiru-k-kaṟṟaḷi-p-p<unclear>i</unclear>ccar iṭai
-		<lb n="6" break="no"/>-p poṉ koṇṭ<unclear>u</unclear> <hi rend="grantha">śrī</hi>-tiru-vāvaṭutuṟai deva
+		teṉ-karai-t tiru-vaḻuntūr-nāṭṭu <hi rend="grantha">brahma</hi>
+		<lb n="4" break="no"/><hi rend="grantha">de</hi>yam ciṟṟāṉaiccūr <hi rend="grantha">sabhai</hi>yōm <hi rend="grantha">śrī</hi>-ti
+		<lb n="5" break="no"/>ru-vāvaṭu-tuṟai tiru-k-kaṟṟaḷi-p-piccar iṭai
+		<lb n="6" break="no"/>-p poṉ koṇṭ<unclear>u</unclear> <hi rend="grantha">śrī</hi>-tiru-vāvaṭutuṟai <hi rend="grantha">de</hi>va
 		<lb n="7" break="no"/>rkku <hi rend="grantha"><unclear>śrī</unclear></hi>- <gap reason="lost" unit="character" quantity="4"/> <unclear>kuṭu</unclear>kkum	
 		n<supplied reason="lost">i</supplied><unclear>la</unclear>ttuk’ el
 		<lb n="8" break="no"/>lai 
@@ -131,14 +131,14 @@
 		
 		<list>
 			<item>k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pāṟ
-		<lb n="15" break="no"/>k’ ellai tā<unclear>yaṉ</unclear> kāṭaṉ devarkku vilai
+		<lb n="15" break="no"/>k’ ellai tāyaṉ kāṭaṉ <hi rend="grantha">de</hi>varkku vilai
 		<lb n="16"/>koṇṭa ni<unclear>la</unclear>ttukku <supplied reason="lost">mē</supplied><unclear>ṟkum</unclear></item>
 		<item>te<supplied reason="lost">ṉ</supplied>-pārk’ e
 		<lb n="17" break="no"/>llai vaḻi-varampukku vaṭakkum</item>
 		<item>mēl-pārk’ e
-		<lb n="18" break="no"/>llai Uṭaciṟu-vāykkakukku-k kiḻakkum</item>
+		<lb n="18" break="no"/>llai Uṭciṟu-vāykkakukku-k kiḻakkum</item>
 		<item>vaṭa
-		<lb n="19" break="no"/>-pāṟk’ ellai kaṭampaṉ vāykkālukku-<unclear>t</unclear> te
+		<lb n="19" break="no"/>-pāṟk’ ellai kaṭampaṉ vāykkālukku-t te
 		<lb n="20" break="no"/>ṟkum</item>
 		</list>
 	</p>
@@ -148,7 +148,7 @@
 		<lb n="21"/>nilam mu-m-mā v-araiyum mēṟ-pulattu Iru
 		<lb n="22" break="no"/>-māvum Āka Oṉpatu mā v-araiyum vācalil
 		<lb n="23"/><gap reason="lost" unit="character" quantity="3"/> kuṭimai <unclear>Ūr iṭu</unclear> vari <gap reason="lost" unit="character" quantity="2"/> <unclear>ṭu</unclear>m ceṉṉ<choice><orig>i</orig><reg>ī</reg></choice>r-vē
-		<lb n="24" break="no"/><unclear>ṭṭi</unclear>yum <hi rend="grantha">Ā<supplied reason="omitted">ca</supplied>ndrādi</hi>t=ta-val I<supplied reason="lost">ṟ</supplied>ai kāttu-k kuṭup
+		<lb n="24" break="no"/><unclear>ṭṭi</unclear><!--maybe ṭi only-->yum <hi rend="grantha">Ā<supplied reason="omitted">ca</supplied>ndrādi</hi>t=ta-val Iṟai kāttu-k kuṭup
 		<lb n="25" break="no"/><unclear>p</unclear>ōm ā<supplied reason="lost">y</supplied> kallil veṭṭi-k kuṭuttōm ciṟṟā
 		<lb n="26" break="no"/><unclear>ṉai</unclear>ccū<unclear>r</unclear> <hi rend="grantha"> <unclear>sa</unclear>bhai</hi>yōm
 	</p>
@@ -158,7 +158,7 @@
 		<lb n="27"/><unclear>varaiyu</unclear> <gap reason="lost" unit="character" quantity="1"/> mām pāttiyil <unclear>A</unclear>rai māvum Ir <gap reason="lost" unit="character" quantity="1"/>
 		<lb n="28"/><gap reason="lost" unit="character" quantity="4"/> ti Arai-k kāṟ cey <gap reason="lost" unit="character" quantity="2"/> 
 		<seg type="aksara">t<seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg></seg> vaṉa<unclear>m</unclear> tirut
-		<lb n="29" break="no"/><gap reason="lost" unit="character" quantity="2"/> <unclear>ṟkka</unclear> tiru U<unclear>va</unclear>ccaka<choice><unclear>ḷ</unclear><unclear>ṉ</unclear></choice> <gap reason="lost" unit="character" quantity="2"/> <hi rend="grantha"><supplied reason="lost">Ā</supplied><unclear>can</unclear></hi><hi rend="grantha"><choice><orig><unclear>t</unclear></orig><reg><unclear>d</unclear></reg></choice><unclear>r</unclear></hi><hi rend="grantha">āditya</hi>-vaṟ
+		<lb n="29" break="no"/><gap reason="lost" unit="character" quantity="2"/> <unclear>ṟkka</unclear> tiru Uvaccakaḷuk<unclear>ku</unclear> <hi rend="grantha"><supplied reason="lost">Ā</supplied><unclear>can</unclear></hi><hi rend="grantha"><choice><orig><unclear>t</unclear></orig><reg><unclear>d</unclear></reg></choice><unclear>r</unclear></hi><hi rend="grantha">āditya</hi>-vaṟ
 	</p>
 	
 </div>
@@ -221,8 +221,8 @@
 	
 <div type="bibliography">
 				
-	<p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/141).</p>
-	<p>Edited here by Emmanuel Francis (2024), based on EFEO photographs (2006)<!-- by Ravi, Babu?-->.</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/141).</p>	
+	<p>This edition by Emmanuel Francis (2024), based on photos (EFEO 2006; E. Francis 2024) and autopsy (2024).</p>
 	
 	<!--<listBibl type="primary">
 		

@@ -100,13 +100,10 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
             	
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<milestone type="pagelike" n="1" unit="zone"/><label xml:lang="eng">First Wall Portion</label>
-		<lb n="01"/><gap reason="illegible" quantity="3" unit="character"/> <unclear><g type="pc"/></unclear>
-	</ab>
-	
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="02"/><gap reason="illegible" quantity="1" unit="character"/> svasti śrī
+	<ab>
+	<milestone type="pagelike" n="1" unit="zone"/><label xml:lang="eng">First Wall Portion</label>
+		<lb n="01"/>na<hi rend="grantha">maś śi</hi>vā
+		<lb n="02" break="no"/>ya <hi rend="grantha">svasti śrī</hi>
 	</ab>
 	
 	<p>		
