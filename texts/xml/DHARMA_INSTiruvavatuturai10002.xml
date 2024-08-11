@@ -102,8 +102,8 @@
 	<p>
 		teṉ-karai-t tiru-vaḻuntūr-nāṭṭu <hi rend="grantha">brahma</hi>
 		<lb n="4" break="no"/><hi rend="grantha">de</hi>yam ciṟṟāṉaiccūr <hi rend="grantha">sabhai</hi>yōm <hi rend="grantha">śrī</hi>-ti
-		<lb n="5" break="no"/>ru-vāvaṭu-tuṟai tiru-k-kaṟṟaḷi-p-piccar iṭai
-		<lb n="6" break="no"/>-p poṉ koṇṭ<unclear>u</unclear> <hi rend="grantha">śrī</hi>-tiru-vāvaṭutuṟai <hi rend="grantha">de</hi>va
+		<lb n="5" break="no"/>ru-v-āvaṭu-tuṟai tiru-k-kaṟṟaḷi-p-piccar iṭai
+		<lb n="6" break="no"/>-p poṉ koṇṭu <hi rend="grantha">śrī</hi>-tiru-v-āvaṭu-tuṟai <hi rend="grantha">de</hi>va
 		<lb n="7" break="no"/>rkku Iṟai kāt<unclear>tu</unclear>-<supplied reason="lost">k</supplied> <unclear>ku</unclear>ṭukkum	
 		n<supplied reason="lost">i</supplied><unclear>la</unclear>ttuk’ el
 		<lb n="8" break="no"/>lai 
@@ -116,7 +116,7 @@
 				<lb n="9" break="no"/>ṟk’ ellai vaḻi-<unclear>va</unclear>rampukku vaṭakkum</item>
 			
 			<item>mēl
-				<lb n="10" break="no"/>-pāṟk’ ellai U<unclear>ṭ</unclear><supplied reason="lost">ci</supplied>ṟu-vāykkālukku-k kiḻak
+				<lb n="10" break="no"/>-pāṟk’ ellai Uṭ<supplied reason="lost">ci</supplied>ṟu-vāy-k-kālukku-k kiḻak
 				<lb n="11" break="no"/>kum</item>
 			
 			<item>vata-pāṟk’ ellai Iluppai-c-ceykku te
@@ -137,44 +137,55 @@
 			<item>k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pāṟ
 		<lb n="15" break="no"/>k’ ellai tāyaṉ kāṭaṉ <hi rend="grantha">de</hi>varkku vilai
 		<lb n="16"/>koṇṭa nilattukku <supplied reason="lost">mē</supplied><unclear>ṟkum</unclear></item>
-		<item>te<supplied reason="lost">ṉ</supplied>-pārk’ e
+		<item>te<unclear>ṉ</unclear>-pārk’ e
 		<lb n="17" break="no"/>llai vaḻi-varampukku vaṭakkum</item>
 		<item>mēl-pārk’ e
-		<lb n="18" break="no"/>llai Uṭciṟu-vāykkakukku-k kiḻakkum</item>
+		<lb n="18" break="no"/>llai Uṭciṟu-vāy-k-kakukku-k kiḻakkum</item>
 		<item>vaṭa
-		<lb n="19" break="no"/>-pāṟk’ ellai kaṭampaṉ vāykkālukku-t te
+		<lb n="19" break="no"/>-pāṟk’ ellai kaṭampaṉ vāy-k-kālukku-t te
 		<lb n="20" break="no"/>ṟkum</item>
 		</list>
 	</p>
 	
 	<p>
 		Iṉ-ṉāṉk’ ellaiyilum Aka-p-paṭṭa
-		<lb n="21"/>nilam mu-m-mā v-araiyum mēṟ-pulattu Iru
+		<lb n="21"/>nilam mu-m-mā v-araiyum<!--OR: varaiyum?--> mēṟ-pulattu Iru
 		<lb n="22" break="no"/>-māvum Āka Oṉpatu mā v-araiyum vācalil
-		<lb n="23"/><gap reason="lost" unit="character" quantity="3"/> kuṭimai <unclear>Ūr iṭu</unclear> vari <gap reason="lost" unit="character" quantity="2"/> <unclear>ṭu</unclear>m ceṉṉ<choice><orig>i</orig><reg>ī</reg></choice>r-vē
+		<lb n="23"/>pō<choice><orig>ṉ</orig><reg>n</reg></choice>ta kuṭimai Ūr <unclear>iṭu</unclear> vari-<supplied reason="lost">p</supplied>-<unclear>pāṭu</unclear>m ceṉṉ<choice><orig>i</orig><reg>ī</reg></choice>r-ve
 		<lb n="24" break="no"/><unclear>ṭṭ</unclear>iyum <hi rend="grantha">candrādi</hi>t=ta-val Iṟai kāttu-k kuṭup
-		<lb n="25" break="no"/>pōm ā<supplied reason="lost">y</supplied> kallil veṭṭi-k kuṭuttōm ciṟṟā
+		<lb n="25" break="no"/>pōm ā<unclear>y</unclear> kallil veṭṭi-k kuṭuttōm ciṟṟā
 		<lb n="26" break="no"/><unclear>ṉai</unclear>ccū<unclear>r</unclear> <hi rend="grantha"> <unclear>sa</unclear>bhai</hi>yōm
 	</p>
 
 	<p>
 		I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilattil Eṇ mā
 		<lb n="27"/><unclear>v-a</unclear>raiyu <gap reason="lost" unit="character" quantity="1"/> mām pāttiyil <unclear>A</unclear>rai māvum Iraṇ
-		<lb n="28"/><unclear>ṭu</unclear> <gap reason="lost" unit="character" quantity="3" precision="low"/> ti Arai-k kāṟ cey <gap reason="lost" unit="character" quantity="2"/> 
-		<seg type="aksara">t<seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg></seg> vaṉa<unclear>m</unclear> tirut
-		<lb n="29" break="no"/><gap reason="lost" unit="character" quantity="2" precision="low"/> <unclear>ṟkka</unclear> tiru-Uvaccakaḷuk<unclear>ku</unclear> <hi rend="grantha"><unclear>can</unclear></hi><hi rend="grantha"><choice><orig><unclear>t</unclear></orig><reg><unclear>d</unclear></reg></choice><unclear>r</unclear></hi><hi rend="grantha">āditya</hi>-vaṟ
+		<lb n="28" break="no"/><unclear>ṭu</unclear> <gap reason="lost" unit="character" quantity="3" precision="low"/> ti Arai-k kāṟ cey <supplied reason="lost">na</supplied><unclear>n=t</unclear><supplied reason="lost">ā</supplied><unclear>va</unclear>ṉam tiru-t
+		<lb n="29" break="no"/><gap reason="lost" unit="character" quantity="2" precision="low"/><unclear>ṟaikku</unclear> tiru-Uvaccakaḷuk<unclear>ku</unclear> <hi rend="grantha"><unclear>can</unclear></hi><hi rend="grantha"><choice><orig><unclear>t</unclear></orig><reg><unclear>d</unclear></reg></choice><unclear>r</unclear></hi><hi rend="grantha">āditya</hi>-vaṟ
+		
+		<lb n="30"/>nivan=tam ceytu kuṭuttēṉ kaṟṟaḷi-p-pi
+		<lb n="31" break="no"/>caṉ-ēṉ
+	</p>
+	<p>
+		Itu <hi rend="grantha">panmāheśvara-rakṣai</hi> <g type="gomutraFinal">.</g>		
 	</p>
 	
 </div>	
 	
 <div type="apparatus">
-	<!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
 	
-	<listApp><!-- one <app> for each apparatus entry -->
+	<listApp>
+		
 		<app loc="7">
 			<lem>Iṟai kāt<unclear>tu</unclear><supplied reason="lost">k</supplied> <unclear>ku</unclear>ṭukkum</lem>
 			<note>Compare <foreign>Iṟai kāttuk kuṭuppōm</foreign> (lines 24-25).</note>
 		</app>
+		
+		<app loc="22">
+			<lem>vācalil<lb n="23"/>pō<choice><orig>ṉ</orig><reg>n</reg></choice>ta kuṭimai Ūr <unclear>iṭu</unclear> vari<supplied reason="lost">p</supplied><unclear>pāṭu</unclear>m</lem>
+			<note>Compare <foreign>vācalil pōn=ta kuṭimaiyum Ūr iṭu varippāṭum</foreign> (ARIE/1924-1925/B/1925/112).</note>
+		</app>
+		
 	</listApp>
 </div>
 	
@@ -184,7 +195,7 @@
 	
 	<p n="1-3">Thirty-eighth year of the king Parakesarivarman, who took Maturai.</p>
 	
-	<p n="3-12">The boundaries of the land, which, we, the members of the assembly of Ciṟṟāṉaiccūr, a <foreign>brahmadeya</foreign> in the Tiraivaḻuntūrnāṭu on the southern bank <supplied reason="subaudible">of the Kāvēri</supplied> give, taking care of the tax money, after receiving gold from Tirukkaṟṟaḷi Piccar, fo the god, the glorious Lord of Tiruvāvaṭutuṟai, <gap reason="illegible"/> <supplied reason="subaudible">are as follows</supplied>:
+	<p n="3-12">The boundaries of the land, which, we, the members of the assembly of Ciṟṟāṉaiccūr, a <foreign>brahmadeya</foreign> in the Tiraivaḻuntūrnāṭu on the southern bank <supplied reason="subaudible">of the Kāvēri</supplied> give, taking care of the tax money <supplied reason="explanation"><foreign>iṟaik kāṭṭu</foreign></supplied>, after receiving gold from Tirukkaṟṟaḷi Piccar of the glorious Tiruvāvaṭutuṟai, for the god of the glorious Tiruvāvaṭutuṟai <supplied reason="subaudible">are as follows</supplied>:
 		<list>
 			<item><supplied reason="subaudible">the eastern boundary is</supplied> west of <gap reason="ellipsis"/>;</item>
 			<item>the southern boundary <supplied reason="subaudible">is</supplied> north of <gap reason="ellipsis"/>;</item>
@@ -198,7 +209,7 @@
 	</p>
 	
 	<p n="13-20">
-		The boundaries of the land bought <supplied reason="subaudible">we</supplied> received from Mutta Caṅkara Māṟāṉ <supplied reason="subaudible">are as follows</supplied>:
+		The boundaries of the land got after sale<note>That is, bought.</note> from Mutta Caṅkara Māṟāṉ <supplied reason="subaudible">are as follows</supplied>:
 		<list>
 			<item>the eastern boundary <supplied reason="subaudible">is</supplied> west of <gap reason="ellipsis"/>;</item>
 			<item>the southern boundary <supplied reason="subaudible">is</supplied> north of <gap reason="ellipsis"/>.;</item>
@@ -208,35 +219,28 @@
 	</p>
 	
 	<p n="20-26">
-		The land comprised between these four boundaries <supplied reason="subaudible">is</supplied>, that is, <gap reason="ellipsis"/>, we, the members of the assembly of Ciṟṟāṉaiccūr, being those who give <supplied reason="explanation"><foreign>kuṭuppōm</foreign></supplied>, taking care of the tax money, as long as the moon and the sun, <gap reason="ellipsis"/> we have given <supplied reason="explanation"><foreign>kuṭuttōm</foreign></supplied> <supplied reason="subaudible">it</supplied>, having engraved on the stone.
+		The land comprised between these four boundaries, that is, <gap reason="ellipsis"/>, we, the members of the assembly of Ciṟṟāṉaiccūr, being those who give <supplied reason="explanation"><foreign>kuṭuppōm</foreign></supplied>, taking care of the tax money, as long as the moon and the sun, we have given <supplied reason="explanation"><foreign>kuṭuttōm</foreign></supplied> <supplied reason="subaudible">it</supplied>, having engraved on stone<note>That is, having this record engraved on stone.</note>.
 	</p>
 	
 	<p n="26-29">
-		<gap reason="ellipsis"/>, as long as the moon and the sun, <gap reason="ellipsis"/>
+		From this land, <gap reason="ellipsis"/>, for the glorious drummers, 		
+		I, Tirukkaṟṟaḷi Piccaṉ, have given <gap reason="ellipsis"/>,
+		after making a binding agreement, as long as the moon and the sun.  
+	</p>
+	
+	<p n="29">
+		This<supplied reason="subaudible"> is under</supplied> the protection of the many Māheśvaras.
 	</p>
 </div>
-	
-	
-<div type="commentary">
-	<!--commentary encoded as per section §9.3 -->
-</div>
+		
+<!--<div type="commentary">
+</div>-->
 	
 <div type="bibliography">
 				
 	<p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/141).</p>	
-	<p>This edition by Emmanuel Francis (2024), based on photos (EFEO 2006; E. Francis 2024) and autopsy (2024).</p>
-	<!--Add RD + Babu-->
-	
-	<!--<listBibl type="primary">
+	<p>This edition by Emmanuel Francis (2024), based on photos (EFEO 2006; E. Francis, 2024; M. Trento, 2024) and autopsy (2024).</p>
 		
-		<bibl n="K">
-			<ptr target="bib:."/>
-			<citedRange unit="page">TBC</citedRange>
-			<citedRange unit="item">TBC</citedRange>
-		</bibl>
-		
-	</listBibl>-->
-	
 	<listBibl type="secondary">
 		
 		<bibl>
