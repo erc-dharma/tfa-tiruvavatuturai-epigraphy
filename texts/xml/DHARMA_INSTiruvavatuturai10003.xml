@@ -101,64 +101,64 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
             	
 	<ab>
-	<milestone type="pagelike" n="1" unit="zone"/><label xml:lang="eng">First Wall Portion</label>
-		<lb n="01"/>na<hi rend="grantha">maś śi</hi>vā
-		<lb n="02" break="no"/>ya <hi rend="grantha">svasti śrī</hi>
+	<milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">First Wall Portion</label>
+		<lb n="A01=01"/>na<hi rend="grantha">maś śi</hi>vā
+		<lb n="A01=02" break="no"/>ya <hi rend="grantha">svasti śrī</hi>
 	</ab>
 	
 	<p>		
-		<lb n="1"/>mat<choice><orig>i</orig><reg>u</reg></choice>rai koṇṭa
-		<lb n="2"/>kō-p-para-kēcari-pa
-		<lb n="3" break="no"/><hi rend="grantha">nma</hi>kki yāṇṭu <num value="36">3 <g type="numeral">10</g> 6</num> Āvatu
+		<lb n="A1=1"/>mat<choice><orig>i</orig><reg>u</reg></choice>rai koṇṭa
+		<lb n="A2=2"/>kō-p-para-kēcari-pa
+		<lb n="A3=3" break="no"/><hi rend="grantha">nma</hi>kki yāṇṭu <num value="36">3 <g type="numeral">10</g> 6</num> Āvatu
 	</p>
 	
 	<p>
-		<lb n="4"/>teṉ-<unclear>ka</unclear>rai-t tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu
-		<lb n="5"/><hi rend="grantha">brahma</hi>tē<unclear>ya</unclear>ñ cāttaṉūr <hi rend="grantha">śrī</hi>-tiru
-		<lb n="6" break="no"/>-vāvaṭu-<supplied reason="lost">tu</supplied>ṟ<supplied reason="lost">ai</supplied> Āḷvārkku Ivar aṭiyē
-		<lb n="7" break="no"/>ṉ miṟai-k-<unclear>kū</unclear>ṟṟattu v<choice><orig>i</orig><reg>ī</reg></choice>ra-māṅk-u
-		<lb n="8" break="no"/>ṭaiyāṉ t<unclear>āya</unclear>ṅ-kāṭaṉ-ēṉ
+		<lb n="A4=4"/>teṉ-<unclear>ka</unclear>rai-t tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu
+		<lb n="A5=5"/><hi rend="grantha">brahma</hi>tē<unclear>ya</unclear>ñ cāttaṉūr <hi rend="grantha">śrī</hi>-tiru
+		<lb n="A6=6" break="no"/>-vāvaṭu-<supplied reason="lost">tu</supplied>ṟ<supplied reason="lost">ai</supplied> Āḷvārkku Ivar aṭiyē
+		<lb n="A7=7" break="no"/>ṉ miṟai-k-<unclear>kū</unclear>ṟṟattu v<choice><orig>i</orig><reg>ī</reg></choice>ra-māṅk-u
+		<lb n="A8=8" break="no"/>ṭaiyāṉ t<unclear>āya</unclear>ṅ-kāṭaṉ-ēṉ
 		ciṟu-pu
-		<lb n="9" break="no"/>liyūr <hi rend="grantha">sabhai</hi>yār iṭai Iṟai-Ili koṇ
-		<lb n="10" break="no"/>ṭa nilamum
+		<lb n="A9=9" break="no"/>liyūr <hi rend="grantha">sabhai</hi>yār iṭai Iṟai-Ili koṇ
+		<lb n="A10=10" break="no"/>ṭa nilamum
 		ciṟṟ<unclear>āṉai</unclear>ccūr-k koṇṭu I
-		<lb n="11" break="no"/>ṟai-y-i<unclear>li</unclear> ceyta nilamum
+		<lb n="A11=11" break="no"/>ṟai-y-i<unclear>li</unclear> ceyta nilamum
 	</p>
 	
 	<p>
 		Ivv-iraṇ
-		<lb n="12" break="no"/>ṭu <unclear reason="eccentric_ductus">2</unclear> <hi rend="grantha">sa<unclear>bh</unclear>ai</hi>yā<unclear>r</unclear> <supplied reason="lost">i</supplied>ṭaiyum can=tirātitta
-		<lb n="13" break="no"/>-val Iṟai-k <supplied reason="lost">kuṭu</supplied>ppat’ āka poṉ koṇ		
-		<lb n="14" break="no"/>ṭ<unclear>u</unclear> Iṟai-Ili <unclear>ceyta</unclear> nilattukk’ el
-		<lb n="15" break="no"/>l<unclear>ai</unclear>
+		<lb n="A12=12" break="no"/>ṭu <unclear reason="eccentric_ductus">2</unclear> <hi rend="grantha">sa<unclear>bh</unclear>ai</hi>yā<unclear>r</unclear> <supplied reason="lost">i</supplied>ṭaiyum can=tirātitta
+		<lb n="A13=13" break="no"/>-val Iṟai-k <supplied reason="lost">kuṭu</supplied>ppat’ āka poṉ koṇ		
+		<lb n="A14=14" break="no"/>ṭ<unclear>u</unclear> Iṟai-Ili <unclear>ceyta</unclear> nilattukk’ el
+		<lb n="A15=15" break="no"/>l<unclear>ai</unclear>
 		
 		<list>
 			<item>
 				k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pāṟk’ ellai It-tēvar ma<unclear>ṇa</unclear>
-				<lb n="16" break="no"/>l-iṭṭukkum It-tēvar Ātitta-karat			
-				<lb n="17" break="no"/>tu tēvar nilattukku mē<supplied reason="omitted">ṟ</supplied>kku
+				<lb n="A16=16" break="no"/>l-iṭṭukkum It-tēvar Ātitta-karat			
+				<lb n="A17=17" break="no"/>tu tēvar nilattukku mē<supplied reason="omitted">ṟ</supplied>kku
 			</item>
 			
 			<item>
 				teṉ
-				<lb n="18" break="no"/>-pārk’ ellai ciṟṟāṉaiccūrār iṭai Ivaṉē
-				<lb n="19" break="no"/>-y Iṟai-y-ili koṇṭu nilattukk’ el
-				<lb n="20" break="no"/>l<choice><sic>i</sic><corr>ai</corr></choice> Ivaṉē-y viṭṭa kaṭampaṉ vāykk<unclear>ā</unclear>
-				<lb n="21" break="no"/>lukku <unclear>va</unclear><supplied reason="lost">ṭak</supplied>kum
+				<lb n="A18=18" break="no"/>-pārk’ ellai ciṟṟāṉaiccūrār iṭai Ivaṉē
+				<lb n="A19=19" break="no"/>-y Iṟai-y-ili koṇṭu nilattukk’ el
+				<lb n="A20=20" break="no"/>l<choice><sic>i</sic><corr>ai</corr></choice> Ivaṉē-y viṭṭa kaṭampaṉ vāykk<unclear>ā</unclear>
+				<lb n="A21=21" break="no"/>lukku <unclear>va</unclear><supplied reason="lost">ṭak</supplied>kum
 			</item>
 			
 			<item>
 				mē<unclear reason="eccentric_ductus">l</unclear>-pā<choice><orig>l</orig><reg>ṟ</reg></choice>kk’ ellai
-				<lb n="22"/>tiru-vāva<unclear>ṭu-tu</unclear>ṟai Āḷvārkku veḷḷ<choice><sic>a</sic><corr>ā</corr></choice>ṟu-t taṉi
-				<lb n="23"/>Utta<unclear>ra-c</unclear><choice><sic><unclear>a</unclear></sic><corr>ā</corr></choice>mavētam vallār pir<choice><sic>a</sic><corr>ā</corr></choice>maṇar tēva
-				<lb n="24" break="no"/>r muṉ <unclear>U</unclear>ṇpataṟk<unclear>u</unclear> vilai koṇṭu ka<unclear>l</unclear>luvicca
-				<lb n="25"/>nilattukku kiḻakkum
+				<lb n="A22=22"/>tiru-vāva<unclear>ṭu-tu</unclear>ṟai Āḷvārkku veḷḷ<choice><sic>a</sic><corr>ā</corr></choice>ṟu-t taṉi
+				<lb n="A23=23"/>Utta<unclear>ra-c</unclear><choice><sic><unclear>a</unclear></sic><corr>ā</corr></choice>mavētam vallār pir<choice><sic>a</sic><corr>ā</corr></choice>maṇar tēva
+				<lb n="A24=24" break="no"/>r muṉ <unclear>U</unclear>ṇpataṟk<unclear>u</unclear> vilai koṇṭu ka<unclear>l</unclear>luvicca
+				<lb n="A25=25"/>nilattukku kiḻakkum
 			</item>
 			
 			<item>
 				vaṭa-pā<choice><orig>l</orig><reg>ṟ</reg></choice>k’ ellai pē
-				<lb n="26" break="no"/>rum peru-<unclear>vaḻikkum</unclear> tēvar maṇal-iṭtukkum civa
-				<lb n="27" break="no"/><supplied reason="lost">paṭu</supplied> <unclear>tiru</unclear>-na=nta-vāṉattukku teṟku<choice><orig>mm</orig><reg>m</reg></choice>	
+				<lb n="A26=26" break="no"/>rum peru-<unclear>vaḻikkum</unclear> tēvar maṇal-iṭtukkum civa
+				<lb n="A27=27" break="no"/><supplied reason="lost">paṭu</supplied> <unclear>tiru</unclear>-na=nta-vāṉattukku teṟku<choice><orig>mm</orig><reg>m</reg></choice>	
 			</item>
 		</list>
 
@@ -166,45 +166,45 @@
 	
 	<p>
 		<supplied reason="lost">i</supplied>
-		<lb n="28" break="no"/>ṉ-ṉā<unclear>ṉ</unclear>k’ <supplied reason="lost">e</supplied>llaiyilum naṭuvu-paṭṭa ko
-		<lb n="29" break="no"/>l<unclear>lai</unclear>yum pu<unclear>ṉ</unclear>-ceyyum teṟk’ aṭai
-		<lb n="30" break="no"/>ya Ivaṉē kalluvicca n<choice><orig>i</orig><reg>ī</reg></choice><supplied reason="lost">r</supplied>-n<supplied reason="lost">i</supplied><surplus><gap reason="illegible" quantity="3" unit="character"/></surplus>lamum
-		<lb n="31"/>kalliṉa paḻaṅ-kaṭampaṉ vā<supplied reason="lost">ṉa</supplied>m I
-		<lb n="32" break="no"/>v-vāykkāl Iraṇṭu karaiyilum
-		<lb n="33"/>kalliṉa kollaiyum <unclear>puṉ</unclear>-cey<unclear>um</unclear>
+		<lb n="A28=28" break="no"/>ṉ-ṉā<unclear>ṉ</unclear>k’ <supplied reason="lost">e</supplied>llaiyilum naṭuvu-paṭṭa ko
+		<lb n="A29=29" break="no"/>l<unclear>lai</unclear>yum pu<unclear>ṉ</unclear>-ceyyum teṟk’ aṭai
+		<lb n="A30=30" break="no"/>ya Ivaṉē kalluvicca n<choice><orig>i</orig><reg>ī</reg></choice><supplied reason="lost">r</supplied>-n<supplied reason="lost">i</supplied><surplus><gap reason="illegible" quantity="3" unit="character"/></surplus>lamum
+		<lb n="A31=31"/>kalliṉa paḻaṅ-kaṭampaṉ vā<supplied reason="lost">ṉa</supplied>m I
+		<lb n="A32=32" break="no"/>v-vāykkāl Iraṇṭu karaiyilum
+		<lb n="A33=33"/>kalliṉa kollaiyum <unclear>puṉ</unclear>-cey<unclear>um</unclear>
 	</p>
 	
 	<p>
-		<lb n="34"/>Iraṇṭu <unclear>2</unclear> nilattilum <gap reason="illegible" quantity="6" unit="character"/>
-		<lb n="35" break="no"/><unclear>kiṉ</unclear> <gap reason="illegible" quantity="1" unit="character"/> ñ-ñilattuḷ teṟk’ aṭaiya <gap reason="illegible" quantity="3" unit="character"/>
-		<lb n="36" break="no"/>ki<unclear>ṉ</unclear> n<choice><orig>i</orig><reg>ī</reg></choice>r-nilam Iraṇṭē kāl
+		<lb n="A34=34"/>Iraṇṭu <unclear>2</unclear> nilattilum <gap reason="illegible" quantity="6" unit="character"/>
+		<lb n="A35=35" break="no"/><unclear>kiṉ</unclear> <gap reason="illegible" quantity="1" unit="character"/> ñ-ñilattuḷ teṟk’ aṭaiya <gap reason="illegible" quantity="3" unit="character"/>
+		<lb n="A36=36" break="no"/>ki<unclear>ṉ</unclear> n<choice><orig>i</orig><reg>ī</reg></choice>r-nilam Iraṇṭē kāl
 	
 		Iv-vi
-		<milestone type="pagelike" n="2" unit="zone" break="no"/>
+		<milestone type="pagelike" n="B" unit="zone" break="no"/>
 		<label xml:lang="eng">Second Wall Portion</label>
-		<lb n="1=37" break="no"/>raṇtē kālilum mē<supplied reason="omitted">ṟ</supplied>kk’ aṭai<unclear>ya</unclear>-<supplied reason="lost">p</supplied>
-		<lb n="2=38"/><unclear>p</unclear>atiyam
+		<lb n="B1=37" break="no"/>raṇtē kālilum mē<supplied reason="omitted">ṟ</supplied>kk’ aṭai<unclear>ya</unclear>-<supplied reason="lost">p</supplied>
+		<lb n="B2=38"/><unclear>p</unclear>atiyam
 	
 		<list>
 			<item>
 				tiru-vāvaṭu-tuṟai Āḷvā<unclear>r</unclear>k
-				<lb n="3=39" break="no"/>ku pāṭuvār iruvar Iraṇṭu can=tiyum pāṭa <gap reason="illegible" quantity="1" unit="character"/>
-				<lb n="4=40"/><unclear>A</unclear>ṟu māvum
+				<lb n="B3=39" break="no"/>ku pāṭuvār iruvar Iraṇṭu can=tiyum pāṭa <gap reason="illegible" quantity="1" unit="character"/>
+				<lb n="B4=40"/><unclear>A</unclear>ṟu māvum
 			</item>
 			<item>
 				t<unclear>i</unclear>ru-nan=ta-vāṉam tiru-tali <unclear>ṉā</unclear> 
-				<lb n="5=41"/><gap reason="illegible" quantity="1" unit="character"/> ṟai<unclear>ppan</unclear> iruvarkku Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice><unclear>ḻ</unclear>ai nā<supplied reason="lost">lu</supplied> māvu
-				<lb n="6=42" break="no"/>m				
+				<lb n="B5=41"/><gap reason="illegible" quantity="1" unit="character"/> ṟai<unclear>ppan</unclear> iruvarkku Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice><unclear>ḻ</unclear>ai nā<supplied reason="lost">lu</supplied> māvu
+				<lb n="B6=42" break="no"/>m				
 			</item>
 			
 		</list>
 		
 	</p>
 	<p>
-		<milestone type="pagelike" n="3" unit="zone"/><label xml:lang="eng">Third Wall Portion</label>
+		<milestone type="pagelike" n="C" unit="zone"/><label xml:lang="eng">Third Wall Portion</label>
 		
 		
-		<milestone type="pagelike" n="4" unit="zone"/><label xml:lang="eng">Fourth Wall Portion</label>
+		<milestone type="pagelike" n="D" unit="zone"/><label xml:lang="eng">Fourth Wall Portion</label>
 			
 	</p>
 		
