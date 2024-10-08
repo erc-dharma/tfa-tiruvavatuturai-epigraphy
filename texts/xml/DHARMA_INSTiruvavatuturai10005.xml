@@ -94,23 +94,26 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
             	
 	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<milestone type="pagelike" n="1" unit="zone"/><label xml:lang="eng">First Wall Portion</label>
-		<lb n="1"/><unclear><g type="pcs"/> <g type="danda"/></unclear> svasti śrī
+		<milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">First Wall Portion</label>
+		<lb n="A1=1"/><unclear><g type="pcs"/> <g type="danda"/></unclear> svasti śrī
 	</ab>
 	
 	<lg n="1" met="āciriyappā">
-		<l n="1">pū<lb n="2" break="no"/>mālai miṭain=t<unclear>u</unclear> <lb n="3"/>poṉmālai tika<lb n="4" break="no"/>ḻ<supplied reason="omitted">tara</supplied>p</l>
+		<l n="1">pū<lb n="A2=2" break="no"/>mālai miṭain=t<unclear>u</unclear> <lb n="A3=3"/>poṉmālai tika<lb n="A4=4" break="no"/>ḻ<supplied reason="omitted">tara</supplied>p</l>
 		<l n="2">...</l>
 	</lg>
 	
-	<p>
-		<milestone type="pagelike" n="2" unit="zone"/><label xml:lang="eng">Second Wall Portion</label>
-		...
-		<milestone type="pagelike" n="3" unit="zone"/><label xml:lang="eng">Third Wall Portion</label>
-		...
-		<milestone type="pagelike" n="4" unit="zone"/><label xml:lang="eng">Fourth Wall Portion</label>
-		...
-	</p>
+    <p>
+        <milestone type="pagelike" n="B" unit="zone"/><label xml:lang="eng">Second Wall Portion</label>
+        <lb n="B1=29"/><unclear>maka</unclear>ra-nā<choice><orig>yy</orig><reg>y</reg></choice>aṟṟu Apa<unclear>ra</unclear>
+        <lb n="B30=30" break="no"/>...
+        <milestone type="pagelike" n="C" unit="zone"/><label xml:lang="eng">Third Wall Portion</label>
+        <lb n="C1=56"/>...
+        <milestone type="pagelike" n="D" unit="zone"/><label xml:lang="eng">Fourth Wall Portion</label>
+        <lb n="D1=82"/>...
+        <milestone type="pagelike" n="E" unit="zone"/><label xml:lang="eng">Fifth Wall Portion</label>
+        <lb n="E1=108"/>...
+    </p>
 		
 </div>
 	
@@ -142,9 +145,10 @@
 	
 <div type="bibliography">
 				
-	<p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/149).</p>	
-	<p>Edited here by Emmanuel Francis, based on photos (<ref target="https://didomena.ehess.fr/concern/data_sets/2514nv93h">E. Francis, 2024</ref>).</p>
-	
+    <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/149).</p>	
+    <p>Edited here by Emmanuel Francis, based on photos (<ref target="https://didomena.ehess.fr/concern/data_sets/2514nv93h">E. Francis, 2024</ref>).</p>
+    <p>ASI transcript and estampage, if any, yet to be consulted.</p>
+    
 	
 	<!--<listBibl type="primary">
 		
