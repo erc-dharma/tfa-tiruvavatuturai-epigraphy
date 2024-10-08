@@ -101,22 +101,32 @@
 	<lg n="1" met="āciriyappā">
 		<l n="1">pū<lb n="A2=2" break="no"/>mālai miṭain=t<unclear>u</unclear> <lb n="A3=3"/>poṉmālai tika<lb n="A4=4" break="no"/>ḻ<supplied reason="omitted">tara</supplied>p</l>
 		<l n="2">...</l>
+	    
+	    <l n="75"><lb n="A28=28"/>...</l>
 	</lg>
 	
     <p>
         <milestone type="pagelike" n="B" unit="zone"/><label xml:lang="eng">Second Wall Portion</label>
         <lb n="B1=29"/><unclear>maka</unclear>ra-nā<choice><orig>yy</orig><reg>y</reg></choice>aṟṟu Apa<unclear>ra</unclear>
-        <lb n="B30=30" break="no"/>...
+        <lb n="B2=30"/><hi rend="grantha"><unclear>pakṣa</unclear></hi>ttu <supplied reason="lost"><hi rend="grantha">dv</hi></supplied><hi rend="grantha">āda</hi>ciyum p<supplied reason="lost">u</supplied>
+        <lb n="B3=31"/>taṉ-kiḻamaiyum pe
+        <lb n="B4=32"/><unclear>ṟṟa</unclear> U<supplied reason="lost">t</supplied>tiraṭṭā<unclear>ti nāḷ viru</unclear>
+        <lb n="B5=33"/>...
+        
+        <lb n="B27=55"/>...
         <milestone type="pagelike" n="C" unit="zone"/><label xml:lang="eng">Third Wall Portion</label>
         <lb n="C1=56"/>...
+        
         <milestone type="pagelike" n="D" unit="zone"/><label xml:lang="eng">Fourth Wall Portion</label>
         <lb n="D1=82"/>...
+        
         <milestone type="pagelike" n="E" unit="zone"/><label xml:lang="eng">Fifth Wall Portion</label>
-        <lb n="E1=108"/>...
+        <lb n="E1=109"/>...
+        
+        <lb n="E22=130"/><gap reason="lost" quantity="15" unit="character" precision="low"/> Ippaṭ<unclear>i</unclear> <gap reason="lost" unit="character" extent="unknown"/>
     </p>
 		
-</div>
-	
+</div>	
 	
 <!--<div type="apparatus">
 	
