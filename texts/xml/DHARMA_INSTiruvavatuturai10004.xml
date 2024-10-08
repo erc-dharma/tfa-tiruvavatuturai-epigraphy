@@ -94,48 +94,46 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
             	
 <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-    <milestone type="pagelike" n="1" unit="zone"/><label xml:lang="eng">First Wall Portion</label>
-    <lb n="1"/><g type="pcs"/> <g type="danda"/> svasti śr<unclear>ī</unclear>
+    <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">First Wall Portion</label>
+    <lb n="A1=1"/><g type="pcs"/> <g type="danda"/> svasti śr<unclear>ī</unclear>
 </ab>
     
 <lg n="1" met="āciriyappā">
-    <l n="1">pukaḻ cūḻn=<unclear>ta</unclear> puṇari Akaḻ <lb n="2"/> cūḻnta puviyil-p</l>
+    <l n="1">pukaḻ cūḻn=<unclear>ta</unclear> puṇari Akaḻ <lb n="A2=2"/> cūḻnta puviyil-p</l>
     <l n="2">...</l>
     
-    <l n="40"><milestone type="pagelike" n="2" unit="zone"/><label xml:lang="eng">Second Wall Portion</label><lb n="28"/>...</l>
+    <l n="40"><milestone type="pagelike" n="B" unit="zone"/><label xml:lang="eng">Second Wall Portion</label><lb n="B1=28"/>...</l>
     <l n="41">...</l>
-    <l n="86">Ēḻicai vallapi <supplied reason="lost">Ēḻ-laka</supplied>m-u⌈<lb n="48" break="no"/><supplied reason="lost">ṭaiyāḷ</supplied></l>
+    <l n="86">Ēḻicai vallapi <supplied reason="lost">Ēḻ-laka</supplied>m-u⌈<lb n="B20=48" break="no"/><supplied reason="lost">ṭaiyāḷ</supplied></l>
     <l n="87">vāḻikai mala<supplied reason="omitted">r</supplied>n=t’ i<choice><orig>n</orig><reg>ṉ</reg></choice>it’ iruppa Ūḻiyum</l>
-    <l n="88">ulak-uṭaiyāḷ-oṭu <supplied reason="lost">vīṟṟ-irunt-a</supplied><lb n="49" break="no"/>ruḷiya</l>
+    <l n="88">ulak-uṭaiyāḷ-oṭu <supplied reason="lost">vīṟṟ-irunt-a</supplied><lb n="B21=49" break="no"/>ruḷiya</l>
 </lg>
     
 <p>
     kō-v-irāca-kēca<hi rend="grantha">ri-pa<choice><sic>t</sic><corr>n</corr></choice>mar-ā</hi>na <hi rend="grantha">tri-bhu</hi>vana-<hi rend="grantha">cakravartti</hi>kaḷ <hi rend="grantha">śrī</hi>-kulōttuṅka-cōḻa⌈
-    <lb n="50" break="no"/>-tēvarkku yāṇṭu <num value="47">4 <g type="numeral">10</g> 7</num> kaṟkaṭa-nāyaṟṟu-<hi rend="grantha">p pū<unclear>r</unclear>vva-pakṣa</hi>ttu-<hi rend="grantha"><unclear>p</unclear></hi> <gap reason="lost" quantity="5" unit="character" precision="low"/>
-    <lb n="51"/>nāyaṟṟu-k-kiḻamai peṟṟa Attatt<choice><sic>i</sic><corr>u</corr></choice> nāḷ    
+    <lb n="B22=50" break="no"/>-tēvarkku yāṇṭu <num value="47">4 <g type="numeral">10</g> 7</num> kaṟkaṭa-nāyaṟṟu-<hi rend="grantha">p pū<unclear>r</unclear>vva-pakṣa</hi>ttu-<hi rend="grantha"><unclear>p</unclear></hi> <gap reason="lost" quantity="5" unit="character" precision="low"/>
+    <lb n="B23=51"/>nāyaṟṟu-k-kiḻamai peṟṟa Attatt<choice><sic>i</sic><corr>u</corr></choice> nāḷ    
 </p>
     
 <p>
     <hi rend="grantha">rāja</hi>-nā<hi rend="grantha">rā</hi>yaṇa-vaḷan<unclear>ā</unclear>ṭṭu-t tiruva
-    <lb n="52" break="no"/>ḻun=tūr-nāṭṭu mēṟ-kiḷi-maṅkalam-āṉa karikāla-cōḻa-c-caruppēti-maṅkalattu
-    <lb n="53"/><hi rend="grantha">mahā-sabhai</hi>yōm Ivv-ūr tiru-c-caṅkaṇi-t-tuṟai Āḻvār kōyi<unclear>li</unclear>l kūṭṭa-k
-    <lb n="54"/>kuṟai v-aṟa-k kūṭi y-irun=tu Ivv-ūr <hi rend="grantha">sabhai</hi>kku-c camain=ta piṟān=tūr caṅkara-nārāyaṇa-<hi rend="grantha">bha</hi>ṭ
-    <lb n="55" break="no"/>ṭa<choice><orig>n</orig><reg>ṉ</reg></choice>um
+    <lb n="B24=52" break="no"/>ḻun=tūr-nāṭṭu mēṟ-kiḷi-maṅkalam-āṉa karikāla-cōḻa-c-caruppēti-maṅkalattu
+    <lb n="B25=53"/><hi rend="grantha">mahā-sabhai</hi>yōm Ivv-ūr tiru-c-caṅkaṇi-t-tuṟai Āḻvār kōyi<unclear>li</unclear>l kūṭṭa-k
+    <lb n="B26=54"/>kuṟai v-aṟa-k kūṭi y-irun=tu Ivv-ūr <hi rend="grantha">sabhai</hi>kku-c camain=ta piṟān=tūr caṅkara-nārāyaṇa-<hi rend="grantha">bha</hi>ṭ
+    <lb n="B27=55" break="no"/>ṭa<choice><orig>n</orig><reg>ṉ</reg></choice>um
     ...		
-    <lb n="59" break="no"/>...
-    <milestone type="pagelike" n="3" unit="zone"/><label xml:lang="eng">Third Wall Portion</label>
-    <lb n="60"/>...
-    <lb n="82"/>...
-    <lb n="83"/>... caṅkara<choice><orig>n</orig><reg>ṉ</reg></choice> civa-lōka-nāyaka<choice><orig>n</orig><reg>ṉ</reg></choice>-āṉa kaṅkai-koṇṭa
-    <lb n="84" break="no"/><add place="left">cō</add>ḻa-Anan=ta<gap reason="illegible" quantity="3" unit="character"/>-Uṭaiyār tiruvāṭutuṟai Uṭaiyār tiru-maṭai-viḷākattu-c cev<unclear>v</unclear><supplied reason="lost">vi</supplied>
-    <lb n="85" break="no"/>tta civa-lōka-nāyaka<choice><orig>n</orig><reg>ṉ</reg></choice> maṭattil It-tēvar tiru-nāḷil ...
-
-    
-    
-    <lb n="91"/>...
-    <milestone type="pagelike" n="4" unit="zone"/><label xml:lang="eng">Fourth Wall Portion</label>
-    <lb n="92"/>...    
-    <lb n="118"/>...
+    <lb n="B31=59" break="no"/>...
+    <milestone type="pagelike" n="C" unit="zone"/><label xml:lang="eng">Third Wall Portion</label>
+    <lb n="C1=60"/>...
+    <lb n="C23=82"/>...
+    <lb n="C24=83"/>... caṅkara<choice><orig>n</orig><reg>ṉ</reg></choice> civa-lōka-nāyaka<choice><orig>n</orig><reg>ṉ</reg></choice>-āṉa kaṅkai-koṇṭa
+    <lb n="C25=84" break="no"/><add place="left">cō</add>ḻa-Anan=ta<unclear>p</unclear>ā<supplied reason="lost">lar</supplied> Uṭaiyār tiruvāṭutuṟai Uṭaiyār tiru-maṭai-viḷākattu-c cev<unclear>v</unclear><supplied reason="lost">vi</supplied>
+    <lb n="C26=85" break="no"/>tta civa-lōka-nāyaka<choice><orig>n</orig><reg>ṉ</reg></choice> maṭattil It-tēvar tiru-nāḷil ...
+        
+    <lb n="C32=91"/>...
+    <milestone type="pagelike" n="D" unit="zone"/><label xml:lang="eng">Fourth Wall Portion</label>
+    <lb n="D1=92"/>...    
+    <lb n="D27=118"/>...
 </p>
 		
 </div>
@@ -151,8 +149,9 @@
         </app>
         
         <app loc="84">
-            <lem>°Anan=ta<gap reason="illegible" quantity="3" unit="character"/>°</lem>
-            <rdg source="bib:ARIE1924-1925">°Ananta<unclear>pālar</unclear>°</rdg>
+            <lem>°Anan=ta<unclear>p</unclear>ā<supplied reason="lost">lar</supplied></lem>
+            <rdg source="bib:ARIE1924-1925">°Ananta<unclear>pālar</unclear></rdg>
+            <note>See <ref target="DHARMA_INSTiruvavatuturai10004.xml">Tiruvavaturai 10005</ref> (line 82): <foreign>°Aṉan=ta-pālar</foreign>.</note>
         </app>
     </listApp>
 </div>
@@ -179,6 +178,7 @@
 				
 	<p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/148).</p>	
 	<p>Edited here by Emmanuel Francis, based on photos (<ref target="https://didomena.ehess.fr/concern/data_sets/2227mz94j">E. Francis, 2024</ref>).</p>
+    <p>ASI transcript and estampage, if any, yet to be consulted.</p>
 	
 	
 	<!--<listBibl type="primary">
