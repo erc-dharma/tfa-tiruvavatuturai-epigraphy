@@ -100,7 +100,7 @@
 	
 	<lg n="1" met="āciriyappā">
 		<l n="1">pū<lb n="A2=2" break="no"/>mālai miṭain=t<unclear>u</unclear> <lb n="A3=3"/>poṉmālai tika<lb n="A4=4" break="no"/>ḻ<supplied reason="omitted">tara</supplied>p</l>
-		<l n="2">...</l>
+		<l n="2">... <lb n="A3-27=3-27"/> ...</l>
 	    
 	    <l n="75"><lb n="A28=28"/>...</l>
 	</lg>
@@ -111,18 +111,31 @@
         <lb n="B2=30"/><hi rend="grantha"><unclear>pakṣa</unclear></hi>ttu <supplied reason="lost"><hi rend="grantha">dv</hi></supplied><hi rend="grantha">āda</hi>ciyum p<supplied reason="lost">u</supplied>
         <lb n="B3=31"/>taṉ-kiḻamaiyum pe
         <lb n="B4=32"/><unclear>ṟṟa</unclear> U<supplied reason="lost">t</supplied>tiraṭṭā<unclear>ti nāḷ viru</unclear>
-        <lb n="B5=33"/>...
-        
+        <lb n="B5=33" break="no"/>ta-<hi rend="grantha">rā</hi><hi rend="grantha"><unclear>ja-bha</unclear></hi><unclear>ya</unclear>ṅkara-vaḷanāṭṭu ...
+        <lb n="B6=34"/>...
+        <lb n="B7=35"/>...
+        <lb n="B8=36"/>cōḻa-c-caruppētimaṅkalattu <supplied reason="lost">ma</supplied><hi rend="grantha">hā</hi>
+        <lb n="B9=37"/><hi rend="grantha"><supplied reason="omitted">sa</supplied>bhai</hi>yōm ...
+        <lb n="B10-26=10-26"/>
         <lb n="B27=55"/>...
+        
         <milestone type="pagelike" n="C" unit="zone"/><label xml:lang="eng">Third Wall Portion</label>
         <lb n="C1=56"/>...
+        <lb n="C2-25=57-80"/>...
+        <lb n="C26=81"/>... koṇṭa
         
         <milestone type="pagelike" n="D" unit="zone"/><label xml:lang="eng">Fourth Wall Portion</label>
-        <lb n="D1=82"/>...
+        <lb n="D1=82"/>cōḻa-Aṉan=ta-pālar
+        <lb n="D2=83"/><supplied reason="lost">U</supplied>ṭaiyār tiruvāva<supplied reason="lost">ṭu</supplied>
+        <lb n="D3=84" break="no"/>tuṟai Uṭaiyār tiru
+        <lb n="D4=85" break="no"/>-matai-viḷākattu ce
+        <lb n="D5=86" break="no"/>yvikkiṟa civa-lō<supplied reason="lost">ka</supplied>-<unclear>n</unclear>
+        <lb n="D6=87" break="no"/><supplied reason="lost">ā</supplied>yakaṉ maṭattukku ...
+        <lb n="D7-26=88-108" break="no"/>
         
         <milestone type="pagelike" n="E" unit="zone"/><label xml:lang="eng">Fifth Wall Portion</label>
         <lb n="E1=109"/>...
-        
+        <lb n="E2-21=110-129"/>...
         <lb n="E22=130"/><gap reason="lost" quantity="15" unit="character" precision="low"/> Ippaṭ<unclear>i</unclear> <gap reason="lost" unit="character" extent="unknown"/>
     </p>
 		
@@ -142,9 +155,14 @@
 	
 <div type="translation" resp="part:emfr">
 	
-	<p n="1">Prosperity! Fortune!</p>
-	
-	<p>...</p>
+    <p n="1">Prosperity! Fortune!</p>
+    
+    <p>...</p>
+    
+    <p n="81-85">
+        ...
+        for the <foreign>maṭha</foreign> <supplied reason="subaudible">named</supplied> after Civalōkanāyakaṉ, that <supplied reason="lost">Kaṅkai</supplied> Koṇṭa Cōḻa Ananta Pālar <hi rend="italic">alias</hi> Civalōkanāyakaṉ had made in the  premises of the glorious temple <supplied reason="explanation"><foreign>tiru-maṭai-viḷākam</foreign></supplied> of the Lord, the Lord of Tiruvāṭuturai ...
+    </p>
 	
 </div>
 	
