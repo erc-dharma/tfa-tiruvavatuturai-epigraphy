@@ -135,7 +135,7 @@
         <list>
             <item>
                 k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pāṟk’ ellai It-tēvar ma<unclear>ṇa</unclear>
-                <lb n="A16=16" break="no"/>l-iṭṭukkum It-tēvar Ātitta-karat			
+                <lb n="A16=16" break="no"/>l-<choice><orig>i</orig><reg>ī</reg></choice>ṭṭukkum It-tēvar Ātitta-karat			
                 <lb n="A17=17" break="no"/>tu tēvar nilattukku mē<supplied reason="omitted">ṟ</supplied>kku
             </item>
             
@@ -190,18 +190,46 @@
                 t<unclear>i</unclear>ru-nan=ta-vāṉam tiru-<unclear>ta</unclear> <gap reason="lost" quantity="1" unit="character"/> I
                 <lb n="B5=41" break="no"/>ṟaippār iruvarkku Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice><unclear>ḻ</unclear>ai nā<supplied reason="lost">lu</supplied> māvu
                 <lb n="B6=42" break="no"/>m				
-            </item>
-            
+            </item> 
         </list>
 		
-	</p>
-	<p>
-		<milestone type="pagelike" n="C" unit="zone"/><label xml:lang="eng">Third Wall Portion</label>
-		
-		
-		<milestone type="pagelike" n="D" unit="zone"/><label xml:lang="eng">Fourth Wall Portion</label>
-			
-	</p>
+        <lb n="B35=71"/>...        
+    </p>
+    <p>
+        <milestone type="pagelike" n="C" unit="zone"/><label xml:lang="eng">Third Wall Portion</label>
+        
+        <lb n="C1=72"/>...
+        
+        <lb n="C35=106"/>...        
+        
+        <milestone type="pagelike" n="D" unit="zone"/><label xml:lang="eng">Fourth Wall Portion</label>      
+                
+        <lb n="D1=107"/>...
+        
+    </p>
+    
+    <p>        
+        <lb n="D29=135"/>I<hi rend="grantha">d-dhanma</hi>m pa<hi rend="grantha">nmāheśvarar</hi> Ira<hi rend="grantha">kṣai</hi>
+    </p>
+    
+    <p>
+        I<hi rend="grantha">d-dhanma</hi>m
+        <lb n="D30=136"/>Ira<hi rend="grantha">kṣi</hi>ppār <hi rend="grantha">śrī</hi>-pā<hi rend="grantha">dayū</hi>ḷi Eṉ talai mēla
+        <lb n="D31=137"/><add place="above">ṉa</add>
+    </p>
+    
+    <p>
+        tāyaṅ kāṭaṉ ciṟu-puliyūr ca<hi rend="grantha">bhai</hi>yā
+        <lb n="D32=138" break="no"/>r iṭai Iṟai-Ili koṇṭa nilam
+    </p>
+    <p>
+        In=-nila
+        <lb n="D33=139" break="no"/>ttu<unclear>k</unclear>ku Aṭṭa-k kaṭava nellu patiṉ kalam
+    </p>
+    <p>
+        <lb n="D34=140"/>Ip-pati<supplied reason="omitted">ṉ</supplied> kalamum Aṭṭa-k kaṭavōm Iru <choice><unclear>y</unclear><unclear><g type="numeral">10</g></unclear></choice> poṉ koṇṭōm tiruvā
+        <lb n="D35=141" break="no"/>vaṭutuṟai tiru-k-kōyil uṭaiyōm
+    </p>
 		
 </div>
 	
@@ -307,8 +335,27 @@
 				four areca-nut food-offerings.
 				For having these food-offerings made: eight <foreign>mā</foreign>s <supplied reason="subaudible">are provisioned</supplied>, east of this land that the Lord of the glorious temple obtained <gap reason="ellipsis"/></item>
 		</list>
-		
-	 </p>
+	</p>
+    
+    <p>
+        ...
+    </p>
+    
+    <p n="135">
+        This pious donation <supplied reason="subaudible">is under</supplied> the protection of the the many great devotees of Śiva.
+    </p>
+    <p n="135-137">
+        The dust on the glorious feet of he who protects this pious donation are on my head.
+    </p>
+    <p n="137-138">
+        <supplied reason="subaudible">There is</supplied> a land that Tāyaṅ Kāṭaṉ obtained tax-free from the members of the assembly.
+    </p>
+    <p n="138-139">
+        For this land ten pots of paddy are to be provided.
+    </p>   
+    <p n="140-141">
+        We are appointed to provide these ten pots; we have obtained two gold coins, we the lords of the glorious temple of Tiruvāvaṭutuṟai.
+    </p>
 </div>
 	
 	
