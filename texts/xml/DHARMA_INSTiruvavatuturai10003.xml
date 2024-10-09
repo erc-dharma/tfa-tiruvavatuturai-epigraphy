@@ -100,104 +100,99 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
             	
-	<ab>
-	<milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">First Wall Portion</label>
-		<lb n="A01=01"/>na<hi rend="grantha">maś śi</hi>vā
-		<lb n="A01=02" break="no"/>ya <hi rend="grantha">svasti śrī</hi>
-	</ab>
+    <ab>
+        <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">First Wall Portion</label>
+        <lb n="A01=01"/>na<hi rend="grantha">maś śi</hi>vā
+        <lb n="A01=02" break="no"/>ya <hi rend="grantha">svasti śrī</hi>
+    </ab>
 	
-	<p>		
-		<lb n="A1=1"/>mat<choice><orig>i</orig><reg>u</reg></choice>rai koṇṭa
-		<lb n="A2=2"/>kō-p-para-kēcari-pa
-		<lb n="A3=3" break="no"/><hi rend="grantha">nma</hi>kki yāṇṭu <num value="36">3 <g type="numeral">10</g> 6</num> Āvatu
-	</p>
+    <p>		
+        <lb n="A1=1"/>mat<choice><orig>i</orig><reg>u</reg></choice>rai koṇṭa
+        <lb n="A2=2"/>kō-p-para-kēcari-pa
+        <lb n="A3=3" break="no"/><hi rend="grantha">nma</hi>kki yāṇṭu <num value="36">3 <g type="numeral">10</g> 6</num>-Āvatu
+    </p>
 	
-	<p>
-		<lb n="A4=4"/>teṉ-<unclear>ka</unclear>rai-t tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu
-		<lb n="A5=5"/><hi rend="grantha">brahma</hi>tē<unclear>ya</unclear>ñ cāttaṉūr <hi rend="grantha">śrī</hi>-tiru
-		<lb n="A6=6" break="no"/>-vāvaṭu-<supplied reason="lost">tu</supplied>ṟ<supplied reason="lost">ai</supplied> Āḷvārkku Ivar aṭiyē
-		<lb n="A7=7" break="no"/>ṉ miṟai-k-<unclear>kū</unclear>ṟṟattu v<choice><orig>i</orig><reg>ī</reg></choice>ra-māṅk-u
-		<lb n="A8=8" break="no"/>ṭaiyāṉ t<unclear>āya</unclear>ṅ-kāṭaṉ-ēṉ
-		ciṟu-pu
-		<lb n="A9=9" break="no"/>liyūr <hi rend="grantha">sabhai</hi>yār iṭai Iṟai-Ili koṇ
-		<lb n="A10=10" break="no"/>ṭa nilamum
-		ciṟṟ<unclear>āṉai</unclear>ccūr-k koṇṭu I
-		<lb n="A11=11" break="no"/>ṟai-y-i<unclear>li</unclear> ceyta nilamum
-	</p>
+    <p>
+        <lb n="A4=4"/>teṉ-karai-t tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu
+        <lb n="A5=5"/><hi rend="grantha">brahma</hi>tēyañ cāttaṉūr <hi rend="grantha">śrī</hi>-tiru
+        <lb n="A6=6" break="no"/>-vāvaṭu-tuṟ<unclear>ai</unclear> Āḷvārkku Ivar aṭiyē
+        <lb n="A7=7" break="no"/>ṉ miṟai-k-<unclear>kū</unclear>ṟṟattu v<choice><orig>i</orig><reg>ī</reg></choice>ra-māṅk-u
+        <lb n="A8=8" break="no"/>ṭaiyāṉ tāyaṅ-kāṭaṉ-ēṉ
+        ciṟu-pu
+        <lb n="A9=9" break="no"/>liyūr <hi rend="grantha">sabhai</hi>yār iṭai Iṟai-Ili koṇ
+        <lb n="A10=10" break="no"/>ṭa nilamum
+        ciṟṟā<unclear>ṉai</unclear>ccūr-k koṇṭu I
+        <lb n="A11=11" break="no"/>ṟai-y-i<unclear>li</unclear> ceyta nilamum
+    </p>
 	
-	<p>
-		Ivv-iraṇ
-		<lb n="A12=12" break="no"/>ṭu <unclear reason="eccentric_ductus">2</unclear> <hi rend="grantha">sa<unclear>bh</unclear>ai</hi>yā<unclear>r</unclear> <supplied reason="lost">i</supplied>ṭaiyum can=tirātitta
-		<lb n="A13=13" break="no"/>-val Iṟai-k <supplied reason="lost">kuṭu</supplied>ppat’ āka poṉ koṇ		
-		<lb n="A14=14" break="no"/>ṭ<unclear>u</unclear> Iṟai-Ili <unclear>ceyta</unclear> nilattukk’ el
-		<lb n="A15=15" break="no"/>l<unclear>ai</unclear>
-		
-		<list>
-			<item>
-				k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pāṟk’ ellai It-tēvar ma<unclear>ṇa</unclear>
-				<lb n="A16=16" break="no"/>l-iṭṭukkum It-tēvar Ātitta-karat			
-				<lb n="A17=17" break="no"/>tu tēvar nilattukku mē<supplied reason="omitted">ṟ</supplied>kku
-			</item>
-			
-			<item>
-				teṉ
-				<lb n="A18=18" break="no"/>-pārk’ ellai ciṟṟāṉaiccūrār iṭai Ivaṉē
-				<lb n="A19=19" break="no"/>-y Iṟai-y-ili koṇṭu nilattukk’ el
-				<lb n="A20=20" break="no"/>l<choice><sic>i</sic><corr>ai</corr></choice> Ivaṉē-y viṭṭa kaṭampaṉ vāykk<unclear>ā</unclear>
-				<lb n="A21=21" break="no"/>lukku <unclear>va</unclear><supplied reason="lost">ṭak</supplied>kum
-			</item>
-			
-			<item>
-				mē<unclear reason="eccentric_ductus">l</unclear>-pā<choice><orig>l</orig><reg>ṟ</reg></choice>kk’ ellai
-				<lb n="A22=22"/>tiru-vāva<unclear>ṭu-tu</unclear>ṟai Āḷvārkku veḷḷ<choice><sic>a</sic><corr>ā</corr></choice>ṟu-t taṉi
-				<lb n="A23=23"/>Utta<unclear>ra-c</unclear><choice><sic><unclear>a</unclear></sic><corr>ā</corr></choice>mavētam vallār pir<choice><sic>a</sic><corr>ā</corr></choice>maṇar tēva
-				<lb n="A24=24" break="no"/>r muṉ <unclear>U</unclear>ṇpataṟk<unclear>u</unclear> vilai koṇṭu ka<unclear>l</unclear>luvicca
-				<lb n="A25=25"/>nilattukku kiḻakkum
-			</item>
-			
-			<item>
-				vaṭa-pā<choice><orig>l</orig><reg>ṟ</reg></choice>k’ ellai pē
-				<lb n="A26=26" break="no"/>rum peru-<unclear>vaḻikkum</unclear> tēvar maṇal-iṭtukkum civa
-				<lb n="A27=27" break="no"/><supplied reason="lost">paṭu</supplied> <unclear>tiru</unclear>-na=nta-vāṉattukku teṟku<choice><orig>mm</orig><reg>m</reg></choice>	
-			</item>
-		</list>
-
-	</p>
+    <p>
+        Ivv-iraṇ
+        <lb n="A12=12" break="no"/>ṭu <gap reason="illegible" quantity="1" unit="character"/> <hi rend="grantha">sabhai</hi>yār <unclear>i</unclear>ṭaiyum can=tirātitta
+        <lb n="A13=13" break="no"/>-val Iṟai-kāppat’ āka-p poṉ koṇ		
+        <lb n="A14=14" break="no"/>ṭ<unclear>u</unclear> Iṟai-Ili <unclear>cey</unclear>ta nilattukk’ el
+        <lb n="A15=15" break="no"/>l<unclear>ai</unclear>
+        
+        <list>
+            <item>
+                k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pāṟk’ ellai It-tēvar ma<unclear>ṇa</unclear>
+                <lb n="A16=16" break="no"/>l-iṭṭukkum It-tēvar Ātitta-karat			
+                <lb n="A17=17" break="no"/>tu tēvar nilattukku mē<supplied reason="omitted">ṟ</supplied>kku
+            </item>
+            
+            <item>
+                teṉ
+                <lb n="A18=18" break="no"/>-pāṟ-k’ ellai ciṟṟāṉaiccūrār iṭai Ivaṉē
+                <lb n="A19=19" break="no"/>-y Iṟai-y-ili koṇṭa nilattuḷ kal
+                <lb n="A20=20" break="no"/>li Ivaṉē-y v-iṭṭa kaṭampaṉ vāykk<supplied reason="omitted">ā</supplied>
+                <lb n="A21=21" break="no"/>lukku <unclear>va</unclear><supplied reason="lost">ṭak</supplied>kum
+            </item>
+            
+            <item>
+                mē<unclear reason="eccentric_ductus">l</unclear>-pā<choice><orig>l</orig><reg>ṟ</reg></choice>kk’ ellai
+                <lb n="A22=22"/>tiru-vāva<unclear>ṭu</unclear>-tuṟai Āḷvārkku veḷḷa<unclear>ṟu</unclear>-t <unclear>ta</unclear>ṉi
+                <lb n="A23=23"/>Utta<unclear>ma</unclear>-c<choice><sic>a</sic><corr>ā</corr></choice>mavētam vallār pir<choice><sic>a</sic><corr>ā</corr></choice>maṇar tēva
+                <lb n="A24=24" break="no"/>r muṉ Uṇpataṟku vilai koṇṭu kalluvicca
+                <lb n="A25=25"/>nilattukku kiḻakkum
+            </item>
+            
+            <item>
+                vaṭa-pā<choice><orig>l</orig><reg>ṟ</reg></choice>k’ ellai pē
+                <lb n="A26=26" break="no"/>rum peru-<unclear>vaḻik</unclear>kum tēvar maṇal-iṭṭukkum civa
+                <lb n="A27=27" break="no"/><supplied reason="lost">paṭu</supplied> <unclear>tiru</unclear>-nan=ta-vāṉattukku teṟku<choice><orig>mm</orig><reg>m</reg></choice>	
+            </item>
+        </list>
+        
+    </p>
 	
-	<p>
-		<supplied reason="lost">i</supplied>
-		<lb n="A28=28" break="no"/>ṉ-ṉā<unclear>ṉ</unclear>k’ <supplied reason="lost">e</supplied>llaiyilum naṭuvu-paṭṭa ko
-		<lb n="A29=29" break="no"/>l<unclear>lai</unclear>yum pu<unclear>ṉ</unclear>-ceyyum teṟk’ aṭai
-		<lb n="A30=30" break="no"/>ya Ivaṉē kalluvicca n<choice><orig>i</orig><reg>ī</reg></choice><supplied reason="lost">r</supplied>-n<supplied reason="lost">i</supplied><surplus><gap reason="illegible" quantity="3" unit="character"/></surplus>lamum
-		<lb n="A31=31"/>kalliṉa paḻaṅ-kaṭampaṉ vā<supplied reason="lost">ṉa</supplied>m I
-		<lb n="A32=32" break="no"/>v-vāykkāl Iraṇṭu karaiyilum
-		<lb n="A33=33"/>kalliṉa kollaiyum <unclear>puṉ</unclear>-cey<unclear>um</unclear>
-	</p>
+    <p>		
+        <lb n="A28=28" break="no"/>I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ā<unclear>ṉ</unclear>k’ <supplied reason="lost">e</supplied>llaiyilum naṭuvu-paṭṭa ko
+        <lb n="A29=29" break="no"/>llaiyum pu<unclear>ṉ</unclear>-ceyyum teṟk’ aṭai
+        <lb n="A30=30" break="no"/>ya Ivaṉē kalluvicca n<choice><orig>i</orig><reg>ī</reg></choice><supplied reason="lost">r</supplied>-nilamum
+        <lb n="A31=31"/>kalliṉa paḻaṅ-kaṭampaṉ vāyum I
+        <lb n="A32=32" break="no"/>v-vāykkāl Iraṇṭu karaiyilum
+        <lb n="A33=33"/>kalliṉa kollaiyum puṉ-ceyum
+        <lb n="A34=34"/>Iraṇṭu <gap reason="illegible" quantity="1" unit="character"/> nilattilum kalli mayak
+        <lb n="A35=35" break="no"/>kiṉa <unclear>I</unclear>ñ-ñilattuḷ teṟk’ aṭaiya mayak
+        <lb n="A36=36" break="no"/>kiṉa n<choice><orig>i</orig><reg>ī</reg></choice>r-nilam Iraṇṭē kāl
+        Iv-vi
+        <milestone type="pagelike" n="B" unit="zone" break="no"/>
+        <label xml:lang="eng">Second Wall Portion</label>
+        <lb n="B1=37" break="no"/>raṇtē kālilum mē<supplied reason="omitted">ṟ</supplied>kk’ aṭai<unclear>ya-p</unclear>
+        <lb n="B2=38"/>patiyam
 	
-	<p>
-		<lb n="A34=34"/>Iraṇṭu <unclear>2</unclear> nilattilum <gap reason="illegible" quantity="6" unit="character"/>
-		<lb n="A35=35" break="no"/><unclear>kiṉ</unclear> <gap reason="illegible" quantity="1" unit="character"/> ñ-ñilattuḷ teṟk’ aṭaiya <gap reason="illegible" quantity="3" unit="character"/>
-		<lb n="A36=36" break="no"/>ki<unclear>ṉ</unclear> n<choice><orig>i</orig><reg>ī</reg></choice>r-nilam Iraṇṭē kāl
-	
-		Iv-vi
-		<milestone type="pagelike" n="B" unit="zone" break="no"/>
-		<label xml:lang="eng">Second Wall Portion</label>
-		<lb n="B1=37" break="no"/>raṇtē kālilum mē<supplied reason="omitted">ṟ</supplied>kk’ aṭai<unclear>ya</unclear>-<supplied reason="lost">p</supplied>
-		<lb n="B2=38"/><unclear>p</unclear>atiyam
-	
-		<list>
-			<item>
-				tiru-vāvaṭu-tuṟai Āḷvā<unclear>r</unclear>k
-				<lb n="B3=39" break="no"/>ku pāṭuvār iruvar Iraṇṭu can=tiyum pāṭa <gap reason="illegible" quantity="1" unit="character"/>
-				<lb n="B4=40"/><unclear>A</unclear>ṟu māvum
-			</item>
-			<item>
-				t<unclear>i</unclear>ru-nan=ta-vāṉam tiru-tali <unclear>ṉā</unclear> 
-				<lb n="B5=41"/><gap reason="illegible" quantity="1" unit="character"/> ṟai<unclear>ppan</unclear> iruvarkku Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice><unclear>ḻ</unclear>ai nā<supplied reason="lost">lu</supplied> māvu
-				<lb n="B6=42" break="no"/>m				
-			</item>
-			
-		</list>
+        <list>
+            <item>
+                tiru-vāvaṭu-tuṟai Āḷvā<unclear>r</unclear>k
+                <lb n="B3=39" break="no"/>ku pāṭuvār iruvar Iraṇṭu can=tiyum pāṭa A
+                <lb n="B4=40" break="no"/>ṟu māvum
+            </item>
+            <item>
+                t<unclear>i</unclear>ru-nan=ta-vāṉam tiru-<unclear>ta</unclear> <gap reason="lost" quantity="1" unit="character"/> I
+                <lb n="B5=41" break="no"/>ṟaippār iruvarkku Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice><unclear>ḻ</unclear>ai nā<supplied reason="lost">lu</supplied> māvu
+                <lb n="B6=42" break="no"/>m				
+            </item>
+            
+        </list>
 		
 	</p>
 	<p>
@@ -214,10 +209,22 @@
 <div type="apparatus">
 	
 	<listApp>
-		<app loc="13">
-			<lem><supplied reason="lost">kuṭu</supplied>ppat’ āka</lem>
-			<note>There might not be enough space to accomodate 2 characters. Restore alternatively as <foreign><supplied reason="lost">ku</supplied><supplied reason="omitted">ṭu</supplied>ppat’ āka</foreign>.</note>
-		</app>
+		
+	    <app loc="11">
+	        <lem>Ivv-iraṇ<lb n="A12=12" break="no"/>ṭu <gap reason="illegible" quantity="1" unit="character"/></lem>
+	        <note>The illegible, that is undeciphered, character looks like a <foreign>kāl</foreign> or a <foreign>daṇḍa</foreign>. See also line 34.</note>
+	    </app>
+	  	    
+	    <app loc="22">
+	        <lem>veḷḷa<unclear>ṟu</unclear>-t <unclear>ta</unclear>ṉi</lem>
+	        <note>Alternatively <foreign>veḷḷ Atcuṇi</foreign>.</note>
+	    </app>
+	    
+	    <app loc="34">
+	        <lem>Iraṇṭu <gap reason="illegible" quantity="1" unit="character"/></lem>
+	        <note>The illegible, that is undeciphered, character looks like a <foreign>kāl</foreign> or a <foreign>daṇḍa</foreign>. See also line 11.</note>
+	    </app>
+	    
 	</listApp>
 </div>
 	
@@ -314,7 +321,7 @@
 <div type="bibliography">
 				
 	<p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/111).</p>	
-	<p>Edited here by Renato Davalos, Emmanuel Francis and Margherita Trento (2024), based on photos (EFEO, 2006; E. Francis, 2024)</p>
+	<p>Edited here by Renato Davalos, Emmanuel Francis, Babu N. Ramaswamy and Margherita Trento (2024), based on photos (EFEO, 2006; E. Francis, 2024) and autopsy (August 2024).</p>
 	
 	
 	<!--<listBibl type="primary">
