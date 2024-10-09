@@ -100,9 +100,9 @@
     
 <lg n="1" met="āciriyappā">
     <l n="1">pukaḻ cūḻn=<unclear>ta</unclear> puṇari Akaḻ <lb n="A2=2"/> cūḻnta puviyil-p</l>
-    <l n="2">...</l>
+    <l n="2">... <lb n="A3-27=3-27"/> ...</l>
     
-    <l n="40"><milestone type="pagelike" n="B" unit="zone"/><label xml:lang="eng">Second Wall Portion</label><lb n="B1=28"/>...</l>
+    <l n="40"><milestone type="pagelike" n="B" unit="zone"/><label xml:lang="eng">Second Wall Portion</label><lb n="B1-19=28-47"/>...</l>
     <l n="41">...</l>
     <l n="86">Ēḻicai vallapi <supplied reason="lost">Ēḻ-laka</supplied>m-u⌈<lb n="B20=48" break="no"/><supplied reason="lost">ṭaiyāḷ</supplied></l>
     <l n="87">vāḻikai mala<supplied reason="omitted">r</supplied>n=t’ i<choice><orig>n</orig><reg>ṉ</reg></choice>it’ iruppa Ūḻiyum</l>
@@ -111,7 +111,7 @@
     
 <p>
     kō-v-irāca-kēca<hi rend="grantha">ri-pa<choice><sic>t</sic><corr>n</corr></choice>mar-ā</hi>na <hi rend="grantha">tri-bhu</hi>vana-<hi rend="grantha">cakravartti</hi>kaḷ <hi rend="grantha">śrī</hi>-kulōttuṅka-cōḻa⌈
-    <lb n="B22=50" break="no"/>-tēvarkku yāṇṭu <num value="47">4 <g type="numeral">10</g> 7</num> kaṟkaṭa-nāyaṟṟu-<hi rend="grantha">p pū<unclear>r</unclear>vva-pakṣa</hi>ttu-<hi rend="grantha"><unclear>p</unclear></hi> <gap reason="lost" quantity="5" unit="character" precision="low"/>
+    <lb n="B22=50" break="no"/>-tēvarkku yāṇṭu <num value="47">4 <g type="numeral">10</g> 7</num> kaṟkaṭaka-nāyaṟṟu-<hi rend="grantha">p pū<unclear>r</unclear>vva-pakṣa</hi>ttu-<hi rend="grantha"><unclear>p</unclear></hi> <gap reason="lost" quantity="5" unit="character" precision="low"/>
     <lb n="B23=51"/>nāyaṟṟu-k-kiḻamai peṟṟa Attatt<choice><sic>i</sic><corr>u</corr></choice> nāḷ    
 </p>
     
@@ -122,18 +122,20 @@
     <lb n="B26=54"/>kuṟai v-aṟa-k kūṭi y-irun=tu Ivv-ūr <hi rend="grantha">sabhai</hi>kku-c camain=ta piṟān=tūr caṅkara-nārāyaṇa-<hi rend="grantha">bha</hi>ṭ
     <lb n="B27=55" break="no"/>ṭa<choice><orig>n</orig><reg>ṉ</reg></choice>um
     ...		
-    <lb n="B31=59" break="no"/>...
+    <lb n="B28-31=54-59"/>...
+    
     <milestone type="pagelike" n="C" unit="zone"/><label xml:lang="eng">Third Wall Portion</label>
     <lb n="C1=60"/>...
-    <lb n="C23=82"/>...
+    <lb n="C2-23=61-82"/>...
     <lb n="C24=83"/>... caṅkara<choice><orig>n</orig><reg>ṉ</reg></choice> civa-lōka-nāyaka<choice><orig>n</orig><reg>ṉ</reg></choice>-āṉa kaṅkai-koṇṭa
     <lb n="C25=84" break="no"/><add place="left">cō</add>ḻa-Anan=ta<unclear>p</unclear>ā<supplied reason="lost">lar</supplied> Uṭaiyār tiruvāṭutuṟai Uṭaiyār tiru-maṭai-viḷākattu-c cev<unclear>v</unclear><supplied reason="lost">vi</supplied>
     <lb n="C26=85" break="no"/>tta civa-lōka-nāyaka<choice><orig>n</orig><reg>ṉ</reg></choice> maṭattil It-tēvar tiru-nāḷil ...
         
-    <lb n="C32=91"/>...
+    <lb n="C27-32=86-91"/>...
+    
     <milestone type="pagelike" n="D" unit="zone"/><label xml:lang="eng">Fourth Wall Portion</label>
     <lb n="D1=92"/>...    
-    <lb n="D27=118"/>...
+    <lb n="D2-27=93-118"/>...
 </p>
 		
 </div>
@@ -159,16 +161,26 @@
 	
 <div type="translation" resp="part:emfr">
 	
-	<p n="1">Prosperity! Fortune!</p>
-	
-	<p n="49-51">47th year of the king Rājakesarivarman, the emperor of the three worlds, the glorious king Kulottuṅga,</p>
-	
-	<p n="1-49">who graciously sat with majesty ... [<foreign>meykkīrtti</foreign> of Kulottuṅga I Cōḻa]</p>
-	
-	<p>...</p>
-	
-</div>
-	
+    <p n="1">Prosperity! Fortune!</p>
+    
+    <p n="49-51">On the day of <foreign>attam</foreign>,<note>Sanskrit <foreign>hasta</foreign>, the 13th <foreign>nakṣatra</foreign>.</note> which coincides with a Sunday, ..., 47th year of the king Rājakesarivarman, the emperor of the three worlds, the glorious king Kulottuṅga,</p>
+    
+    <p n="1-49">who graciously sat with majesty ... [<foreign>meykkīrtti</foreign> of Kulottuṅga I Cōḻa]</p>
+    
+    <p n="51">
+        We, the members of the great assembly of ...
+        having gathered ... and sitting
+        ...
+    </p>
+    
+    <p>...</p>
+    
+     <p n="83-85">
+         ...
+         in the <foreign>maṭha</foreign> <supplied reason="subaudible">named</supplied> after Civalōkanāyakaṉ, that Kaṅkai Koṇṭa Cōḻa Ananta Pālar <hi rend="italic">alias</hi> Civalōkanāyakaṉ had made in the  premises of the glorious temple <supplied reason="explanation"><foreign>tiru-maṭai-viḷākam</foreign></supplied> of the Lord, the Lord of Tiruvāṭuturai ...
+     </p>
+    
+</div>	
 	
 <!--<div type="commentary">	
 	
@@ -176,10 +188,9 @@
 	
 <div type="bibliography">
 				
-	<p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/148).</p>	
-	<p>Edited here by Emmanuel Francis, based on photos (<ref target="https://didomena.ehess.fr/concern/data_sets/2227mz94j">E. Francis, 2024</ref>).</p>
-    <p>ASI transcript and estampage, if any, yet to be consulted.</p>
-	
+    <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/148).</p>	
+    <p>Edited here by Emmanuel Francis, based on photos (<ref target="https://didomena.ehess.fr/concern/data_sets/2227mz94j">E. Francis, 2024</ref>).</p>
+    <p>ASI transcript and estampage, if any, yet to be consulted.</p>	
 	
 	<!--<listBibl type="primary">
 		
