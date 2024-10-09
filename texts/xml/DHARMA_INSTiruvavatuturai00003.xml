@@ -299,7 +299,8 @@
 	
 <div type="bibliography">
 		
-		<p>
+		<p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1986-1987/A/1986-1987/65).</p>
+    <p>
 			Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 25). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling, and, in the case of this specific inscription, confused most lines of the verso of the plate (likely because of the inserted invocation).			
 		</p>
 		
@@ -317,7 +318,12 @@
 						
 		</listBibl>
 		<listBibl type="secondary">
-			<bibl/><!-- one <bibl/> per item of secondary bibliography -->
+			<bibl>
+			<ptr target="bib:ARIE1986-1987"/>
+			<citedRange unit="page">28</citedRange>
+			<citedRange unit="appendix">A/1986-1987</citedRange>
+			<citedRange unit="item">65</citedRange>
+		</bibl>
 		</listBibl>
 </div>
 </body>
