@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			    <title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of Parakesarivarman Rājendra Cōḻa, year <unclear>2</unclear>8</title>
+			    <title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of Parakesarivarman Rājendra Cōḻa, year 38</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>					
 					<persName ref="part:emfr">
@@ -101,40 +101,56 @@
 	<lg n="1" met="āciriyappā">
 		<l n="1"><lb n="A2=2"/>tiruma<supplied reason="omitted">ṉ</supplied>ṉi vaḷara Iru-nila-ma<lb n="A3=3" break="no"/>ṭantaiyum</l>
 		<l n="2">... <lb n="A4-34=4-34"/> ...</l>
-	    
-	    <l n="75"><lb n="A35=35"/>...</l>
+		
+		<l n="49">...<lb n="A37=37"/>...</l>
+		
+		<l n="54">puṉaimaṇi <milestone type="pagelike" n="B" unit="zone" break="no"/><label xml:lang="eng">Moulding Portion</label><lb n="B1=38" break="no"/>-p putavamu<supplied reason="omitted">m</supplied> ka<choice><orig>n</orig><reg>ṉ</reg></choice>amaṇ<unclear>i</unclear>-k katavamun</l>
+		<l n="55">...</l>
+		
+		<l n="66">...</l>
 	</lg>
 	
     <p>
-        <milestone type="pagelike" n="B" unit="zone"/><label xml:lang="eng">Moulding Portion</label>
-        <lb n="B1=36"/>...
-        
-        <lb n="B6=41"/>kēcari-panma<unclear>r</unclear>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a Uṭaiyār <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-cōḻa-<hi rend="grantha">de</hi>varkku
-        yāṇṭu <num value="28"><unclear>2</unclear> <g type="numeral">10</g> 8</num>-Āvatu
+        mā-p-poru taṇṭāṟ koṇṭa
+        kō-p-para⌈
+        <lb n="B6=43" break="no"/>-kēcari-panma<unclear>r</unclear>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a Uṭaiyār <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-cōḻa-<hi rend="grantha">de</hi>varkku
+        yāṇṭu <num value="38"><unclear>3</unclear> <g type="numeral">10</g> 8</num>-Āvatu
     </p>
     
     <p>
-        U<supplied reason="omitted">y</supplied>ya<unclear>k</unclear>koṇṭār-vaḷanāṭṭu-t tiru-vaḻuntūr-nāṭṭu mēṟ ... 
-
-        <milestone type="pagelike" n="C" unit="zone"/><label xml:lang="eng">...</label>
-        <lb n="C1"/>...
-        
-        <milestone type="pagelike" n="D" unit="zone"/><label xml:lang="eng">...</label>
-        <lb n="D1"/>...
+    	U<supplied reason="omitted">y</supplied>ya<unclear>k</unclear>koṇṭār-vaḷanāṭṭu-t tiru-vaḻuntūr-nāṭṭu mēṟ
+    	
+    	<milestone type="pagelike" n="C" unit="zone" break="no"/><label xml:lang="eng">...</label>
+    	<lb n="C1" break="no"/>...
+    	
+    	<milestone type="pagelike" n="D" unit="zone"/><label xml:lang="eng">...</label>
+    	<lb n="D1"/>...
+    	
+    	<milestone type="pagelike" n="E" unit="zone"/><label xml:lang="eng">...</label>
+    	<lb n="E1"/>...
+    	
+    	<milestone type="pagelike" n="F" unit="zone"/><label xml:lang="eng">Wall Portion</label>
+    	<lb n="F1"/>Iṟuppittum cantirāti
+    	<lb n="F2" break="no"/>ttaval Iṟai-y-ili Anupavi
+    	<lb n="F3" break="no"/>kka peṟuvat’ āka Iṟai-y-ili cey
+    	<lb n="F4" break="no"/>tu kuṭuttōm
+    	caṇṭē<hi rend="grantha">śva</hi>ra-tēva
+    	<lb n="F5" break="no"/>rkku mē<choice><orig>r</orig><reg>ṟ</reg></choice>-k-kiḷi-maṅkalattu <hi rend="grantha">sabhai</hi>
+    	<lb n="F6" break="no"/>yōm
     </p>
 		
 </div>	
 	
-<!--<div type="apparatus">
+<div type="apparatus">
 	
 	<listApp>
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:ARIE1924-1925">...</rdg>
-			<note><ptr target="bib:ARIE1924-1925"/>...</note>
+		<app loc="43">
+			<lem><num value="38"><unclear>3</unclear> <g type="numeral">10</g> 8</num></lem>
+			<rdg source="bib:ARIE1924-1925"><num value="38">3 <g type="numeral">10</g> 8</num></rdg>
+			<note>The reading <foreign><num value="28"><unclear>2</unclear> <g type="numeral">10</g> 8</num></foreign> is also possible.</note>
 		</app>
 	</listApp>
-</div>-->
+</div>
 	
 	
 <div type="translation" resp="part:emfr">
