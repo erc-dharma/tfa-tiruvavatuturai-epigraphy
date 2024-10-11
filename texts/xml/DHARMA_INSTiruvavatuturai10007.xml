@@ -101,7 +101,7 @@
         tiru-vāṭutuṟai-k kaṟ
                 <lb n="4" break="no"/>ṟaḷi-p-picca<choice><orig>n</orig><reg>ṉ</reg></choice>-ēṉ ciṟṟā
                 <lb n="5" break="no"/>ṉaiccūr <choice><orig>n</orig><reg>ṉ</reg></choice>āṉ vilai-k
-                <lb n="6"/>kara-koṇṭa
+                <lb n="6" break="no"/>-ka<unclear>r</unclear>a-koṇṭa
         <list>
             
             <item>
@@ -141,16 +141,19 @@
 <div type="apparatus">			
     <listApp>
              
+        <app loc="6">
+            <lem>°ka<unclear>r</unclear>a°</lem>
+            <rdg source="bib:SrinivasaRao1967_01">°kaṟa°</rdg>
+        </app>
+             
         <app loc="14">
             <lem>kālu<choice><orig>mm</orig><reg>m</reg></choice></lem>
             <rdg source="bib:SrinivasaRao1967_01">kālum</rdg>
-            <note></note>
         </app>
              
         <app loc="17">
             <lem>°<hi rend="grantha">r<choice><sic>i</sic><corr>a</corr></choice>kṣai</hi></lem>
             <rdg source="bib:SrinivasaRao1967_01">°<hi rend="grantha">rakṣai</hi></rdg>
-            <note></note>
         </app>
         
     </listApp>
