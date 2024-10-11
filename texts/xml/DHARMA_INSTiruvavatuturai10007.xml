@@ -97,21 +97,64 @@
     </p>
     
     <p>
-        ...
-        <lb n="4" break="no"/>...
-    </p>    
+        
+        tiru-vāṭutuṟai-k kaṟ
+                <lb n="4" break="no"/>ṟaḷi-p-picca<choice><orig>n</orig><reg>ṉ</reg></choice>-ēṉ ciṟṟā
+                <lb n="5" break="no"/>ṉaiccūr <choice><orig>n</orig><reg>ṉ</reg></choice>āṉ vilai-k
+                <lb n="6"/>kara-koṇṭa
+        <list>
+            
+            <item>
+                 mēṟpula
+                <lb n="7" break="no"/>ttu vaṭakk’ aṭaiya-t 
+                tiru-p
+                <lb n="7" break="no"/>-patiyam pāṭuvār oruvaṟ
+                <lb n="9" break="no"/>ku Aṟu māvum
+            </item>
+            <item>   
+                Itaṉ te
+                <lb n="10" break="no"/>ṟk’ aṭaiya-k kāṟ cey tiru
+                <lb n="11" break="no"/>-mañcaṉam aṭṭuvārkku kālu 
+                <lb n="12" break="no"/>m
+            </item>
+            <item>   
+                Itaṉ teṟk’ aṭaiya-t tiru
+                <lb n="13" break="no"/>-Uvaccakaḷukku tāraṇi-paṭakattuk=ku
+                <lb n="14"/>kālu<choice><orig>mm</orig><reg>m</reg></choice>
+            </item>
+        </list>
+        
+         ā<add place="below">ka</add>
+        
+        <choice><orig>ṉ</orig><reg>n</reg></choice>ivantañ cey
+        <lb n="15" break="no"/>tu kuṭuttēṉ kaṟṟaḷi-p-pi
+        <lb n="16" break="no"/>cca<choice><orig>n</orig><reg>ṉ</reg></choice>-ē<choice><orig>n</orig><reg>ṉ</reg></choice>
+    </p>
+    
+    <p>
+        Itu <hi rend="grantha">panmāhe</hi>
+        <lb n="17" break="no"/><hi rend="grantha">śvara-r<choice><sic>i</sic><corr>a</corr></choice>kṣai</hi>    
+    </p>
     
 </div>
 				
-<!--<div type="apparatus">			
-			<listApp>
-				<app loc="line">
-					<lem></lem>
-					<rdg></rdg>
-					<note></note>
-				</app>
-			</listApp>
-</div>-->
+<div type="apparatus">			
+    <listApp>
+             
+        <app loc="14">
+            <lem>kālu<choice><orig>mm</orig><reg>m</reg></choice></lem>
+            <rdg source="bib:SrinivasaRao1967_01">kālum</rdg>
+            <note></note>
+        </app>
+             
+        <app loc="17">
+            <lem>°<hi rend="grantha">r<choice><sic>i</sic><corr>a</corr></choice>kṣai</hi></lem>
+            <rdg source="bib:SrinivasaRao1967_01">°<hi rend="grantha">rakṣai</hi></rdg>
+            <note></note>
+        </app>
+        
+    </listApp>
+</div>
 				
 <div type="translation" resp="part:emfr">
 			
@@ -123,10 +166,22 @@
         3rd year of the king Parakesarivarman.
     </p>
     
-    <p>
-        ...
+    <p n="3-16">
+        So that there be <supplied reason="explanation"><foreign>āka</foreign></supplied>,
+        <supplied reason="subaudible">from the land</supplied>, which I, Kaṟṟaḷi Piccaṉ of Tiruvāṭutuṟai have bought in Ciṟṟāṉaiccūr,
+        <list>
+            <item>where it reaches to the north in Mēṟpulam / in the western rice field, six <foreign>mā</foreign>s for one person singing the <foreign>tiruppatiyam</foreign>,</item>
+            <item>where it reaches south of this, one quarter ... for the one who supplies <supplied reason="subaudible">liquids for</supplied> the glorious bath,</item>
+            <item>and, where it reaches south of this, one quarter ... for the glorious drummer,</item>
+        </list>
+        
+        I have made and given a permanent endowment, I, Kaṟṟaḷi Piccaṉ.
+        
     </p>
     
+    <p n="16-17">
+        This <supplied reason="subaudible">is under</supplied> the protection of the many great devotees of Śiva.
+    </p>
 </div>
     
 <!--<div type="commentary">
