@@ -112,11 +112,11 @@
 	
 	<p>
 		ne
-		<lb n="11" break="no"/>y <choice><orig>ṉ</orig><reg>n</reg></choice>āḻiyum ...	
+		<lb n="11" break="no"/>y <choice><orig>ṉ</orig><reg>n</reg></choice>āḻiyum teṉṉāḻi<supplied reason="lost">yu</supplied>m <choice><unclear>v</unclear><unclear>p</unclear></choice>añca-kā <gap reason="illegible" quantity="1" unit="character"/>	
 		<lb n="12"/>Uṭpaṭṭu <hi rend="grantha">sna</hi>maṉa-<hi rend="grantha">dravya</hi>m ṉā-ṉāḻi <unclear>c</unclear>e 
-		<lb n="13" break="no"/>...
-		<lb n="14" break="no"/>...
-		<lb n="15" break="no"/>...
+		<lb n="13" break="no"/>ytum Ācā<reg>r</reg>yya-pū<hi rend="grantha"><unclear>jai</unclear></hi> kāl <gap reason="illegible" quantity="2" unit="character"/>
+		<lb n="14" break="no"/><unclear>vai</unclear>k=ku kālum kalacatt<supplied reason="lost">i</supplied>ṉ kaḻaṟṟ <gap reason="illegible" quantity="1" unit="character"/>
+		<lb n="15"/>nellu nāṟ ṟūṇikku māk ku <gap reason="illegible" quantity="1" unit="character"/>
 		<lb n="16" break="no"/>ta poṉ Eṇ kaḻañcu
 	</p>
 	
@@ -171,8 +171,36 @@
         39th year of the king Parakesarivarman who took Maturai and Īḻam.
     </p>
     
-    <p>
-        ...
+    <p n="3-8">
+        There should be service of food-offering with rice <gap reason="ellipsis"/> at every <foreign>caṅkirānti</foreign><note>Sanskrit Saṃkrānti.</note> for the lord of Tiruvāvaṭutuṟai, <supplied reason="subaudible">at the initiative of</supplied> Nakkaṉ <supplied reason="subaudible">of</supplied> Kaṇṇipuliyūr, lord of Taḷikkaṭampūr in Kārnāṭu, <supplied reason="subaudible">which is</supplied> a <foreign>devadāna</foreign> on the northern bank.
+    </p>
+      
+    <p n="9-10">
+        There should be ...
+    </p>
+      
+    <p n="10-16">
+        <supplied reason="subaudible">There are</supplied> eight <foreign>kaḻañcu</foreign>s of gold ...
+    </p>
+      
+    <p n="16-21">
+        The land bought for this gold <supplied reason="subaudible">is</supplied>
+        
+        <list>
+            <item>west of ...,</item>
+            <item>north of ...</item>
+            <item>east of ...</item>
+            <item>south of ...</item>
+        </list>
+        
+    </p>
+      
+    <p n="21-25">
+        <supplied reason="lost">For</supplied> the three <foreign>mā</foreign>s of land <supplied reason="subaudible">comprised within these boundaries</supplied> we have given a permanent endowment as long as the moon and the sun, <supplied reason="subaudible">that is</supplied> Kaṟṟaḷi Piccaṉ and the temple officers, we such persons.
+    </p>
+      
+    <p n="25-26">
+        This <supplied reason="subaudible">is under</supplied> the protection of the many great devotees of Śiva.
     </p>
     
 </div>
