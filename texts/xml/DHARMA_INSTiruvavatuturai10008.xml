@@ -94,7 +94,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
             	
 	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">Wall Portion</label>
+		<milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">Wall</label>
 		<lb n="A1=1"/><supplied reason="lost">svasti śrī</supplied>
 	</ab>
 	
@@ -104,7 +104,7 @@
 		
 		<l n="49">...<lb n="A37=37"/>...</l>
 		
-		<l n="54">puṉaimaṇi <milestone type="pagelike" n="B" unit="zone" break="no"/><label xml:lang="eng">Moulding Portion</label><lb n="B1=38" break="no"/>-p putavamu<supplied reason="omitted">m</supplied> ka<choice><orig>n</orig><reg>ṉ</reg></choice>amaṇ<unclear>i</unclear>-k katavamun</l>
+		<l n="54">puṉaimaṇi <milestone type="pagelike" n="B" unit="zone" break="no"/><label xml:lang="eng">Moulding</label><lb n="B1=38" break="no"/>-p putavamu<supplied reason="omitted">m</supplied> ka<choice><orig>n</orig><reg>ṉ</reg></choice>amaṇ<unclear>i</unclear>-k katavamun</l>
 		<l n="55">...</l>
 		
 		<l n="63"><lb n="B4=41"/>kalaitta-k kōrpukaḻ-t talai-t takkōlamum</l>
@@ -123,24 +123,76 @@
     <p>
     	U<supplied reason="omitted">y</supplied>ya<unclear>k</unclear>koṇṭār-vaḷanāṭṭu-t tiru-vaḻuntūr-nāṭṭu mēṟ
     	
-    	<milestone type="pagelike" n="C" unit="zone" break="no"/><label xml:lang="eng">Moulding Portion</label>
-    	<lb n="C1=44" break="no"/>kiḷi-maṅkalattu <hi rend="grantha">sabhai</hi>yōm In-nāṭṭu tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu <hi rend="grantha">śrī</hi>-tiru-vāvaṭutuṟai <gap reason="illegible" quantity="3" unit="character"/> eḻunt-aruḷi Irunta tiri-puvaṉa-Ātipa
-    	
-    	<milestone type="pagelike" n="D" unit="zone"/><label xml:lang="eng">Moulding Portion</label>
-    	<lb n="D1=48"/>...
-    	
-    	<milestone type="pagelike" n="E" unit="zone"/><label xml:lang="eng">Moulding Portion</label>
-    	<lb n="E1"/>...
-    	
-    	<milestone type="pagelike" n="F" unit="zone"/><label xml:lang="eng">Wall Portion</label>
-    	<lb n="F1"/>Iṟuppittum cantirāti
-    	<lb n="F2" break="no"/>ttaval Iṟai-y-ili Anupavi
-    	<lb n="F3" break="no"/>kka peṟuvat’ āka Iṟai-y-ili cey
-    	<lb n="F4" break="no"/>tu kuṭuttōm
-    	caṇṭē<hi rend="grantha">śva</hi>ra-tēva
-    	<lb n="F5" break="no"/>rkku mē<choice><orig>r</orig><reg>ṟ</reg></choice>-k-kiḷi-maṅkalattu <hi rend="grantha">sabhai</hi>
-    	<lb n="F6" break="no"/>yōm
+    	<milestone type="pagelike" n="C" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
+    	<lb n="C1=44" break="no"/>-kiḷi-maṅkalattu <hi rend="grantha">sabhai</hi>yōm In-nāṭṭu tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu <hi rend="grantha">śrī</hi>-tiru-vāvaṭutuṟai <gap reason="illegible" quantity="3" unit="character"/> eḻunt-aruḷi Irunta tiri-puvaṉa-Ātipatiku m<choice><orig>u</orig><reg>ū</reg></choice>lapirittiyaṉ-ākiya Āti-caṇṭē<hi rend="grantha">śva</hi>ra-tēvarkku Iṟai-y-ili piramāṇa
+    	<lb n="C2=45" break="no"/>ñ ceytu kuṭutta paric’ āvatu
     </p>
+	<p>
+		mummuṭi-cōḻa-vā<supplied reason="omitted">y</supplied>kālukku vaṭakkum uḷḷi kuṭai<unclear>yē</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> cey ye<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu po kuva-p-paṭta nilam kuḻ<unclear>i Ā</unclear>yiratti nāl ni<supplied reason="omitted">la</supplied>m Arai
+	</p>
+	<p>
+		In-nilam Araikkum
+		
+		<list>
+			<item>k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pā<choice><orig>r</orig><reg>ṟ</reg></choice>k’ ellai peri
+		<lb n="C3=46" break="no"/>ya vēḷattu-p peṇtāṭṭu tūtuva<choice><orig>n</orig><reg>ṉ</reg></choice> A<unclear>ru</unclear>moḻi nilattukku mērkkum</item>
+		
+		<item>te<choice><orig>n</orig><reg>ṉ</reg></choice>-pā<choice><orig>r</orig><reg>ṟ</reg></choice>k’ ellai mēr-p-paṭiyā<unclear>ṉ</unclear>
+		nilattukku vaṭakkum</item>
+		
+		<item>mēl-pā<choice><orig>r</orig><reg>ṟ</reg></choice>47" break="no"/>laikku kiḻakkum</item>
+		
+		<item>vaṭa-pā<choice><orig>r</orig><reg>ṟ</reg></choice>k’ellai periya vēḷattu-p peṇṭāṭṭi tūtuva<choice><orig>n</orig><reg>ṉ</reg></choice> Arumoḻi nilattukku-t teṟkkum</item>
+		</list>
+		Āka 
+		
+		Iv
+    	
+    	<milestone type="pagelike" n="D" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
+    	<lb n="D1=48"/>-Icaitta peru-nānk’ ellaiyuḷḷum akapaṭṭa nilam Araikkum Inta caṇṭē<hi rend="grantha">śva</hi>ra-tēvar pakkal nā<unclear>ṅ</unclear>kaḷ koṇṭa kācu Iru-nūṟu
+	</p>
+	<p>
+		Ik-kācu Iru-nūṟum koṇṭu In-nilam Arai<unclear>yum</unclear>
+
+    	
+    	<milestone type="pagelike" n="E" unit="zone"/><label xml:lang="eng">Moulding</label>
+    	<lb n="E1=49"/>yāṇṭu <num value="38"><unclear>3</unclear> <g type="numeral">10</g> 8</num>-Āvatu mutal cantirātittaval tiru-k-koṟṟav<unclear>ā</unclear>calil pōnta kuṭimaiyum Ūr iṭu varip<unclear>pā</unclear>ṭum veṭṭi ...
+		<lb n="E2=50"/>...
+		<lb n="E1=51"/>...
+    	
+    	<milestone type="pagelike" n="F" unit="zone"/><label xml:lang="eng">Wall</label>
+    	<lb n="F1=52"/>Iṟuppittum cantirāti
+    	<lb n="F2=53" break="no"/>ttaval Iṟai-y-ili Anupavi
+    	<lb n="F3=54" break="no"/>kka peṟuvat’ āka Iṟai-y-ili cey
+    	<lb n="F4=55" break="no"/>tu kuṭuttōm
+    	caṇṭē<hi rend="grantha">śva</hi>ra-tēva
+    	<lb n="F5=56" break="no"/>rkku mē<choice><orig>r</orig><reg>ṟ</reg></choice>-k-kiḷi-maṅkalattu <hi rend="grantha">sabhai</hi>
+    	<lb n="F6=57" break="no"/>yōm
+    </p>
+	
+	<p>
+		In-nilam kallilum 
+		<lb n="F7=58"/>cempilum veṭṭi-k koḷ
+		<lb n="F8=59" break="no"/>ḷa-p peṟuvat’ āka Iṟai-y-ili-p pi<supplied reason="omitted">ra</supplied>ma
+		<lb n="F9=60" break="no"/>ṇam c<choice><sic>ai</sic><corr>ey</corr></choice>tu kuṭuttōm
+	</p>
+	<p>
+		caṇṭē<hi rend="grantha">śva</hi>ra
+		<lb n="F10=61" break="no"/>-tēvarkku mē<supplied reason="omitted">ṟ</supplied>-k-kiḷimaṅkalattu
+		<lb n="F11=62"/>In-nilam Uṭaiyār rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>
+		<lb n="F12=63" break="no"/>-cōḻa-tēvar<supplied reason="omitted">k</supplied> kuru-tēvar tiru-nāmam
+		<lb n="F13=64"/>sa<ref>r</ref>vva-tēvan tiru-maṭattē Itil-p p<unclear>ō</unclear>
+		<lb n="F14=65"/>nta pōkam koṇṭu śrī-<supplied reason="omitted">pa</supplied>nmāhe<unclear>śva</unclear><unclear>ra</unclear>
+		<lb n="F15=66"/>kku ni c<unclear>i</unclear> ca ṟa p pa ṭi Amutu c<choice><sic>ai</sic><corr>ey</corr></choice>
+		<lb n="F16=67"/>t-aruḷa kututtōm
+		mē<choice><orig>r</orig><reg>ṟ</reg></choice>-k-kiḷima
+		<lb n="F17=68" break="no"/>ṅkalattu <hi rend="grantha">sabhai</hi>yōm
+	</p>
+	
+	<p>
+		Ip
+		<lb n="F18=69" break="no"/>...
+	</p>
 		
 </div>	
 	
@@ -148,6 +200,12 @@
 	
 	<listApp>
 		<app loc="43">
+			<lem><num value="38"><unclear>3</unclear> <g type="numeral">10</g> 8</num></lem>
+			<rdg source="bib:ARIE1924-1925"><num value="38">3 <g type="numeral">10</g> 8</num></rdg>
+			<note>The reading <foreign><num value="28"><unclear>2</unclear> <g type="numeral">10</g> 8</num></foreign> is also possible.</note>
+		</app>
+		
+		<app loc="49">
 			<lem><num value="38"><unclear>3</unclear> <g type="numeral">10</g> 8</num></lem>
 			<rdg source="bib:ARIE1924-1925"><num value="38">3 <g type="numeral">10</g> 8</num></rdg>
 			<note>The reading <foreign><num value="28"><unclear>2</unclear> <g type="numeral">10</g> 8</num></foreign> is also possible.</note>
