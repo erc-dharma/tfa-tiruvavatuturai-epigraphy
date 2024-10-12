@@ -10,13 +10,6 @@
 			<titleStmt>
 				<title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of Parakesarivarman, year 36</title>
 				<respStmt>
-					<resp>EpiDoc Encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:reda">
 						<forename>Renato</forename>
@@ -25,12 +18,23 @@
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
+					</persName>					
+					<persName ref="part:rama">
+						<name>N. Ramaswamy</name>
 					</persName>
 					<persName ref="part:matr">
 						<forename>Margherita</forename>
 						<surname>Trento</surname>
 					</persName>
 				</respStmt>
+				<respStmt>
+					<resp>EpiDoc Encoding</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
@@ -369,6 +373,7 @@
 				
 	<p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/111).</p>	
 	<p>Edited here by Renato Davalos, Emmanuel Francis, Babu N. Ramaswamy and Margherita Trento (2024), based on photos (EFEO, 2006; E. Francis, 2024) and autopsy (August 2024).</p>
+	<p>ASI transcript and estampage, if any, yet to be consulted.</p>
 	
 	
 	<!--<listBibl type="primary">
