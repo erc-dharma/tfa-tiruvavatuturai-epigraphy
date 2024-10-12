@@ -132,7 +132,7 @@
     <p>
         Ivv-iraṇ
         <lb n="A12=12" break="no"/>ṭu <gap reason="illegible" quantity="1" unit="character"/> <hi rend="grantha">sabhai</hi>yār <unclear>i</unclear>ṭaiyum can=tirātitta
-        <lb n="A13=13" break="no"/>-val Iṟai-kāppat’ āka-p poṉ koṇ		
+        <lb n="A13=13" break="no"/>-val Iṟai kāppat’ āka-p poṉ koṇ		
         <lb n="A14=14" break="no"/>ṭ<unclear>u</unclear> Iṟai-Ili <unclear>cey</unclear>ta nilattukk’ el
         <lb n="A15=15" break="no"/>l<unclear>ai</unclear>
         
@@ -153,7 +153,7 @@
             
             <item>
                 mē<unclear reason="eccentric_ductus">l</unclear>-pā<choice><orig>l</orig><reg>ṟ</reg></choice>kk’ ellai
-                <lb n="A22=22"/>tiru-vāva<unclear>ṭu</unclear>-tuṟai Āḷvārkku veḷḷa<unclear>ṟu</unclear>-t <unclear>ta</unclear>ṉi
+                <lb n="A22=22"/>tiru-vāva<unclear>ṭu</unclear>-tuṟai Āḷvārkku veḷḷ<choice><sic>a</sic><corr>ā</corr></choice><unclear>ṟu</unclear>-t <unclear>ta</unclear>ṉi
                 <lb n="A23=23"/>Utta<unclear>ma</unclear>-c<choice><sic>a</sic><corr>ā</corr></choice>mavētam vallār pir<choice><sic>a</sic><corr>ā</corr></choice>maṇar tēva
                 <lb n="A24=24" break="no"/>r muṉ Uṇpataṟku vilai koṇṭu kalluvicca
                 <lb n="A25=25"/>nilattukku kiḻakkum
@@ -161,7 +161,7 @@
             
             <item>
                 vaṭa-pā<choice><orig>l</orig><reg>ṟ</reg></choice>k’ ellai pē
-                <lb n="A26=26" break="no"/>rum peru-<unclear>vaḻik</unclear>kum tēvar maṇal-iṭṭukkum civa
+                <lb n="A26=26" break="no"/>rum peru-<unclear>vaḻik</unclear>kum tēvar maṇal-<choice><orig>i</orig><reg>ī</reg></choice>ṭṭukkum civa
                 <lb n="A27=27" break="no"/><supplied reason="lost">paṭu</supplied> <unclear>tiru</unclear>-nan=ta-vāṉattukku teṟku<choice><orig>mm</orig><reg>m</reg></choice>	
             </item>
         </list>
@@ -169,15 +169,19 @@
     </p>
 	
     <p>		
-        <lb n="A28=28" break="no"/>I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ā<unclear>ṉ</unclear>k’ <supplied reason="lost">e</supplied>llaiyilum naṭuvu-paṭṭa ko
+        <lb n="A28=28"/>I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ā<unclear>ṉ</unclear>k’ <supplied reason="lost">e</supplied>llaiyilum naṭuvu-paṭṭa ko
         <lb n="A29=29" break="no"/>llaiyum pu<unclear>ṉ</unclear>-ceyyum teṟk’ aṭai
         <lb n="A30=30" break="no"/>ya Ivaṉē kalluvicca n<choice><orig>i</orig><reg>ī</reg></choice><supplied reason="lost">r</supplied>-nilamum
         <lb n="A31=31"/>kalliṉa paḻaṅ-kaṭampaṉ vāyum I
         <lb n="A32=32" break="no"/>v-vāykkāl Iraṇṭu karaiyilum
         <lb n="A33=33"/>kalliṉa kollaiyum puṉ-ceyum
+    </p>
+	<p>
         <lb n="A34=34"/>Iraṇṭu <gap reason="illegible" quantity="1" unit="character"/> nilattilum kalli mayak
         <lb n="A35=35" break="no"/>kiṉa <unclear>I</unclear>ñ-ñilattuḷ teṟk’ aṭaiya mayak
         <lb n="A36=36" break="no"/>kiṉa n<choice><orig>i</orig><reg>ī</reg></choice>r-nilam Iraṇṭē kāl
+	</p>
+	<p>
         Iv-vi
         <milestone type="pagelike" n="B" unit="zone" break="no"/>
         <label xml:lang="eng">Second Wall Portion</label>
@@ -263,81 +267,78 @@
 	
 <div type="translation" resp="part:emfr">
 	
-	<p n="01"><gap reason="illegible"/></p>
+	<p n="01-02">Homage to Śiva.</p>
 	
 	<p n="02">Prosperity! Fortune!</p>
 	
 	<p n="1-3">36th year of the king Parakesarivarman, who took Maturai.</p>
 	
 	<p n="4-11">
-		For the lord <supplied reason="explanation"><foreign>āḷvār</foreign></supplied> <supplied reason="subaudible">of</supplied> the glorious Tiruvāvaṭutuṟai <supplied reason="subaudible">in</supplied> Cāttaṉūr, <supplied reason="subaudible">which is</supplied> a <foreign>brahmadeya</foreign> in the Tiraimūrnāṭu on the southern bank <supplied reason="subaudible">of the Kāvēri</supplied>,
-		<supplied reason="subaudible">there are</supplied>
-		a land obtained tax-free from <supplied reason="explanation"><foreign>iṭai</foreign></supplied> the members of the assembly <supplied reason="subaudible">of</supplied> Ciṟupuliyūr,
+		For the Lord <supplied reason="explanation"><foreign>āḷvār</foreign></supplied> <supplied reason="subaudible">of</supplied> the glorious Tiruvāvaṭutuṟai <supplied reason="subaudible">in</supplied> Cāttaṉūr, <supplied reason="subaudible">which is</supplied> a <foreign>brahmadeya</foreign> in the Tiraimūrnāṭu on the southern bank,
+		<supplied reason="subaudible">there is</supplied>
+		a land that I, Tāyaṅkaṭaṉ, lord of Vīramāṅkuṭi in the Mīraikkūṟṟam, a servant of him<note>That is, the Lord of Tiruvāvaṭutuṟai.</note>,
+		obtained tax-free from <supplied reason="explanation"><foreign>iṭai</foreign></supplied> the members of the assembly <supplied reason="subaudible">of</supplied> Ciṟupuliyūr,
 		and
-		a land made tax-fee obtained <supplied reason="subaudible">in</supplied> Ciṟṟāṉaiccūr,
-		<supplied reason="subaudible">donated by</supplied> me, Tāyaṅkaṭaṉ <supplied reason="subaudible"><foreign>tāyaṅkāṭaṉ-ēṉ</foreign><note>Syntactically, the subject of both <foreign>iṟai-ili koṇṭa</foreign> and <foreign>iṟaiyili ceyta</foreign>.</note></supplied>, lord of Vīramāṅku in the Mīraikkūṟṟam.
+		a land, obtained <supplied reason="subaudible">in</supplied> Ciṟṟāṉaiccūr, made tax-fee. 
 	</p>
 	<p n="12-27">
-		The boundaries of these lands, which are made tax-free <gap reason="ellipsis"/>, having obtained the gold <supplied reason="subaudible">from me</supplied>, so as to give<note>That is, so as to provide capital for the payment of taxes.</note>, as long as the moon, the taxes bearing upon <supplied reason="explanation"><foreign>iṭaiyum</foreign>?</supplied> the members of the assembly of these two 2<note>The number "2" is expressed twice, in letters and as a numeral.</note> <supplied reason="subaudible">villages</supplied>, are <supplied reason="subaudible">as follows</supplied>:
+		The boundaries of <supplied reason="subaudible">these</supplied> lands, made tax-free, having obtained <supplied reason="subaudible">from me</supplied> the gold deposited with <supplied reason="explanation"><foreign>iṭaiyum</foreign>?</supplied> the members of the assembly of these two <supplied reason="subaudible">villages</supplied>, so as to take care of the taxes <supplied reason="explanation"><foreign>iṟai kāppat’ āka</foreign><note>That is, so as to provide capital for the payment of taxes.</note></supplied>, as long as the moon, are <supplied reason="subaudible">as follows</supplied>:
 		
-		<list>
-			
+		<list>			
 		<item>
-			the eastern boundary is to the west of the sand dunes <supplied reason="explanation"><foreign>maṇal-iṭu</foreign></supplied> of this god and to the land of the god of the Āditya-gṛha <supplied reason="explanation"><foreign>ātittakaram</foreign></supplied><note>This appears to be the present-day Cūriyaṉār Kōyil in the village of same name, in the Tanjore district, less than 10 km west of Tiruvavāṭutuṟai.</note> of this god;
+			the eastern boundary is to the west of the sand dunes <supplied reason="explanation"><foreign>maṇal-īṭu</foreign></supplied> of this god and to the land of the god of the Āditya-gṛha <supplied reason="explanation"><foreign>ātittakaram</foreign></supplied><note>This appears to be the present-day Cūriyaṉār Kōyil in the village of same name, in the Tanjore district, less than 10 km west of Tiruvavāṭutuṟai.</note> of this god;
 		</item>
 			
 		<item>
-				the southern boundary is to the north of the Kaṭampaṉ channel which he <supplied reason="explanation"><foreign>ivaṉē</foreign><note>That is, the donor, Tāyaṅkaṭaṉ.</note></supplied> has left <supplied reason="explanation"><foreign>viṭṭa</foreign><note>That is, dug out?</note></supplied> <supplied reason="subaudible">as</supplied> boundary to the land which he obtained tax-free from the inhabitants of Ciṟṟāṉaiccūr <supplied reason="explanation"><foreign>ciṟṟāṉaiccūrār</foreign><note>That is, the <foreign>ūrār</foreign>s of Ciṟṟāṉaiccūr?</note></supplied>;
+			the southern boundary is to the north of the Kaṭampaṉ channel which he <supplied reason="explanation"><foreign>ivaṉē</foreign><note>That is, Kaṭampaṉ or the donor, Tāyaṅkaṭaṉ.</note></supplied> has given <supplied reason="explanation"><foreign>iṭṭa</foreign><note>Literally, put.</note></supplied> 
+			having dug out <supplied reason="explanation"><foreign>kalli</foreign></supplied> within the land,
+			which he obtained tax-free from the inhabitants of Ciṟṟāṉaiccūr <supplied reason="explanation"><foreign>ciṟṟāṉaiccūrār</foreign><note>That is, the <foreign>ūrār</foreign>s of Ciṟṟāṉaiccūr?</note></supplied>;
 		</item>
 			
 		<item>
-				the western boundary is to the east of the land which, after purchase <supplied reason="explanation"><foreign>vilai koṇṭu</foreign></supplied>, he had dug <supplied reason="explanation"><foreign>kalluvitta</foreign><note>That is, fitted with channels and made thus fit for cultivation?</note></supplied>, for feeding, in front of the god,<note>This phrase possibly means that the Sāmaveda reciters are fed in front of the god.</note> the Brahmins who are the matchlessly <supplied reason="explanation"><foreign>taṉi</foreign></supplied> expert in the <unclear>Uttara</unclear>-Sāmaveda in the Veḷḷāṟu <supplied reason="subaudible">area</supplied> for the Lord of Tiruvāvaṭutuṟai;
-		</item>			
+			the western boundary is to the east of the land which, after purchase <supplied reason="explanation"><foreign>vilai koṇṭu</foreign></supplied>, he had dug <supplied reason="explanation"><foreign>kalluvitta</foreign><note>That is, dug with channels and made thus fit for cultivation?</note></supplied>, for feeding, in front of the god,<note>This phrase possibly means that the Sāmaveda reciters are fed in front of the god.</note> the Brahmins who are the matchlessly <supplied reason="explanation"><foreign>taṉi</foreign></supplied> expert in the <unclear>Uttama</unclear>-Sāmaveda in the Veḷḷāṟu <supplied reason="explanation"><foreign>veḷḷ<choice><sic>a</sic><corr>ā</corr></choice><unclear>ṟu</unclear></foreign>?</supplied> <supplied reason="subaudible">area</supplied> for the Lord of Tiruvāvaṭutuṟai;
+		</item>
+			
 		<item>
-				the northern boundary is to the south of the departing <supplied reason="explanation"><foreign>pērum</foreign>?</supplied> great road,  of the sand dunes <supplied reason="explanation"><foreign>maṇal-iṭu</foreign></supplied> of the god and of the glorious flower garden <supplied reason="subaudible">named</supplied> Civapaṭu.
+			the northern boundary is to the south of the departing <supplied reason="explanation"><foreign>pērum</foreign>?</supplied> great road, of the sand dunes <supplied reason="explanation"><foreign>maṇal-īṭu</foreign></supplied> of the god and of the glorious flower garden <supplied reason="subaudible">named</supplied> Civapaṭu.
 		</item>
 			
 		</list>		
 	</p>
 	
-	<p n="27-34">
-		In these two 2<note>The number "2" is expressed twice, in letters and as a numeral.</note> lands, 
-		comprised within these four boundaries,
+	<p n="27-33">
+		Comprised within these four boundaries,
 		<supplied reason="subaudible">there are</supplied>
 		sylvan tracts, dry-land, and wet-land, bordering on the south, which he had dug <supplied reason="explanation"><foreign>kalluvitta</foreign></supplied>,
-		<supplied reason="subaudible">as well as</supplied> dry-land and sylvan tracts, already dug <supplied reason="explanation"><foreign>kalliṉa</foreign>?<note>That is, already fitted with channels?</note></supplied>, on both banks of this channel <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>vāṉam</foreign></supplied> of Kaṭampaṉ <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>paḻam</foreign></supplied>, already dug <supplied reason="explanation"><foreign>kalliṉa</foreign></supplied>.
+		<supplied reason="subaudible">as well as</supplied> dry-land and sylvan tracts, already dug <supplied reason="explanation"><foreign>kalliṉa</foreign>?<note>That is, already fitted with channels?</note></supplied>, on both banks of this channel <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>vāyum</foreign></supplied> of Kaṭampaṉ <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>paḻam</foreign></supplied>, already dug <supplied reason="explanation"><foreign>kalliṉa</foreign></supplied>.
 	</p>
 	
 	<p n="34-51">
-		<supplied reason="subaudible">There are</supplied> two quarters <supplied reason="subaudible">of a <foreign>vēli</foreign></supplied> of wet-land <gap reason="ellipsis"/>, bordering on the south in the land <gap reason="ellipsis"/> and, comprised within these two quarters <supplied reason="subaudible">of a <foreign>vēli</foreign></supplied>, a <foreign>patiyam</foreign>, bordering on the west, <supplied reason="subaudible">which are provisioned as follows</supplied>.
+		In these two lands, <supplied reason="subaudible">there are</supplied> two quarters <supplied reason="subaudible">of a <foreign>vēli</foreign></supplied> of wet-land <gap reason="ellipsis"/>, bordering on the south in the land <gap reason="ellipsis"/> and, comprised within these two quarters <supplied reason="subaudible">of a <foreign>vēli</foreign></supplied>, a <foreign>patiyam</foreign>, bordering on the west, <supplied reason="subaudible">which are provisioned as follows</supplied>:
 		
 		<list>
 			<item>
-				So that there be singing <supplied reason="explanation"><foreign>pāṭa</foreign></supplied> <supplied reason="subaudible">at</supplied> two <foreign>canti</foreign>s <supplied reason="subaudible">for</supplied> two singers for the Lord of Tiruvāvaṭutuṟai: six <foreign>mā</foreign>s <supplied reason="subaudible">are provisioned</supplied>.
+				so that two singers sing <supplied reason="explanation"><foreign>pāṭa</foreign></supplied> <supplied reason="subaudible">at</supplied> two <foreign>canti</foreign>s for the Lord of Tiruvāvaṭutuṟai: six <foreign>mā</foreign>s <supplied reason="subaudible">are provisioned</supplied>;
 			</item>
 			<item>
-				For two persons who <gap reason="ellipsis"/> the glorious flower garden: four <foreign>mā</foreign>s <supplied reason="subaudible">are provisioned</supplied>, west of this;
+				for two persons who <gap reason="ellipsis"/> the glorious flower garden: four <foreign>mā</foreign>s <supplied reason="subaudible">are provisioned</supplied>, west of this;
 			</item>
 			<item>
-				For the celestial(s) <gap reason="ellipsis"/>
+				for the celestial(s) <gap reason="ellipsis"/>
 				having plucked <supplied reason="explanation"><foreign>paṟittu</foreign></supplied> glorious flower garlands <gap reason="ellipsis"/>:
 				two <foreign>mā</foreign>s <supplied reason="subaudible">are provisioned</supplied>, west of this.
 			</item>
 			<item>
-				For daily food <supplied reason="subaudible">are provisioned</supplied>:
-				
+				for daily food <supplied reason="subaudible">are provisioned</supplied>:
 				four <foreign>nāḻi</foreign>s of husked and seasoned paddy
 				eighteen (?),
-				
 				<supplied reason="subaudible">one</supplied> large <supplied reason="explanation"><foreign>paruppu</foreign>?</supplied> <foreign>uri</foreign> of lentil food-offering,
-				
 				one <foreign>piṭi</foreign> of butter food-offering,
-				
-				<supplied reason="subaudible">one</supplied> <foreign>uri</foreign> of curd food-offering,	 				 			
-				
-				<supplied reason="subaudible">one</supplied> cooked food-offering,	 			
-				four areca-nut food-offerings.
-				For having these food-offerings made: eight <foreign>mā</foreign>s <supplied reason="subaudible">are provisioned</supplied>, east of this land that the Lord of the glorious temple obtained <gap reason="ellipsis"/></item>
+				<supplied reason="subaudible">one</supplied> <foreign>uri</foreign> of curd food-offering,	 				 				<supplied reason="subaudible">one</supplied> cooked food-offering,	 			
+				four areca-nut food-offerings;
+				</item>
+			<item>
+				for having these food-offerings made: eight <foreign>mā</foreign>s <supplied reason="subaudible">are provisioned</supplied>, east of this land that the Lord of the glorious temple obtained <gap reason="ellipsis"/></item>
 		</list>
 	</p>
     
