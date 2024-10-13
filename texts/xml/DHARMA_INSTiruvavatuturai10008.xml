@@ -53,7 +53,7 @@
 					<physDesc>
 						<handDesc>
 							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
-								nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+								nor between <foreign>o</foreign> and <foreign>ō</foreign>. Dental <foreign>n</foreign> regularly found instead of expected alveolar <foreign>ṉ</foreign>.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -98,23 +98,41 @@
 		<lb n="A1=1"/><supplied reason="lost">svasti śrī</supplied>
 	</ab>
 	
-	<lg n="1" met="āciriyappā">
-		<l n="1"><lb n="A2=2"/>tiruma<supplied reason="omitted">ṉ</supplied>ṉi vaḷara Iru-nila-ma<lb n="A3=3" break="no"/>ṭantaiyum</l>
-		<l n="2">... <lb n="A4-34=4-34"/> ...</l>
+<lg n="1" met="āciriyappā">
+	
+	<l n="1"><lb n="A2=2"/>tiruma<supplied reason="omitted">ṉ</supplied>ṉi vaḷara Iru-nila-ma<lb n="A3=3" break="no"/>ṭantaiyum</l>
+	<l n="2">poṟṟaya-<unclear>p</unclear><lb n="A4=4" break="no"/>pāvaiyum c<choice><orig>i</orig><reg>ī</reg></choice>r<surplus>n=</surplus>taṉi-c ce<lb n="A5=5" break="no"/>lv<unclear>i</unclear>yum</l>
+	<l n="3">taṉ perun tēviyar <unclear>ā</unclear><lb n="A6=6" break="no"/>ki<surplus>yā</surplus> I<choice><orig>n</orig><reg>ṉ</reg></choice>puṟ<choice><sic>u</sic><corr>a</corr></choice></l>
+	
+	<l n="4">neṭutuyar v-<unclear>ū</unclear>ḻiy<unclear>u</unclear><lb n="A7=7" break="no"/>ḷ Iṭaitu<unclear>ṟai</unclear> <choice><orig>ñ</orig><reg>n</reg></choice>āṭum</l>
+	<l n="5">tuṭarva<unclear>ṉa vē</unclear><lb n="A8=8" break="no"/>li-p paṭarva<choice><orig>n</orig><reg>ṉ</reg></choice>a<surplus>ṉā</surplus> v<supplied reason="lost">āci</supplied><unclear>y</unclear>um</l>
+	<l n="6">cu<supplied reason="omitted">ḷ</supplied>ḷi cū<unclear>ḻ</unclear><lb n="A9=9" break="no"/>mati<choice><orig>ḷ</orig><reg>l</reg></choice>-k ko<supplied reason="omitted">ḷ</supplied>ḷ<unclear>i</unclear>p pāk<unclear>k</unclear><supplied reason="lost">ai</supplied><space/><lb n="A10=10" break="no"/>yum</l>
+	<l n="7">naṇṇaṟk’ ar<choice><sic>a</sic><corr>u</corr></choice>m<choice><sic>u</sic><corr>a</corr></choice>raṇ maṇṇaik kaṭakka<lb n="A11=11" break="no"/>mum</l>
+	<l n="8">porukaṭal Īḻatt’ arai<supplied reason="lost">ca</supplied>r tam muṭiyum</l>
+	<l n="9"><lb n="A12=12"/>Āṅkavar tēviyar ōṅke<unclear>ḻi</unclear>l muṭiyu<supplied reason="subaudible">m</supplied></l>
+	<l n="10">mu<lb n="A13=13" break="no"/>ṉṉavar pakkal te<choice><orig>n</orig><reg>ṉ</reg></choice>ṉavar vaitta</l>
+	<l n="11">cunta<unclear>ra</unclear><lb n="A14=14" break="no"/>-muṭiyum Intira<choice><orig>n</orig><reg>ṉ</reg></choice> āramun</l>
+	<l n="12">teṇtirai Īḻa-ma<lb n="A15=15" break="no"/>ṇṭala<supplied reason="subaudible">m</supplied> muḻuvatum</l>
+	<l n="13">Eṟi-paṭai-k kēraḷaṉ mu<unclear>ṟai</unclear><lb n="A16=16" break="no"/>maiyiṟ cūṭum</l>
+	
+	<l n="14-48">...<lb n="A17-36=17-36"/> ...</l>
+	
+	<l n="49">...<lb n="A37=37"/>...</l>
 		
-		<l n="49">...<lb n="A37=37"/>...</l>
+	<l n="54">puṉaimaṇi <milestone type="pagelike" n="B" unit="zone" break="no"/><label xml:lang="eng">Moulding</label><lb n="B1=38" break="no"/>-p putavamu<supplied reason="omitted">m</supplied> ka<choice><orig>n</orig><reg>ṉ</reg></choice>amaṇ<unclear>i</unclear>-k katavamun</l>
+	<l n="55">...</l>
+	<l n="56">... <lb n="B2=39"/> ...</l>
+	<l n="57-62">... <lb n="B3=40" break="no"/> ...</l>
 		
-		<l n="54">puṉaimaṇi <milestone type="pagelike" n="B" unit="zone" break="no"/><label xml:lang="eng">Moulding</label><lb n="B1=38" break="no"/>-p putavamu<supplied reason="omitted">m</supplied> ka<choice><orig>n</orig><reg>ṉ</reg></choice>amaṇ<unclear>i</unclear>-k katavamun</l>
-		<l n="55">...</l>
-		
-		<l n="63"><lb n="B4=41"/>kalaitta-k kōrpukaḻ-t talai-t takkōlamum</l>
-		<l n="64">...</l>
-		<l n="65"><lb n="B5=42"/>tēṉa-k kalarpoḻil mānakka vāramu<supplied reason="omitted">m</supplied></l>
-		<l n="66">...</l>
+	<l n="63"><lb n="B4=41"/>kalaitta-k kōrpukaḻ-t talai-t takkōlamum</l>
+	<l n="64">...</l>
+	<l n="65"><lb n="B5=42"/>tēṉa-k kalarpoḻil mānakka vāramu<supplied reason="omitted">m</supplied></l>
+	<l n="66">...</l>
+	<l n="67">mā-p-poru taṇṭāṟ koṇṭa</l>
+	
 	</lg>
 	
     <p>
-        mā-p-poru taṇṭāṟ koṇṭa
         kō-p-para⌈
         <lb n="B6=43" break="no"/>-kēcari-panma<unclear>r</unclear>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a Uṭaiyār <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-cōḻa-<hi rend="grantha">de</hi>varkku
         yāṇṭu <num value="38"><unclear>3</unclear> <g type="numeral">10</g> 8</num>-Āvatu
@@ -140,7 +158,7 @@
 		<item>te<choice><orig>n</orig><reg>ṉ</reg></choice>-pā<choice><orig>r</orig><reg>ṟ</reg></choice>k’ ellai mēr-p-paṭiyā<unclear>ṉ</unclear>
 		nilattukku vaṭakkum</item>
 		
-		<item>mēl-pā<choice><orig>r</orig><reg>ṟ</reg></choice>47" break="no"/>laikku kiḻakkum</item>
+		<item>mēl-pā<choice><orig>r</orig><reg>ṟ</reg></choice><lb n="C4=47" break="no"/>laikku kiḻakkum</item>
 		
 		<item>vaṭa-pā<choice><orig>r</orig><reg>ṟ</reg></choice>k’ellai periya vēḷattu-p peṇṭāṭṭi tūtuva<choice><orig>n</orig><reg>ṉ</reg></choice> Arumoḻi nilattukku-t teṟkkum</item>
 		</list>
@@ -155,13 +173,15 @@
 		Ik-kācu Iru-nūṟum koṇṭu In-nilam Arai<unclear>yum</unclear>
 
     	
-    	<milestone type="pagelike" n="E" unit="zone"/><label xml:lang="eng">Moulding</label>
-    	<lb n="E1=49"/>yāṇṭu <num value="38"><unclear>3</unclear> <g type="numeral">10</g> 8</num>-Āvatu mutal cantirātittaval tiru-k-koṟṟav<unclear>ā</unclear>calil pōnta kuṭimaiyum Ūr iṭu varip<unclear>pā</unclear>ṭum veṭṭi ...
-		<lb n="E2=50"/>...
-		<lb n="E1=51"/>...
+<milestone type="pagelike" n="E" unit="zone"/><label xml:lang="eng">Moulding</label>
+		
+	<lb n="E1=49"/>yāṇṭu <num value="38"><unclear>3</unclear> <g type="numeral">10</g> 8</num>-Āvatu mutal cantirātittaval tiru-k-koṟṟav<unclear>ā</unclear>calil pōnta kuṭimaiyum Ūr iṭu varip<unclear>pā</unclear>ṭum veṭṭi ...
+	<lb n="E2=50"/>...
+	<lb n="E3=51"/>...
     	
-    	<milestone type="pagelike" n="F" unit="zone"/><label xml:lang="eng">Wall</label>
-    	<lb n="F1=52"/>Iṟuppittum cantirāti
+<milestone type="pagelike" n="F" unit="zone"/><label xml:lang="eng">Wall</label>
+    	
+	<lb n="F1=52"/>Iṟuppittum cantirāti
     	<lb n="F2=53" break="no"/>ttaval Iṟai-y-ili Anupavi
     	<lb n="F3=54" break="no"/>kka peṟuvat’ āka Iṟai-y-ili cey
     	<lb n="F4=55" break="no"/>tu kuṭuttōm
@@ -176,22 +196,98 @@
 		<lb n="F8=59" break="no"/>ḷa-p peṟuvat’ āka Iṟai-y-ili-p pi<supplied reason="omitted">ra</supplied>ma
 		<lb n="F9=60" break="no"/>ṇam c<choice><sic>ai</sic><corr>ey</corr></choice>tu kuṭuttōm
 	</p>
+	
 	<p>
 		caṇṭē<hi rend="grantha">śva</hi>ra
 		<lb n="F10=61" break="no"/>-tēvarkku mē<supplied reason="omitted">ṟ</supplied>-k-kiḷimaṅkalattu
 		<lb n="F11=62"/>In-nilam Uṭaiyār rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>
-		<lb n="F12=63" break="no"/>-cōḻa-tēvar<supplied reason="omitted">k</supplied> kuru-tēvar tiru-nāmam
-		<lb n="F13=64"/>sa<ref>r</ref>vva-tēvan tiru-maṭattē Itil-p p<unclear>ō</unclear>
-		<lb n="F14=65"/>nta pōkam koṇṭu śrī-<supplied reason="omitted">pa</supplied>nmāhe<unclear>śva</unclear><unclear>ra</unclear>
-		<lb n="F15=66"/>kku ni c<unclear>i</unclear> ca ṟa p pa ṭi Amutu c<choice><sic>ai</sic><corr>ey</corr></choice>
-		<lb n="F16=67"/>t-aruḷa kututtōm
-		mē<choice><orig>r</orig><reg>ṟ</reg></choice>-k-kiḷima
+		<lb n="F12=63" break="no"/>-cōḻa-tēvar kuru-tēvar tiru-nāmam
+		<lb n="F13=64"/>sa<reg>r</reg>vva-tēvan tiru-maṭattē Itil-p p<unclear>ō</unclear>
+		<lb n="F14=65" break="no"/>nta pōkam koṇṭu <hi rend="grantha">śrī-<supplied reason="omitted">pa</supplied>nmāhe<unclear>śva</unclear></hi><unclear>rar</unclear>
+		<lb n="F15=66" break="no"/>kku ni c<unclear>i</unclear> ca ṟa p pa ṭi Amutu c<choice><sic>ai</sic><corr>ey</corr></choice>
+		<lb n="F16=67" break="no"/>t-aruḷa kututtōm
+		mē<choice><orig>r</orig><reg>ṟ</reg></choice>-k-kiḷi-ma
 		<lb n="F17=68" break="no"/>ṅkalattu <hi rend="grantha">sabhai</hi>yōm
 	</p>
 	
 	<p>
 		Ip
-		<lb n="F18=69" break="no"/>...
+		<lb n="F18=69" break="no"/>pari<choice><sic>t</sic><corr>c</corr></choice>u paṇittār
+		
+		<list><item>piṟāntūr tiru
+		<lb n="F19=70" break="no"/>-veṇkāṭa-paṭṭa-<hi rend="grantha">somai</hi>-yā<hi rend="grantha"></hi>jiyā
+		<lb n="F20=71" break="no"/>rum</item>
+		
+		<item>kurava<unclear>ca</unclear>ri-tatta-paṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice>um</item>
+		
+		<item>Iḻakkanti
+		<lb n="F21=72" break="no"/>ṟattu cantira-cēkara-kirama-vitta<choice><orig>n</orig><reg>ṉ</reg></choice>um</item>
+		
+		<item><lb n="F22=73"/>piṟāntūr nārayaṇa-k-kirama-vitta<choice><orig>n</orig><reg>ṉ</reg></choice>u
+		<lb n="F23=74" break="no"/>m</item>
+		
+		<item>kārampi-c-ceṭṭu-c c<choice><orig>i</orig><reg>ī</reg></choice>-rāma-k-kirama-vi
+		<lb n="F24=75" break="no"/>tta<choice><orig>n</orig><reg>ṉ</reg></choice>um</item>
+		
+		<item>pāṟkonṟai-t tiruvaraṅka
+		<lb n="F25=76" break="no"/>kiramavitta<choice><orig>n</orig><reg>ṉ</reg></choice>um</item>
+		
+		<item>kompuṟatt<choice><sic>a</sic><corr>u</corr></choice> <hi rend="grantha">śrī</hi>-kū<hi rend="grantha">ṣṇa</hi>-k-kira
+		<lb n="F26=77" break="no"/>ma-vitta<choice><orig>n</orig><reg>ṉ</reg></choice>um</item>
+		
+		<item>kuravacari śrī-kūṣṇa-pura-tēva-paṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice>u
+		<lb n="F27=78" break="no"/><unclear>m</unclear></item>
+		
+		<item>piṟān=tūr-t tāmōtira-k-kirama-vitta<choice><orig>n</orig><reg>ṉ</reg></choice>um</item>
+		
+		<item><lb n="F28=79"/>kuravacari-c-ca<choice><orig>n</orig><reg>ṉ</reg></choice>ṉaiya-k-kirama-vitta<choice><orig>n</orig><reg>ṉ</reg></choice>um</item>
+		
+		<item>cakara-p-pōt
+		<lb n="F29=80" break="no"/>ta<choice><orig>n</orig><reg>ṉ</reg></choice> Aiyyakkuṭṭi-<hi rend="grantha">sahasrā</hi><choice><orig>n</orig><reg>ṉ</reg></choice>um</item>
+		
+		<item>ku<supplied reason="omitted">ra</supplied>vacari Iḷaiya Akkā
+		<lb n="F30=81" break="no"/>ḷa-k-kirama-vitta<choice><orig>n</orig><reg>ṉ</reg></choice>um</item>
+		
+		<item>piṟān=tūr nan=ti-ca<hi rend="grantha">nma</hi>-k-kiramavit=ta<choice><orig>n</orig><reg>ṉ</reg></choice>u
+		<lb n="F31=82" break="no"/>m</item>
+		
+		<item>kuravacari ca<surplus>na</surplus>n=tira-cēkara-<hi rend="grantha">sahasrā</hi><choice><orig>n</orig><reg>ṉ</reg></choice>um</item>
+		
+		<item>kompuṟattu
+		<lb n="F32=83" break="no"/>-c caṅkāra-nārayaṇa-k-kirama-vitta<choice><orig>n</orig><reg>ṉ</reg></choice>um</item></list>
+		
+	</p>
+	<p>
+		paṇiyāl pa
+		<lb n="F33=84" break="no"/>ṇi kēṭṭu Iṟai-Ili Āvaṇam Eḻuti<choice><orig>n</orig><reg>ṉ</reg></choice>ē<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">madhya<supplied reason="omitted">s</supplied></hi>ta
+		<lb n="F34=85" break="no"/><surplus>ta</surplus><choice><orig>n</orig><reg>ṉ</reg></choice> Utaiya tivākara<choice><orig>n</orig><reg>ṉ</reg></choice> tiru-vicalūrā<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">sama</hi>ñca<hi rend="grantha">sa</hi>		
+		<lb n="F35=86" break="no"/><hi rend="grantha">pri</hi>ya<choice><orig>n</orig><reg>ṉ</reg></choice> Eḻuttu
+	</p>
+	<p>		
+		<list>			
+			<item><add place="above" rend="mark">Ippaṭi Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> kuravacari Akkā</add>ḷa-k-kiramavitta<choice><orig>n</orig><reg>ṉ</reg></choice>ē<choice><orig>n</orig><reg>ṉ</reg></choice></item>
+			
+			<item>Ip-paṭi Aṟi
+			<lb n="F36=87" break="no"/>vē<choice><orig>n</orig><reg>ṉ</reg></choice> na<unclear>n=</unclear>ti canma-k-kiramavitta<choice><orig>n</orig><reg>ṉ</reg></choice>ē<choice><orig>n</orig><reg>ṉ</reg></choice></item>
+			
+			<item>Ip-paṭi Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> karā
+			<lb n="F37=88" break="no"/>mpi-c-ceṭṭu c<choice><orig>i</orig><reg>ī</reg></choice>-rāma-k-kiramavitta<choice><orig>n</orig><reg>ṉ</reg></choice>ē<choice><orig>n</orig><reg>ṉ</reg></choice></item>
+			
+			<item>Ip-paṭi Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> kura
+			<lb n="F38=89" break="no"/>vacari <hi rend="grantha">śrī</hi>-kū<hi rend="grantha">ṣṇa</hi>-pura-tēva-paṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice>ē<choice><orig>n</orig><reg>ṉ</reg></choice></item>
+			
+			<item>Ip-paṭi Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> cakara-p-pō
+			<lb n="F39=90" break="no"/>tta Aiyyakuṭṭi <hi rend="grantha">sā<supplied reason="omitted">ha</supplied>srā</hi><choice><orig>n</orig><reg>ṉ</reg></choice>ē<choice><orig>n</orig><reg>ṉ</reg></choice></item>
+			
+			<item>Ip-paṭi Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> piṟān=tūr tāmō
+			<lb n="F40=91" break="no"/>tara-k-kiramavitta<choice><orig>n</orig><reg>ṉ</reg></choice>ē<choice><orig>n</orig><reg>ṉ</reg></choice></item>
+			
+			<item>Ip-paṭi Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> Iḻakkantiṟattu can=t<supplied reason="omitted">i</supplied>ra
+			<lb n="F41=92" break="no"/>cēkara-k-kiramavitta<choice><orig>n</orig><reg>ṉ</reg></choice>ē<choice><orig>n</orig><reg>ṉ</reg></choice>
+			<g type="danda">.</g></item>
+		
+		</list>
+
 	</p>
 		
 </div>	
@@ -216,10 +312,93 @@
 	
 <div type="translation" resp="part:emfr">
 	
-    <p n="1">Prosperity! Fortune!</p>
-    
-    <p>...</p>    
-    	
+	<p n="1">Prosperity! Fortune!</p>
+	
+	<p n="42-43">38th year of the lord, the glorious king Rājendra Cōḻa <hi rend="italic">alias</hi> the king Parakesarivarman,</p>
+	
+	<p n="1-42">who took ... [<foreign>meykkiṟtti</foreign> of Rājendra I Cōḻa].</p>
+	
+	<p n="43-45">
+		This is the manner in which
+		...
+		gave
+		...
+	</p>
+	
+	<p n="45">There is half <supplied reason="subaudible">a <foreign>vēli</foreign></supplied> of land ...</p>
+	
+	<p n="45-48">
+		Whereas
+		to this half <supplied reason="subaudible">a <foreign>vēli</foreign></supplied> of land,
+		<supplied reason="subaudible">the boundaries are as follows:</supplied>
+		
+		<list>			
+			<item>
+				the eastern boundary is ...;
+			</item>
+			
+			<item>
+				the southern boundary is ...;
+			</item>
+			
+			<item>
+				the western boundary is ...;
+			</item>
+			
+			<item>
+				the northern boundary is ...</item>			
+		</list>	
+		for the land comprised within the four great boundaries thus described, <supplied reason="subaudible">there are</supplied>
+		two hundred <foreign>kācu</foreign>s that we obtained from this god Caṇḍeśvara.
+	</p>
+	
+	<p n="48-57">
+		With these two hundred <foreign>kācu</foreign>s
+		...
+		we gave
+		...
+	</p>
+	
+	<p n="57-60">
+		So as to obtain
+		...
+		we made and gave
+		...
+	</p>
+	
+	<p n="60-68">
+		So as to graciously make food-offerings <supplied reason="explanation"><foreign>amutu ceyt-aruḷa</foreign></supplied>
+		...
+		for the many great devotees of Īśvara <supplied reason="explanation"><foreign>paṉ-māheśvarar</foreign></supplied>
+		...
+		in the glorious <foreign>maṭha</foreign> <supplied reason="subaudible">named</supplied> Sarvadeva <supplied reason="subaudible">after</supplied> the glorious name of the royal <foreign>guru</foreign> of the king Rājendra Cōḻa
+		...
+		we gave <supplied reason="subaudible">thus</supplied>, we the members of the assembly of Mēṟkkiḷimaṅkalam.
+	</p>
+
+    	<p n="68-83">
+    		Those who have ordered so <supplied reason="subaudible">are</supplied>:
+    		
+    		<list>
+    			<item>Tiru-veṇkāṭa-paṭṭa-somai-yājiyār <supplied reason="subaudible">of</supplied> Piṟāntūr,</item>
+    			<item>...</item>
+    		</list>    		
+    	</p>
+	
+	<p n="83-86">
+		...
+		I have written ...;
+		<supplied reason="subaudible">these are the</supplied> writing of ...
+	</p>
+	
+	<p n="86-92">
+		<supplied reason="subaudible">The witnesses attest as follows:</supplied>
+    		
+    		<list>
+    			<item>In this manner, I know, I, Kuravacari Akkāḷakkiramavittaṉ.</item>
+    			<item>...</item>
+    		</list>    		
+    	</p>
 </div>
 	
 	
