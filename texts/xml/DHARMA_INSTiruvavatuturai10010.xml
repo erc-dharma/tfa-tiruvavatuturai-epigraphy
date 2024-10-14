@@ -50,7 +50,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Label inscription to panel.</summary>
+						<summary>Label inscription to a nearby sculpture representing a man worshipping a <foreign>liṅga</foreign> with a woman behind him.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -87,15 +87,19 @@
 <body>
 		
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-            	
-				
 			
 			<p>
-				<lb n="1"/>
-			
-				<lb n="2" break="no"/>
-				<lb n="3" break="no"/>
-				<lb n="4" break="no"/>
+			    <lb n="1"/>Ik-kōyil<unclear>i</unclear>l Oru pa
+			    <lb n="2" break="no"/>ṭai ceyvi<choice><orig>cc</orig><reg>tt</reg></choice>u I<choice><orig>ñ-ñ</orig><reg>n-n</reg></choice>i
+			    <lb n="3" break="no"/>ṉṟāṉ varampūcal u
+			    <lb n="4" break="no"/>ṭaiyāṉ Eḻuvaṉ can=ti
+			    <lb n="5" break="no"/>rātittaṉ
+			</p>
+    <p>
+			    Ivaṉ piṉ 
+			    <lb n="6" break="no"/>pē niṉṟāḷ periyavēḷa
+			    <lb n="7" break="no"/>ttu peṇṭāṭṭi nakkaṉ va
+			    <lb n="8" break="no"/>ṇṇātt-aṭikaḷ
 			</p>
 			
 		</div>
@@ -110,14 +114,20 @@
 			</listApp>
 		</div>-->
 				
-<!--<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
 			
-			
-</div>-->
+    <p n="1-5">
+        He who stands here, having had a tier <supplied reason="explanation"><foreign>paṭai</foreign></supplied> made in this temple, <supplied reason="subaudible">is</supplied> Eḻuvaṉ Cantirātittaṉ<note>Sanskrit Candrāditya.</note> of Varampūcal.
+    </p>
     
-<!--<div type="commentary">
-        <p>The labelled portrait is portrait 8 in <bibl><ptr target="bib:Kaimal1999_01"/></bibl>.</p>
-</div>-->
+    <p n="5-8">
+        She who stands behind him <supplied reason="subaudible">is</supplied> Nakkaṉ Vaṇṇāttaṭikaḷ, a servant lady <supplied reason="explanation"><foreign>peṇṭāṭṭi</foreign></supplied> <supplied reason="subaudible">of</supplied> the palace <supplied reason="explanation"><foreign>periya vēḷam</foreign></supplied>.
+    </p>	
+</div>
+    
+<div type="commentary">
+        <p>The labelled portraits are portraits 6 and 7 in <bibl><ptr target="bib:Kaimal1999_01"/></bibl> (pp. 127-128 and fig. 8).</p>
+</div>
 		
 <div type="bibliography">
 			
@@ -134,11 +144,10 @@
 			<citedRange unit="item">106</citedRange>
 		</bibl>
 		
-		<!--<bibl>
+		<bibl>
 			<ptr target="bib:Kaimal1999_01"/>
-			<citedRange unit="page">128</citedRange>
-			<citedRange unit="figure">9</citedRange>
-		</bibl> -->
+			<citedRange unit="page">127-128</citedRange>
+		</bibl> 
 		
 	</listBibl>
 </div>
