@@ -48,7 +48,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Label inscription to the portrait of a donor named Tāmaṉ Amalaṉ.</summary>
+					    <summary>Label inscription to a nearby sculpture representing a man (Tāmaṉ Amalaṉ) worshipping a <foreign>liṅga</foreign>.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -129,9 +129,9 @@
 			</p>
 		</div>
 				
-		<div type="commentary">
-			<p>The labelled portrait is portrait 8 in <bibl><ptr target="bib:Kaimal1999_01"/></bibl>.</p>
-		</div>
+<div type="commentary">
+    <p>The labelled portrait is portrait 8 in <bibl><ptr target="bib:Kaimal1999_01"/></bibl> (pp. 128 and fig. 9).</p>
+</div>
 		
 <div type="bibliography">
 			
@@ -151,7 +151,6 @@
 		<bibl>
 			<ptr target="bib:Kaimal1999_01"/>
 			<citedRange unit="page">128</citedRange>
-			<citedRange unit="figure">9</citedRange>
 		</bibl> 
 		
 	</listBibl>
