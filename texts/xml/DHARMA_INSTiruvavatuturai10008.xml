@@ -142,11 +142,12 @@
     	U<supplied reason="omitted">y</supplied>ya<unclear>k</unclear>koṇṭār-vaḷanāṭṭu-t tiru-vaḻuntūr-nāṭṭu mēṟ
     	
     	<milestone type="pagelike" n="C" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
-    	<lb n="C1=44" break="no"/>-kiḷi-maṅkalattu <hi rend="grantha">sabhai</hi>yōm In-nāṭṭu tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu <hi rend="grantha">śrī</hi>-tiru-vāvaṭutuṟai <gap reason="illegible" quantity="3" unit="character"/> eḻunt-aruḷi Irunta tiri-puvaṉa-Ātipatiku m<choice><orig>u</orig><reg>ū</reg></choice>lapirittiyaṉ-ākiya Āti-caṇṭē<hi rend="grantha">śva</hi>ra-tēvarkku Iṟai-y-ili piramāṇa
+    	<lb n="C1=44" break="no"/>-kiḷi-maṅkalattu <hi rend="grantha">sabhai</hi>yōm In-nāṭṭu tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu <hi rend="grantha">śrī</hi>-tiru-vāvaṭutuṟai <unclear>I</unclear>
+    	<choice><orig>n</orig><reg>ṉ</reg></choice>it’ eḻunt-aruḷi Irunta tiri-puvaṉa-Āti<supplied reason="omitted"><hi rend="grantha">bha</hi></supplied><unclear>v</unclear>atikku m<choice><orig>u</orig><reg>ū</reg></choice>lapirittiyaṉ-ākiya Āti-caṇṭē<hi rend="grantha">śva</hi>ra-tēvarkku Iṟai-y-ili piramāṇa
     	<lb n="C2=45" break="no"/>ñ ceytu kuṭutta paric’ āvatu
     </p>
 	<p>
-		mummuṭi-cōḻa-vā<supplied reason="omitted">y</supplied>kālukku vaṭakkum uḷḷi kuṭai<unclear>yē</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> cey ye<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu po kuva-p-paṭta nilam kuḻ<unclear>i Ā</unclear>yiratti nāl ni<supplied reason="omitted">la</supplied>m Arai
+		mummuṭi-cōḻa-vā<supplied reason="omitted">y</supplied>kālukku vaṭakkum uḷḷi ku<choice><unclear>ṟ</unclear><unclear>ṭ</unclear></choice>ai<unclear>yē</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> cey ye<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu po kuva-p-paṭta nilam kuḻ<unclear>i Ā</unclear>yiratti<choice><orig>n</orig><reg>ṉ</reg></choice>āl ni<supplied reason="omitted">la</supplied>m Arai
 	</p>
 	<p>
 		In-nilam Araikkum
@@ -402,7 +403,7 @@
 </div>
 	
 <div type="commentary">	
-	<p>The inscription <ref target="DHARMA_INSTiruvavatuturai10009.xml">Tiruvāvaṭutuṟai 10009</ref>, which starts immediately in line 41 after the final <foreign>daṇḍa</foreign>, appears to be the continuation of this inscription <ref target="DHARMA_INSTiruvavatuturai10008.xml">Tiruvāvaṭutuṟai 10008</ref>.</p>
+	<p>The inscription <ref target="DHARMA_INSTiruvavatuturai10009.xml">Tiruvāvaṭutuṟai 10009</ref>, which starts immediately in line 41 after the final <foreign>daṇḍa</foreign>, appears to be connected with the present inscription <ref target="DHARMA_INSTiruvavatuturai10008.xml">Tiruvāvaṭutuṟai 10008</ref>, as a kind of continuation.</p>
 </div>
 	
 <div type="bibliography">
