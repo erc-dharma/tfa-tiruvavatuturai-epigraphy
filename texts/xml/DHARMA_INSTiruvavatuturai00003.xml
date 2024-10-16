@@ -113,7 +113,7 @@
 			<hi rend="grantha">śāl<choice><orig>ī</orig><reg>i</reg></choice></hi>vāka<hi rend="grantha">na-śakābdaṁ</hi> <num value="1651"><g type="numeral">1000</g> 6 <g type="numeral">100</g> 5 <g type="numeral">10</g> 1 </num> Iti
 			<lb n="1r2=2" break="no"/>ṉ mēl ce<seg type="aksara">l=l</seg>ā niṉṟa <hi rend="grantha">sau<!--kombu missing-->mya</hi>-nā<hi rend="grantha">ma-saṁ</hi>va<hi rend="grantha">t·sara</hi>tti	
 			<lb n="1r3=3" break="no"/>l U<hi rend="grantha">ttarā</hi>yaṇa<seg type="aksara">t=ti</seg>l va<hi rend="grantha">sa</hi>nta-<hi rend="grantha">ṛtu</hi>vil ci<seg type="aksara">t=ti</seg>rai <g type="mācam"/>
-			<lb n="1r4=4"/><g type="numeral">10</g> 6 <g type="tēti"/> <hi rend="grantha">śukla-pakṣa</hi>ttil <hi rend="grantha">śukra</hi>vā<hi rend="grantha">ramuṁ saptami</hi>yu
+			<lb n="1r4=4"/><g type="numeral">10</g> 6 <g type="tēti"></g> <hi rend="grantha">śukla-pakṣa</hi>ttil <hi rend="grantha">śukra</hi>vā<hi rend="grantha">ramuṁ saptami</hi>yu
 			<lb n="1r5=5" break="no"/><hi rend="grantha">ṁ Anuṣa-nakṣatramuṁ brāhmi-nāma</hi>-yō<hi rend="grantha">gamuṁ</hi> kūṭi
 			<lb n="1r6=6" break="no"/>ṉa cu<choice><sic>y</sic><corr>p</corr></choice>atiṉattil	
 		</p>
@@ -281,7 +281,7 @@
 		
 	<p n="1">Prosperity! Fortune!</p>
 	
-	<p n="1-6">In the year called Saumiya, ongoing during the Śālivakana year 1651 of the Śaka era, while the sun is moving northward, in the season of spring, on the 16th day of the month of Cittirai, during the bright half [of the month], i.e., the days of the waxing moon, on a auspicious day connected with the seventh day [of the lunar month], on a Saturday, on the day of the star Anuṣa and of the planetary alignement Prāha, on the auspicious day when [all these elements] are co-occurring,</p>
+	<p n="1-6">In the year called Saumiya, ongoing during the śālivakana year 1651 of the Śaka era, while the sun is moving northward, in the season of spring, on the 16th day of the month of Cittirai, during the bright half <supplied reason="subaudible">of the month</supplied>, i.e., the days of the waxing moon, on a auspicious day connected with the seventh day <supplied reason="subaudible">of the lunar month</supplied>, on a Saturday, on the day of the star Anuṣa and of the planetary alignement Prāha, on the auspicious day when <supplied reason="subaudible">all these elements</supplied> are co-occurring,</p>
 	
 	<p n="6-10"><supplied reason="subaudible">I</supplied>, the lord of the city of Rāmeśvaram, the one in charge of the protection of the foundation of the strait, the one in charge of the worship to Śiva, the one responsible for the service to Śiva in his form as Rāmanāthasvāmi, the one who is a hairy lion to his foes, the one who wins over the enemies, the one who is eminent in the sun dynasty, the sun-king, the lord with abundant pearls<note>Or: a Ayyaṉar.</note>;
 	</p>
@@ -289,6 +289,7 @@
 	<p n="10">Prosperity! Fortune!</p>
 	
 	<p n="10-45"><supplied reason="subaudible">I</supplied>, the overlord of the great region, the winner over the enemy kings, the chastiser of those who commit mistakes with regard to language<note>Or: of those kings who do not keep their word.</note>, the one who rules over the three kings, i.e., Cōḻa, Cēra, Pāṇṭiya, the one who conquers whatever country he sees, and does not relinquish any country he has conquered, the one who protects the suffering pride, the one who is <foreign>tāpaṉācariyaṉ</foreign> of the Pāṇṭiya region, and <foreign>piratittāpaṉācariyaṉ</foreign> of Cōḻa region, the great man of the Toṇṭai region, the king of kings who conducted elephant hunts in Īḻam, Koṅku, and Yāḻppāṇapaṭṭaṇam, the supreme king, the Sun-king, the one who chastises evil kings, a hero of innumerable places, the clever man, the charioteer, a lord of growing heroism, the protector of Brahmins, a Rāma for king Rāvaṇa, the servant of the devotees, the chastiser of ..., the conqueror of treachery, the royal rider of the five types of horses, the slayer of those who sprinkle <supplied reason="subaudible">disease</supplied>, the husband of Vicayaleṭcumi, a connaisseur of the arts, ..., the true Ariccantiraṉ, the one who follows the path of heroism, the one who possess fame, the one from the prosperous country of the Vaikai, the one who conquers arrogance, a Nārāyaṇaṉ among horsemen, the one who slays those who ride stepping on stirrups over horses, a garland of heroic verses, a strong lion, a lion to the hateful enemies, a lion, the refuge, the one who provides protection, a fence for the <supplied reason="subaudible">marital</supplied> <foreign>tāli</foreign>, the slayer of enemies, the one who crushed the pride of the Vaṉṉiyar, the one who crushed the illusions of the Turks, the destroyer of those who run away, the one who crushes the illusions of those who run away, ...		
+
 	</p>
 	
 	</div>
@@ -299,8 +300,7 @@
 	
 <div type="bibliography">
 		
-		<p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1986-1987/A/1986-1987/65).</p>
-    <p>
+		<p>
 			Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 25). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling, and, in the case of this specific inscription, confused most lines of the verso of the plate (likely because of the inserted invocation).			
 		</p>
 		
@@ -318,12 +318,7 @@
 						
 		</listBibl>
 		<listBibl type="secondary">
-			<bibl>
-			<ptr target="bib:ARIE1986-1987"/>
-			<citedRange unit="page">28</citedRange>
-			<citedRange unit="appendix">A/1986-1987</citedRange>
-			<citedRange unit="item">65</citedRange>
-		</bibl>
+			<bibl/><!-- one <bibl/> per item of secondary bibliography -->
 		</listBibl>
 </div>
 </body>
