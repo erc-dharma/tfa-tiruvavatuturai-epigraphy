@@ -94,33 +94,58 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
      
     <div type="textpart" xml:lang="tam-Latn" rendition="class:tamil maturity:83215" n="A">
-        <head xml:lang="eng">First Part</head>
+        <head xml:lang="eng">First Part: year 6 of Rājendra</head>
         <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
         <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">Moulding</label>
         <lb n="A1=1"/><g type="gomūtra"/> svasti śrī
     </ab>
     
     <lg n="1" met="āciriyappā">
-	
-	<l n="1">...</l>
+	<l n="1">tiru maṉṉi vaḷara Iru-nila-maṭan=taiyum</l>
+	<l n="2">pōr-c-ceya-p-pāvaiyum c<choice><orig>i</orig><reg>ī</reg></choice><space type="feature"></space>r-t taṉi-c celviyun=</l>
+	<l n="3">taṉ perun tēviyar āki y-iṉpuṟa</l>
+	<l n="4">neṭutiyal ūḻiyuḷ Iṭaituṟai-nāṭun=</l>
+	<l n="5">tuṭarvaṉa vēli-p paṭar vaṉavā<hi rend="grantha">si</hi>yuñ</l>
+    	<l n="6">...</l>
+    	<l n="7">...</l>
+    	<l n="8">...</l>
+    	<l n="9">...</l>
+    	<l n="10">...</l>
+    	<l n="11">...</l>
+    	<l n="12">...</l>
+    	<l n="13">Eṟipaṭai-k <lb n="A2=2"/> kēralaṉ muṟaimaiyiṟ cūṭuṅ</l>
+    	<l n="14">...</l>
+    	<l n="15">...</l>
+    	<l n="16">...</l>
+    	<l n="17">mā-p-poru taṇṭāṟ koṇṭa</l>
     </lg>
-    
-    <p>	    
-        <milestone type="pagelike" n="B" unit="zone"/><label xml:lang="eng">Moulding</label>
-        <lb n="B1=4"/> ...
-    </p>
-    
-    <p>	    
-        <milestone type="pagelike" n="C" unit="zone"/><label xml:lang="eng">Moulding</label>
-        <lb n="C1=7"/>...
-        <lb n="C2=8"/>...
+    	
+    	<p>
+    		kō-p-parakē<hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">nma</hi>r-āṉa <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jendra</hi>-cōḻa-<hi rend="grantha">de</hi>varkku yāṇṭu 6-Āvatu
+    	</p>
+    	
+    	<p>
+    		Uyya-k-ko<supplied reason="omitted">ṇ</supplied>ṭār-vaḷanāṭṭu-t
+    		...
+    		<lb n="A3=3"/>...
+    		
+    		<milestone type="pagelike" n="B" unit="zone"/><label xml:lang="eng">Moulding</label>
+    		<lb n="B1=4"/>...
+    		<lb n="B2=5"/>...
+    		<lb n="B3=6"/>...
+    		<milestone type="pagelike" n="C" unit="zone"/><label xml:lang="eng">Moulding</label>
+    		<lb n="C1=7"/>...
+    		<lb n="C2=8"/>...
+    		kuppaiyēṉ <g type="gomūtra">.</g>
     </p>
     </div>
     
     <div type="textpart" xml:lang="tam-Latn" rendition="class:tamil maturity:83215" n="B">
-		<head xml:lang="eng">Second Part</head>
+		<head xml:lang="eng">Second Part: year 5 of ...</head>
         <p>
-            <lb n="C3=9"/>...
+            <gap reason="illegible"/>
+        	<hi rend="grantha">de</hi>varkkē yāṇṭu 5-Āvatu Uyya-k-koṇṭār-vaḷanāṭṭu-t tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu
+        	<lb n="C3=9"/>...
             <lb n="C4=10"/>...
             <lb n="C5=11"/>...
             <list>
