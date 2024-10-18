@@ -94,7 +94,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
      
     <div type="textpart" xml:lang="tam-Latn" rendition="class:tamil maturity:83215" n="A">
-        <head xml:lang="eng">First Part</head>
+        <head xml:lang="eng">First Part: year 24 of Rājendra</head>
         <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
             <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">Moulding</label>
             <lb n="A1=1"/><unclear>svasti śrī</unclear>
@@ -104,14 +104,15 @@
             
             <l n="1">tiru-makaḷ pōla peru-nila-c-celviyun=</l>
             <l n="2">taṉakkē y-urimai pūṇṭamai maṉa-k koḷa</l>
-            <l n="3">...</l>
-            <l n="4">...</l>
-            <l n="5">...</l>
-            <l n="6">...</l>
-            <l n="7">...</l>
-            <l n="8">...</l>
-            <l n="9">...</l>
-            <l n="10">...</l>
+            <l n="3">kān=ta<supplied reason="lost">l</supplied>ūr-c-cā<unclear>lai kalam arutt-aruḷi</unclear></l>
+            <l n="4">vēṅkai-nāṭuṅ kaṅka-pāṭiyun=</l>
+            <l n="5">taṭikai-pāṭiyum ṉuḷampa-pāṭi<unclear>yu</unclear>ṅ</l>
+            <l n="6">kuṭa-malai-nāṭuṅ kollamuṇ kali<unclear>ṅkamum</unclear></l>
+            <l n="7"><unclear>muraṭṭoḻil ciṅkaḷar īḻa</unclear>maṇṭalamum
+</l>
+            <l n="8">Iraṭṭa-pāṭi Ēḻ’ arai Ilakkamun</l>
+            <l n="9">tiṇtiṟal veṉṟi-t taṇṭāṟ koṇṭa ta<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice></l>
+            <l n="10">eḻil <unclear>vaḷar ūḻiyuḷ el</unclear>lā yāṇṭu</l>
             <l n="11">toḻutaka viḷaṅkum yāṇṭu</l>
             <l n="12">ceḻiyarai tēcu koḷ</l>
         </lg>
@@ -123,24 +124,32 @@
             
             <hi rend="grantha">śrī</hi>  
             <milestone type="pagelike" n="B" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
-            <lb n="B1=2" break="no"/>-rā<hi rend="grantha">je<supplied reason="omitted">ndra</supplied>-siṃha</hi>-vaḷanāṭṭu maṇṇi-nāṭṭu ...
+        	<lb n="B1=2" break="no"/>-rā<hi rend="grantha">je<supplied reason="omitted">ndra</supplied>-siṃha</hi>-vaḷanāṭṭu maṇṇi-nāṭṭu <hi rend="grantha">brah<unclear>ma</unclear>de</hi>yam Iḻicci-kuṭi-y-ākiya vikrama-ciṅka-c-catu<hi rend="grantha"><reg>r</reg>vvedi</hi>-maṅkalattu c<unclear>i</unclear>va-purattu nākiyaṇṇa-<hi rend="grantha">kra</hi>mavit=taṉum vātāvi Ā<hi rend="grantha">di</hi>t=ta-<hi rend="grantha">kr</hi>mavi<unclear>ttaṉu</unclear>m <gap reason="illegible" quantity="10" unit="character" precision="low"/>
+        	ya <hi rend="grantha">kra</hi>mavittaṉum vātāvi <hi rend="grantha">śrī-<supplied reason="omitted">kṛ</supplied>ṣṇa-kra</hi>mavittaṉūm <gap reason="lost" extent="unknown" unit="character"/>
+        	...
+
         </p>
-        
         <p>	    
             <milestone type="pagelike" n="C" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
             <lb n="C1=3"/>...
             <lb n="C2=4"/>...
+            <lb n="C3=5"/>...
+            <lb n="C4=6"/>...
+            <lb n="C5=7"/>...
             <lb n="C6=8"/>... <g type="gomūtra"/>
         </p>
     </div>
     
     <div type="textpart" xml:lang="tam-Latn" rendition="class:tamil maturity:83215" n="B">
-        <head xml:lang="eng">Second Part</head>
+        <head xml:lang="eng">Second Part: year 25 of Rājendra</head>
         <p>
             I<choice><orig>n</orig><reg>ṉ</reg></choice>ṟum It-tēvarkē yāṇṭu <num value="25">2 <g type="numeral">10</g> 5</num>-Āvatu ...
             <lb n="C7=9"/>...
         </p>
-    </div>   
+    	
+    	<p>Ivai-y e<choice><orig>ṉn</orig><reg>ṉ</reg></choice> eḻuttu <g type="gomūtra">.</g>
+</p>
+    </div> 
 		
 </div>	
 	
