@@ -183,7 +183,7 @@
 	
 <div type="bibliography">
 				
-    <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/109).</p>	
+    <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/102).</p>	
     <p>Edited here by Emmanuel Francis, based on photos (E. Francis, 2024).</p>
     <p>ASI transcript and estampage, if any, yet to be consulted.</p>    
 	
@@ -201,9 +201,9 @@
 		
 		<bibl n="ARIE">
 			<ptr target="bib:ARIE1924-1925"/>
-			<citedRange unit="page">24</citedRange>
+			<citedRange unit="page">23</citedRange>
 			<citedRange unit="appendix">B/1925</citedRange>
-			<citedRange unit="item">109</citedRange>
+			<citedRange unit="item">102</citedRange>
 		</bibl>     		
 		
 	</listBibl>
