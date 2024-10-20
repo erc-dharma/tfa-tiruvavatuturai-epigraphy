@@ -135,12 +135,12 @@
 </div>
     
 <div type="commentary">
-        <p>This short inscription contains no date at its beginning. It is inscribed on the bottom part of the pilaster left of zone D of inscription <ref target="DHARMA_INSTiruvavatuturai10009.xml">Tiruvāvaṭutuṟai 10009</ref> and appears, by its location, to be connected to this inscription <ref target="DHARMA_INSTiruvavatuturai10009.xml">Tiruvāvaṭutuṟai 10009</ref>, itself connected to <ref target="DHARMA_INSTiruvavatuturai10010.xml">Tiruvāvaṭutuṟai 10010</ref>.</p>
+        <p>This short inscription contains no date at its beginning. It is inscribed on the bottom part of the pilaster left of zone D of inscription <ref target="DHARMA_INSTiruvavatuturai10009.xml">Tiruvāvaṭutuṟai 10009</ref> (ARIE/1924-1925/B/1925/104) and appears, by its location, to be connected to this inscription <ref target="DHARMA_INSTiruvavatuturai10009.xml">Tiruvāvaṭutuṟai 10009</ref>.</p>
 </div>
 		
 <div type="bibliography">
 			
-	<p>Not reported as such in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> but apparently connected to ARIE/1924-1925/B/1925/103-104 (<ref target="DHARMA_INSTiruvavatuturai10008.xml">Tiruvāvaṭutuṟai 10008</ref>, <ref target="DHARMA_INSTiruvavatuturai10009.xml">Tiruvāvaṭutuṟai 10009</ref>).</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/114).</p>
 	<p>This edition by Emmanuel Francis (2024), based on photos (EFEO, 2006; E. Francis, 2024) and autopsy (2024).</p>	
 	<p>ASI transcript and estampage, if any, yet to be consulted.</p>    
 		
@@ -148,9 +148,9 @@
 		
 		<bibl>
 			<ptr target="bib:ARIE1924-1925"/>
-			<citedRange unit="page">23-24</citedRange>
+			<citedRange unit="page">25</citedRange>
 			<citedRange unit="appendix">B/1925</citedRange>
-			<citedRange unit="item">103-104</citedRange>
+			<citedRange unit="item">114</citedRange>
 		</bibl>		
 		
 	</listBibl>
