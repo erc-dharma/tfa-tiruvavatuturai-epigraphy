@@ -48,7 +48,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>...</summary>
+						<summary></summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -99,20 +99,20 @@
         <p>
             <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">First Portion</label>
             <lb n="A1=1"/>
-            <milestone type="gridlike" n="A1" unit="zone"/>Uyya-k-koṇṭā<unclear>r</unclear>
-            <milestone type="gridlike" n="A2" unit="zone" break="no"/>-vaḷanāṭṭu-t ti
+            <milestone type="gridlike" n="1" unit="zone"/>Uyya-k-koṇṭā<unclear>r</unclear>
+            <milestone type="gridlike" n="2" unit="zone" break="no"/>-vaḷanāṭṭu-t ti
             <lb n="A2=2" break="no"/>
-            <milestone type="gridlike" n="A1" unit="zone"/>raim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu <hi rend="grantha">A⌈</hi>
-            <milestone type="gridlike" n="A2" unit="zone" break="no"/><hi rend="grantha">bhai</hi>yā<hi rend="grantha">śr<choice><sic>i</sic><corr>a</corr></choice></hi>ya-c-ca<unclear>ru</unclear>
+            <milestone type="gridlike" n="1" unit="zone"/>raim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu <hi rend="grantha">A⌈</hi>
+            <milestone type="gridlike" n="2" unit="zone" break="no"/><hi rend="grantha">bhai</hi>yā<hi rend="grantha">śr<choice><sic>i</sic><corr>a</corr></choice></hi>ya-c-ca<unclear>ru</unclear>
             <lb n="A3=3" break="no"/>
-            <milestone type="gridlike" n="A1" unit="zone"/>-p-pēti-maṅkala<supplied reason="lost">t</supplied>
-            <milestone type="gridlike" n="A2" unit="zone" break="no"/>tu tiru-<hi rend="grantha">Ā</hi>vaṭu-tu
+            <milestone type="gridlike" n="1" unit="zone"/>-p-pēti-maṅkala<supplied reason="lost">t</supplied>
+            <milestone type="gridlike" n="2" unit="zone" break="no"/>tu tiru-<hi rend="grantha">Ā</hi>vaṭu-tu
             <lb n="A4=4" break="no"/>
-            <milestone type="gridlike" n="A1" unit="zone"/>ṟai Uṭaiya ma<hi rend="grantha">h<supplied reason="lost">ā</supplied></hi>
-            <milestone type="gridlike" n="A2" unit="zone" break="no"/>-<hi rend="grantha">de</hi>varkku yāṇ
+            <milestone type="gridlike" n="1" unit="zone"/>ṟai Uṭaiya ma<hi rend="grantha">h<supplied reason="lost">ā</supplied></hi>
+            <milestone type="gridlike" n="2" unit="zone" break="no"/>-<hi rend="grantha">de</hi>varkku yāṇ
             <lb n="A5=5" break="no"/>
-            <milestone type="gridlike" n="A1" unit="zone"/>ṭu Irupatt’ o<choice><orig>n</orig><reg>ṉ</reg></choice>pat-<supplied reason="lost">ā</supplied>
-            <milestone type="gridlike" n="A2" unit="zone" break="no"/>vatu mutal ...
+            <milestone type="gridlike" n="1" unit="zone"/>ṭu Irupatt’ o<choice><orig>n</orig><reg>ṉ</reg></choice>pat-<supplied reason="lost">ā</supplied>
+            <milestone type="gridlike" n="2" unit="zone" break="no"/>vatu mutal ...
         </p>        
       
     </div>
@@ -154,7 +154,7 @@
     <div type="textpart" n="A">
         <head xml:lang="eng">First Portion</head>
         
-        <p>
+        <p n="1-5">
             For the Mahādeva, Lord of Tiruvāvaṭutuṟai in Abhaiyāśrayaccaruppētimaṅkalam in Tirumūrnāṭu in Uyyakkoṇṭārvaḷanāṭu,
             starting from the twenty-ninth year,
             ...
