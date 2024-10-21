@@ -120,8 +120,8 @@
         <lb n="A4=4"/>teṉ-karai-t tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu
         <lb n="A5=5"/><hi rend="grantha">brahma</hi>tēyañ cāttaṉūr <hi rend="grantha">śrī</hi>-tiru
         <lb n="A6=6" break="no"/>-vāvaṭu-tuṟ<unclear>ai</unclear> Āḷvārkku Ivar aṭiyē
-        <lb n="A7=7" break="no"/>ṉ miṟai-k-<unclear>kū</unclear>ṟṟattu v<choice><orig>i</orig><reg>ī</reg></choice>ra-māṅk-u
-        <lb n="A8=8" break="no"/>ṭaiyāṉ tāyaṅ-kāṭaṉ-ēṉ
+        <lb n="A7=7" break="no"/>ṉ miṟai-k-<unclear>kū</unclear>ṟṟattu v<choice><orig>i</orig><reg>ī</reg></choice>ra-māṅku
+        <lb n="A8=8" break="no"/>ṭaiyāṉ t<unclear>ā</unclear>yaṅ-kāṭaṉ-ēṉ
         ciṟu-pu
         <lb n="A9=9" break="no"/>liyūr <hi rend="grantha">sabhai</hi>yār iṭai Iṟai-Ili koṇ
         <lb n="A10=10" break="no"/>ṭa nilamum
@@ -153,7 +153,7 @@
             
             <item>
                 mē<unclear reason="eccentric_ductus">l</unclear>-pā<choice><orig>l</orig><reg>ṟ</reg></choice>kk’ ellai
-                <lb n="A22=22"/>tiru-vāva<unclear>ṭu</unclear>-tuṟai Āḷvārkku veḷḷ<choice><sic>a</sic><corr>ā</corr></choice><unclear>ṟu</unclear>-t <unclear>ta</unclear>ṉi
+                <lb n="A22=22"/>tiru-v-āva<unclear>ṭu</unclear>-tuṟai Āḷvārkku veḷḷ<choice><sic>a</sic><corr>ā</corr></choice><unclear>ṟu</unclear>-t <unclear>ta</unclear>ṉi
                 <lb n="A23=23"/>Utta<unclear>ma</unclear>-c<choice><sic>a</sic><corr>ā</corr></choice>mavētam vallār pir<choice><sic>a</sic><corr>ā</corr></choice>maṇar tēva
                 <lb n="A24=24" break="no"/>r muṉ Uṇpataṟku vilai koṇṭu kalluvicca
                 <lb n="A25=25"/>nilattukku kiḻakkum
@@ -168,7 +168,7 @@
     </p>
 	
     <p>		
-        <lb n="A28=28"/>I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ā<unclear>ṉ</unclear>k’ <supplied reason="lost">e</supplied>llaiyilum naṭuvu-paṭṭa ko
+        i<lb n="A28=28" break="no"/><choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ā<unclear>ṉ</unclear>k’ <supplied reason="lost">e</supplied>llaiyilum naṭuvu-paṭṭa ko
         <lb n="A29=29" break="no"/>llaiyum pu<unclear>ṉ</unclear>-ceyyum teṟk’ aṭai
         <lb n="A30=30" break="no"/>ya Ivaṉē kalluvicca n<choice><orig>i</orig><reg>ī</reg></choice><supplied reason="lost">r</supplied>-nilamum
         <lb n="A31=31"/>kalliṉa paḻaṅ-kaṭampaṉ vāyum I
@@ -220,27 +220,27 @@
                 <lb n="B14=50" break="no"/><gap reason="illegible" quantity="4" unit="character"/> koṇṭa nilam Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻai Eṭṭu māvu
                 <lb n="B15=51" break="no"/>m
             </item>
-            
-            <item>
+        </list>
+	</p>
+    
+    <p>
                 Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻai-c cat<surplus>ti</surplus><hi rend="grantha">tra</hi>-viḷākam vēli-c ceyu
-                <lb n="B16=52" break="no"/>m koṇṭu v<choice><orig>i</orig><reg>ī</reg></choice>ramāṅkuṭaiyāṉ tāyaṅkāṭaṉ va
+                <lb n="B16=52" break="no"/>m koṇṭu v<choice><orig>i</orig><reg>ī</reg></choice>ra-māṅkuṭaiyāṉ tāyaṅ-kāṭaṉ va
                 <lb n="B17=53" break="no"/>ḻiyilārum <hi rend="grantha">panmāheśva</hi>rarum Uruttira-p-perumakka
                 <lb n="B18=54" break="no"/>ḷum Iṭa-p-paṭṭa maṭa-pati Ic-cattira-viḷākam vēliyu
                 <lb n="B19=55" break="no"/>m
-            </item>
-            
-            <item>
+    </p>
+    <p>            
                 Aṭuttu-k koṇṭu Aṭuvitāṉ Arici A<unclear>ṟu</unclear>-patt’ iru-ka
-                <lb n="B20=56" break="no"/>lamum payaṟu Aiṅ-kalamum
-            </item>
-        </list>
+                <lb n="B20=56" break="no"/>lamum payaṟu Aiṅ-kalamum            
 	</p>
+    
     <p>
         tiru-k-koṭi Iḻicca <hi rend="grantha">sna</hi>
         <lb n="B21=57" break="no"/><choice><sic>ma</sic><corr>pa</corr></choice>ttukku poṉ kaḻañcum Ivv-eḻu nāḷu Ip-pa
         <lb n="B22=58" break="no"/>ṭi Ūṭṭuvikka māṭṭāta maṭa-patiyai tiruttam āṭiṉa piṟṟai nā
         <lb n="B23=59" break="no"/>ṉṟu Uru<hi rend="grantha">dra</hi>-kaṇaperumakkaḷum pa<hi rend="grantha">nmāheśva</hi>rarum tāyaṅ
-        <lb n="B24=60" break="no"/>kaṭaṉ vaḻiyilārum Āka t<unclear>ā</unclear>ṉ māṟṟi Āvāṉ or maṭa
+        <lb n="B24=60" break="no"/>-kaṭaṉ vaḻiyilārum Āka t<unclear>ā</unclear>ṉ māṟṟi Āvāṉ or maṭa
         <lb n="B25=61" break="no"/>-patiyai Iṭuvit’ ākavum
     </p>
     
@@ -259,8 +259,7 @@
                 pa<hi rend="grantha">nmāheśva</hi>rarkku Aṭum arici tūṇiyum
             </item>
         </list>
-    </p>
-    <p>
+    
         <lb n="B29=65"/>pūrāṭatti ṉāṉṟu
         <list>
             <item>
@@ -272,8 +271,7 @@
                 <lb n="B31=67" break="no"/>rici kalamum
             </item>
         </list>
-    </p>
-    <p>
+   
         Uttirāṭatti ṉāṉṟu
         <list>
             <item>
@@ -285,8 +283,7 @@
                 <lb n="B33=69" break="no"/>rici mu-k-kalamum
             </item>
         </list>
-    </p>
-    <p>
+    
         tiruvōṇatti ṉāṉṟu
         <list>
             <item>
@@ -298,21 +295,18 @@
                 <lb n="B35=71" break="no"/>kku Aṭum Arici Aṟu kalamum
             </item>
         </list>
-    </p>    
-    
-    <p>
+   
         Aviṭṭatti ṉāṉṟu
         <list>
             <item>
                 <milestone type="pagelike" n="C" unit="zone"/><label xml:lang="eng">Third Wall Portion</label>
-                <lb n="C1=72"/>civayō<hi rend="grantha">gi</hi>kaḷukku Aṭum arici mukkalamum
+                <lb n="C1=72"/>civayō<hi rend="grantha">gi</hi>kaḷukku Aṭum arici mu-k-kalamum
             </item>
             <item>
                 <lb n="C2=73"/>pa<hi rend="grantha">nmāheśva</hi>raṟk’ aṭum arici Eḻu kalamum
             </item>
         </list>
-    </p>
-    <p>
+    
         ca
         <lb n="C3=74" break="no"/>taiyatti ṉāṉṟu
         <list>
@@ -325,36 +319,62 @@
                 <lb n="C5=76" break="no"/>rici Eṇ-kalamum
             </item>
         </list>
+       
+        tiruttam āṭum pūraṭṭāti <lb n="C6=77"/>nāṉṟu
+        <list>
+            <item>
+                civayō<hi rend="grantha">gi</hi>kaḷukku Aṭum arici Aiṅ
+                <lb n="C7=78"/>-kalamum</item>
+            <item>pa<hi rend="grantha">nmāheśva</hi>raṟk’ aṭum arici paṉṉiru
+                <lb n="C8=79"/>kalamum</item>
+        </list>
+        
+        Āka
+        Ivv-eḻu nāḷum aṭa-k kaṭava A
+        <lb n="C9=80"/>rici Aim-patt’ iru-kalamum
     </p>
     
     <p>
         ...
+        <lb n="C10=81"/>...
+        <lb n="C29=100" break="no"/>vum
+    </p>
+    
+    <p>
+        ...
+        <lb n="C30=101"/>...
+        <lb n="C31=102"/>... koḷvit’ ākavum
     </p>
     
     <p>        
-        
+        niṉṟa puṉ-ceyum kol
+        <lb n="C32=103" break="no"/>laiyum Aṭuttu-k koṇṭu ... 
         <lb n="C35=106"/>...        
         
         <milestone type="pagelike" n="D" unit="zone"/><label xml:lang="eng">Fourth Wall Portion</label>      
                 
-        <lb n="D1=107"/>...        
+        <lb n="D1=107"/>...
+        <lb n="D7=113"/>... 
     </p>
     
     <p>
         Im-ma
-        <lb n="D7=114"/>...
-        <lb n="D14=120"/>...        
+        <lb n="D8=114" break="no"/>ṭa-patiyē cāttaṉūr It-tiru-viḻā-vāriyaṟ
+        <lb n="D9=115" break="no"/>ku Ivv-eḻu nāḷum Ik-kōyil-k-kāvaṇam
+        <lb n="D10=116"/>...
+        <lb n="D14=120"/>t’ ākavum       
     </p>
     
     <p>
         It-taṉaiyum kuṟai v-aṟuttu In
         <lb n="D15=121"/>...
-        <lb n="D22=128"/>...        
+        <lb n="D22=128"/>ceyvi-p-pat’ ākavum        
     </p>
     
     <p>
         In-nilam ciṟu-puliyūrilum
-        <lb n="D23=129"/>...
+        <lb n="D23=129"/>ciṟṟāṉaiccūrilum Iṟai-Ili vilai koṇṭu kal
+        <lb n="D24=130"/>...
         <lb n="D28=134" break="no"/>k-kūṟṟattu v<choice><orig>i</orig><reg>ī</reg></choice>ramāṅkuṭaiyāṉ tāyaṉ kāṭaṉ-ēṉ        
     </p>
     
@@ -409,9 +429,7 @@
 	
 <div type="translation" resp="part:emfr">
 	
-	<p n="01-02">Homage to Śiva.</p>
-	
-	<p n="02">Prosperity! Fortune!</p>
+	<p n="01-02">Homage to Śiva. Prosperity! Fortune!</p>
 	
 	<p n="1-3">36th year of the king Parakesarivarman, who took Maturai.</p>
 	
@@ -460,10 +478,11 @@
     dry-land and sylvan tracts, already dug <supplied reason="explanation"><foreign>kalliṉa</foreign>?</supplied>, on both banks <supplied reason="subaudible">of</supplied> this channel.
 </p>
 	
-	<p n="34-51">
+	<p n="34-36">
 		<supplied reason="subaudible">There are</supplied> two quarters <supplied reason="subaudible">of a <foreign>vēli</foreign></supplied> of wet-land <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>mayakkiṉa</foreign></supplied>, bordering on the south in the land <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>mayakkiṉa</foreign></supplied>, after digging <supplied reason="explanation"><foreign>kalli</foreign></supplied> in these two lands.
 	</p>
-    <p>      	    
+    
+    <p n="37-51">      	    
 	    <supplied reason="subaudible">Comprised</supplied> within these two quarters <supplied reason="subaudible">of a <foreign>vēli</foreign></supplied>, a <foreign>patiyam</foreign>, bordering on the west, <supplied reason="subaudible">is provisioned as follows</supplied>:
 		
 		<list>
@@ -492,9 +511,34 @@
 		</list>
 	</p>
     
-    <p>
+    <p n="51-55">
         ...
     </p>
+    
+    <p n="55-56">
+        ...
+    </p>
+    <p n="56-61">
+        ...
+    </p>
+    <p n="61-80">
+        ...
+    </p>
+    <p n="80-100">
+        ...
+    </p>
+    
+    <p n="101-102">
+        ...
+    </p>
+    
+    <p n="102-113">...</p>
+    
+    <p n="113-120">...</p>
+    
+    <p n="120-128">...</p>
+    
+    <p n="129-134">...</p>
     
     <p n="135">
         This pious donation <supplied reason="subaudible">is under</supplied> the protection of the the many great devotees of Śiva.
