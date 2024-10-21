@@ -48,7 +48,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>...</summary>
+						<summary></summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -113,6 +113,10 @@
     
     <p>
         ...
+        <lb n="3"/>...
+        <lb n="4"/>...
+        <lb n="5"/>...
+        <lb n="6"/>...
     </p>
                   
 </div>	
@@ -135,7 +139,7 @@
     
     <p n="2">16th year of the king Rājarāja Rājakesarivarman,</p>
     
-    <p n="1-2">who took ... [<foreign>meykkīrtti</foreign> (7 <foreign>aṭi</foreign>s) of Rājarāja I Cōḻa]</p>
+    <p n="1-2">who took <supplied reason="explanation"><foreign>koḷ</foreign></supplied> ... [<foreign>meykkīrtti</foreign> (7 <foreign>aṭi</foreign>s) of Rājarāja I Cōḻa]</p>
     
     <p>...</p>
     
