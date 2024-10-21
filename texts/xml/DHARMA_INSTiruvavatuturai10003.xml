@@ -239,7 +239,7 @@
         tiru-k-koṭi Iḻicca <hi rend="grantha">sna</hi>
         <lb n="B21=57" break="no"/><choice><sic>ma</sic><corr>pa</corr></choice>ttukku poṉ kaḻañcum Ivv-eḻu nāḷu Ip-pa
         <lb n="B22=58" break="no"/>ṭi Ūṭṭuvikka māṭṭāta maṭa-patiyai tiruttam āṭiṉa piṟṟai nā
-        <lb n="B23=59" break="no"/>ṉṟu Urudra-kaṇaperumakkaḷum panmāheśvararum tāyaṅ
+        <lb n="B23=59" break="no"/>ṉṟu Uru<hi rend="grantha">dra</hi>-kaṇaperumakkaḷum pa<hi rend="grantha">nmāheśva</hi>rarum tāyaṅ
         <lb n="B24=60" break="no"/>kaṭaṉ vaḻiyilārum Āka t<unclear>ā</unclear>ṉ māṟṟi Āvāṉ or maṭa
         <lb n="B25=61" break="no"/>-patiyai Iṭuvit’ ākavum
     </p>
@@ -298,20 +298,64 @@
                 <lb n="B35=71" break="no"/>kku Aṭum Arici Aṟu kalamum
             </item>
         </list>
-    </p>
-    
+    </p>    
     
     <p>
-        <milestone type="pagelike" n="C" unit="zone"/><label xml:lang="eng">Third Wall Portion</label>
-        
-        <lb n="C1=72"/>...
+        Aviṭṭatti ṉāṉṟu
+        <list>
+            <item>
+                <milestone type="pagelike" n="C" unit="zone"/><label xml:lang="eng">Third Wall Portion</label>
+                <lb n="C1=72"/>civayō<hi rend="grantha">gi</hi>kaḷukku Aṭum arici mukkalamum
+            </item>
+            <item>
+                <lb n="C2=73"/>pa<hi rend="grantha">nmāheśva</hi>raṟk’ aṭum arici Eḻu kalamum
+            </item>
+        </list>
+    </p>
+    <p>
+        ca
+        <lb n="C3=74" break="no"/>taiyatti ṉāṉṟu
+        <list>
+            <item>
+                civayō<hi rend="grantha">gi</hi>kaḷukku Aṭum a
+                <lb n="C4=75" break="no"/>rici nār-kalamum
+            </item>
+            <item>                
+                pa<hi rend="grantha">nmāheśva</hi>raṟk’ aṭum a
+                <lb n="C5=76" break="no"/>rici Eṇ-kalamum
+            </item>
+        </list>
+    </p>
+    
+    <p>
+        ...
+    </p>
+    
+    <p>        
         
         <lb n="C35=106"/>...        
         
         <milestone type="pagelike" n="D" unit="zone"/><label xml:lang="eng">Fourth Wall Portion</label>      
                 
-        <lb n="D1=107"/>...
-        
+        <lb n="D1=107"/>...        
+    </p>
+    
+    <p>
+        Im-ma
+        <lb n="D7=114"/>...
+        <lb n="D14=120"/>...        
+    </p>
+    
+    <p>
+        It-taṉaiyum kuṟai v-aṟuttu In
+        <lb n="D15=121"/>...
+        <lb n="D22=128"/>...        
+    </p>
+    
+    <p>
+        In-nilam ciṟu-puliyūrilum
+        <lb n="D23=129"/>...
+        <lb n="D28=134" break="no"/>k-kūṟṟattu v<choice><orig>i</orig><reg>ī</reg></choice>ramāṅkuṭaiyāṉ tāyaṉ kāṭaṉ-ēṉ        
     </p>
     
     <p>        
@@ -321,7 +365,7 @@
     <p>
         I<hi rend="grantha">d-dhanma</hi>m
         <lb n="D30=136"/>Ira<hi rend="grantha">kṣi</hi>ppār <hi rend="grantha">śrī</hi>-pā<hi rend="grantha">dayū</hi>ḷi Eṉ talai mēla
-        <lb n="D31=137"/><add place="above">ṉa</add>
+        <lb n="D31=137" break="no"/><add place="above">ṉa</add>
     </p>
     
     <p>
