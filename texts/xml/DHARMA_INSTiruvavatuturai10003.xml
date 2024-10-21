@@ -59,7 +59,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-					    <summary>Land donation by Tāyaṅkaṭaṉ, lord of Vīramāṅkuṭi, to the Lord (<foreign>āḷvār</foreign>)of Tiruvāvaṭutuṟai.</summary>
+					    <summary>Land donation by Tāyaṅkaṭaṉ, lord of Vīramāṅkuṭi, to the Lord (<foreign>āḷvār</foreign>) of Tiruvāvaṭutuṟai.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -109,13 +109,13 @@
         <lb n="A01=01"/>na<hi rend="grantha">maś śi</hi>vā
         <lb n="A01=02" break="no"/>ya <hi rend="grantha">svasti śrī</hi>
     </ab>
-	
+    
     <p>		
         <lb n="A1=1"/>mat<choice><orig>i</orig><reg>u</reg></choice>rai koṇṭa
         <lb n="A2=2"/>kō-p-para-kēcari-pa
         <lb n="A3=3" break="no"/><hi rend="grantha">nma</hi>kki yāṇṭu <num value="36">3 <g type="numeral">10</g> 6</num>-Āvatu
     </p>
-	
+    
     <p>
         <lb n="A4=4"/>teṉ-karai-t tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu
         <lb n="A5=5"/><hi rend="grantha">brahma</hi>tēyañ cāttaṉūr <hi rend="grantha">śrī</hi>-tiru
@@ -128,7 +128,7 @@
         ciṟṟā<unclear>ṉai</unclear>ccūr-k koṇṭu I
         <lb n="A11=11" break="no"/>ṟai-y-i<unclear>li</unclear> ceyta nilamum
     </p>
-	
+    
     <p>
         Ivv-iraṇ
         <lb n="A12=12" break="no"/>ṭu <gap reason="illegible" quantity="1" unit="character"/> <hi rend="grantha">sabhai</hi>yār <unclear>i</unclear>ṭaiyum can=tirātitta
@@ -164,8 +164,7 @@
                 <lb n="A26=26" break="no"/>rum peru-<unclear>vaḻik</unclear>kum tēvar maṇal-<choice><orig>i</orig><reg>ī</reg></choice>ṭṭukkum civa
                 <lb n="A27=27" break="no"/><supplied reason="lost">paṭu</supplied> <unclear>tiru</unclear>-nan=ta-vāṉattukku teṟku<choice><orig>mm</orig><reg>m</reg></choice>	
             </item>
-        </list>
-        
+        </list>        
     </p>
 	
     <p>		
@@ -190,7 +189,7 @@
 	
         <list>
             <item>
-                tiru-vāvaṭu-tuṟai Āḷvā<unclear>r</unclear>k
+                tiru-v-āvaṭu-tuṟai Āḷvā<unclear>r</unclear>k
                 <lb n="B3=39" break="no"/>ku pāṭuvār iruvar Iraṇṭu can=tiyum pāṭa A
                 <lb n="B4=40" break="no"/>ṟu māvum
             </item>
@@ -198,11 +197,110 @@
                 t<unclear>i</unclear>ru-nan=ta-vāṉam tiru-<unclear>ta</unclear> <gap reason="lost" quantity="1" unit="character"/> I
                 <lb n="B5=41" break="no"/>ṟaippār iruvarkku Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice><unclear>ḻ</unclear>ai nā<supplied reason="lost">lu</supplied> māvu
                 <lb n="B6=42" break="no"/>m				
-            </item> 
+            </item>
+            <item>
+                tiru-p-paḷḷi-t-tāmam paṟi<choice><orig>cc</orig><reg>tt</reg></choice>u ce<unclear>ṟu</unclear>ppār I
+                <lb n="B7=43" break="no"/>ru-vā<choice><orig>n</orig><reg>ṉ</reg></choice>avaṉmāṟku Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻai Iraṇṭu māvu
+                <lb n="B8=44" break="no"/>m                
+            </item>
+            <item>
+                nicati-p paṭi nāṭa-p pōṉakattukku patt’ o
+                <lb n="B9=45" break="no"/>ṭṭu kuttal paḻa-v-arici nā-ṉāḻiyum
+                kummāya
+                <lb n="B10=46" break="no"/>-Amitiṉukku parupp’ uriyum  
+                neyy-amitu
+                <lb n="B11=47"/>Oru piṭiyum
+                tayir-amitu Uriyum
+                <unclear>p</unclear>ori-k-kaṟi-A
+                <lb n="B12=48" break="no"/>mitum
+                Aṭai-k-kāy-amitu nālum
+                Amitu ce
+                <lb n="B13=49" break="no"/>yvippitiṉukku
+                tiru-k-kōyil Uṭaiyār <gap reason="illegible" quantity="1" unit="character"/>
+                <lb n="B14=50" break="no"/><gap reason="illegible" quantity="4" unit="character"/> koṇṭa nilam Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻai Eṭṭu māvu
+                <lb n="B15=51" break="no"/>m
+            </item>
+            
+            <item>
+                Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻai-c cat<surplus>ti</surplus><hi rend="grantha">tra</hi>-viḷākam vēli-c ceyu
+                <lb n="B16=52" break="no"/>m koṇṭu v<choice><orig>i</orig><reg>ī</reg></choice>ramāṅkuṭaiyāṉ tāyaṅkāṭaṉ va
+                <lb n="B17=53" break="no"/>ḻiyilārum <hi rend="grantha">panmāheśva</hi>rarum Uruttira-p-perumakka
+                <lb n="B18=54" break="no"/>ḷum Iṭa-p-paṭṭa maṭa-pati Ic-cattira-viḷākam vēliyu
+                <lb n="B19=55" break="no"/>m
+            </item>
+            
+            <item>
+                Aṭuttu-k koṇṭu Aṭuvitāṉ Arici A<unclear>ṟu</unclear>-patt’ iru-ka
+                <lb n="B20=56" break="no"/>lamum payaṟu Aiṅ-kalamum
+            </item>
         </list>
-		
-        <lb n="B35=71"/>...        
+	</p>
+    <p>
+        tiru-k-koṭi Iḻicca <hi rend="grantha">sna</hi>
+        <lb n="B21=57" break="no"/><choice><sic>ma</sic><corr>pa</corr></choice>ttukku poṉ kaḻañcum Ivv-eḻu nāḷu Ip-pa
+        <lb n="B22=58" break="no"/>ṭi Ūṭṭuvikka māṭṭāta maṭa-patiyai tiruttam āṭiṉa piṟṟai nā
+        <lb n="B23=59" break="no"/>ṉṟu Urudra-kaṇaperumakkaḷum panmāheśvararum tāyaṅ
+        <lb n="B24=60" break="no"/>kaṭaṉ vaḻiyilārum Āka t<unclear>ā</unclear>ṉ māṟṟi Āvāṉ or maṭa
+        <lb n="B25=61" break="no"/>-patiyai Iṭuvit’ ākavum
     </p>
+    
+    <p>	    
+        <unclear>Iv-ai</unclear>mpatt’ iru-kalamum Aḷa
+        <lb n="B26=62" break="no"/>ppi<choice><orig>cc</orig><reg>tt</reg></choice>u-k <unclear>koṇ</unclear>ṭu <gap reason="illegible" quantity="5" unit="character"></gap> kaṇkāṇi<unclear>yo</unclear>ṭum
+        tiru-viḻ<unclear>ā</unclear>
+        <lb n="B27=63"/>Eṭutta nāḷ m<choice><orig>u</orig><reg>ū</reg></choice>la-mutal
+        
+        <list>
+            <item>
+                <choice><unclear>A</unclear><unclear>Ā</unclear></choice>ṭa-k kaṭava Ariya-c-civayō<hi rend="grantha">gi</hi>
+                <lb n="B28=64" break="no"/>kaḷukku patakkum
+            </item>
+            <item>
+                pa<hi rend="grantha">nmāheśva</hi>rarkku Aṭum arici tūṇiyum
+            </item>
+        </list>
+    </p>
+    <p>
+        <lb n="B29=65"/>pūrāṭatti ṉāṉṟu
+        <list>
+            <item>
+                civayō<hi rend="grantha">gi</hi>ka<unclear>ḷukku</unclear> Aṭum A
+                <lb n="B30=66" break="no"/>rici tūṇi-p patakkum
+            </item>
+            <item>
+                pa<hi rend="grantha">nmāheśva</hi>rarkku Aṭum a
+                <lb n="B31=67" break="no"/>rici kalamum
+            </item>
+        </list>
+    </p>
+    <p>
+        Uttirāṭatti ṉāṉṟu
+        <list>
+            <item>
+                civayō<hi rend="grantha">gi</hi><unclear>kaḷu</unclear>
+                <lb n="B32=68" break="no"/>kku Aṭum arici kalamum
+            </item>
+            <item>
+                pa<hi rend="grantha">nmāheśva</hi>rarkku Aṭum a
+                <lb n="B33=69" break="no"/>rici mu-k-kalamum
+            </item>
+        </list>
+    </p>
+    <p>
+        tiruvōṇatti ṉāṉṟu
+        <list>
+            <item>
+                civayō
+                <lb n="B34=70" break="no"/><hi rend="grantha">gi</hi>kaḷukku Aṭum arici Iru-kalamum
+            </item>
+            <item>
+                pa<hi rend="grantha">nmāheśva</hi>rar
+                <lb n="B35=71" break="no"/>kku Aṭum Arici Aṟu kalamum
+            </item>
+        </list>
+    </p>
+    
+    
     <p>
         <milestone type="pagelike" n="C" unit="zone"/><label xml:lang="eng">Third Wall Portion</label>
         
@@ -306,15 +404,23 @@
 		</list>		
 	</p>
 	
-	<p n="27-33">
-		Comprised within these four boundaries,
-		<supplied reason="subaudible">there are</supplied>
-		sylvan tracts, dry-land, and wet-land, bordering on the south, which he had dug <supplied reason="explanation"><foreign>kalluvitta</foreign></supplied>,
-		<supplied reason="subaudible">as well as</supplied> dry-land and sylvan tracts, already dug <supplied reason="explanation"><foreign>kalliṉa</foreign>?<note>That is, already fitted with channels?</note></supplied>, on both banks of this channel <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>vāyum</foreign></supplied> of Kaṭampaṉ <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>paḻam</foreign></supplied>, already dug <supplied reason="explanation"><foreign>kalliṉa</foreign></supplied>.
-	</p>
+<p n="27-33">
+    Comprised within these four boundaries,
+    <supplied reason="subaudible">there are</supplied>
+    sylvan tracts <supplied reason="explanation"><foreign>kollai</foreign></supplied>,
+    dry-land <supplied reason="explanation"><foreign>puṉ-cey</foreign></supplied>,
+    wet-land <supplied reason="explanation"><foreign>nīr-nilam</foreign></supplied>, bordering on the south, which he had dug <supplied reason="explanation"><foreign>kalluvitta</foreign></supplied>,
+    as well as
+    the <foreign>vāy</foreign> <supplied reason="explanation"><foreign>vāyum</foreign></supplied> <supplied reason="subaudible">of</supplied> Paḻam Kaṭampaṉ <gap reason="ellipsis"/>, already dug <supplied reason="explanation"><foreign>kalliṉa</foreign>?<note>That is, already fitted with channels?</note></supplied>,
+    and    
+    dry-land and sylvan tracts, already dug <supplied reason="explanation"><foreign>kalliṉa</foreign>?</supplied>, on both banks <supplied reason="subaudible">of</supplied> this channel.
+</p>
 	
 	<p n="34-51">
-		In these two lands, <supplied reason="subaudible">there are</supplied> two quarters <supplied reason="subaudible">of a <foreign>vēli</foreign></supplied> of wet-land <gap reason="ellipsis"/>, bordering on the south in the land <gap reason="ellipsis"/> and, comprised within these two quarters <supplied reason="subaudible">of a <foreign>vēli</foreign></supplied>, a <foreign>patiyam</foreign>, bordering on the west, <supplied reason="subaudible">which are provisioned as follows</supplied>:
+		<supplied reason="subaudible">There are</supplied> two quarters <supplied reason="subaudible">of a <foreign>vēli</foreign></supplied> of wet-land <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>mayakkiṉa</foreign></supplied>, bordering on the south in the land <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>mayakkiṉa</foreign></supplied>, after digging <supplied reason="explanation"><foreign>kalli</foreign></supplied> in these two lands.
+	</p>
+    <p>      	    
+	    <supplied reason="subaudible">Comprised</supplied> within these two quarters <supplied reason="subaudible">of a <foreign>vēli</foreign></supplied>, a <foreign>patiyam</foreign>, bordering on the west, <supplied reason="subaudible">is provisioned as follows</supplied>:
 		
 		<list>
 			<item>
