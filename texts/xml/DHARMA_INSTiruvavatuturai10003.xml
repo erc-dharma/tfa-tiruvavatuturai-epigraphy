@@ -59,7 +59,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-					    <summary>Land donation by Tāyaṅkaṭaṉ, lord of Vīramāṅkuṭi, to the Lord (<foreign>āḷvār</foreign>) of Tiruvāvaṭutuṟai.</summary>
+					    <summary>Land donation, after sale, by Tāyaṅ Kaṭaṉ, lord of Vīramāṅkuṭi, to the Lord (<foreign>āḷvār</foreign>) of Tiruvāvaṭutuṟai, for appointing hymn singers, gardeners, and flower garnishers, for food offerings for the god and for feeding Śivayogins and Paṉmāheśvaras (great devotees of Śiva) on seven specified festival days.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -113,19 +113,19 @@
     <p>		
         <lb n="A1=1"/>mat<choice><orig>i</orig><reg>u</reg></choice>rai koṇṭa
         <lb n="A2=2"/>kō-p-para-kēcari-pa
-        <lb n="A3=3" break="no"/><hi rend="grantha">nma</hi>kki yāṇṭu <num value="36">3 <g type="numeral">10</g> 6</num>-Āvatu
+        <lb n="A3=3" break="no"/><hi rend="grantha">nma</hi><reg>r</reg>kk<choice><orig>i</orig><reg>u</reg></choice> <unclear>y</unclear>āṇṭu <num value="36">3 <g type="numeral">10</g> 6</num>-Āvatu
     </p>
     
     <p>
         <lb n="A4=4"/>teṉ-karai-t tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu
         <lb n="A5=5"/><hi rend="grantha">brahma</hi>tēyañ cāttaṉūr <hi rend="grantha">śrī</hi>-tiru
-        <lb n="A6=6" break="no"/>-vāvaṭu-tuṟ<unclear>ai</unclear> Āḷvārkku Ivar aṭiyē
+        <lb n="A6=6" break="no"/>-v-āvaṭu-tuṟ<unclear>ai</unclear> Āḷvārkku Ivar aṭiyē
         <lb n="A7=7" break="no"/>ṉ miṟai-k-<unclear>kū</unclear>ṟṟattu v<choice><orig>i</orig><reg>ī</reg></choice>ra-māṅku
         <lb n="A8=8" break="no"/>ṭaiyāṉ t<unclear>ā</unclear>yaṅ-kāṭaṉ-ēṉ
         ciṟu-pu
         <lb n="A9=9" break="no"/>liyūr <hi rend="grantha">sabhai</hi>yār iṭai Iṟai-Ili koṇ
         <lb n="A10=10" break="no"/>ṭa nilamum
-        ciṟṟā<unclear>ṉai</unclear>ccūr-k koṇṭu I
+        ci<unclear>ṟ</unclear>ṟāṉ<unclear>ai</unclear>ccūr-k koṇṭu I
         <lb n="A11=11" break="no"/>ṟai-y-i<unclear>li</unclear> ceyta nilamum
     </p>
     
@@ -140,7 +140,7 @@
             <item>
                 k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pāṟk’ ellai It-tēvar ma<unclear>ṇa</unclear>
                 <lb n="A16=16" break="no"/>l-<choice><orig>i</orig><reg>ī</reg></choice>ṭṭukkum It-tēvar Ātitta-karat			
-                <lb n="A17=17" break="no"/>tu tēvar nilattukku mē<supplied reason="omitted">ṟ</supplied>kku
+                <lb n="A17=17" break="no"/>tu tēvar nilattukku<reg>m</reg> mē<supplied reason="omitted">ṟ</supplied>kku
             </item>
             
             <item>
@@ -168,16 +168,16 @@
     </p>
 	
     <p>		
-        i<lb n="A28=28" break="no"/><choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ā<unclear>ṉ</unclear>k’ <supplied reason="lost">e</supplied>llaiyilum naṭuvu-paṭṭa ko
+        <lb n="A28=28" break="no"/>I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ā<unclear>ṉ</unclear>k’ <supplied reason="lost">e</supplied>llaiyilum naṭuvu-paṭṭa ko
         <lb n="A29=29" break="no"/>llaiyum pu<unclear>ṉ</unclear>-ceyyum teṟk’ aṭai
-        <lb n="A30=30" break="no"/>ya Ivaṉē kalluvicca n<choice><orig>i</orig><reg>ī</reg></choice><supplied reason="lost">r</supplied>-nilamum
+        <lb n="A30=30" break="no"/>ya Ivaṉē kalluvicca n<choice><orig>i</orig><reg>ī</reg></choice>r-nilamum
         <lb n="A31=31"/>kalliṉa paḻaṅ-kaṭampaṉ vāyum I
         <lb n="A32=32" break="no"/>v-vāykkāl Iraṇṭu karaiyilum
         <lb n="A33=33"/>kalliṉa kollaiyum puṉ-ceyum
     </p>
 	<p>
         <lb n="A34=34"/>Iraṇṭu <gap reason="illegible" quantity="1" unit="character"/> nilattilum kalli mayak
-        <lb n="A35=35" break="no"/>kiṉa <unclear>I</unclear>ñ-ñilattuḷ teṟk’ aṭaiya mayak
+        <lb n="A35=35" break="no"/>kiṉa <supplied reason="lost">I</supplied>ñ-ñilattuḷ teṟk’ aṭaiya mayak
         <lb n="A36=36" break="no"/>kiṉa n<choice><orig>i</orig><reg>ī</reg></choice>r-nilam Iraṇṭē kāl
 	</p>
 	<p>
@@ -523,7 +523,7 @@
             </item>
             
             <item>
-                the northern boundary is to the south of the departing <supplied reason="explanation"><foreign>pērum</foreign>?</supplied> great road, of the sand dunes <supplied reason="explanation"><foreign>maṇal-īṭu</foreign></supplied> of the god and of the glorious flower garden <supplied reason="subaudible">named</supplied> Civapaṭu.
+                the northern boundary is to the south of the departing (?) <supplied reason="explanation"><foreign>pērum</foreign></supplied> great road, of the sand dunes <supplied reason="explanation"><foreign>maṇal-īṭu</foreign></supplied> of the god and of the glorious flower garden <supplied reason="subaudible">named</supplied> Civapaṭu.
             </item>
             
         </list>		
@@ -546,31 +546,33 @@
     </p>
     
     <p n="36-51">      	    
-        <supplied reason="subaudible">Comprised</supplied> within these two quarters <supplied reason="subaudible">of a <foreign>vēli</foreign></supplied>, a <foreign>patiyam</foreign>, bordering on the west, <supplied reason="subaudible">is provisioned as follows</supplied>:
+        <supplied reason="subaudible">Comprised</supplied> within these two quarters <supplied reason="subaudible">of a <foreign>vēli</foreign></supplied>, a <foreign>patiyam</foreign>, bordering on the west, <supplied reason="subaudible">is provisioned as follows</supplied>:<note>Two quarters <foreign>vēli</foreign>, that is half a <foreign>vēli</foreign>, make 20 <foreign>mā</foreign>s, which are distributed as follows: 6 + 4 + 2 + 8 <foreign>mā</foreign>s.</note>
         
         <list>
+            
             <item>
-                so that two singers sing <supplied reason="explanation"><foreign>pāṭa</foreign></supplied> <supplied reason="subaudible">at</supplied> two <foreign>canti</foreign>s for the Lord of Tiruvāvaṭutuṟai: six <foreign>mā</foreign>s <supplied reason="subaudible">are provisioned</supplied>;
+                six <foreign>mā</foreign>s, so that two singers sing <supplied reason="explanation"><foreign>pāṭa</foreign></supplied> <supplied reason="subaudible">at</supplied> two <foreign>canti</foreign>s for the Lord of Tiruvāvaṭutuṟai;
             </item>
+            
             <item>
-                for two persons who <gap reason="ellipsis"/> the glorious flower garden: four <foreign>mā</foreign>s <supplied reason="subaudible">are provisioned</supplied>, west of this;
+                four <foreign>mā</foreign>s, , west of this, for two persons who <gap reason="ellipsis"/> the glorious flower garden;
             </item>
+            
             <item>
-                for the celestial(s) <gap reason="ellipsis"/>
-                having plucked <supplied reason="explanation"><foreign>paṟittu</foreign></supplied> glorious flower garlands <gap reason="ellipsis"/>:
-                two <foreign>mā</foreign>s <supplied reason="subaudible">are provisioned</supplied>, west of this.
+                two <foreign>mā</foreign>s <supplied reason="subaudible">are provisioned</supplied>, west of this, for the celestial(s) <gap reason="ellipsis"/> having plucked <supplied reason="explanation"><foreign>paṟittu</foreign></supplied> glorious flower garlands;
             </item>
+            
             <item>
-                for daily food <supplied reason="subaudible">are provisioned</supplied>:
+                eight <foreign>mā</foreign>s, east of this land, that the Lord of the glorious temple obtained <gap reason="ellipsis"/>,                
+                for having these food-offerings made<!--CHECK-->
+                for daily food <supplied reason="subaudible">consisting in</supplied>
                 four <foreign>nāḻi</foreign>s of husked and seasoned paddy
                 eighteen (?),
                 <supplied reason="subaudible">one</supplied> large <supplied reason="explanation"><foreign>paruppu</foreign>?</supplied> <foreign>uri</foreign> of lentil food-offering,
                 one <foreign>piṭi</foreign> of butter food-offering,
                 <supplied reason="subaudible">one</supplied> <foreign>uri</foreign> of curd food-offering,	 				 				<supplied reason="subaudible">one</supplied> cooked food-offering,	 			
-                four areca-nut food-offerings;
+                four areca-nut food-offerings.
             </item>
-            <item>
-                for having these food-offerings made: eight <foreign>mā</foreign>s <supplied reason="subaudible">are provisioned</supplied>, east of this land that the Lord of the glorious temple obtained <gap reason="ellipsis"/></item>
         </list>
     </p>
     
