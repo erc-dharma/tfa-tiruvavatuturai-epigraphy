@@ -175,9 +175,50 @@
 		</p>
 		
 		<p>	Ātittacantirar<supplied reason="omitted">ka</supplied>
-			<lb n="1v14=48" break="no"/> ḷ uḷḷa varaikkum Āṇṭu Aṉupavittuk koḷvārkaḷ ākavu
-			<lb n="1v14=48" break="no"/> m
+			<lb n="1v15=49" break="no"/> ḷ uḷḷa varaikkum Āṇṭu Aṉupavittuk koḷvārkaḷ ākavu
+			<lb n="1v16=50" break="no"/> m
 		</p>	
+		<p>
+			Intap paṭṭaiya-p-paṭikki paripālaṉam paṇṇik koṇṭa
+			<lb n="1v17=51" break="no"/>varkaḷ kāciyil keṇkaik karaiyilē kōṭi civa-
+			<lb n="1v18=52" break="no"/>liṅkam pirati<hi rend="grantha">ṣṭai</hi>yum kōṭi vi<hi rend="grantha">ṣṇu</hi> pirati<hi rend="grantha">ṣṭai</hi>yum kōṭi
+			<lb n="1v19=53" break="no"/><hi rend="grantha">brahma</hi> pirati<hi rend="grantha">ṣṭai</hi>yum ceyta puṇṇiya-p palaṅkaḷai peruva
+			<lb n="1v20=54" break="no"/>rkaḷ
+			Itaṟku yātorutar Akitam paṇṇiṉavarkaḷ ke
+			<lb n="1v21=55" break="no"/>ṅkaik karaiyilē kārāmpacuvaik koṉṟa tō<hi rend="grantha">ṣa</hi>ttilu
+			<lb n="1v22=56" break="no"/>m pi<supplied reason="omitted">ra</supplied>mmakattiyum <hi rend="grantha">śrī</hi>kattiyum cicukattiyum māturu tu
+			<lb n="1v23=57" break="no"/><hi rend="grantha"><choice><sic>śo</sic><corr>ro</corr></choice></hi>kamum paṇṇiṉa tōṣattil pōkak kaṭavār ākavum
+		</p>
+
+		<p>
+			<lb n="1v24=58"/>cokkaliṅkam mīṉāṭci reṅkanāyakar Uccimalaippiḷḷaiya
+			<lb n="1v25=59" break="no"/> r māriyammaṉ paḻaṇi murukar potiya-māmalai Akattiya
+			<lb n="1v26=60" break="no"/> r rāmapattara-cuvāmi cīr-pātattiṉāṉai tappātu yeluṉa
+			<lb n="1v27=61" break="no"/>vāru cuvāmiyavarkaḷ kompāṭum Oppam iṭṭu-t tām
+			<lb n="1v28=62"/> pira-cātaṉam Eḻuta-k kaṭṭaḷai y-iṭṭu maturai ṉāṭṭuk=ka
+			<lb n="1v29=63" break="no"/>ṇakku kōṉēriyappa-piḷ=ḷai kamppaka maṭalil va
+			[<lb n="1v30=64" break="no"/>raintu kaṇṭa vācakattai-t tāmpira-p-paṭṭaya
+			<lb n="1v31=65" break="no"/>ttil veṭṭi varaintu Eḻutiṉēṉ maturai 
+			<lb n="1v32=66"/>c-cōmacunta<choice><orig>RĀ</orig><reg>ra</reg></choice>m ācāri <g type="pcs"></g>
+		</p>
+	
+		<!--  <ab xml:lang="tel-Latn" rend="large">
+			<lb n="1v33=67"/>cārraliṁgga tirumalanā
+			<lb n="1v34=68"/>larunayasanāru
+			<lb n="1v35=69"/>śrī manā / sahāmala/
+		</ab>
+		   
+		I cannot make out this telugu signature yet-->
+		
+		<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+			<l n="a"><lb n="1v36=70"/> sva-dattā<supplied reason="omitted">d</supplied> dvi-guṇaṁ puṇyaṁ</l> 
+			<l n="b">para-datt<lb n="1v37=71"/>ānupālanaṁ</l> 
+			<l n="c">para-dattāpahāreṇa</l> 
+			<l n="d"><lb n="1v38=72"/>sva-dattaṁ niṣphalaṁ bhavet·</l> 
+		</lg>
+			
+			
+
 	<!--<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<l n="a">dānapālanayōr maddhyē</l> 
 		<l n="b">dānāt· cchreyo ’nupālanam· <g type="danda">.</g></l> 
