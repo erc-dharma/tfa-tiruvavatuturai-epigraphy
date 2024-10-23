@@ -93,18 +93,49 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
      
-               
-        <p>
-            <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">Moulding</label>
-            <lb n="A1=1"/>...
-        </p>        
-      
-      <p>
-            <milestone type="pagelike" n="B" unit="zone"/><label xml:lang="eng">Moulding</label>
-            <lb n="B1=1"/>...
-        </p>   
+    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+        <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">Moulding</label>
+        <lb n="A1=1"/><lb n="1"/><supplied reason="lost">svasti śrī</supplied>
+    </ab>
     
-   
+    <lg n="1" met="āciriyappā">
+        <l n="1"><supplied reason="lost">tirumaṉṉi vaḷara irunila maṭantaiyum</supplied></l>
+        <l n="2"><supplied reason="lost">pōṟ-ce</supplied>ya-p pāvaiyuñ c<choice><orig>i</orig><reg>ī</reg></choice>r-t taṉi-c celv<unclear>i</unclear>yun=</l>
+        <l n="3">taṉ perun tēv<unclear>i</unclear>yar āki Iṉpuṟa</l>
+        <l n="4">neṭitiyal ūḻ<unclear>i</unclear>yu<unclear>ḷ</unclear> <supplied reason="lost">iṭatuṟai nāṭum</supplied></l>
+        <l n="5">...</l>
+        <l n="6">...</l>
+        <l n="7">...</l>
+        <l n="8">poru-kaṭal <choice><orig>i</orig><reg>ī</reg></choice>ḻatt’ araiyar ta muṭiyum</l>
+        <l n="9">...</l>
+        <l n="10">...</l>
+        <l n="11">... <lb n="A2=2"/>...</l>
+        <l n="12">...</l>
+        <l n="13">...</l>
+        <l n="14">...</l>
+        <l n="15">tol peruṅkāval pal<unclear>paḻa</unclear>n t<choice><orig>i</orig><reg>ī</reg></choice><supplied reason="lost">vum</supplied></l>        
+        <l n="16">...</l>
+    </lg>    
+    
+    <p>
+        <gap reason="lost" extent="unknown" unit="character"/> 
+    </p>
+    
+    <p>
+        <gap reason="lost" extent="unknown" unit="character"/>
+        -<unclear>va</unclear>ḷa<surplus>ku</surplus>ṉāṭṭu-p pērāvūr-ṉā<surplus>ā</surplus>ṭṭ<del rend="strikeout">ār</del><add place="overstrike">u</add> <hi rend="grantha">brahmade</hi>yam pērāvūr sabhaiyōm viṟṟu-k kuṭutta nila-vilai-y-āvaṇam In-nāṭṭu-t tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu tiru-v-āvaṭu-tuṟai Uṭaiyār m<choice><orig>u</orig><reg>ū</reg></choice>la-<hi rend="grantha">bhṛ</hi><surplus>t</surplus><hi rend="grantha">tya</hi>ṉ-āṉa <hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>aṇḍe</hi>
+        <lb n="A3=3" break="no"/>...
+        <lb n="A4=4" break="no"/>...
+        <lb n="A5=5" break="no"/>...
+        <lb n="A6=6" break="no"/>...        
+    </p>        
+    
+    <p>
+        <milestone type="pagelike" n="B" unit="zone"/><label xml:lang="eng">Moulding</label>
+        <lb n="B1=7"/><gap reason="lost" extent="unknown" unit="character"/> <choice><orig>n</orig><reg>ṉ</reg></choice>ē<choice><orig>n</orig><reg>ṉ</reg></choice> Ippaṭi Āṟivēṉ <gap reason="lost" extent="unknown" unit="character"/>
+    </p>   
+    
+    
 </div>	
 	
 <!--<div type="apparatus">
