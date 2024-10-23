@@ -59,7 +59,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-					    <summary>Land donation, after sale, by Tāyaṅ Kaṭaṉ, lord of Vīramāṅkuṭi, to the Lord (<foreign>āḷvār</foreign>) of Tiruvāvaṭutuṟai, for appointing hymn singers, gardeners, and flower garnishers, for food offerings for the god and for feeding Śivayogins and Paṉmāheśvaras (great devotees of Śiva) on seven specified festival days.</summary>
+					    <summary>Land donation, after sale, by Tāyaṅ Kaṭaṉ, lord of Vīramāṅkuṭi, to the Lord (<foreign>āḷvār</foreign>) of Tiruvāvaṭutuṟai, for appointing hymn singers, gardeners, and flower garnishers, for daily food offerings for the god and for feeding Śivayogins and Paṉmāheśvaras (great devotees of Śiva) on seven specified festival days.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -185,7 +185,7 @@
         <milestone type="pagelike" n="B" unit="zone" break="no"/>
         <label xml:lang="eng">Second Wall Portion</label>
         <lb n="B1=37" break="no"/>raṇtē kālilum mē<supplied reason="omitted">ṟ</supplied>kk’ aṭai<unclear>ya-p</unclear>
-        <lb n="B2=38"/>patiyam
+        <lb n="B2=38"/><unclear>p</unclear>atiyam
 	
         <list>
             <item>
@@ -194,22 +194,22 @@
                 <lb n="B4=40" break="no"/>ṟu māvum
             </item>
             <item>
-                t<unclear>i</unclear>ru-nan=ta-vāṉam tiru-<unclear>ta</unclear> <gap reason="lost" quantity="1" unit="character"/> I
+                t<unclear>i</unclear>ru-nan=ta-vāṉam tiru<unclear>t</unclear><supplied reason="lost">tam</supplied> I
                 <lb n="B5=41" break="no"/>ṟaippār iruvarkku Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice><unclear>ḻ</unclear>ai nā<supplied reason="lost">lu</supplied> māvu
                 <lb n="B6=42" break="no"/>m				
             </item>
             <item>
-                tiru-p-paḷḷi-t-tāmam paṟi<choice><orig>cc</orig><reg>tt</reg></choice>u ce<unclear>ṟu</unclear>ppār I
+                tiru-p-paḷḷi-t-tāmam paṟi<choice><orig>cc</orig><reg>tt</reg></choice>u ce<unclear>ṟi</unclear>ppār I
                 <lb n="B7=43" break="no"/>ru-vā<choice><orig>n</orig><reg>ṉ</reg></choice>avaṉmāṟku Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻai Iraṇṭu māvu
                 <lb n="B8=44" break="no"/>m                
             </item>
             <item>
-                nicati-p paṭi nāṭa-p pōṉakattukku patt’ o
+                nicati-p paṭi nāṭa-p pōṉakattukku patto
                 <lb n="B9=45" break="no"/>ṭṭu kuttal paḻa-v-arici nā-ṉāḻiyum
                 kummāya
                 <lb n="B10=46" break="no"/>-Amitiṉukku parupp’ uriyum  
                 neyy-amitu
-                <lb n="B11=47"/>Oru piṭiyum
+                <lb n="B11=47"/><unclear>O</unclear>ru piṭiyum
                 tayir-amitu Uriyum
                 <unclear>p</unclear>ori-k-kaṟi-A
                 <lb n="B12=48" break="no"/>mitum
@@ -239,7 +239,7 @@
         tiru-k-koṭi Iḻicca <hi rend="grantha">sna</hi>
         <lb n="B21=57" break="no"/><choice><sic>ma</sic><corr>pa</corr></choice>ttukku poṉ kaḻañcum Ivv-ēḻu nāḷu Ip-pa
         <lb n="B22=58" break="no"/>ṭi Ūṭṭuvikka māṭṭāta maṭa-patiyai tiruttam āṭiṉa piṟṟai nā
-        <lb n="B23=59" break="no"/>ṉṟu Uru<hi rend="grantha">dra</hi>-kaṇaperumakkaḷum pa<hi rend="grantha">nmāheśva</hi>rarum tāyaṅ
+        <lb n="B23=59" break="no"/>ṉṟu Urudra-kaṇa-perumakkaḷum pa<hi rend="grantha">nmāheśva</hi>rarum tāyaṅ
         <lb n="B24=60" break="no"/>-kaṭaṉ vaḻiyilārum Āka t<unclear>ā</unclear>ṉ māṟṟi Āvāṉ or maṭa
         <lb n="B25=61" break="no"/>-patiyai Iṭuvit’ ākavum
     </p>
@@ -248,84 +248,61 @@
         <unclear>Iv-ai</unclear>mpatt’ iru-kalamum Aḷa
         <lb n="B26=62" break="no"/>ppi<choice><orig>cc</orig><reg>tt</reg></choice>u-k <unclear>koṇ</unclear>ṭu <gap reason="illegible" quantity="5" unit="character"></gap> kaṇkāṇi<unclear>yo</unclear>ṭum
         tiru-viḻ<unclear>ā</unclear>
-        <lb n="B27=63"/>Eṭutta nāḷ m<choice><orig>u</orig><reg>ū</reg></choice>la-mutal
+        <lb n="B27=63"/>Eṭutta nāḷ        
         
         <list>
             <item>
+                m<choice><orig>u</orig><reg>ū</reg></choice>la-mutal
                 <choice><unclear>A</unclear><unclear>Ā</unclear></choice>ṭa-k kaṭava Ariya-c-civayō<hi rend="grantha">gi</hi>
-                <lb n="B28=64" break="no"/>kaḷukku patakkum
-            </item>
-            <item>
+                <lb n="B28=64" break="no"/>kaḷukku patakkum            
                 pa<hi rend="grantha">nmāheśva</hi>rarkku Aṭum arici tūṇiyum
             </item>
-        </list>
-    
-        <lb n="B29=65"/>pūrāṭatti ṉāṉṟu
-        <list>
+            
             <item>
+                <lb n="B29=65"/>pūrāṭatti ṉāṉṟu
                 civayō<hi rend="grantha">gi</hi>ka<unclear>ḷukku</unclear> Aṭum A
                 <lb n="B30=66" break="no"/>rici tūṇi-p patakkum
-            </item>
-            <item>
                 pa<hi rend="grantha">nmāheśva</hi>rarkku Aṭum a
                 <lb n="B31=67" break="no"/>rici kalamum
             </item>
-        </list>
-   
-        Uttirāṭatti ṉāṉṟu
-        <list>
+            
             <item>
+                Uttirāṭatti ṉāṉṟu
                 civayō<hi rend="grantha">gi</hi><unclear>kaḷu</unclear>
                 <lb n="B32=68" break="no"/>kku Aṭum arici kalamum
-            </item>
-            <item>
                 pa<hi rend="grantha">nmāheśva</hi>rarkku Aṭum a
                 <lb n="B33=69" break="no"/>rici mu-k-kalamum
             </item>
-        </list>
-    
-        tiruvōṇatti ṉāṉṟu
-        <list>
+            
             <item>
+                tiruvōṇatti ṉāṉṟu
                 civayō
-                <lb n="B34=70" break="no"/><hi rend="grantha">gi</hi>kaḷukku Aṭum arici Iru-kalamum
-            </item>
-            <item>
+                <lb n="B34=70" break="no"/><hi rend="grantha">gi</hi>kaḷukku Aṭum arici Iru-kalamum           
                 pa<hi rend="grantha">nmāheśva</hi>rar
                 <lb n="B35=71" break="no"/>kku Aṭum Arici Aṟu kalamum
             </item>
-        </list>
-   
-        Aviṭṭatti ṉāṉṟu
-        <list>
+            
             <item>
+                 Aviṭṭatti ṉāṉṟu
                 <milestone type="pagelike" n="C" unit="zone"/><label xml:lang="eng">Third Wall Portion</label>
                 <lb n="C1=72"/>civayō<hi rend="grantha">gi</hi>kaḷukku Aṭum arici mu-k-kalamum
-            </item>
-            <item>
                 <lb n="C2=73"/>pa<hi rend="grantha">nmāheśva</hi>raṟk’ aṭum arici Ēḻu kalamum
             </item>
-        </list>
-    
-        ca
-        <lb n="C3=74" break="no"/>taiyatti ṉāṉṟu
-        <list>
+            
             <item>
+                 ca
+        <lb n="C3=74" break="no"/>taiyatti ṉāṉṟu
                 civayō<hi rend="grantha">gi</hi>kaḷukku Aṭum a
                 <lb n="C4=75" break="no"/>rici nār-kalamum
-            </item>
-            <item>                
                 pa<hi rend="grantha">nmāheśva</hi>raṟk’ aṭum a
                 <lb n="C5=76" break="no"/>rici Eṇ-kalamum
             </item>
-        </list>
-       
-        tiruttam āṭum pūraṭṭāti <lb n="C6=77"/>nāṉṟu
-        <list>
+            
             <item>
+                tiruttam āṭum pūraṭṭāti <lb n="C6=77"/>nāṉṟu
                 civayō<hi rend="grantha">gi</hi>kaḷukku Aṭum arici Aiṅ
-                <lb n="C7=78"/>-kalamum</item>
-            <item>pa<hi rend="grantha">nmāheśva</hi>raṟk’ aṭum arici paṉṉiru
+                <lb n="C7=78"/>-kalamum
+                pa<hi rend="grantha">nmāheśva</hi>raṟk’ aṭum arici paṉṉiru
                 <lb n="C8=79"/>kalamum</item>
         </list>
         
@@ -333,23 +310,33 @@
         
         Ivv-ēḻu nāḷum aṭa-k kaṭava A
         <lb n="C9=80"/>rici Aim-patt’ iru-kalamum
-        
+    </p>
+    
+    <p>        
         Aṉaiccu nāḷaik
         <lb n="C10=81" break="no"/>kum
         āka
         
         payar’ aiṅ-kalamum Ip-paṭi maṭa-pati
         <lb n="C11=82"/>Ūṭṭi tiruttam āṭiṉa piṟṟai nāṉṟu tiru-k-koṭi
-        <lb n="C12=83"/>Iḻicca <hi rend="grantha">sna</hi><choice><orig>m</orig><reg>p</reg></choice>aṉa-<hi rend="grantha">dravya</hi>
-        ttukkum puṭavaikkum
+        <lb n="C12=83"/>Iḻicca <hi rend="grantha">sna</hi><choice><orig>m</orig><reg>p</reg></choice>aṉa-<hi rend="grantha">dravya</hi>ttukkum puṭavaikkum
         āka
         
-        <lb n="C13=84" break="no"/>p 
-        poṉ Arai-k kaḻañcum
+        <list>
+            
+            <item><lb n="C13=84" break="no"/>p 
+                poṉ Arai-k kaḻañcum
+            </item>
+            <item>                
+                <hi rend="grantha">Ācā<reg>r</reg>yya-pūjai</hi> <unclear>kā</unclear>
+                <lb n="C14=85" break="no"/>lum
+            </item>
+            <item>                
+                kalacamu<supplied reason="subaudible">m</supplied> macālu<supplied reason="subaudible">m</supplied> makuṭamu<supplied reason="subaudible">m</supplied> mak<unclear>i</unclear>lamum I
+                <lb n="C15=86" break="no"/>ṭum kucavaṉukku poṉ kālum
+            </item>
         
-        <hi rend="grantha">Ācā<reg>g</reg>yya-pūjai</hi> <unclear>kā</unclear>
-        <lb n="C14=85" break="no"/>lum kalacamu<supplied reason="subaudible">m</supplied> macālu<supplied reason="subaudible">m</supplied> makuṭamu<supplied reason="subaudible">m</supplied> mak<unclear>i</unclear>lamum I
-        <lb n="C15=86" break="no"/>ṭum kucavaṉukku poṉ kālum
+        </list>
     </p>
     <p>
         kalacatti
@@ -360,7 +347,7 @@
         āka
         
         nellu tūṇi-p patakkum
-        <lb n="C20=91" break="no"/>Āka
+        <lb n="C20=91"/>Āka
         
         <hi rend="grantha">ca</hi>tra-viḷākam vēliyum koṇṭu Ivv-ūṭṭuṭṭi
         <lb n="C21=92" break="no"/>Ip-paṭi ceyvvikku maṭa-patikku Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻai-k ka
@@ -379,9 +366,9 @@
     </p>
     
     <p>
-        maṟṟu mēṟpacir <gap reason="illegible" quantity="4" unit="character" precision="low"/> Ellāṅ koṇṭu maṭa-pati
+        maṟṟu<reg>m</reg> mēṟpacir <gap reason="illegible" quantity="4" unit="character" precision="low"/> Ellāṅ koṇṭu maṭa-pati
         <lb n="C31=102" break="no"/>yē tiru-nāḷ Ēḻu nāḷaikkum Ivv-ūṭṭukku vēṇṭum
-        <lb n="C32=103" break="no"/>vicattukku koḷvit’ ākavum
+        <lb n="C32=103"/>vicattukku koḷvit’ ākavum
     </p>
     
     <p>        
@@ -395,9 +382,13 @@
                 
         <lb n="D1=108" break="no"/>-tiru-nāḷ Ēḻu nāḷaikkum Ūṭṭukku vēṇ
         <lb n="D2=109" break="no"/>ṭum kalam iṭum kucavaṉukku poṉ Aṟai-k-ka
-        <lb n="D3=110" break="no"/>ḻañcum Ivaṉukku Ēḻu nāḷaikku nicati kuṟu
+        <lb n="D3=110" break="no"/>ḻañcum
+    </p>
+    <p>
+        Ivaṉukku Ēḻu nāḷaikku nicati kuṟu
         <lb n="D4=111" break="no"/>ṇi Arici
         y-āka
+        
         Ēḻu kuruṇi Aricikkum
         āka
         
@@ -412,8 +403,11 @@
         <lb n="D8=115" break="no"/>ṭa-patiyē cāttaṉūr It-tiru-viḻā-vāriyaṟ
         <lb n="D9=116" break="no"/>ku Ivv-ēḻu nāḷum Ik-kōyil-k-kāvaṇam
         <lb n="D10=117"/>Iṭuvi<choice><orig>cc</orig><reg>tt</reg></choice>u It-tiru-viḻā ceyvikkum vāriya-p
-        <lb n="D11=118"/>-perumakkaḷukku nicati Aiṅ-kuṟuṇi Oru nāḻi A
-        <lb n="D12=119" break="no"/>rici-y-āka Ēḻu nāḷaikku peṟum arici mu-k-kalamum
+        <lb n="D11=118" break="no"/>-perumakkaḷukku nicati Aiṅ-kuṟuṇi Oru nāḻi A
+        <lb n="D12=119" break="no"/>rici
+        y-āka 
+        
+        Ēḻu nāḷaikku peṟum arici mu-k-kalamum
         <lb n="D13=120"/>maṭa-pati tāṉ peṟum kāṟ ceyilum Aṭṭuvi
         <lb n="D14=121"/>t’ ākavum       
     </p>
@@ -434,10 +428,10 @@
         In-nilam ciṟu-puliyūrilum
         <lb n="D23=130"/>ciṟṟāṉaiccūrilum Iṟai-Ili vilai koṇṭu kal
         <lb n="D24=131" break="no"/>li-t tiruttiṉa n<choice><orig>i</orig><reg>ī</reg></choice>r-nilamum kollaiyum puṉ
-        <lb n="D25=132" break="no"/>ceyum In-nilam It-taṉaiyum tiru-v-āvaṭu-tu
+        <lb n="D25=132" break="no"/>-ceyum In-nilam It-taṉaiyum tiru-v-āvaṭu-tu
         <lb n="D26=133" break="no"/>ṟai <hi rend="grantha">mahā-de</hi>vaṟku In-nilam Ip-paṭi koṇṭu
-        <lb n="D27=134"/>In-nivan=tam ceytu kuṭuttēṉ vaṭa-karai miṉa        
-        <lb n="D28=135" break="no"/>-k-kūṟṟattu v<choice><orig>i</orig><reg>ī</reg></choice>ramāṅkuṭaiyāṉ tāyaṉ kāṭaṉ-ēṉ        
+        <lb n="D27=134"/>In-nivan=tam ceytu kuṭuttēṉ vaṭa-karai mi<unclear>ṟai</unclear>        
+        <lb n="D28=135" break="no"/>-k-kūṟṟattu v<choice><orig>i</orig><reg>ī</reg></choice>ra-māṅkuṭaiyāṉ tāyaṉ kāṭaṉ-ēṉ        
     </p>
     
     <p>        
@@ -555,41 +549,89 @@
             </item>
             
             <item>
-                four <foreign>mā</foreign>s, , west of this, for two persons who <gap reason="ellipsis"/> the glorious flower garden;
+                four <foreign>mā</foreign>s, west of this, for two persons who splash <supplied reason="explanation"><foreign>iṟaippār</foreign></supplied> water <supplied reason="explanation"><foreign>tiruttam</foreign></supplied> <supplied reason="subaudible">in</supplied> the glorious flower garden;
             </item>
             
             <item>
-                two <foreign>mā</foreign>s <supplied reason="subaudible">are provisioned</supplied>, west of this, for the celestial(s) <gap reason="ellipsis"/> having plucked <supplied reason="explanation"><foreign>paṟittu</foreign></supplied> glorious flower garlands;
+                two <foreign>mā</foreign>, west of this, for two celestial(s), who, after plucking <supplied reason="explanation"><foreign>paṟittu</foreign></supplied>, tighten <supplied reason="explanation"><foreign>ceṟippār</foreign></supplied> glorious flower garlands;
             </item>
             
             <item>
-                eight <foreign>mā</foreign>s, east of this land, that the Lord of the glorious temple obtained <gap reason="ellipsis"/>,                
-                for having these food-offerings made<!--CHECK-->
+                and, as for food <supplied reason="explanation"><foreign>pōṉakam</foreign></supplied> to be measured (?) <supplied reason="explanation"><foreign>nāṭa</foreign></supplied> on a daily basis <supplied reason="explanation"><foreign>nicatip paṭi</foreign></supplied>, eight <foreign>mā</foreign>s, east of the land, which the Lord of the glorious temple obtained,
+                for having  food-offerings made,
+                <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>pattoṭṭu</foreign></supplied>
                 for daily food <supplied reason="subaudible">consisting in</supplied>
-                four <foreign>nāḻi</foreign>s of husked and seasoned paddy
-                eighteen (?),
-                <supplied reason="subaudible">one</supplied> large <supplied reason="explanation"><foreign>paruppu</foreign>?</supplied> <foreign>uri</foreign> of lentil food-offering,
+                four <foreign>nāḻi</foreign>s of husked and seasoned paddy,
+                <supplied reason="subaudible">one</supplied> large (?) <supplied reason="explanation"><foreign>paruppu</foreign></supplied> <foreign>uri</foreign> of lentil food-offering,
                 one <foreign>piṭi</foreign> of butter food-offering,
-                <supplied reason="subaudible">one</supplied> <foreign>uri</foreign> of curd food-offering,	 				 				<supplied reason="subaudible">one</supplied> cooked food-offering,	 			
-                four areca-nut food-offerings.
+                <supplied reason="subaudible">one</supplied> <foreign>uri</foreign> of curd food-offering,
+                <supplied reason="subaudible">one</supplied> cooked food-offering,	 			
+                and four areca-nut food-offerings.
             </item>
         </list>
     </p>
     
     <p n="51-55">
-        ...
+        East of this, with ... <supplied reason="subaudible">from</supplied> the ...,
+        so as to ...
+        <supplied reason="subaudible">there is</supplied> one <foreign>vēli</foreign> <supplied reason="subaudible">from</supplied> this ...,
     </p>
     
     <p n="55-56">
         ...
     </p>
     <p n="56-61">
-        ...
+        So that the Rudrakaṇapperumakkaḷs, the many great devotees of Śiva and the descendants of Taya Kaṭaṉ ...
+        they should appoint a pontiff ...
     </p>
     <p n="61-80">
+        So that there be <supplied reason="explanation"><foreign>āka</foreign></supplied>,
+        after measuring these fifty-two pots
+        ...
+        at times glorious festivals are undertaken:
+        
+        <list>
+            <item>
+                starting with the Mūlam festival,
+                one <foreign>patakku</foreign> for the Śivayogins ...
+                and one <foreign>tūṇi</foreign> of paddy ...
+            </item>
+            <item>
+                at the time of Pūrāṭatti
+                ...
+            </item>
+            <item>
+                at the time of Uttirāṭatti
+                ...
+            </item>
+            <item>
+                at the time of Tiruvōṇam
+                ...
+            </item>
+            <item>
+                at the time of Aviṭṭam
+                ...
+            </item>
+            <item>
+                at the time of Cataiyam
+                ...
+            </item>
+            <item>
+                at the time of Pūraṭṭāti
+                ...
+            </item>
+            <item>
+                ...
+            </item>
+        </list>
+        there are fifty-two pots of paddy ..
+    </p>
+    
+    <p n="80-86">
         ...
     </p>
-    <p n="80-101">
+    
+    <p n="86-101">
         ...
     </p>
     
@@ -597,7 +639,9 @@
         ...
     </p>
     
-    <p n="103-114">...</p>
+    <p n="103-110">...</p>
+    
+    <p n="110-114">...</p>
     
     <p n="114-121">...</p>
     
