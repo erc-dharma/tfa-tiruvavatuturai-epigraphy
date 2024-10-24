@@ -97,11 +97,13 @@
 		<milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">Wall</label>
 		<lb n="A1=1"/>Uṭaiyār <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-cōḻa-tēvar nam
 		<lb n="A2=2"/>pirāṭṭiyār <hi rend="grantha">trai</hi>lōkkiya-mā-tēviyār-ta
-		<lb n="A3=3" break="no"/>ṅkaḷ ācciyār Irāma<choice><orig>n</orig><reg>ṉ</reg></choice> Apimā<choice><orig>n</orig><reg>ṉ</reg></choice>a-toṅkiyār tiru-vā
-		<lb n="A4=4" break="no"/>vaṭutuṟai Uṭaiyārkku Amutu ceyt-aruḷa ve<unclear>ḷḷi</unclear>
+		<lb n="A3=3" break="no"/>ṅkaḷ ācciyār Irāma<choice><orig>n</orig><reg>ṉ</reg></choice> Apimā<choice><orig>n</orig><reg>ṉ</reg></choice>a-toṅkiyār tiru-v-ā
+		<lb n="A4=4" break="no"/>vaṭu-tuṟai Uṭaiyārkku Amutu ceyt-aruḷa ve<unclear>ḷḷi</unclear>
 		<lb n="A5=5" break="no"/>-t-taḷikai <unclear>1</unclear>		
 		nāl
 		kuṭiñai-k-kallāl ni<add place="below">ṟai</add> <gap reason="illegible" quantity="2" unit="character"/> Eyti<choice><orig>n</orig><reg>ṉ</reg></choice>a kaḻañcum
+	</p>
+	<p>
 		mēṟ<milestone type="pagelike" n="B" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
 		<lb n="B1=6" break="no"/>-<unclear>p-paṭi</unclear>yāḷē-y Uṭaiyārkku ...
 		<lb n="B2=7"/><unclear>po</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> koḷkai 1
@@ -118,6 +120,7 @@
 		<lb n="C5=13" break="no"/>rupattu mu-k-kaḻañ
 		<lb n="C6=14" break="no"/>c’ araiyum
 	</p>
+	
 	<p>		
 		Uṭaiyār <hi rend="grantha">śrī</hi>
 		<lb n="C7=15" break="no"/>-rāj<hi rend="grantha">ādhi</hi>rā<hi rend="grantha">jade</hi>var kuru-<hi rend="grantha">d</hi>evar I
@@ -148,6 +151,20 @@
 		<milestone type="pagelike" n="D" unit="zone" break="no"/><label xml:lang="eng">Wall</label>
 		<lb n="D1=29" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>ṟum-p picca-tēvar
 		<lb n="D2=30" break="no"/>...
+		<lb n="D13=41" break="no"/>...
+		
+	</p>
+	
+	<p>
+		...
+		<lb n="D14=42" break="no"/>...
+		<lb n="D32=60" break="no"/>...
+	</p>
+		
+	<p>
+		...
+		<lb n="D33=61" break="no"/>...
+		<lb n="D32=60" break="no"/>...
 		<lb n="D35=63" break="no"/>...
 		
 		<milestone type="pagelike" n="E" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
@@ -160,7 +177,10 @@
 		<lb n="F1=68" break="no"/>...
 		<lb n="F2=69" break="no"/>...
 		<lb n="F3=70" break="no"/>...
-		
+	</p>
+	
+	<p>
+		...
 		<milestone type="pagelike" n="E" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
 		<lb n="G1=71" break="no"/>...
 		<lb n="G2=72" break="no"/>...
@@ -180,11 +200,33 @@
 	</listApp>
 </div>-->
 	
-<!--<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
 	
-	<p>
+	<p n="1-5">
+		Four silver eating plates ...
     	</p>
-</div>-->	
+	
+	<p n="5-10">
+		1 golden <foreign>koḷkai</foreign> ...
+	</p>
+	
+	<p n="11-14">
+		This golden <foreign>koḷkai</foreign> ...
+	</p>
+	
+	<p n="14-17">
+		...
+	</p>
+	
+	<p n="17-21">
+		...
+	</p>
+	
+	<p n="21-25">
+		...
+	</p>
+	
+</div>	
 	
 <div type="commentary">	
 	<p>The present inscription <ref target="DHARMA_INSTiruvavatuturai10009.xml">Tiruvāvaṭutuṟai 10009</ref> contains no date at its beginning and starts in the same line where inscription <ref target="DHARMA_INSTiruvavatuturai10008.xml">Tiruvāvaṭutuṟai 10008</ref> ends with a <foreign>daṇḍa</foreign>. It refers to contents of <ref target="DHARMA_INSTiruvavatuturai10008.xml">Tiruvāvaṭutuṟai 10008</ref> (see <foreign>mēṟpaṭi</foreign>, “above”) and is thus connected with it, as a kind of continuation.</p>
