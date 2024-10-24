@@ -103,18 +103,18 @@
         <l n="2"><supplied reason="lost">pōṟ-ce</supplied>ya-p pāvaiyuñ c<choice><orig>i</orig><reg>ī</reg></choice>r-t taṉi-c celv<unclear>i</unclear>yun=</l>
         <l n="3">taṉ perun tēv<unclear>i</unclear>yar āki Iṉpuṟa</l>
         <l n="4">neṭitiyal ūḻ<unclear>i</unclear>yu<unclear>ḷ</unclear> <supplied reason="lost">iṭatuṟai nāṭum</supplied></l>
-        <l n="5">...</l>
-        <l n="6">...</l>
-        <l n="7">...</l>
+        <l n="5"><supplied reason="lost">tuṭarvaṉa vēlip paṭar vaṉavāciyum</supplied></l>
+        <l n="6"><supplied reason="lost">cuḷḷi-c cūḻmatil koḷḷi-p-pākkaiyum</supplied></l>
+        <l n="7"><supplied reason="lost">naṇṇaṟku arumaraṇ maṇṇaik kaṭakka</supplied>mum</l>
         <l n="8">poru-kaṭal <choice><orig>i</orig><reg>ī</reg></choice>ḻatt’ araiyar ta muṭiyum</l>
-        <l n="9">...</l>
-        <l n="10">...</l>
-        <l n="11">... <lb n="A2=2"/>...</l>
-        <l n="12">...</l>
-        <l n="13">...</l>
-        <l n="14">...</l>
-        <l n="15">tol peruṅkāval pal<unclear>paḻa</unclear>n t<choice><orig>i</orig><reg>ī</reg></choice><supplied reason="lost">vum</supplied></l>        
-        <l n="16">...</l>
+        <l n="9">Āṅkavar tēviyar Ōṅk' eḻil muṭiyum</l>
+        <l n="10">muṉṉavar <unclear>p</unclear>akkal teṉṉavar vaitta</l>
+        <l n="11">cun=taraṉ muṭiyum In=t<choice><sic>ā</sic><corr>i</corr></choice>raṉ āramum</l>
+        <l n="12">teṇ<unclear>t</unclear>irai īḻa maṇṭala<reg>m</reg> mu<lb n="A2=2"/><supplied reason="lost">ḻuvatum</supplied></l>
+        <l n="13"><supplied reason="lost">eṟipaṭai-k kēraḷar muṟaimaiyiṟ cūṭum</supplied></l>
+        <l n="14"><supplied reason="lost">kulataṉam āki</supplied>ya palarpu<unclear>ka</unclear>ḻ muṭiyum</l>
+        <l n="15">ceṅkatir mālaiyum caṅk<choice><sic>e</sic><corr>a</corr></choice>tir v<choice><sic>ai</sic><corr>ē</corr></choice>lai-t</l>
+        <l n="16">tol peruṅkāval pal<unclear>paḻa</unclear>n t<choice><orig>i</orig><reg>ī</reg></choice><supplied reason="lost">vum</supplied></l> 
     </lg>    
     
     <p>
@@ -124,10 +124,24 @@
     <p>
         <gap reason="lost" extent="unknown" unit="character"/>
         -<unclear>va</unclear>ḷa<surplus>ku</surplus>ṉāṭṭu-p pērāvūr-ṉā<surplus>ā</surplus>ṭṭ<del rend="strikeout">ār</del><add place="overstrike">u</add> <hi rend="grantha">brahmade</hi>yam pērāvūr sabhaiyōm viṟṟu-k kuṭutta nila-vilai-y-āvaṇam In-nāṭṭu-t tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu tiru-v-āvaṭu-tuṟai Uṭaiyār m<choice><orig>u</orig><reg>ū</reg></choice>la-<hi rend="grantha">bhṛ</hi><surplus>t</surplus><hi rend="grantha">tya</hi>ṉ-āṉa <hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>aṇḍe</hi>
-        <lb n="A3=3" break="no"/>...
-        <lb n="A4=4" break="no"/>...
-        <lb n="A5=5" break="no"/>...
-        <lb n="A6=6" break="no"/>...        
+        <lb n="A3=3" break="no"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">vi</supplied>ṟṟu-k kuṭutta nilattukku
+        <list>
+            <item>
+                k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pāṟk’ ellai kō-nilattukkum Iruṅ-kaṇṭa-nārāyaṇa-daśa-viriya-piṭṭaṉ nilattukku mēṟku<supplied reason="lost">m</supplied>
+            </item>
+            <item><gap reason="lost" extent="unknown" unit="character"/> <lb n="A4=4" break="no"/>kum</item>
+        </list>        
+        Āka
+        Ivv-icaitta peru-nāṅk’ ellaiyuḷum naṭuvupaṭṭa nilam Ulak-aḷan=t-aruḷiṉa paṭi nilam 1 <g type="vēli"/>
+    </p>
+    <p>        
+        In-nilam vēliyum viṟṟu-k kuṭuttu-k koṇṭa vilai-p-poruḷ kācu <num value="40">4 <g type="numeral">10</g></num>
+    </p>
+    <p>
+        Ik-kācu nārpatum In-nilattukku Irai-kavalukku
+        <lb n="A4=4" break="no"/><gap reason="lost" extent="unknown" unit="character"/> ...
+        <lb n="A5=5" break="no"/><gap reason="lost" extent="unknown" unit="character"/> ...
+        <lb n="A6=6" break="no"/><gap reason="lost" extent="unknown" unit="character"/> ...        
     </p>        
     
     <p>
