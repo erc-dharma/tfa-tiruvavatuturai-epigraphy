@@ -48,7 +48,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-					    <summary>Label inscription to a nearby sculpture representing a man (Tāmaṉ Amalaṉ) worshipping a <foreign>liṅga</foreign>.</summary>
+					    <summary>Label inscription to a nearby sculpture representing a man worshipping a <foreign>liṅga</foreign>.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -150,7 +150,6 @@
 		
 		<bibl>
 			<ptr target="bib:Kaimal1999_01"/>
-			<citedRange unit="page">128</citedRange>
 		</bibl> 
 		
 	</listBibl>

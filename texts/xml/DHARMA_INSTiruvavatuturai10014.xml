@@ -9,7 +9,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of ***, year ***</title>
+				<title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of <gap reason="lost"/>, year <gap reason="lost"/></title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:emfr">
@@ -92,7 +92,7 @@
 	
 	<p>
 		...
-		
+		<lb n="1-10"/>...		
 	</p>		
 	
 </div>

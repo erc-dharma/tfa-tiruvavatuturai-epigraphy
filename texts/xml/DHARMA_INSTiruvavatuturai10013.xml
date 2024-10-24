@@ -48,7 +48,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>...</summary>
+						<summary></summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -165,11 +165,34 @@
 	</listApp>
 </div>-->
 	
-<!--<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
 	
-	<p>
-    	</p>
-</div>-->	
+	<div type="textpart" xml:lang="tam-Latn" rendition="class:tamil maturity:83215" n="A">
+		<head xml:lang="eng">First Part: year 24 of Rājendra</head>
+		<p n="1">
+			<unclear>Prosperity! Fortune!</unclear>
+		</p>
+		<p n="1">
+			24th year of the glorious king Rājarāja alias the glorious king Rājakesarivarman,
+		</p>
+		<p n="1">
+			who, ... [<foreign>meykkīrtti</foreign> (12 <foreign>aṭi</foreign>s) of Rājarāja I Cōḻa]
+		</p>
+		<p n="1-8">
+			...
+		</p>
+	</div>
+	
+	<div type="textpart" xml:lang="tam-Latn" rendition="class:tamil maturity:83215" n="B">
+		<head xml:lang="eng">First Part: year 25 of Rājendra</head>
+		<p n="8">
+			25th year of this king.
+		</p>
+		<p n="8-9">
+			...
+		</p>
+	</div>
+</div>	
 	
 <!--<div type="commentary">	
 	

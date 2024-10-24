@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			    <title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of (name lost), year 4</title>
+			    <title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of <gap reason="lost"/>, year 4</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>					
 					<persName ref="part:emfr">
@@ -96,7 +96,7 @@
     <p>
         <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">Moulding</label>
         <lb n="A1=1"/><gap reason="lost" extent="unknown" unit="character"/>
-        t<supplied reason="lost">ē</supplied>va<unclear>ṟ</unclear><surplus><unclear>k</unclear></surplus>ku yāṇtu nāl-āvatu
+        -t<supplied reason="lost">ē</supplied>va<unclear>ṟ</unclear><surplus><unclear>k</unclear></surplus>ku yāṇtu nāl-āvatu
     </p>
     <p>
         teṉ-karai tiru-vaḻuntūr-nāṭṭu
