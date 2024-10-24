@@ -138,17 +138,39 @@
         In-nilam vēliyum viṟṟu-k kuṭuttu-k koṇṭa vilai-p-poruḷ kācu <num value="40">4 <g type="numeral">10</g></num>
     </p>
     <p>
-        Ik-kācu nārpatum In-nilattukku Irai-kavalukku
+        Ik-kācu nārpatum In-nilattukku Irai-kāvalukku
         <lb n="A4=4" break="no"/><gap reason="lost" extent="unknown" unit="character"/> ...
+        Iṟai-y-ili y-āvaṇam āvat’ ākavum
+    </p>
+    <p>
+        Ip-paricu In-nilam vēlikkum Ik-kācu ṉūṟṟu mu-p-patuṅ koṇṭu In-nilam vēlikku Iṟaiyum Eccōṟum veṭṭi vētiṉaiyum...
         <lb n="A5=5" break="no"/><gap reason="lost" extent="unknown" unit="character"/> ...
+        kuṭuttōm
+        <hi rend="grantha"><choice><orig>ś</orig><reg>c</reg></choice>aṇḍeśva</hi>ra-<hi rend="grantha">de</hi>varkku-p pērāv<choice><orig>u</orig><reg>ū</reg></choice>r <hi rend="grantha">sabhai</hi>yōm
+    </p>
+    <p>
+        ...        
         <lb n="A6=6" break="no"/><gap reason="lost" extent="unknown" unit="character"/> ...        
-    </p>        
+    </p>
     
     <p>
-        <milestone type="pagelike" n="B" unit="zone"/><label xml:lang="eng">Moulding</label>
-        <lb n="B1=7"/><gap reason="lost" extent="unknown" unit="character"/> <choice><orig>n</orig><reg>ṉ</reg></choice>ē<choice><orig>n</orig><reg>ṉ</reg></choice> Ippaṭi Āṟivēṉ <gap reason="lost" extent="unknown" unit="character"/>
-    </p>   
+        <gap reason="lost" extent="unknown" unit="character"/>
+        <unclear>nūṟ</unclear>ṟuvapaṭṭaṉē Ivai y-e<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> eḻuttu
+    </p>
     
+    <p>
+        <list>
+            <item>Ippaṭi Aṟivēṉ pāratāyaṉ caṅkara-nārāyaṇaṉ kaṇavati pitāraṉē</item>
+            <item>Ippaṭi Aṟivēṉ … kaṇavati-y-ēṉ</item>
+            <item>Ippaṭi Aṟivēṉ pāratāyaṉ kaṇavatiyē</item>
+            <item><unclear>Ippaṭi</unclear>
+            <milestone type="pagelike" n="B" unit="zone"/><label xml:lang="eng">Moulding</label>
+            <lb n="B1=7"/><gap reason="lost" extent="unknown" unit="character"/>
+            <unclear>t=ta</unclear><choice><orig>n</orig><reg>ṉ</reg></choice>ē<choice><orig>n</orig><reg>ṉ</reg></choice></item>
+            <item>Ippaṭi Āṟivēṉ <hi rend="grantha">vyāghra</hi>pa<hi rend="grantha"><unclear>da</unclear></hi>-nārāyaṇa<choice><orig>n</orig><reg>ṉ</reg></choice> tatta<choice><orig>n</orig><reg>ṉ</reg></choice>-ēṉ</item>
+            <item>Ippaṭi <gap reason="lost" extent="unknown" unit="character"/></item>
+        </list>
+    </p>    
     
 </div>	
 	
