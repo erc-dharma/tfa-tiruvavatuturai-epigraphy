@@ -141,9 +141,9 @@
 		<lb n="C16=24" break="no"/>t’ aṟu kaḷañc’ 
 	</p>
 	<p>		
-		eḻu-k kālu
+		ēḻu-k kālu
 		<lb n="C17=25" break="no"/>m Uḷpaṭa c<choice><orig>e</orig><reg>ey</reg></choice>ta po
-		<lb n="C18=26" break="no"/>ṟpū Irupatt’ eḻum ce
+		<lb n="C18=26" break="no"/>ṟpū Irupatt’ ēḻum ce
 		<lb n="C19=27" break="no"/>ṅkaḻunīr pū muppa
 		<lb n="C20=28" break="no"/>tt’ āṟum māntaḷir O
 		
@@ -201,7 +201,9 @@
 <div type="translation" resp="part:emfr">
 	
     <p n="1-5">
-        <supplied reason="subaudible">For</supplied> four silver eating plates <supplied reason="explanation"><foreign>taḷikai</foreign></supplied> ...
+        <supplied reason="subaudible">For</supplied> four silver eating plates <supplied reason="explanation"><foreign>taḷikai</foreign></supplied>,
+        <supplied reason="subaudible">by</supplied> ...
+        <supplied reason="subaudible">for use</supplied> when feeding the Lord <supplied reason="subaudible">of</supplied> Tiruvāvaṭutuṟai,
         <supplied reason="subaudible">are provisioned</supplied>
         ... <foreign>kaḻañcu</foreign>s ... by <supplied reason="subaudible">the standard measure</supplied> <foreign>kuṭiñai-k-kal</foreign>.	    
     </p>
@@ -226,43 +228,74 @@
     
     <p n="17-21">
         One hundred thirty-eight <foreign>kaḻañcu</foreign>s that
-        ...
+        Araiyaṉ Aṇukki of the great palace
         gave
         <supplied reason="subaudible">are provisioned</supplied>
     </p>
     
     <p n="21-25">
         Thirty-six <foreign>kaḻañcu</foreign>s that
-        ...
+        Tūtuvaṉ Arumoḻi of the above-mentioned palace.
         gave
         <supplied reason="subaudible">are provisioned</supplied>
     </p>
     
     <p n="24-41">
         So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 34</supplied>
+        <list>
+            <item>twenty-seven golden flowers,</item>
+            <item>thirty-six water-lily flowers,</item>
+            <item>one mango leaf,</item>
+            <item>one ... <supplied reason="subaudible">for</supplied> Piccatēvar,<note>That is, Śiva as Bhikṣāṭanamūrti.</note></item>
+            <item>one flapper with a golden handle,</item>
+        </list>
         ...
+        <supplied reason="subaudible">are provisioned</supplied>
     </p>   
         
     <p n="41-60">
         So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 54</supplied>
+        <list>
+            <item>one ...,</item>
+            <item>four golden flowers,</item>
+            <item>twenty-one golden flowers,</item>
+            <item>...,</item>
+        </list>
         ...
         <supplied reason="subaudible">and</supplied> so that there be <supplied reason="explanation"><foreign>āka</foreign>, line 58</supplied>
         ...
+        ...
+        one thousand one fourty-two <foreign>kalañcu</foreign>s and ...
+        <supplied reason="subaudible">are provisioned</supplied>
     </p>
     
     <p n="60-70">
         So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 67</supplied>
-        ...
+        one ...
+        one thousand two hundred seventy-four <foreign>kalañcu</foreign>s and ...
+        <supplied reason="subaudible">are provisioned</supplied>
     </p>
     
     <p n="70-71">
         So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 71</supplied>
+         <list>
+            <item>one silver <foreign>ṃaṇṭai</foreign>,</item>
+            <item>one <foreign>vaṭṭil</foreign>,</item>
+        </list> 
         ...
+        one hundred thirty-six <foreign>kalañcu</foreign>s and ...
+        <supplied reason="subaudible">are provisioned</supplied>
     </p>   
     
     <p n="71-72">
         So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 72</supplied>
+        <list>
+            <item>one flower <supplied reason="explanation"><foreign>puṣpa</foreign></supplied>,</item>
+            <item>thirty water-lilies,</item>
+        </list>
         ...
+        <foreign>kalañcu</foreign>s
+        <supplied reason="subaudible">are provisioned</supplied>
     </p>  
 	
 </div>	
