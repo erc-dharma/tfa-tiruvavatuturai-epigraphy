@@ -99,7 +99,7 @@
         <unclear>kōyili</unclear>l<unclear>ē</unclear>-k kūṭ<unclear>ṭa</unclear>m kuṟai v-aṟa-<unclear>k</unclear> [ku]<unclear>ṭi</unclear> y-irun=tu Uṭaiyār tiru-<supplied reason="lost">v</supplied>-ā<supplied reason="lost">va</supplied><unclear>ṭu</unclear>tuṟ<unclear>ai</unclear>
         <gap reason="lost" quantity="4" unit="character" precision="low"/>
         <supplied reason="lost">mū</supplied>
-        <lb n="2" break="no"/><supplied reason="lost">la</supplied><hi rend="grantha">bhṛtya</hi>r-ākiya Āti-caṇṭē<hi rend="grantha">śva</hi>ra-tēvarkki nāṅka<supplied reason="lost">ḷ</supplied>
+        <lb n="2" break="no"/><supplied reason="lost">la</supplied><hi rend="grantha">bhṛtya</hi>r-ākiya Āti-caṇṭē<hi rend="grantha">śva</hi>ra-tēvarkk<choice><orig>i</orig><reg>u</reg></choice> nāṅka<supplied reason="lost">ḷ</supplied>
         ...
         <lb n="3"/>...
         <lb n="4"/>...
@@ -137,21 +137,53 @@
     </p>
 			
     <p n="1">
-        41st year of the king Kulottuṅga Cōḻa, on the day of Puṉarpūcam, which coincides with Wednesday, 14th day, first forthnight, month of Ṛṣabha.
+        41st year of the king Kulottuṅga Cōḻa, day of Puṉarpūcam, which coincides with Wednesday, 14th day, first forthnight, month of Ṛṣabha.
     </p>
     
-    <p n="1">
-        We, the members of the great assembly of Abhaiyāśrayacaturvedimaṅgala, in the Tiraimūrnāṭu, in the Uyyakkoṇṭārvaḷanātu, ...
+    <p n="1-2">
+        We, the members of the great assembly of Abhaiyāśrayacaturvedimaṅgala, in the Tiraimūrnāṭu, in the Uyyakkoṇṭārvaḷanātu, 
+        sitting in assembly, 
+        ...,
+        in the temple
+        ...,
+        for the god Āti-caṇṭēśvara<note>Sanskrit Ādi-caṇḍeśvara.</note>,
+    	we ... 
     </p>
     
-    <p>...</p>
+    <p n="2-3">
+    	Whereas <supplied reason="subaudible">the boundaries</supplied> for the land 
+    	...
+    	that we gave are <supplied reason="subaudible">as follows</supplied>:
+    	
+    	<list>			
+            <item>
+                the eastern boundary is to the west of the land ...;
+            </item>
+            
+            <item>
+                the southern boundary is to the north of the land ...;
+            </item>
+            
+            <item>
+                the western boundary is to the east of the land ...;
+            </item>
+            
+            <item>
+                the northern boundary is to the south of the land ...;
+            </item>
+    	</list>
+    	
+    	the land comprised within these four great boundaries described as such <supplied reason="subaudible">is</supplied> one hundred <foreign>kuḻi</foreign>s.
+    	
+    </p>
+	
+	<p n="3-5">...</p>
     
     <p n="5">
-        So that there be a <foreign>maṭappuṟam</foreign> for the <foreign>maṭha</foreign> <supplied reason="subaudible">named</supplied> Nāṟppatteṇṇāyiram<note>See <bibl><ptr target="bib:Karashima+al2010_01"/></bibl> (p. 228): <quote>In Tiruvaduturai and Tiruvisalur inscriptions [fn. 96: ARE 1925–150: Tj, 1112; SII, xxiii–47: Tj, 1200] <foreign>maṭha</foreign>s are named after the 48,000 people, indicating that they were established by the Veḷḷāḷas. In a Tiruvilimilalai inscription [fn. 97: ARE 1908–411: Tj, 1284.] a person, perhaps the <foreign>maṭhapati</foreign>, is called <foreign>nārppateṇṇāyira</foreign> (48,000) <foreign>piḷḷai</foreign>.</quote></note> and so that it be tax-free as long as the moon and the sun, they should obtain to engrave <supplied reason="subaudible">this agreement</supplied> on stone and copper.
-        
-<!--Nāṟppatteṇṇāyiram lineage: see Swamy 1972, p. 118 + probably Swamy 1975, Golaki School-->
-        
+        So that there be a <foreign>maṭappuṟam</foreign> for the <foreign>maṭha</foreign> <supplied reason="subaudible">named</supplied> Nāṟppatteṇṇāyiram<note>See <bibl><ptr target="bib:Karashima+al2010_01"/></bibl> (p. 228): <quote>In Tiruvaduturai and Tiruvisalur inscriptions [fn. 96: ARE 1925–150: Tj, 1112; SII, xxiii–47: Tj, 1200] <foreign>maṭha</foreign>s are named after the 48,000 people, indicating that they were established by the Veḷḷāḷas. In a Tiruvilimilalai inscription [fn. 97: ARE 1908–411: Tj, 1284.] a person, perhaps the <foreign>maṭhapati</foreign>, is called <foreign>nārppateṇṇāyira</foreign> (48,000) <foreign>piḷḷai</foreign>.</quote><!--On the Nāṟppatteṇṇāyiram lineage of <foreign>ācārya</fo>s, see Swamy 1972, p. 118 + probably Swamy 1975, Golaki School--></note> and so that it be tax-free as long as the moon and the sun, they should obtain to engrave <supplied reason="subaudible">this agreement</supplied> on stone and copper.       
     </p>
+	
+	<p n="5-6">...</p>
 </div>
 				
 <!--<div type="commentary">
