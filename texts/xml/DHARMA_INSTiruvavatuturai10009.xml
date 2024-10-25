@@ -138,12 +138,11 @@
 		mēṟpa<surplus>ṭ</surplus>ṭi vēḷa
 		<lb n="C14=22" break="no"/>ttu-t tūtuvaṉ arumo
 		<lb n="C15=23" break="no"/>ḻi Iṭṭa po<choice><orig>n</orig><reg>ṉ</reg></choice> muppat
-		<lb n="C16=24" break="no"/>t’ aṟu kaḷañc’ eḻu-k kālu
-		<lb n="C17=25" break="no"/>m
+		<lb n="C16=24" break="no"/>t’ aṟu kaḷañc’ 
 	</p>
-	<p>
-		
-		Uḷpaṭa c<choice><orig>e</orig><reg>ey</reg></choice>ta po
+	<p>		
+		eḻu-k kālu
+		<lb n="C17=25" break="no"/>m Uḷpaṭa c<choice><orig>e</orig><reg>ey</reg></choice>ta po
 		<lb n="C18=26" break="no"/>ṟpū Irupatt’ eḻum ce
 		<lb n="C19=27" break="no"/>ṅkaḻunīr pū muppa
 		<lb n="C20=28" break="no"/>tt’ āṟum māntaḷir O
@@ -151,8 +150,7 @@
 		<milestone type="pagelike" n="D" unit="zone" break="no"/><label xml:lang="eng">Wall</label>
 		<lb n="D1=29" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>ṟum-p picca-tēvar
 		<lb n="D2=30" break="no"/>...
-		<lb n="D13=41" break="no"/>...
-		
+		<lb n="D13=41" break="no"/>...		
 	</p>
 	
 	<p>
@@ -202,29 +200,70 @@
 	
 <div type="translation" resp="part:emfr">
 	
-	<p n="1-5">
-		Four silver eating plates ...
-    	</p>
+    <p n="1-5">
+        <supplied reason="subaudible">For</supplied> four silver eating plates <supplied reason="explanation"><foreign>taḷikai</foreign></supplied> ...
+        <supplied reason="subaudible">are provisioned</supplied>
+        ... <foreign>kaḻañcu</foreign>s ... by <supplied reason="subaudible">the standard measure</supplied> <foreign>kuṭiñai-k-kal</foreign>.	    
+    </p>
+    
+    <p n="5-10">
+        For the above-mentioned Lord, <supplied reason="subaudible">for</supplied> 1 golden <foreign>koḷkai</foreign> ...
+        <supplied reason="subaudible">are provisioned</supplied>
+        four hundred thirteen an a half <foreign>kaḻañcu</foreign>s of refined gold <supplied reason="subaudible">of</supplied> a weight <supplied reason="subaudible">assessed bythe standard measure</supplied> <foreign>kuṭiñai-k-kal</foreign>.
+    </p>
 	
-	<p n="5-10">
-		1 golden <foreign>koḷkai</foreign> ...
-	</p>
-	
-	<p n="11-14">
-		This golden <foreign>koḷkai</foreign> ...
-	</p>
-	
-	<p n="14-17">
-		...
-	</p>
-	
-	<p n="17-21">
-		...
-	</p>
-	
-	<p n="21-25">
-		...
-	</p>
+    <p n="11-14">
+        <supplied reason="subaudible">For</supplied> this golden <foreign>koḷkai</foreign>
+        <supplied reason="subaudible">are provisioned</supplied>
+        four hundred twenty-three an a half <foreign>kaḻañcu</foreign>s.
+    </p>
+    
+    <p n="14-17">
+        Twenty-six <foreign>kaḻañcu</foreign>s that
+        the royal <foreign>guru</foreign> of the glorious lord, the king Rājādhirāja, gave
+        <supplied reason="subaudible">are provisioned</supplied>
+    </p>
+    
+    <p n="17-21">
+        One hundred thirty-eight <foreign>kaḻañcu</foreign>s that
+        ...
+        gave
+        <supplied reason="subaudible">are provisioned</supplied>
+    </p>
+    
+    <p n="21-25">
+        Thirty-six <foreign>kaḻañcu</foreign>s that
+        ...
+        gave
+        <supplied reason="subaudible">are provisioned</supplied>
+    </p>
+    
+    <p n="24-41">
+        So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 34</supplied>
+        ...
+    </p>   
+        
+    <p n="41-60">
+        So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 54</supplied>
+        ...
+        <supplied reason="subaudible">and</supplied> so that there be <supplied reason="explanation"><foreign>āka</foreign>, line 58</supplied>
+        ...
+    </p>
+    
+    <p n="60-70">
+        So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 67</supplied>
+        ...
+    </p>
+    
+    <p n="70-71">
+        So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 71</supplied>
+        ...
+    </p>   
+    
+    <p n="71-72">
+        So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 72</supplied>
+        ...
+    </p>  
 	
 </div>	
 	
