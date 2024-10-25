@@ -168,9 +168,36 @@
     </p>
     
     <p>
-        ...
-        <lb n="D14=42" break="no"/>...
-        <lb n="D32=60" break="no"/>...
+        mu<choice><orig>n</orig><reg>ṉ</reg></choice>p’ uḷla po<choice><orig>n</orig><reg>ṉ</reg></choice>
+        <lb n="D14=42"/>Uṭaiyār cārttum
+        <lb n="D15=43"/>tiru-k ... ⌈
+        <lb n="D16=44" break="no"/>... O<choice><orig>n</orig><reg>ṉ</reg></choice>
+        <lb n="D17=45" break="no"/>ṟum 
+        poṟpū nālum
+        Āṭa
+        <lb n="D18=46" break="no"/>va<supplied reason="omitted">l</supplied>lār cā<reg>r</reg>ttum poṟpū Iru-pat
+        <lb n="D19=47" break="no"/>tt’ o<choice><orig>n</orig><reg>ṉ</reg></choice>ṟum
+        Ivarē cā<reg>r</reg>ttu mut
+        <lb n="D20=48" break="no"/>tu-c ... po<choice><orig>n</orig><reg>ṉ</reg></choice>ṉum can
+        <lb n="D21=49" break="no"/>tira-cēkara-tēvar tiru-v-a<hi rend="grantha">bhiṣe</hi>kam O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟ<unclear>u</unclear>
+        <lb n="D22=50" break="no"/>m
+        tiruvaṭi-nilai Iraṇṭināl ...
+        <lb n="D23=51"/>po<choice><orig>n</orig><reg>ṉ</reg></choice>ṉum Uḷḷiṭṭu tiru-mē<choice><orig>n</orig><reg>ṉ</reg></choice>ika
+        <lb n="D24=52" break="no"/>ḷ cā<reg>r</reg>ttum tiru-v-āparaṇaṅkaḷā
+        <lb n="D25=53" break="no"/>lum poṟ-kai Ī-c-cōppiyālu
+        <lb n="D26=54" break="no"/>m 
+        Āka
+        
+        kuṭiñai-k-kallāl rā<hi rend="grantha">ja</hi>
+        <lb n="D27=55" break="no"/>rā<hi rend="grantha">ja</hi><choice><orig>n</orig><reg>ṉ</reg></choice> māṭai-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ O<choice><orig>n</orig><reg>ṉ</reg></choice>patu māṟi
+        <lb n="D28=56"/>po<choice><orig>n</orig><reg>ṉ</reg></choice> nā-ṉūṟṟu Aṟu<unclear>ppa</unclear>t’ o
+        <lb n="D29=57" break="no"/>ru-k kaḻañcē O<choice><orig>n</orig><reg>ṉ</reg></choice>patu mañcāṭiyu
+        <lb n="D30=58" break="no"/>m
+        Āka-p 
+        
+        po<choice><orig>n</orig><reg>ṉ</reg></choice> Āyiratt’ oru <choice><orig>n</orig><reg>ṉ</reg></choice>ū
+        <lb n="D31=59" break="no"/>ṟṟu nāṟpatt’ iru kaḷañcē Ēḻu mañ
+        <lb n="D32=60" break="no"/>cāṭi
     </p>
     
     <p>
@@ -273,7 +300,7 @@
         the gold ...
         <supplied reason="subaudible">assessed by the standard measure</supplied> <foreign>kuṭiñai-k-kal</foreign>,
         that comes through ...
-        <supplied reason="subaudible">of</supplied> Tirunāvukkaraiyaṉ, a servant/devotee of this god
+        <supplied reason="subaudible">of</supplied> Tirunāvukkaraiyaṉ, a servant/devotee of this god,
         <supplied reason="subaudible">amounts to</supplied>
         six hundred eighty <foreign>kaḻañcu</foreign>s and seven quarters, and three <foreign>mañcāṭi</foreign>s.
     </p>   
@@ -284,20 +311,22 @@
             <item>one ...,</item>
             <item>four golden flowers,</item>
             <item>twenty-one golden flowers,</item>
+            <item>gold ...,</item>
+            <item>one glorious anointement ...,</item>
+            <item>gold ...,</item>
             <item>...,</item>
         </list>
-        ...
         <supplied reason="subaudible">and</supplied> so that there be <supplied reason="explanation"><foreign>āka</foreign>, line 58</supplied>
         ...
-        ...
-        one thousand one fourty-two <foreign>kalañcu</foreign>s and ...
+        four hundred sixty-one <foreign>kaḻañcu</foreign>s and eleven <foreign>mañcāṭi</foreign>s,
+        one thousand one hundred fourty-two <foreign>kalañcu</foreign>s and seven <foreign>mañcāṭi</foreign>s.
         <supplied reason="subaudible">are provisioned</supplied>.
     </p>
     
     <p n="60-70">
         So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 67</supplied>
         one ...
-        one thousand two hundred seventy-four <foreign>kalañcu</foreign>s and ...
+        one thousand two hundred seventy-four <foreign>kalañcu</foreign>s and three quarters
         <supplied reason="subaudible">are provisioned</supplied>.
     </p>
     
@@ -308,7 +337,7 @@
             <item>one <foreign>vaṭṭil</foreign>,</item>
         </list> 
         ...
-        one hundred thirty-six <foreign>kalañcu</foreign>s and ...
+        one hundred thirty-six <foreign>kalañcu</foreign>s and three quarters
         <supplied reason="subaudible">are provisioned</supplied>.
     </p>   
     
