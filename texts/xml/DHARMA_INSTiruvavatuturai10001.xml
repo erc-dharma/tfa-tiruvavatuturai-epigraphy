@@ -48,7 +48,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-					    <summary>Label inscription to a nearby sculpture representing a man worshipping a <foreign>liṅga</foreign>.</summary>
+					    <summary>Label inscription to the sculpture, which is immediately to the left of the inscription and represents a man worshipping a <foreign>liṅga</foreign>.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -120,7 +120,7 @@
 			</p>
 			
 			<p n="1-4">
-				Tāmaṉ Amalaṉ, lord of Ciṟṟāṭi in Tirunaṟaiyūrnāṭu.
+				<supplied reason="subaudible">This<note>That is, the man worshipping a <foreign>liṅga</foreign> represented in the sculpture, which is immediately to the left of the inscription.</note> is</supplied> Tāmaṉ Amalaṉ, lord of Ciṟṟāṭi in Tirunaṟaiyūrnāṭu.
 			</p>
 			
 			<p n="4">
@@ -135,7 +135,7 @@
 		
 <div type="bibliography">
 			
-	<p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/142).</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/141).</p>
 	<p>This edition by Emmanuel Francis (2024), based on photos (EFEO, 2006; E. Francis, 2024) and autopsy (2024).</p>	
 	<p>ASI transcript and estampage, if any, yet to be consulted.</p>    
 		
@@ -145,7 +145,7 @@
 			<ptr target="bib:ARIE1924-1925"/>
 			<citedRange unit="page">28</citedRange>
 			<citedRange unit="appendix">B/1925</citedRange>
-			<citedRange unit="item">142</citedRange>
+			<citedRange unit="item">141</citedRange>
 		</bibl>
 		
 		<bibl>
