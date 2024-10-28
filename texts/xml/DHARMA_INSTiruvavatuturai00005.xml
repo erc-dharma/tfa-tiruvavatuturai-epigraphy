@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirumaṅkalam Pēṭṭai grant, Śaka year 1648</title>
+				<title>Tiruppaiññīli grant, Śaka year 1660</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:matr">
@@ -61,7 +61,7 @@
 					</msIdentifier>
 					<msContents>
 						<!-- describe the intellectual content of an inscription -->
-						<summary>This plate records the donation of part of the income of the pearl fisheries at Maṉṉār and Tūttukkuṭi to the temple in Āvuṭaiyārkōyil. The donor is allegedly Tirumalai Nāyakkar (r. 1623-1659), but the date on the plate (śaka 1461, A.D. 1539) does not correspond to the period of his reign.</summary>
+						<summary>This plate records a gift from Cēṭṭiyār and Uṭaiyār temple right-owners. </summary>
 						<!-- offers the possibility to give a summary of the inscription's content -->
 					</msContents>
 					<physDesc>
