@@ -144,19 +144,36 @@
         <lb n="C17=25" break="no"/>m 
     </p>
     
-    <p>		
-        Uḷpaṭa c<choice><orig>e</orig><reg>ey</reg></choice>ta po
-        <lb n="C18=26" break="no"/>ṟpū Irupatt’ ēḻum ce
-        <lb n="C19=27" break="no"/>ṅkaḻunīr pū mu-p-pa
-        <lb n="C20=28" break="no"/>tt’ āṟum māntaḷir O
+    <p>
+        Uḷpaṭa c<choice><orig>e</orig><reg>ey</reg></choice>ta
+        <list>
+            <item>                
+                po
+                <lb n="C18=26" break="no"/>ṟpū Irupatt’ ēḻum
+            </item>
+            <item>
+                ce
+                <lb n="C19=27" break="no"/>ṅkaḻunīr pū mu-p-pa
+                <lb n="C20=28" break="no"/>tt’ āṟum
+            </item>
+            <item>
+                māntaḷir O                
+                <milestone type="pagelike" n="D" unit="zone" break="no"/><label xml:lang="eng">Wall</label>
+                <lb n="D1=29" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>ṟum             
+            </item>
+            <item>
+                picca-tēvar
+                <lb n="D2=30"/>kaṇṭa-k-kāṟai O<choice><orig>n</orig><reg>ṉ</reg></choice>
+                <lb n="D3=31" break="no"/>ṟum
+            </item>
+            <item>
+                poṟ-kai-c
+                <lb n="D4=32" break="no"/>-cōppi O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟum</item>
+        </list>
         
-        <milestone type="pagelike" n="D" unit="zone" break="no"/><label xml:lang="eng">Wall</label>
-        <lb n="D1=29" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>ṟum-p picca-tēvar
-        <lb n="D2=30"/>... O<choice><orig>n</orig><reg>ṉ</reg></choice>
-        <lb n="D3=31" break="no"/>ṟum poṟ-kai-c
-        <lb n="D4=32" break="no"/>cōppi O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟum mu
+        mu
         <lb n="D5=33" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>pu kaḷveṭṭiṉa ⌈
-        <lb n="D6=34" break="no"/>koḷkaiyilum
+        <lb n="D6=34"/>koḷkaiyilum
         Āka
         <lb n="D7=35"/>It-tēvar aṭiya<choice><orig>n</orig><reg>ṉ</reg></choice> tiru-nā
         <lb n="D8=36" break="no"/>vukkaraiya<choice><orig>n</orig><reg>ṉ</reg></choice> piccaiyāl va
@@ -169,18 +186,30 @@
     
     <p>
         mu<choice><orig>n</orig><reg>ṉ</reg></choice>p’ uḷla po<choice><orig>n</orig><reg>ṉ</reg></choice>
-        <lb n="D14=42"/>Uṭaiyār cārttum
-        <lb n="D15=43"/>tiru-k ... ⌈
-        <lb n="D16=44" break="no"/>... O<choice><orig>n</orig><reg>ṉ</reg></choice>
-        <lb n="D17=45" break="no"/>ṟum 
-        poṟpū nālum
-        Āṭa
-        <lb n="D18=46" break="no"/>va<supplied reason="omitted">l</supplied>lār cā<reg>r</reg>ttum poṟpū Iru-pat
-        <lb n="D19=47" break="no"/>tt’ o<choice><orig>n</orig><reg>ṉ</reg></choice>ṟum
-        Ivarē cā<reg>r</reg>ttu mut
-        <lb n="D20=48" break="no"/>tu-c ... po<choice><orig>n</orig><reg>ṉ</reg></choice>ṉum can
-        <lb n="D21=49" break="no"/>tira-cēkara-tēvar tiru-v-a<hi rend="grantha">bhiṣe</hi>kam O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟ<unclear>u</unclear>
-        <lb n="D22=50" break="no"/>m
+        
+        <list>
+            <item>
+                <lb n="D14=42"/>Uṭaiyār cārttum
+                <lb n="D15=43"/>tiru-k-k<unclear>o</unclear>cakamu <gap reason="illegible" quantity="3" unit="character" precision="low"></gap>-k ⌈
+                <lb n="D16=44"/>koṭukkum paṭṭam O<choice><orig>n</orig><reg>ṉ</reg></choice>
+                <lb n="D17=45" break="no"/>ṟum
+            </item>
+            <item>
+                poṟpū nālum
+            </item>
+            <item>
+                Āṭa
+                <lb n="D18=46" break="no"/><supplied reason="omitted">val</supplied>llār cā<reg>r</reg>ttum poṟpū Iru-pat
+                <lb n="D19=47" break="no"/>tt’ o<choice><orig>n</orig><reg>ṉ</reg></choice>ṟum
+            </item>
+            <item>
+                Ivarē cā<reg>r</reg>ttu mut
+                <lb n="D20=48" break="no"/>tu-c ... po<choice><orig>n</orig><reg>ṉ</reg></choice>ṉum can
+                <lb n="D21=49" break="no"/>tira-cēkara-tēvar tiru-v-a<hi rend="grantha">bhiṣe</hi>kam O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟ<unclear>u</unclear>
+                <lb n="D22=50" break="no"/>m
+            </item>
+        </list>
+        
         tiruvaṭi-nilai Iraṇṭināl ...
         <lb n="D23=51"/>po<choice><orig>n</orig><reg>ṉ</reg></choice>ṉum Uḷḷiṭṭu tiru-mē<choice><orig>n</orig><reg>ṉ</reg></choice>ika
         <lb n="D24=52" break="no"/>ḷ cā<reg>r</reg>ttum tiru-v-āparaṇaṅkaḷā
@@ -204,26 +233,53 @@
         veḷḷi mutal kuṭiñai-k
         <lb n="D33=61" break="no"/>kallāl Āyirattu mu-p-pati<choice><orig>n</orig><reg>ṉ</reg></choice> kaḻa
         <lb n="D32=60" break="no"/>ñci<choice><orig>n</orig><reg>ṉ</reg></choice>āl tavas<unclear>i</unclear> tiru-nāvukkaraiyaṉu
-        <lb n="D35=63" break="no"/>m caṇṭēcuvara-cokiyum Eḻunt-aruḷu
+        <lb n="D35=63" break="no"/>m caṇṭēcuvara-cōkiyum Eḻunt-aruḷu
         
         <milestone type="pagelike" n="E" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
         <lb n="E1=64" break="no"/><unclear>vi</unclear>tta ve<unclear>ḷḷi</unclear>-t tiru-mē<choice><orig>n</orig><reg>ṉ</reg></choice>-p<choice><orig>i</orig><reg>ī</reg></choice>ṭamum pira 
         <lb n="E2=65" break="no"/><unclear>vai</unclear>yum uṭpaṭa <hi rend="grantha">śrī</hi>-pali Eḻunt-aruḷun tiru-mē<choice><orig>n</orig><reg>ṉ</reg></choice>i Oruvar <unclear>veḷ</unclear>
-        <lb n="E3=66" break="no"/>ḷi-p parikalam uṭpaṭa ...
-        <lb n="E4=67" break="no"/><unclear>ḷikai</unclear> O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟum
+        <lb n="E3=66" break="no"/>ḷi-p parikalam uṭpaṭa ... <unclear>ta</unclear>
+        <lb n="E4=67" break="no"/>ḷikai O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟum
+        Āka
+        
+        Uruppati nāl kuṭiñai-k-kallāl veḷḷi Ā
+        <milestone type="pagelike" n="F" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
+        <lb n="F1=68" break="no"/>yiratt’ iru-ṉūṟṟu Ēḻupattu
+        <lb n="F2=69"/>nāṟ kaḻañcē mu-k-kālē
+    </p>
+    <p>        
+        Iraṇ
+        <lb n="F3=70" break="no"/>ṭum
+        ... 
+        <list>
+            <item>
+                veḷḷi
+                <milestone type="pagelike" n="E" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
+                <lb n="G1=71" break="no"/>-maṇṭai
+            </item>
+            <item>
+                Oṉṟum vaṭṭil Oṉṟum
+            </item>
+        </list>
+        Āka
+        
+        nūṟṟu mu-p-patt’ aṟu kaḻañcē mu-k-kāl
+    </p>
+    <p>
+        mēṟpaṭi poṟpū
+        ...        
+        <lb n="G2=72" break="no"/>...
+        <list>
+            <item>
+                pu<hi rend="grantha">ṣpa</hi>m Onṟum
+            </item>
+            <item>
+                ceṅkaḻ<choice><sic>a</sic><corr>u</corr></choice>nīr-pū mu-p-patum
+            </item>
+        </list>
         Āka
         ...
-        <milestone type="pagelike" n="F" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
-        <lb n="F1=68" break="no"/>...
-        <lb n="F2=69" break="no"/>...
-        <lb n="F3=70" break="no"/>...
-    </p>
-    
-    <p>
-        ...
-        <milestone type="pagelike" n="E" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
-        <lb n="G1=71" break="no"/>...
-        <lb n="G2=72" break="no"/>...
+        kaḻañcu        
     </p>
 		
 </div>	
@@ -290,11 +346,12 @@
     
     <p n="24-41">
         So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 34</supplied>
+        ...
         <list>
-            <item>twenty-seven golden flowers ...,</item>
+            <item>twenty-seven golden flowers,</item>
             <item>thirty-six water-lily flowers,</item>
             <item>one mango leaf <supplied reason="explanation"><foreign>māntaḷir</foreign></supplied>,</item>
-            <item>one ... <supplied reason="subaudible">for</supplied> Piccatēvar,<note>That is, Śiva as Bhikṣāṭanamūrti.</note></item>
+            <item>one necklace <supplied reason="explanation"><foreign>kaṇṭa-k-kāṟai</foreign><note>Literally, “a necklet <supplied reason="explanation"><foreign>kāṟai</foreign></supplied> for throat <supplied reason="explanation"><foreign>kaṇṭam</foreign></supplied>”.</note></supplied> <supplied reason="subaudible">for</supplied> Piccatēvar,<note>That is, Śiva as Bhikṣāṭanamūrti.</note></item>
             <item>one flapper <supplied reason="explanation"><foreign>cōppi</foreign></supplied> with a golden handle,</item>
         </list>
         ...
@@ -334,8 +391,8 @@
     <p n="70-71">
         So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 71</supplied>
          <list>
-            <item>one silver <foreign>ṃaṇṭai</foreign>,</item>
-            <item>one <foreign>vaṭṭil</foreign>,</item>
+            <item>one silver begging bowl <supplied reason="explanation"><foreign>maṇṭai</foreign><note>Literally, “skull,” used as begging bowl.</note></supplied>,</item>
+            <item>one plate <supplied reason="explanation"><foreign>vaṭṭil</foreign></supplied>,</item>
         </list> 
         ...
         one hundred thirty-six <foreign>kalañcu</foreign>s and three quarters
