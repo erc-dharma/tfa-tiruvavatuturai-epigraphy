@@ -106,13 +106,13 @@
 		<pb n="1r"/>
 		
 		<ab>
-			<lb n="1r1=1"/><g type="pcs"></g> muttu-cilā-p-paṭṭayam <g type="pcs"></g> civayōka-ṉāyaki tuṇai <g type="pcs"></g>
+			<lb n="1r1=1"/><g type="pc"></g> muttu-cilā-p-paṭṭayam <g type="pc"></g> civayōka-ṉāyaki tuṇai <g type="pc"></g>
 		</ab>
 		
 		<p>	
 			<lb n="1r2=2"/><hi rend="grantha">svasti śrī śā</hi><choice><orig>vī</orig><reg>li</reg></choice>vā<hi rend="grantha">ha</hi>na-<hi rend="grantha">śakābdaṁ</hi> <num value="1461"><g type="numeral">1000</g> <g type="numeral">4</g> <g type="numeral">100</g> <g type="numeral">6</g> <g type="numeral">10</g> <g type="numeral">1</g></num>  
 			<lb n="1r3=3"/>Āṇṭu viḷampi-ṉāma-<hi rend="grantha">saṃ</hi>va<hi rend="grantha">scara</hi>ttil Utta<hi rend="grantha">rā</hi>
-			<lb n="1r4=4" break="no"/>yaṇattil <hi rend="grantha">śaśira-ṛ<choice><orig>kū</orig><reg>tu</reg></choice></hi>vil <hi rend="grantha">māgha-māsaṃ</hi> <num value="14"><g type="numeral">10</g> <g type="numeral">4</g></num> <g type="pcs"></g>  
+			<lb n="1r4=4" break="no"/>yaṇattil <hi rend="grantha">śaśira-ṛ<choice><orig>kū</orig><reg>tu</reg></choice></hi>vil <hi rend="grantha">māgha-māsaṃ</hi> <num value="14"><g type="numeral">10</g> <g type="numeral">4</g></num> <g type="pc"></g>  
 			<lb n="1r5=5"/><hi rend="grantha">kṛṣṇa</hi>-pa<hi rend="grantha">kṣa</hi>t=til <hi rend="grantha">śukra</hi>-vā<hi rend="grantha">ramuṃ</hi> <hi rend="grantha">tra</hi>yō<hi rend="grantha">daśi</hi>yu=m <hi rend="grantha">śa</hi>
 			<lb n="1r6=6" break="no"/><hi rend="grantha">ṣṭa</hi>-naṭcat=tiramum <hi rend="grantha">yu</hi>va-nā<hi rend="grantha">ma</hi>-yō<hi rend="grantha">gamuṃ</hi> nā<unclear>na</unclear>var-<hi rend="grantha">kara</hi>ṇa 
 			<lb n="1r7=7" break="no"/><hi rend="grantha">muṃ</hi> pe<choice><orig>t=t</orig><reg>ṟ=ṟ</reg></choice>a makā<hi rend="grantha">śi</hi>va<hi rend="grantha">rātri</hi>-<choice><orig>v</orig><reg>p</reg></choice>uṇya-<hi rend="grantha">kāla</hi>t=til
@@ -199,7 +199,7 @@
 			<lb n="1v29=63" break="no"/>ṇakku kōṉēriyappa-piḷ=ḷai kamppaka maṭalil va
 			[<lb n="1v30=64" break="no"/>raintu kaṇṭa vācakattai-t tāmpira-p-paṭṭaya
 			<lb n="1v31=65" break="no"/>ttil veṭṭi varaintu Eḻutiṉēṉ maturai 
-			<lb n="1v32=66"/>c-cōmacunta<choice><orig>RĀ</orig><reg>ra</reg></choice>m ācāri <g type="pcs"></g>
+			<lb n="1v32=66"/>c-cōmacunta<choice><orig>RĀ</orig><reg>ra</reg></choice>m ācāri <g type="pc"></g>
 		</p>
 	
 		<!--  <ab xml:lang="tel-Latn" rend="large">
