@@ -171,11 +171,39 @@
 	</listApp>
 </div>-->
 	
-<!--<div type="translation" resp="part:emfr">
-	
-	<p>
-    	</p>
-</div>-->	
+<div type="translation" resp="part:emfr">
+    
+    <div type="textpart" n="A">      
+        <head xml:lang="eng">First Part: year 6 of Rājendra</head>
+        
+        <p n="1">Prosperity! Fortune!</p>
+        
+        <p n="2">
+            6th year of the glorious king Rājendra Cōḻa alias the king Parakesarivarman
+        </p>
+        
+        <p n="1-2">
+            who took ... [<foreign>meykkīrtti</foreign> of Rājendra I Cōḻa].
+        </p>
+        
+        <p>...</p>
+        
+    </div>
+    
+    <div type="textpart" n="B">      
+        <head xml:lang="eng">Second Part: year 5 of ...</head>
+        
+        <p n="8">
+            5th year of the  king ...
+        </p>
+                        
+        <p>...</p>
+        
+        <p n="13">This <supplied reason="subaudible">is under</supplied> the protection of the many great devotees of Īśvara.<note>That is, Śiva.</note></p>
+        
+    </div>
+    
+</div>	
 	
 <!--<div type="commentary">	
 	

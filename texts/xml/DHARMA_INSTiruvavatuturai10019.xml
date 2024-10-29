@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			    <title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of <gap reason="lost"/>, year 4</title>
+			    <title>Tiruvāvaṭutuṟai, Gomukt, time of <gap reason="lost"/>, year 4</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>					
 					<persName ref="part:emfr">
@@ -107,8 +107,8 @@
     
     <p>
         <milestone type="pagelike" n="B" unit="zone"/><label xml:lang="eng">Moulding</label>
-        <lb n="B1=1"/><gap reason="lost" extent="unknown" unit="character"/>...
-        <lb n="B2=2"/>
+        <lb n="B1=4"/><gap reason="lost" extent="unknown" unit="character"/>...
+        <lb n="B2=5"/>
         <gap reason="lost" extent="unknown" unit="character"/>
         ...
         <gap reason="lost" extent="unknown" unit="character"/>
@@ -136,11 +136,13 @@
 	    
 </div>-->	
 	
-<!--<div type="commentary">	
-	
-    <p>...</p>
+<div type="commentary">	
     
-</div>-->
+    <p n="1-5">...</p>
+	
+    <p n="5">This <supplied reason="subaudible">is under</supplied> the protection of the many great devotees of Īśvara.<note>That is, Śiva.</note></p>
+    
+</div>
 	
 <div type="bibliography">
 				

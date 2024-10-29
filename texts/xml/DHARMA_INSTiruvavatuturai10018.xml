@@ -96,8 +96,7 @@
     <div type="textpart" xml:lang="tam-Latn" rendition="class:tamil maturity:83215" n="A">
         <head xml:lang="eng">First Portion</head>
             
-        <p>
-            <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">First Portion</label>
+        <p>            
             <lb n="A1=1"/>
             <milestone type="gridlike" n="1" unit="zone"/>Uyya-k-koṇṭā<unclear>r</unclear>
             <milestone type="gridlike" n="2" unit="zone" break="no"/>-vaḷanāṭṭu-t ti
@@ -164,11 +163,13 @@
     
         <div type="textpart" n="B">
         <head xml:lang="eng">Second Portion</head>
+            <p>...</p>
         
     </div>
     
         <div type="textpart" n="C">
-        <head xml:lang="eng">First Portion</head>
+        <head xml:lang="eng">Third Portion</head>            
+            <p>...</p>
         
     </div>
     
