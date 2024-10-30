@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvāvaṭutuṟai, recapitulative copper-plates set</title>
+				<title>Tiruvāvaṭutuṟai, recapitulative set of copper-plates</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:matr">
@@ -51,18 +51,13 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<!-- only the handDesc can be filled in at this stage -->
-				<msDesc>
-					<!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+				<msDesc>					
 					<msIdentifier>
 						<repository>DHARMAbase</repository>
 						<idno/>
-						<!-- don't modify this -->
 					</msIdentifier>
 					<msContents>
-						<!-- describe the intellectual content of an inscription -->
-						<summary><!-- //// NOT MANDATORY ////--></summary>
-						<!-- offers the possibility to give a summary of the inscription's content -->
+					    <summary>A recapitulative set of copper-plates listing fifteen different grants dated from Śaka year 1360 to Śaka year 1448. The grants are however not ordered chronologically in the set.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -104,7 +99,7 @@
 <div type="edition">
 			
 <div type="textpart" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:83215">
-<head xml:lang="eng">Grant no. 1</head>
+<head xml:lang="eng">Grant no. 1: Śaka year 1448</head>
 		
 	<ab>
 		<pb n="1r"/>
@@ -113,37 +108,37 @@
 	</ab>	
 	
 	<p>
-		<lb n="1r1=1"/><hi rend="grantha">śrī</hi> 	
+		<lb n="1r1=1=1"/><hi rend="grantha">śrī</hi> 	
 	</p>
 	
 	<p>
 		<hi rend="grantha">sakāttam</hi> <num value="1448"><g type="numeral">1000</g> 4 <g type="numeral">100</g>4 <g type="numeral">10</g> 8</num> ṉ mēl cellā niṉṟa viya-<hi rend="grantha">saṁ</hi>va<hi rend="grantha">t·sara</hi>t=tu tu 
-		<lb n="1r2=2" break="no"/><hi rend="grantha">lā</hi>-nā<supplied reason="omitted">ya</supplied>ṟṟu <hi rend="grantha">pūrvva</hi>-pa<hi rend="grantha">kṣa</hi>t=tu <hi rend="grantha">sukra</hi>vā<hi rend="grantha">ramum</hi> peṟṟa puṇarpūcat=tu nāḷ 
+		<lb n="1r2=2=2" break="no"/><hi rend="grantha">lā</hi>-nā<supplied reason="omitted">ya</supplied>ṟṟu <hi rend="grantha">pūrvva</hi>-pa<hi rend="grantha">kṣa</hi>t=tu <hi rend="grantha">sukra</hi>vā<hi rend="grantha">ramum</hi> peṟṟa puṇarpūcat=tu nāḷ 
 		
 	</p>
 	
 	<p>	
 		miḻa	
-		<lb n="1r3=3" break="no"/>lai-k-kūṟṟat=tu naṭuviṟ-kūṟṟu ta<choice><orig>n</orig><reg>ṉ</reg></choice>iyūr tirupperuntuṟai Āḷuṭaiya 
-		<lb n="1r4=4"/> parama-<hi rend="grantha">svāmi</hi>yaḷukku Aṟantāṅki Aracu Ēkapperumāḷ toṇṭai 
-		<lb n="1r5=5" break="no"/>māṉār poṉṉampala-nāta-toṇṭaimāṉār 
+		<lb n="1r3=3=3" break="no"/>lai-k-kūṟṟat=tu naṭuviṟ-kūṟṟu ta<choice><orig>n</orig><reg>ṉ</reg></choice>iyūr tirupperuntuṟai Āḷuṭaiya 
+		<lb n="1r4=4=4"/> parama-<hi rend="grantha">svāmi</hi>yaḷukku Aṟantāṅki Aracu Ēkapperumāḷ toṇṭai 
+		<lb n="1r5=5=5" break="no"/>māṉār poṉṉampala-nāta-toṇṭaimāṉār 
 	
 		Ūrkaḷ u<hi rend="grantha">pakṣa</hi>ya-<hi rend="grantha">dhā</hi> 
-		<lb n="1r6=6" break="no"/><hi rend="grantha">rā-pūrvva</hi>m-āka vilaippiṟamāṇam paṇṇik koṭut=ta Ūrkaḷ āvaṉa
+		<lb n="1r6=6=6" break="no"/><hi rend="grantha">rā-pūrvva</hi>m-āka vilaippiṟamāṇam paṇṇik koṭut=ta Ūrkaḷ āvaṉa
 	
 		mi 
-		<lb n="1r7=7" break="no"/>ḻalaikkūṟṟat=tu mēlkūṟṟattu peruṉāvallūraṟkum yitukku uṭpaṭṭa 
-		<lb n="1r8=8"/>puravukkum perunāṉk’ ellai Āvaṉa 		
+		<lb n="1r7=7=7" break="no"/>ḻalaikkūṟṟat=tu mēlkūṟṟattu peruṉāvallūraṟkum yitukku uṭpaṭṭa 
+		<lb n="1r8=8=8"/>puravukkum perunāṉk’ ellai Āvaṉa 		
 	
 		<list>
 			<item>kīḻ-pāṟk’ ellai tirupperuntuṟai 
-				<lb n="1r9=9"/>Ellaikku mēṟkum</item>
+				<lb n="1r9=9=9"/>Ellaikku mēṟkum</item>
 			
 			<item>teṉ-pāṟk’ ellai paḻantāmarai-k-kuḷat=tukkum vāyit=talaik=ku 
-				<lb n="1r10=10" break="no"/>m ciṟṟaṭampūr marutaṅkuṭi Ellaikkum vaṭakkum</item> 
+				<lb n="1r10=10=10" break="no"/>m ciṟṟaṭampūr marutaṅkuṭi Ellaikkum vaṭakkum</item> 
 			
 			<item>mēṟ-pā<unclear>ṟ</unclear>kellai vīramaṅ 
-				<lb n="1r11=11" break="no"/>kalat=til Ellaikkuk kiḻakku<supplied reason="omitted">m</supplied></item>
+				<lb n="1r11=11=11" break="no"/>kalat=til Ellaikkuk kiḻakku<supplied reason="omitted">m</supplied></item>
 			
 			<item>vaṭa-pāṟk' ellai veḷḷāṟṟu teṟkum</item>
 		</list>
@@ -151,22 +146,22 @@
 		Āka 
 	
 		y-icai 
-		<lb n="1r12=12" break="no"/>nta peru-ṉā<choice><orig>n</orig><reg>ṉ</reg></choice>k’ ellaikku Uṭpaṭṭa peruṉāvallūrukkum vaṭa-veḷḷā
-		 <lb n="1r13=13" break="no"/>ṟṟu-nāṭṭu-p paṉaiṅkaiya-nāṭṭu Araiyar kuḷapaṟṟu vēṅkūr Eḻuvaṉēri peru 
-		<pb n="1v"/><lb n="1v1=14" break="no"/>-ṉānk' ellaikku Uḷpaṭṭaṉavum y-iṉṉā<unclear>ṭṭi</unclear>l y-inta paṟṟu śrī-kaṇṭamaṅkalam ca
-		<lb n="1v2=15" break="no"/>tu-<hi rend="grantha">sī</hi>maikku Uḷpaṭṭaṉavum Āka 
+		<lb n="1r12=12=12" break="no"/>nta peru-ṉā<choice><orig>n</orig><reg>ṉ</reg></choice>k’ ellaikku Uṭpaṭṭa peruṉāvallūrukkum vaṭa-veḷḷā
+		 <lb n="1r13=13=13" break="no"/>ṟṟu-nāṭṭu-p paṉaiṅkaiya-nāṭṭu Araiyar kuḷapaṟṟu vēṅkūr Eḻuvaṉēri peru 
+		<pb n="1v"/><lb n="1v1=14=14" break="no"/>-ṉānk' ellaikku Uḷpaṭṭaṉavum y-iṉṉā<unclear>ṭṭi</unclear>l y-inta paṟṟu śrī-kaṇṭamaṅkalam ca
+		<lb n="1v2=15=15" break="no"/>tu-<hi rend="grantha">sī</hi>maikku Uḷpaṭṭaṉavum Āka 
 	
 		y-inta Ūrkaḷukku uṇṭā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">sakala-samudā</hi>ya 
-		<lb n="1v3=16" break="no"/><hi rend="grantha">prāpti</hi>kaḷum maṟṟum nāmaṅ koḷum yiṟai yu<hi rend="grantha">pā</hi>tikaḷ maṟṟum <add place="below" rend="mark">E</add>pēṟpa		
-		<lb n="1v4=17" break="no"/>ṭ=ṭaṉavum <hi rend="grantha"> sarvva</hi>mu<supplied reason="omitted">m </supplied> sarvvamāṉyamāka Upa<hi rend="grantha">kṣaya-dhāra</hi>pūṟuvamāka vilaippiṟama 
-		<lb n="1v5=18" break="no"/>āṉam paṇṇi vilai niccaitta cakkaram poṉ <num value="3000">3 <g type="numeral">1000</g></num> yippoṉ mūvvāyirat 
-		<lb n="1v6=19" break="no"/>tukkum U yinta Ūrkaḷ cantiRĀtit<unclear>=ta</unclear>varai cella <hi rend="grantha">dhārāpūrvvamā</hi>ka koṭuttatōm 
+		<lb n="1v3=16=16" break="no"/><hi rend="grantha">prāpti</hi>kaḷum maṟṟum nāmaṅ koḷum yiṟai yu<hi rend="grantha">pā</hi>tikaḷ maṟṟum <add place="below" rend="mark">E</add>pēṟpa		
+		<lb n="1v4=17=17" break="no"/>ṭ=ṭaṉavum <hi rend="grantha"> sarvva</hi>mu<supplied reason="omitted">m </supplied> sarvvamāṉyamāka Upa<hi rend="grantha">kṣaya-dhāra</hi>pūṟuvamāka vilaippiṟama 
+		<lb n="1v5=18=18" break="no"/>āṉam paṇṇi vilai niccaitta cakkaram poṉ <num value="3000">3 <g type="numeral">1000</g></num> yippoṉ mūvvāyirat 
+		<lb n="1v6=19=19" break="no"/>tukkum U yinta Ūrkaḷ cantiRĀtit<unclear>=ta</unclear>varai cella <hi rend="grantha">dhārāpūrvvamā</hi>ka koṭuttatōm 
 	</p>
 	<p>
-		<lb n="1v7=20"/>Āḷuṭaiya pa<hi rend="grantha">ra<supplied reason="omitted">ma</supplied>svāmi</hi>kku poṉṉampalat toṇṭaimāṉāRŌm yiṉṉā 
-		<lb n="1v8=21" break="no"/>ḷil miḻalaikkūṟṟattu paḻantaRĀ<subst><del rend="corrected">p</del><add place="overstrike">m</add></subst>mai puravu Aṟikil kuṭi nīṅkāt tēvatāṉamāka ca 
-		<lb n="1v9=22" break="no"/>ntiRĀti<hi rend="grantha">tya</hi>varai cellak kuṭuttamaikkum cempilum kallilu<supplied reason="omitted">m</supplied> veṭ=ṭikkoḷḷa-
-		<lb n="1v10=23" break="no"/>kkē kaṭavaR Ākavum 
+		<lb n="1v7=20=20"/>Āḷuṭaiya pa<hi rend="grantha">ra<supplied reason="omitted">ma</supplied>svāmi</hi>kku poṉṉampalat toṇṭaimāṉāRŌm yiṉṉā 
+		<lb n="1v8=21=21" break="no"/>ḷil miḻalaikkūṟṟattu paḻantaRĀ<subst><del rend="corrected">p</del><add place="overstrike">m</add></subst>mai puravu Aṟikil kuṭi nīṅkāt tēvatāṉamāka ca 
+		<lb n="1v9=22=22" break="no"/>ntiRĀti<hi rend="grantha">tya</hi>varai cellak kuṭuttamaikkum cempilum kallilu<supplied reason="omitted">m</supplied> veṭ=ṭikkoḷḷa-
+		<lb n="1v10=23=23" break="no"/>kkē kaṭavaR Ākavum 
 	</p>
 
 	<ab>
@@ -176,43 +171,43 @@
 	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<l n="a">dānapālanayōr maddhyē</l> 
 		<l n="b">dānāt· cchreyo ’nupālanam· <g type="danda">.</g></l> 
-		<l n="c">dānā<lb n="1v11=24" break="no"/>t· svargam avāpnōti</l> 
+		<l n="c">dānā<lb n="1v11=24=24" break="no"/>t· svargam avāpnōti</l> 
 		<l n="d">pālanād acyutam· padam· <g type="ddanda">.</g></l> 
 	</lg>
 	
 	<lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<l n="a">svadattāt· dviguṇam · puṇyam ·</l> 
 		<l n="b">paradattānupā<add place="below" rend="mark">la</add>nam· <g type="danda">.</g></l> 
-		<l n="c"><lb n="1v12=25"/>paradattāpahārēṇa</l> 
+		<l n="c"><lb n="1v12=25=25"/>paradattāpahārēṇa</l> 
 		<l n="d">svadattan niṣphalam · bhavēt·<g type="ddanda">.</g></l> 
 	</lg>
 	
 	<lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<l n="a">svadattām · paradattāṁ vā</l> 
-		<l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas<choice><sic>va</sic><corr>u</corr></choice>n <lb n="1v13=26" break="no"/>dharām <g type="danda">.</g></l> 
+		<l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas<choice><sic>va</sic><corr>u</corr></choice>n <lb n="1v13=26=26" break="no"/>dharām <g type="danda">.</g></l> 
 		<l n="c">ṣaṣṭi<surplus>r</surplus>-varṣa-sahasrāṇi</l> 
 		<l n="d"> viṣṭhāyāñ jāyate kṛmiḥ <g type="ddanda">.</g></l> 
 	</lg>
  
  	<lg n="4" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<l n="a">Ekaika bhaginī loke</l> 
-		<l n="b"><lb n="1v14=27"/>sarvveṣām eva bhūbhujāḥ<g type="danda">.</g></l> 
+		<l n="b"><lb n="1v14=27=27"/>sarvveṣām eva bhūbhujāḥ<g type="danda">.</g></l> 
 		<l n="c">nā bhōjyā na k<unclear>a</unclear>ragrāhyā</l> 
 		<l n="d">vipradattā vasundharāḥ<g type="ddanda">.</g></l> 
 	</lg>
  
 	<lg n="5" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<l n="a">sā<lb n="1v15=28"/>māṉyo yan dharmma-setu<unclear>r</unclear> nṛpāṇāṁ</l>
+		<l n="a">sā<lb n="1v15=28=28"/>māṉyo yan dharmma-setu<unclear>r</unclear> nṛpāṇāṁ</l>
 		<l n="b">kāle kāle pālanīyo bhavat·bhi<supplied reason="omitted">ḥ</supplied> <g type="danda">.</g></l>
-		<l n="c">sarvān etā<unclear>nn</unclear> <pb n="2r"/><lb n="2r1=29"/>bhāvinaḥ pā<supplied reason="omitted">r</supplied>tthivendr<choice><sic>a</sic><corr>ā</corr></choice>n·</l>
+		<l n="c">sarvān etā<unclear>nn</unclear> <pb n="2r"/><lb n="2r1=29=29"/>bhāvinaḥ pā<supplied reason="omitted">r</supplied>tthivendr<choice><sic>a</sic><corr>ā</corr></choice>n·</l>
 		<l n="d">bhūyo bhūyo yācate rām acandraḥ <g type="ddanda">.</g></l>
 	</lg>
 	
 	<p>
 		y-inta <hi rend="grantha">dharmmattu</hi>kku <hi rend="grantha">Ahi</hi>tam pa 
-		<lb n="2r2=30" break="no"/>ṇṇiṉavarkaḷ <hi rend="grantha">gaṁgai</hi>k karai<supplied reason="omitted">yi</supplied>lē <hi rend="grantha">kapi</hi>laiyum kaRĀm pacuvaiyu<supplied reason="omitted">m</supplied> <hi rend="grantha">guruvai</hi>yum <hi rend="grantha">brāhma</hi> 
-		<lb n="2r3=31" break="no"/>ṇaṉai<supplied reason="omitted">yu</supplied>m <hi rend="grantha">mā<choice><orig>d</orig><reg>t</reg></choice>ā</hi>-pi<hi rend="grantha"><choice><orig>d</orig><reg>t</reg></choice>]āvai</hi>yum taṅkaiyālē koṉṟa <hi rend="grantha">pāpa</hi>ttilē pōka kaṭava 
-		<lb n="2r4=32" break="no"/>R Ākavum
+		<lb n="2r2=30=30" break="no"/>ṇṇiṉavarkaḷ <hi rend="grantha">gaṁgai</hi>k karai<supplied reason="omitted">yi</supplied>lē <hi rend="grantha">kapi</hi>laiyum kaRĀm pacuvaiyu<supplied reason="omitted">m</supplied> <hi rend="grantha">guruvai</hi>yum <hi rend="grantha">brāhma</hi> 
+		<lb n="2r3=31=31" break="no"/>ṇaṉai<supplied reason="omitted">yu</supplied>m <hi rend="grantha">mā<choice><orig>d</orig><reg>t</reg></choice>ā</hi>-pi<hi rend="grantha"><choice><orig>d</orig><reg>t</reg></choice>]āvai</hi>yum taṅkaiyālē koṉṟa <hi rend="grantha">pāpa</hi>ttilē pōka kaṭava 
+		<lb n="2r4=32=32" break="no"/>R Ākavum
 	</p>
 	<p>
 		<hi rend="grantha">samam</hi> Ippaṭ=ṭikku cantiRĀ<supplied reason="omitted">ti</supplied><hi rend="grantha">tya</hi>varai cella naṭatti-k koḷḷavum <g type="ddanda">.</g> 
@@ -225,10 +220,10 @@
 </div>
 	
 <div type="textpart" xml:lang="tam-Latn" n="2" rendition="class:tamil maturity:83215">
-<head xml:lang="eng">Grant no. 2</head>
+<head xml:lang="eng">Grant no. 2: Śaka year 1440</head>
 		
 	<p>
-		<lb n="2r5=34"/>...		
+		<lb n="2r5=34=1"/>...		
 	</p>
 	
 </div>
@@ -237,7 +232,7 @@
 <head xml:lang="eng">Grant no. 3</head>
 		
 	<p>
-		<lb n="2v9=1"/>...		
+		<lb n="2v9=**=1"/>...		
 	</p>
 </div>
     
@@ -245,7 +240,7 @@
 <head xml:lang="eng">Grant no. 4</head>
         
         <p>
-            <lb n="3v2=1"/>...		
+            <lb n="3v2=**=1"/>...		
         </p>
      
  </div>
@@ -254,7 +249,7 @@
 <head xml:lang="eng">Grant no. 5</head>
         
     <p>
-        <lb n="4r12=1"/>...		
+        <lb n="4r12=**=1"/>...		
     </p>
     
 </div>
@@ -263,7 +258,7 @@
 <head xml:lang="eng">Grant no. 6</head>
         
         <p>
-            <lb n="4v4=1"/>...		
+            <lb n="4v4=**=1"/>...		
         </p>
     
 </div>
@@ -272,7 +267,7 @@
 <head xml:lang="eng">Grant no. 7</head>
         
         <p>
-            <lb n="5r1=1"/>...		
+            <lb n="5r1=**=1"/>...		
         </p>
     </div>
     
@@ -280,7 +275,7 @@
  <head xml:lang="eng">Grant no. 8</head>
         
         <p>
-            <lb n="5r14=1"/>...		
+            <lb n="5r14=**=1"/>...		
         </p>
     
 </div>
@@ -289,7 +284,7 @@
 <head xml:lang="eng">Grant no. 9</head>
         
         <p>
-            <lb n="5v15=1"/>...		
+            <lb n="5v15=**=1"/>...		
         </p>
     
 </div>
@@ -298,7 +293,7 @@
         <head xml:lang="eng">Grant no. 10</head>
         
         <p>
-            <lb n="6r13=1"/>...		
+            <lb n="6r13=**=1"/>...		
         </p>
     
 </div>
@@ -307,7 +302,7 @@
 <head xml:lang="eng">Grant no. 11</head>
         
         <p>
-            <lb n="6v22=1"/>...		
+            <lb n="6v22=**=1"/>...		
         </p>
     
 </div>
@@ -316,7 +311,7 @@
 <head xml:lang="eng">Grant no. 12</head>
         
         <p>
-            <lb n="7v4=1"/>...		
+            <lb n="7v4=**=1"/>...		
         </p>
 
 </div>
@@ -325,7 +320,7 @@
 <head xml:lang="eng">Grant no. 13</head>
         
         <p>
-            <lb n="8r11=1"/>...		
+            <lb n="8r11=**=1"/>...		
         </p>
    
 </div>
@@ -334,7 +329,7 @@
 <head xml:lang="eng">Grant no. 14</head>
         
         <p>
-            <lb n="9r7=1"/>...		
+            <lb n="9r7=**=1"/>...		
         </p>
     
 </div>
@@ -343,14 +338,12 @@
 <head xml:lang="eng">Grant no. 15</head>
     
     <p>
-        <lb n="10r13=1"/>...		
+        <lb n="10r13=**=1"/>...		
     </p>
     
-</div>
-    
+</div>    
 	
-</div>
-	
+</div>	
 	
 <!--<div type="apparatus">
 		<!-\-apparatus encoded as per EGD §9.1, basic elements for apparatus below-\->
@@ -369,7 +362,7 @@
 <div type="translation" resp="part:reda part:emfr part:matr">
 	
 <div type="textpart" n="1">
-<head xml:lang="eng">Grant no. 1</head>
+<head xml:lang="eng">Grant no. 1: Śaka year 1448</head>
 		
 	<p n="1">
 		Fortune!
@@ -420,7 +413,7 @@
 </div>
 	
 <div type="textpart" n="2">
-<head xml:lang="eng">Grant no. 2</head>
+<head xml:lang="eng">Grant no. 2: Śaka year 1440</head>
 	
 </div>
 	
@@ -486,9 +479,9 @@
 	
 <div type="bibliography">
 	
-	<p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl> (ARIE/1986-1987/A/1986-1987/**).</p>
+	<p><seg rend="check">Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl> (ARIE/1986-1987/A/1986-1987/**).</seg></p>
     <p>
-		Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> as individual grants (nos. 1-3), whereas they are in fact found in succession in a single set of plates. These editions are not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.
+		Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> as individual grants (nos. 1-15), whereas they are in fact found in succession in a single set of plates. These editions are not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.
 	</p>
 	
 	<p>
@@ -499,8 +492,8 @@
 		
 		<bibl n="K">
 			<ptr target="bib:Kirusnamurtti2000_01"/>
-			<citedRange unit="page">36-44</citedRange>
-			<citedRange unit="item">1-3</citedRange>
+			<citedRange unit="page">36-72</citedRange>
+			<citedRange unit="item">1-15</citedRange>
 		</bibl>
 		
 	</listBibl>
