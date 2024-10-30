@@ -285,34 +285,33 @@
 	
 </div>-->
 	
-	<div type="bibliography">
+<div type="bibliography">
 		
-		<p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl> (ARIE/1986-1987/A/1986-1987/59).</p>
-		<p>
-			Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 34). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.
-		</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl> (ARIE/1986-1987/A/1986-1987/59).</p>
+	<p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. <seg rend="check">34</seg>). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.
+	</p>
+	
+	<p>
+		This by Margherita Trento (2024), based on EFEO photographs (2015).
+	</p>
+	
+	<listBibl type="primary">
 		
-		<p>
-			The edition here is by Margherita Trento (2024), based on EFEO photographs (2015).
-		</p>
+		<bibl n="K">
+			<ptr target="bib:Kirusnamurtti2000_01"/>
+			<citedRange unit="page">TBC</citedRange>
+			<citedRange unit="item">TBC</citedRange>
+		</bibl>
 		
-		<listBibl type="primary">
-			
-			<bibl n="K">
-				<ptr target="bib:Kirusnamurtti2000_01"/>
-				<citedRange unit="page">TBC</citedRange>
-				<citedRange unit="item">TBC</citedRange>
-			</bibl>
-			
-		</listBibl>
-		
-		<listBibl type="secondary">
+	</listBibl>
+	
+	<listBibl type="secondary">
 		<bibl>
 			<ptr target="bib:ARIE1986-1987"/>
 			<citedRange unit="page">27</citedRange>
 			<citedRange unit="item">59</citedRange>
 		</bibl>
-		</listBibl>
+	</listBibl>
 </div>
 </body>
 </text>

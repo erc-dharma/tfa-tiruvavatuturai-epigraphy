@@ -480,12 +480,13 @@
 <div type="bibliography">
 	
 	<p><seg rend="check">Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl> (ARIE/1986-1987/A/1986-1987/**).</seg></p>
-    <p>
+	
+	<p>
 		Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> as individual grants (nos. 1-15), whereas they are in fact found in succession in a single set of plates. These editions are not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.
 	</p>
 	
 	<p>
-		Edited here for DHARMA (ERC n° 809994) by Renato Dávalos, Emmanuel Francis and Margherita Trento (2024), based on EFEO photographs (2015).
+		This edition by Renato Dávalos, Emmanuel Francis and Margherita Trento (2024), based on EFEO photographs (2015).
 	</p>
 	
 	<listBibl type="primary">
@@ -500,11 +501,11 @@
 	
 	<!--<listBibl type="secondary">
 		<bibl>
-			<ptr target="bib:ARIE1986-1987"/>
-			<citedRange unit="page">...</citedRange>
-			<citedRange unit="item">...</citedRange>
+		<ptr target="bib:ARIE1986-1987"/>
+		<citedRange unit="page">...</citedRange>
+		<citedRange unit="item">...</citedRange>
 		</bibl>
-	</listBibl>-->
+		</listBibl>-->
 </div>
 </body>
 </text>
