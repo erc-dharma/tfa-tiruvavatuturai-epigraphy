@@ -306,9 +306,13 @@
 			
 		</listBibl>
 		
-		<!--<listBibl type="secondary">
-			<bibl/><!-\- one <bibl/> per item of secondary bibliography -\->
-		</listBibl>-->
+		<listBibl type="secondary">
+		<bibl>
+			<ptr target="bib:ARIE1986-1987"/>
+			<citedRange unit="page">27</citedRange>
+			<citedRange unit="item">59</citedRange>
+		</bibl>
+		</listBibl>
 </div>
 </body>
 </text>
