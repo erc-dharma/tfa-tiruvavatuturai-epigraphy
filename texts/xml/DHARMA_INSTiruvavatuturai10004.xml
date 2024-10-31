@@ -5,42 +5,42 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Tiruvāvaṭutuṟai, Gomuktīśvara, Caṇḍeśa shrine, time of Rājakesarivarman Tribhuvanacakravartin Kulottuṅga, year 47</title>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>					
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>EpiDoc Encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Aubervilliers</pubPlace>
-				<idno type="filename">DHARMA_INSTiruvavatuturai10004</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2026 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tiruvāvaṭutuṟai, Gomuktīśvara, Caṇḍeśa shrine, time of Rājakesarivarman Tribhuvanacakravartin Kulottuṅga, year 47</title>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>					
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Aubervilliers</pubPlace>
+                <idno type="filename">DHARMA_INSTiruvavatuturai10004</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2026 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
 			<sourceDesc>
 				<msDesc>
 					<msIdentifier>
@@ -99,8 +99,14 @@
 </ab>
     
 <lg n="1" met="āciriyappā">
-    <l n="1">pukaḻ cūḻn=<unclear>ta</unclear> puṇari Akaḻ <lb n="A2=2"/> cūḻnta puviyil-p</l>
-    <l n="2">... <lb n="A3-27=3-27"/> ...</l>
+    <l n="1">pukaḻ cūḻn=<unclear>ta</unclear> puṇari Akaḻ <lb n="A2=2"/>cūḻnta puviyil-p</l>
+    <l n="2">poṉ<choice><orig>n</orig><reg>ṉ</reg></choice>ēmi yaḷavun= ta<choice><orig>n</orig><reg>ṉ</reg></choice>ēmi na<lb n="A3=3" break="no"/>ṭappa</l>
+    <l n="3">viḷaṅkucaya makaḷai Iḷaṅkō-p paruva<lb n="A4=4" break="no"/>ttu-c</l>
+    <l n="4">cakkara-k-kōṭṭattu vikkirama-t toḻilā<lb n="A5=5" break="no"/>l-p</l>
+    <l n="5">putumaṇam puṇarn=tu ma<unclear>ta</unclear>varai yīṭṭa<lb n="A6=6" break="no"/><unclear>m</unclear></l>
+    <l n="6">v<choice><orig>ai</orig><reg>ayi</reg></choice>r<choice><sic>ā</sic><corr>a</corr></choice> karattu vāri Ayilmu<unclear>ṉ</unclear>ai-k</l>
+    
+    <l n="7-39">... <lb n="A7-27=7-27"/> ...</l>
     
     <l n="40"><milestone type="pagelike" n="B" unit="zone"/><label xml:lang="eng">Second Wall Portion</label><lb n="B1-19=28-47"/>...</l>
     <l n="41">...</l>
