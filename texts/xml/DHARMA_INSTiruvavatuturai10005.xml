@@ -93,18 +93,21 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
             	
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">First Wall Portion</label>
-		<lb n="A1=1"/><unclear><g type="pc"/> <g type="danda"/></unclear> svasti śrī
-	</ab>
-	
-	<lg n="1" met="āciriyappā">
-		<l n="1">pū<lb n="A2=2" break="no"/>mālai miṭain=t<unclear>u</unclear> <lb n="A3=3"/>poṉmālai tika<lb n="A4=4" break="no"/>ḻ<supplied reason="omitted">tara</supplied>p</l>
-		<l n="2">... <lb n="A3-27=3-27"/> ...</l>
-	    
-	    <l n="75"><lb n="A28=28"/>...</l>
-	</lg>
-	
+    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+        <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">First Wall Portion</label>
+        <lb n="A1=1"/><unclear><g type="pc"/> <g type="danda"/></unclear> svasti śrī
+    </ab>
+    
+    <lg n="1" met="āciriyappā">
+        <l n="1">pū-<lb n="A2=2" break="no"/>mālai miṭain=t<unclear>u</unclear> <lb n="A3=3"/>poṉ-mālai tika<lb n="A4=4" break="no"/>ḻ <supplied reason="omitted">tara</supplied>-p</l>
+        <l n="2">pā-mālai ma<supplied reason="lost">li</supplied><lb n="A5=5" break="no"/>n=ta paru-maṇi-t tiraḷ-pu<unclear>ya</unclear><choice><orig>ṟṟ</orig><reg>tt</reg></choice>’</l>
+        <l n="3">iru<lb n="A6=6" break="no"/>-ni<supplied reason="lost">la</supplied>-<unclear>ma</unclear>ṭan=taiyoṭu jaya-ma<lb n="A7=7" break="no"/><unclear>kaḷ i</unclear>ru<unclear>ppa</unclear></l>
+        
+        <l n="4">... <lb n="A8-27=8-27"/> ...</l>
+        
+        <l n="75"><lb n="A28=28"/>...</l>
+    </lg>
+    
     <p>
         <milestone type="pagelike" n="B" unit="zone"/><label xml:lang="eng">Second Wall Portion</label>
         <lb n="B1=29"/><unclear>maka</unclear>ra-nā<choice><orig>yy</orig><reg>y</reg></choice>aṟṟu Apa<unclear>ra</unclear>
