@@ -86,26 +86,31 @@
 		
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
             	
-	<p>
-		<lb n="1"/>kō-p-para-kēcari-<hi rend="grantha">panma</hi>rk<supplied reason="lost">ku</supplied>
-		<lb n="2"/>yāṇṭu 3-Āvatu
-	</p>
-	
-	<p>
-		... <lb n="3-8"/>...
-	</p>		
+    <p>
+        <lb n="1"/>kō-p-para-kēcari-<hi rend="grantha">panma</hi>rk<supplied reason="lost">ku</supplied>
+        <lb n="2"/>yāṇṭu 3-Āvatu
+    </p>
+    
+    <p>
+        perā
+        <lb n="3" break="no"/>vūr-nāṭṭu-k karai-na<unclear reason="eccentric_ductus">lū</unclear>r <choice><orig>u</orig><reg>ū</reg></choice>
+        <lb n="4" break="no"/>rōm ciṟu-puliyūr <hi rend="grantha">sa⌈</hi>
+        <lb n="5" break="no"/><hi rend="grantha">bhai</hi>yar iṭai vilai-ko<supplied reason="omitted">ṇ</supplied> 
+        <lb n="6" break="no"/>ṭa ... y-āḷvārk=ku cey
+        <lb n="7" break="no"/>... -c ceyta nila
+        <lb n="8" break="no"/><supplied reason="omitted">t</supplied>tuk’ ellai
+    </p>		
 	
 </div>
 				
-<!--<div type="apparatus">			
-			<listApp>
-				<app loc="line">
-					<lem></lem>
-					<rdg></rdg>
-					<note></note>
-				</app>
-			</listApp>
-</div>-->
+    <div type="apparatus">			
+        <listApp>
+            <app loc="7">
+                <lem>nila<lb n="8" break="no"/><supplied reason="omitted">t</supplied>tuk’ ellai</lem>
+                <rdg source="bib:SrinivasaRao1967_01">nat<lb n="8" break="no"/>tukellai</rdg>
+            </app>
+        </listApp>
+    </div>
 				
 <div type="translation" resp="part:emfr">
 			
@@ -125,11 +130,22 @@
 		
 <div type="bibliography">
 			
-	<p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/107).</p>
-	<p>This edition by Emmanuel Francis (2024), based on photos (E. Francis, 2024) and autopsy (2024).</p>	
-	<p>ASI transcript and estampage, if any, yet to be consulted.</p>    
+    <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/107).</p>    
+    <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.68).</p>    
+    <p>This edition by Emmanuel Francis (2024), based on photos (E. Francis, 2024) and autopsy (2024).</p>	
+    <p>ASI transcript and estampage, if any, yet to be consulted.</p>    
 		
-	<listBibl type="secondary">
+	<listBibl type="primary">
+        
+        <bibl n="SII">
+            <ptr target="bib:SrinivasaRao1967_01"/>
+            <citedRange unit="page">36</citedRange>
+            <citedRange unit="item">68</citedRange>
+        </bibl>
+        
+    </listBibl>
+    
+    <listBibl type="secondary">
 		
 		<bibl>
 			<ptr target="bib:ARIE1924-1925"/>
