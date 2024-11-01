@@ -95,66 +95,66 @@
 			<change who="part:matr" when="2024-03-21">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
-
+	
 	<text xml:space="preserve">
-	
-<body>
 		
-<div type="edition" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:83215">		
-		
-	<pb n="1r"/>
-	
-	<p>	
-		‌ <lb n="1r1=1"/>cālivākaṉa cakāttam 1000+ 6 100+ 4 10+ 7 mēl cellā
-		‌ <lb n="1r2=2"/>niṉṟa vicuvāvacu {varuṣam} māci {mācam} 2 10+ 3 {tēti} 
-	</p>	
-	
-	<p>
-		tiruvāva
-		‌ <lb n="1r3=3"/>tuṟaip paṇṭāraccanniti Ampalavāṇa A(y)
-		‌ <lb n="1r4=4"/>yar avarkaḷukkut 
-	</p>
-	
-	<p>
-		tillaiyāḷiyil uḷḷa (vaṟt)
-		‌ <lb n="1r5=5"/>takar civappu nūl veḷḷai nūl koḷḷa va
-		‌ <lb n="1r6=6"/>rukiṟa nālu tecattiluḷḷa vaṟttakar nāṅ
-		‌ <lb n="1r7=7"/>kaḷ Aṉaivarum kūṭi maṉappuṟuvamāyt ta
-		‌ <lb n="1r8=8"/>ṉmacātaṉaṅ koṭuttapaṭi 
-	</p>	
-	
-	<p>
-		Uḷ(kār>ḷūrar) mutalp
-		‌ <lb n="1r9=9"/>piṟa nāṭṭāruḷpaṭa veḷḷainūl Iṭaikku
-		‌ <lb n="1r10=10"/>Araimāp paṇa{mum} civappu nūl Iṭaikku
-		‌ <lb n="1r11=11"/>Araimāp paṇa{mum} mākam koḷḷukiṟa vaṟ
-		‌ <lb n="1r12=12"/>ttakar Aṉaivarum taṉmacātaṉam paṇṇi k
-		‌ <lb n="1r13=13"/>koṭuttōm 
-	</p>	
-	
-	<p>	
-		yitaṟku yātāmōrutar vākku
-		‌ <lb n="1r14=14"/>ccakāyam aṟtta cakāyam carīra cakāyam paṇ 
-		‌ <lb n="1r15=15"/>ṇiṉa peyarkaḷ civak(I>a)ṭā(ṣ>kṣ)amum viṣṇu
-		‌ <lb n="1r16=16"/>k(I>a)ṭā(ṣ>kṣ)amuṅ kuruk(I>a)ṭā(ṣ>kṣ)amum peṟṟu mak
-		‌ <lb n="1r17=17"/>ā pāykkiyavāṉāka puttira-mittira-kaḷatti- 
-		‌ <lb n="1r18=18"/>rātikaḷuṭaṉē makarācaṉāka yirukka kaṭavar
-		‌ <lb n="1r19=19"/>kaḷ eṉṟum yātāmorutar Inta ttaṉma
-		
-		‌ <lb n="1v1=20"/>ttukku vikātam paṇṇiṉa pērkaḷ keṅkai
-		‌ <lb n="1v2=21"/>k karaiyilē kārām pacuvaik kōṉṟa
-		‌ <lb n="1v3=22"/>tōṣattilum pañcamakā pātakattilum [23=1v4] kuruliṅka caṅkamaṅkaḷaik koṉṟa tōṣat
-		‌ <lb n="1v4=23"/>tilum pōvār ākavum eṉṟu cammatittu
-		‌ <lb n="1v5=24"/>yintat taṉmacātaṉam paṇṇik koṭuttu
-		‌ <lb n="1v6=25"/>intat taṉmattai viṭāmal cantirātitti
-		‌ <lb n="1v7=26"/>((ti))yar varaikkum puttira puttira pārampa
-		‌ <lb n="1v8=27"/>raiyākak koṭuttuvark kaṭavōm āka
-		‌ <lb n="1v9=28"/>{vum} Eṉṟu paṇṭārac cannitikku nāṅkaḷ 
-	‌ 	<lb n="1v10=29"/>aṉaivarum paṭṭaiyam eḻutik koṭuttō
-		‌ <lb n="1v11=30"/>m
-	</p>
-	
-	
+		<body>
+			
+			<div type="edition" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:83215">		
+				
+			<pb n="1r"/>
+				
+				<p>	
+					‌ <lb n="1r1=1"/>cālivākaṉa cakāttam 1000+ 6 100+ 4 10+ 7 mēl cellā
+					‌ <lb n="1r2=2"/>niṉṟa vicuvāvacu {varuṣam} māci {mācam} 2 10+ 3 {tēti} 
+				</p>	
+				
+				<p>
+					tiruvāva
+					‌ <lb n="1r3=3"/>tuṟaip paṇṭāraccanniti Ampalavāṇa A(y)
+					‌ <lb n="1r4=4"/>yar avarkaḷukkut 
+				</p>
+				
+				<p>
+					tillaiyāḷiyil uḷḷa (vaṟt)
+					‌ <lb n="1r5=5"/>takar civappu nūl veḷḷai nūl koḷḷa va
+					‌ <lb n="1r6=6"/>rukiṟa nālu tecattiluḷḷa vaṟttakar nāṅ
+					‌ <lb n="1r7=7"/>kaḷ Aṉaivarum kūṭi maṉappuṟuvamāyt ta
+					‌ <lb n="1r8=8"/>ṉmacātaṉaṅ koṭuttapaṭi 
+				</p>	
+				
+				<p>
+					Uḷ(kār>ḷūrar) mutalp
+					‌ <lb n="1r9=9"/>piṟa nāṭṭāruḷpaṭa veḷḷainūl Iṭaikku
+					‌ <lb n="1r10=10"/>Araimāp paṇa{mum} civappu nūl Iṭaikku
+					‌ <lb n="1r11=11"/>Araimāp paṇa{mum} mākam koḷḷukiṟa vaṟ
+					‌ <lb n="1r12=12"/>ttakar Aṉaivarum taṉmacātaṉam paṇṇi k
+					‌ <lb n="1r13=13"/>koṭuttōm 
+				</p>	
+				
+				<p>	
+					yitaṟku yātāmōrutar vākku
+					‌ <lb n="1r14=14"/>ccakāyam aṟtta cakāyam carīra cakāyam paṇ 
+					‌ <lb n="1r15=15"/>ṇiṉa peyarkaḷ civak(I>a)ṭā(ṣ>kṣ)amum viṣṇu
+					‌ <lb n="1r16=16"/>k(I>a)ṭā(ṣ>kṣ)amuṅ kuruk(I>a)ṭā(ṣ>kṣ)amum peṟṟu mak
+					‌ <lb n="1r17=17"/>ā pāykkiyavāṉāka puttira-mittira-kaḷatti- 
+					‌ <lb n="1r18=18"/>rātikaḷuṭaṉē makarācaṉāka yirukka kaṭavar
+					‌ <lb n="1r19=19"/>kaḷ eṉṟum yātāmorutar Inta ttaṉma
+			<pb n="1v"/>	
+					‌ <lb n="1v1=20"/>ttukku vikātam paṇṇiṉa pērkaḷ keṅkai
+					‌ <lb n="1v2=21"/>k karaiyilē kārām pacuvaik kōṉṟa
+					‌ <lb n="1v3=22"/>tōṣattilum pañcamakā pātakattilum [23=1v4] kuruliṅka caṅkamaṅkaḷaik koṉṟa tōṣat
+					‌ <lb n="1v4=23"/>tilum pōvār ākavum eṉṟu cammatittu
+					‌ <lb n="1v5=24"/>yintat taṉmacātaṉam paṇṇik koṭuttu
+					‌ <lb n="1v6=25"/>intat taṉmattai viṭāmal cantirātitti
+					‌ <lb n="1v7=26"/>((ti))yar varaikkum puttira puttira pārampa
+					‌ <lb n="1v8=27"/>raiyākak koṭuttuvark kaṭavōm āka
+					‌ <lb n="1v9=28"/>{vum} Eṉṟu paṇṭārac cannitikku nāṅkaḷ 
+					‌ 	<lb n="1v10=29"/>aṉaivarum paṭṭaiyam eḻutik koṭuttō
+					‌ <lb n="1v11=30"/>m
+				</p>
+				
+				
 	<!--<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<l n="a">dānapālanayōr maddhyē</l> 
 		<l n="b">dānāt· cchreyo ’nupālanam· <g type="danda">.</g></l> 
