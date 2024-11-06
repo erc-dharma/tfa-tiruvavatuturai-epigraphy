@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Miḻalaik kūṟṟattup Piḷḷaimār‌ grant, Śaka year 1677</title>
+				<title>Miḻalaikkūṟṟam Piḷḷaimār‌ grant, Śaka year 1677</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:matr">
@@ -102,21 +102,22 @@
 			
 			<div type="edition" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:83215">		
 				
-			<pb n="1r"/>
-				
-			<!--	<p>	
-					‌ <lb n="1r1=1"/>cālivākaṉa cakāttam <num value="1647"><g type="numeral">1000</g> <g type="numeral">6</g> <g type="numeral">100</g> <g type="numeral">4</g> <g type="numeral">10</g> <g type="numeral">7</g></num> mēl cellā
-					‌ <lb n="1r2=2"/>niṉṟa vicuvāvacu <g type="varuṣam"></g> māci <g type="mācam"></g> <num value="23"><g type="numeral">2</g> <g type="numeral">10</g> <g type="numeral">3</g></num> <g type="tēti"></g> 
-				</p>	
-				
+				<pb n="1r"/>
 				<p>
-					tiruvāva
-					‌ <lb n="1r3=3"/>tuṟaip paṇṭāraccanniti Ampalavāṇa A<unclear>y</unclear>
-					‌ <lb n="1r4=4" break="no"/>yar avarkaḷukku-t 
+					‌ <lb n="1r1=1"/><hi rend="grantha">svasti srī</hi> cālivākaṉa cakāṟtam‌ <num value="1677"><g type="numeral">1000</g> <g type="numeral">6</g> <g type="numeral">100</g> <g type="numeral">7</g> <g type="numeral">10</g> <g type="numeral">7</g></num> itaṉ‌ mēl‌  
+					‌ <lb n="1r2=2" break="no"/>c‌-cellā niṉṟa kurōtaṉa <g type="varuṣam"></g> vaikāci <g type="mācam"></g>m· <num value="15"><g type="numeral">10</g> <g type="numeral">5</g></num> il 
+				</p>
+			
+				<p>
+					tirupperuntuṟai
+					‌ <lb n="1r3=3"/>Āḷuṭaiya parama cuvāmiyār Api<hi rend="grantha">ṣē</hi>ka-k-kaṭṭaḷai u<hi rend="grantha">ṣā</hi> kālāti pū
+					‌ <lb n="1r4=4"/>cai naṭattum ampalattāṭum paṇṭāram Avarkaḷukku miḻalai 
+					‌ <lb n="1r5=5" break="no"/>-k-‌kūṟṟam ceṅkāl piḷḷai nāṭṭu-p-piḷḷaimār uḷpaṭṭārōm ta 
+					‌ <lb n="1r6=6" break="no"/>ṟma-cātaṉa-p-paṭṭaiyaṅ koṭuttapaṭi 
 				</p>
 				
-				<p>
-					tillaiyāḷiyil uḷḷa <unclear>vaṟt</unclear>
+		
+				<!--
 					‌ <lb n="1r5=5" break="no"/>takar civappu nūl veḷḷai nūl koḷḷa va
 					‌ <lb n="1r6=6" break="no"/>rukiṟa nālu tecattiluḷḷa vaṟttakar nāṅ
 					‌ <lb n="1r7=7" break="no"/>kaḷ Aṉaivarum kūṭi maṉappuṟuvamāyt ta
@@ -200,7 +201,7 @@
 		</lg>
 		
 		<lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<l n="a">svadattām · paradattāṁ vā</l> 
+		<l n="a">svadattām· paradattāṁ vā</l> 
 		<l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas<choice><sic>va</sic><corr>u</corr></choice>n <lb n="1v13=26" break="no"/>dharām <g type="danda">.</g></l> 
 		<l n="c">ṣaṣṭi<surplus>r</surplus>-varṣa-sahasrāṇi</l> 
 		<l n="d"> viṣṭhāyāñ jāyate kṛmiḥ <g type="ddanda">.</g></l> 
