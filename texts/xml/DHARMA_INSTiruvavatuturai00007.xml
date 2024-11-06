@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Miḻalaikkūṟṟam Piḷḷaimār‌ grant, Śaka year 1677</title>
+				<title>Miḻalaikkūṟṟam Piḷḷaimār grant, Śaka year 1677</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:matr">
@@ -104,15 +104,15 @@
 				
 				<pb n="1r"/>
 				<p>
-					‌ <lb n="1r1=1"/><hi rend="grantha">svasti srī</hi> cālivākaṉa cakāṟtam‌ <num value="1677"><g type="numeral">1000</g> <g type="numeral">6</g> <g type="numeral">100</g> <g type="numeral">7</g> <g type="numeral">10</g> <g type="numeral">7</g></num> itaṉ‌ mēl‌  
-					‌ <lb n="1r2=2" break="no"/>c‌-cellā niṉṟa kurōtaṉa <g type="varuṣam"></g> vaikāci <g type="mācam"></g>m· <num value="15"><g type="numeral">10</g> <g type="numeral">5</g></num> il 
+					‌ <lb n="1r1=1"/><hi rend="grantha">svasti srī</hi> cālivākaṉa cakāṟtam <num value="1677"><g type="numeral">1000</g> <g type="numeral">6</g> <g type="numeral">100</g> <g type="numeral">7</g> <g type="numeral">10</g> <g type="numeral">7</g></num> itaṉ mēl  
+					‌ <lb n="1r2=2" break="no"/>c-cellā niṉṟa kurōtaṉa <g type="varuṣam"></g> vaikāci <g type="mācam"></g>m· <num value="15"><g type="numeral">10</g> <g type="numeral">5</g></num> il 
 				</p>
 			
 				<p>
 					tirupperuntuṟai
 					‌ <lb n="1r3=3"/>Āḷuṭaiya parama cuvāmiyār Api<hi rend="grantha">ṣē</hi>ka-k-kaṭṭaḷai u<hi rend="grantha">ṣā</hi> kālāti pū
 					‌ <lb n="1r4=4"/>cai naṭattum ampalattāṭum paṇṭāram Avarkaḷukku miḻalai 
-					‌ <lb n="1r5=5" break="no"/>-k-‌kūṟṟam ceṅkāl piḷḷai nāṭṭu-p-piḷḷaimār uḷpaṭṭārōm ta 
+					‌ <lb n="1r5=5" break="no"/>-k-kūṟṟam ceṅkāl piḷḷai nāṭṭu-p-piḷḷaimār uḷpaṭṭārōm ta 
 					‌ <lb n="1r6=6" break="no"/>ṟma-cātaṉa-p-paṭṭaiyaṅ koṭuttapaṭi 
 				</p>
 				
