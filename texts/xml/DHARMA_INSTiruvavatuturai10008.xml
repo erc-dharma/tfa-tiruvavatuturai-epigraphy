@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			    <title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of Parakesarivarman Rājendra Cōḻa, year 38</title>
+			    <title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of Parakesarivarman Rājendra Cōḻa, year 28</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>					
 					<persName ref="part:emfr">
@@ -135,7 +135,7 @@
     <p>
         kō-p-para⌈
         <lb n="B6=43" break="no"/>-kēcari-panma<unclear>r</unclear>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a Uṭaiyār <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-cōḻa-<hi rend="grantha">de</hi>varkku
-        yāṇṭu <num value="38"><unclear>3</unclear> <g type="numeral">10</g> 8</num>-Āvatu
+        yāṇṭu <num value="28"><unclear>2</unclear> <g type="numeral">10</g> 8</num>-Āvatu
     </p>
     
     <p>
@@ -287,29 +287,22 @@
 		
 </div>	
 	
-<div type="apparatus">
+<!--<div type="apparatus">
 	
 	<listApp>
-		<app loc="43">
-			<lem><num value="38"><unclear>3</unclear> <g type="numeral">10</g> 8</num></lem>
-			<rdg source="bib:ARIE1924-1925"><num value="38">3 <g type="numeral">10</g> 8</num></rdg>
-			<note>The reading <foreign><num value="28"><unclear>2</unclear> <g type="numeral">10</g> 8</num></foreign> is also possible.</note>
+		<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:...">...</rdg>			
 		</app>
 		
-		<app loc="49">
-			<lem><num value="38"><unclear>3</unclear> <g type="numeral">10</g> 8</num></lem>
-			<rdg source="bib:ARIE1924-1925"><num value="38">3 <g type="numeral">10</g> 8</num></rdg>
-			<note>The reading <foreign><num value="28"><unclear>2</unclear> <g type="numeral">10</g> 8</num></foreign> is also possible.</note>
-		</app>
 	</listApp>
-</div>
-	
+</div>-->
 	
 <div type="translation" resp="part:emfr">
 	
 	<p n="1">Prosperity! Fortune!</p>
 	
-	<p n="42-43">38th year of the lord, the glorious king Rājendra Cōḻa <hi rend="italic">alias</hi> the king Parakesarivarman,</p>
+	<p n="42-43"><unclear>2</unclear>8th year of the lord, the glorious king Rājendra Cōḻa <hi rend="italic">alias</hi> the king Parakesarivarman,</p>
 	
 	<p n="1-42">who took ... [<foreign>meykkiṟtti</foreign> of Rājendra I Cōḻa].</p>
 	
@@ -408,7 +401,7 @@
 <div type="bibliography">
 				
     <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/103).</p>	
-    <p>Edited here by Emmanuel Francis, based on photos (E. Francis, 2024).</p>
+    <p>This edition by Emmanuel Francis, based on photos (2024, by E. Francis).</p>
     <p>ASI transcript and estampage, if any, yet to be consulted.</p>    
 	
 	<!--<listBibl type="primary">
