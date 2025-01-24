@@ -107,14 +107,15 @@
 				<p>
 					<lb n="1r=1"/><hi rend="grantha">śrī</hi> cālivākaṉa cakārttam <num value="1699"> <g type="numeral">1000</g> <g type="numeral">6</g> <g type="numeral">100</g> <g type="numeral">9</g> <g type="numeral">10</g> <g type="numeral">9</g> </num> 
 					<lb n="2r=2"/>kku mēl-c cellā niṉṟa kollam <num value="954"> <g type="numeral">9</g> <g type="numeral">100</g>
-					<lb n="3r=3"/><g type="numeral">5</g> <g type="numeral">10</g> <g type="numeral">4</g> </num> <g type="varuṣam"></g> viḷampi <g type="varuṣam"></g> Aṟpaci <g type="mācam"></g> <num value="11"> <g type="numeral">10</g> <g type="numeral">1</g> </num> <g type="tēti"></g> putaṉ 
-					<lb n="4r=4"/>vāramum a(m>p)ara paṭṣattu-t ticamiyum pūca naṭce
+					<lb n="3r=3"/><g type="numeral">5</g> <g type="numeral">10</g> <g type="numeral">4</g> </num> <g type="varuṣam"></g> viḷampi <g type="varuṣam"></g> Aṟpaci <g type="mācam"></g> <g type="numeral">1</g> <g type="tēti"></g> putaṉ 
+					<!-- in this line, after Aṟpaci, there two symbols; one resembling ṭṭa and antoher one that might mean "mācam" -->
+					<lb n="4r=4"/>vāramum a<choice><orig>m</orig><reg>p</reg></choice>ara paṭṣattu-t ticamiyum pūca naṭce
 					<lb n="5r=5"/>ttiramum tulā lakkaṉamum kūṭiya cupatiṉat 
 					<lb n="6r=6"/>til 
 				</p>
 				
 				<p>	
-					mēruviṉ cu((cu))ttuṭaittāṉa navakaṇ 
+					mēruviṉ cu<surplus>cu</surplus>ttuṭaittāṉa navakaṇ 
 					<lb n="7r=7"/>ṭa-p piṟitiviyil-p pārata kaṇṭattil-p piri 
 					<lb n="8r=8"/>nta kumari kaṇṭattil cērā cōḷa pāṇṭi 
 					<lb n="9r=9"/>yar pūmiyil-p pāṇṭi maṇṭalattillīlā vi 
@@ -123,7 +124,7 @@
 					<lb n="12r=12"/>teṉticai-y-ākiya cuppiṟamaṇṇiya-ṣtta 
 					<lb n="13r=13"/>lam Āṟilāṇṭan talam ākiya tiruccentiṉi 
 					<lb n="14r=14"/>l-t tēvar cēṉāpatiyākiya civakumārarā 
-					<lb n="15r=15"/>ṉa civakurunātar civacentilātipatiyāki 
+					<lb n="15r=15"/>ṉa civakurunātar civacentil ātipatiyāki 
 					<lb n="16r=16"/>ya Āṟumuka nayiṉār tiruvuḷam paripūṟṇamā 
 					<lb n="17r=17"/>y‌a yeḻuntaruḷi yirukkum 
 				</p>
@@ -140,11 +141,12 @@
 					
 				</p>		
 				<p>
-					palapaṭṭaṭaiyuḷpaṭa-c civa 
+					palapaṭṭaṭaiyuḷ paṭa-c civa 
 					<lb n="25r=25"/>puṇṇiya cātaṉam yeḷutik kuṭutta paricā 
 					<lb n="26r=26"/>vatu cuvāmi tēcikā mūrtti cāmiyaḷ Arumai 
-					<lb n="27r=27"/>t-‌tiruvākkāyt tirumukaṅ kaṭṭaḷaiyiṭṭaru 
-					<lb n="28r=28"/>ḷiya paṭikku <g type="rupee">1</g> <g type="kku"></g> talaikkaṭṭukku <g type="paṇam"></g> <g type="aṟai">m</g> ye 
+					<lb n="27r=27"/>t-‌tiruvākkāyt tirumukaṅ kaṭṭaḷaiyiṭṭ' aru 
+					<lb n="28r=28"/>ḷiya paṭikku <g type="varuṣam"></g> 1 <seg type="aksara">k=ku</seg> talaikk' aṭṭukku <g type="paṇam"></g> <g type="aṟai"></g> ye 
+				
 					<lb n="29r=29"/>ṉṟu-c cakala caṉa cammatiyāy-t tāmpura-cā 
 					<lb n="30r=30"/>taṉa-p-paṭṭaiyam yeḷutik koṭuttōm 
 					<lb n="311r=31"/>talaikkaṭṭut tukaik kaṇakku paṭikku nāṭ 
