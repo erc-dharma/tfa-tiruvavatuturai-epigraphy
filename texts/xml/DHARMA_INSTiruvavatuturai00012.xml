@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Cattūr grant, Kollam year 954</title>
+				<respStmt>
+					<resp>EpiDoc Encoding</resp>
+					<persName ref="part:matr">
+						<forename>Margherita</forename>
+						<surname>Trento</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<!--<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
+					</persName>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>-->
+					<persName ref="part:matr">
+						<forename>Margherita</forename>
+						<surname>Trento</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Aubervilliers</pubPlace>
+				<idno type="filename">DHARMA_INSTiruvavatuturai00012</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by John 
+							Doe.</p>
+						<!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3" if necessary — the copyright is that of the encoder(s) -->
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- only the handDesc can be filled in at this stage -->
+				<msDesc>
+					<!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+						<!-- don't modify this -->
+					</msIdentifier>
+					<msContents>
+						<!-- describe the intellectual content of an inscription -->
+						<summary>This plate records a gift to the Murugan temple in Tirucchendur.</summary>
+						<!-- offers the possibility to give a summary of the inscription's content -->
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p><!--<foreign>ka</foreign> and <foreign>ta</foreign> are very similar.--></p>
+							
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<!-- UPDATE the link once the release is made official -->
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:matr" when="2024-03-21">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	
+	<text xml:space="preserve">
+		
+		<body>
+			
+			<div type="edition" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:83215">		
+				
+				<pb n="1r"/>
+
+				<p>	
+					<lb n="1r=1"/> {pc} cuvatti (ṟi>śrī) cālivākaṇa cakāṟṟam 1000+ 7 100+ 9 10+ 1 {kku} mē 
+					<lb n="2r=2"/> l cell(a>ā) niṉra kollam 9 100+ 5 10+ 4 {varuṣam} vikāri {varuṣam} 
+					<lb n="3r=3"/> Āṉi(ṭṭa) {mātam}10+ 7 {tēti} pavuṟaṇai cōma vāramum mūla naṭce
+					<lb n="4r=4"/> ttiram piramaṉāma yōkam viṭṭik karaṇam kūṭiya cupati 
+					<lb n="5r=5"/> ṉa puṇṇiya kālattil likitañ ceyta taṟma cātaṉa 
+					<lb n="6r=6"/> māvatu kuṭa ṉāṭṭil t‌tiruccentūr Ātimūrtti ti 
+					<lb n="7r=7"/> ṟipuvaṉa makātēvi c‌caturvēta-maṅkalm nayiṉār vī 
+					<lb n="8r=8"/> ra mayil vākaṉa kukkuṭat tuvacarāṉa ceṉāpati {|}
+					<lb n="9r=9"/> yār vaḷḷiy ammai tēvanāyaki camētaraṉ
+					<lb n="10r=10"/> tēcika cuppiṟamaṇiya cuvāmi caṉṉitāṉat 
+					<lb n="11r=11"/> til tiruppaṇikku Ūtiyamāka nilavarañ ce 
+					<lb n="12r=12"/> ytatu muṉ pāṇṭi yuruvāy mukūṟttañ 
+					<lb n="13r=13"/> ceyakūṭal-t teṉpāṇṭiyaṉ vaḷar te 
+					<lb n="14r=14"/> ṉ pāṇṭi nāṭaṉ naṭantāṉapuri civaṉ 
+					<lb n="15r=15"/> nāraṇar vācap paṭantāl teṉṉākai
+					<lb n="16r=16"/>  ppati vāḷaracaṉ Intirapuram varaiyum 
+					<lb n="17r=17"/> toru cikara-c cantirakiriyāṉ cantira kā 
+					<lb n="18r=18"/> vi-t tuvacaṉ muppuvaṉattu mutaṉmaiyāṉ 
+					<lb n="19r=19"/> vaḷam peṟu vaippu māniti-y eṉum vaippu mā 
+					<lb n="20r=20"/> natiyāṉ vīramum vettiyum mēṉmai 
+					<lb n="21r=21"/> t-tiyākamum pāriṉil viḷaṅkum paṭi {|}
+					<lb n="22r=22"/> yatir muracāṉ Etirttiṭu maruvalar 
+					<lb n="23r=23"/> ciraṅkaḷai y-uruṭṭi mitittiṭuṅ kāṭa 
+					<lb n="24r=24"/> veṅkariyuṭaiyāṉ Ēviṉu mā 
+					<lb n="25r=25"/> rutattiṉum Itaiyattiṉu tāvutal ti 
+					<lb n="26r=26"/> kattāṇṭuvām paṟiyāṉ Oṉṉār cē 
+					<lb n="27r=27"/> ṉaiyai Oru noṭiyataṉil-c ciṉṉā pi 
+					<lb n="28r=28"/> ṉṉam ceyuñ cēṉai kāvalaṉ vāca 
+					<lb n="29r=29"/> ṅ kamaḷ taru matura-t tēṉ uṇṭu mūcu va 
+					<lb n="30r=30"/> ṇṭiṉam ceṟi mullai mālikaiyāṉ A 
+					<lb n="31r=31"/> ntampara kaṇṭa Urikōl curatāṉaṉ Ē 
+					<lb n="32r=32"/> ḷu kumārarkaḷ miṇṭaṉ nava cilla vā 
+					<lb n="33r=33"/> r ‌kulatila((tila))kaṉākiya Immmuṭi cāttū 
+					<lb n="34r=34"/> rappa Ēṟa pāppa ṉāyakkaracu-p puttiraṉ 
+					<lb n="35r=35"/> Immuṭi vaṅkāru cuntara-pāṇṭiyaṉ 
+					<lb n="36r=36"/> Ēṟa pāppa nāyakkarōm taṟma cātaṉa 
+					<lb n="37r=37"/> ppaṭṭaiyam eḷuti-k koṭuttapaṭi taṟ 
+					<lb n="38r=38"/> ma-cātaṉa-p-paṭṭaiyamāvatu yeṉṉu 
+					<lb n="39r=39"/> ṭaiya Ātikkattil uḷḷa perumpaṟṟuk	
+				</p>
+				
+				<pb n="1v"/>
+			
+				<p>
+					<lb n="1v=40"/> kiṟamam ciṟuteṭṭu-k kiṟāmam Umpaḷak ki 
+					<lb n="2v=41"/> ṟāmam cīvita-k kiṟāmam mutalākiya caṟu 
+					<lb n="3v=42"/> va tīrattukkum cakala cātikkum kaṭṭi 
+					<lb n="4v=43"/> ṉa vīṭṭukkellām varuṭam Oṉṟuk 
+					<lb n="5v=44"/> ku 1 vīṭoṉṟukku 1 kuṟuṇit tavacam 
+					<lb n="6v=45"/> vītattukku Eṉṟeṉṟaikkum kōvi
+					<lb n="7v=46"/> l ‌maṉuṭar vacamāy-t tavacam viravu ce
+					<lb n="8v=47"/> ytu Īram‌patarṟt tūtti yātti yaḷan 
+					<lb n="9v=48"/> tu koṭuttu varuvōm ākavum yin
+					<lb n="10v=49"/> ta-p paṭikku cantirātittāḷ uḷḷa va 
+					<lb n="11v=50"/> raikkum cantati-p piṟavēcam varaik 
+					<lb n="12v=51"/> kum vaḷattēṟi vaḷantēṟi naṭakku pa 
+					<lb n="13v=52"/> ṭiyāy maṉō vākku-k kāya cātakam ce 
+					<lb n="14v=53"/> yyum pērum koṭukkum pērum Ikat 
+					<lb n="15v=54"/> tilē pākkiyamum parattilē mōṭ 
+					<lb n="16v=55"/> camum Iṣṭa kāmiyamum civakkiyāṉa 
+					<lb n="17v=56"/> mum tīṟkkāyicum peṟuvārākavum 
+					<lb n="18v=57"/> Intap paṭikkuc cuvāmi centil ā 
+					<lb n="19v=58"/> tipati Āṟumuka nayiṉār caṉṉitāṉatti 
+					<lb n="20v=59"/> ru-k-kōpura-t tiruppaṇit taṟmam civapu 
+					<lb n="21v=60"/> ṇṇiyattukku-t tāṉa cātaṉamāka-t  
+					<lb n="22v=61"/> tāmpira-cātaṉam yeḷuti-t tāṉam paṇ 
+					<lb n="23v=62"/> ṇik koṭuttēṉ Immuṭi vaṅkāru cun 
+					<lb n="24v=63"/> tara pāṇṭiyaṉ Ēṟa pāppa nāyakkarōm
+					<lb n="25v=64"/> Intap paṭikku Inta-t tāṉa-cātaṉam ye 
+					<lb n="26v=65"/> ḷutiṉēṉ nāṭṭuk kaṇakku tāmōta
+					<lb n="27v=66"/> ratācukku-k kumaraṉ tuṇai {pc} ēṟa pāppaṉ {pc}
+					<lb n="28v=67"/> Inta tāmpira cātaṉattukku Ārāmoru
+					<lb n="29v=68"/> tar vikkiṉam paṇṇiṉa pēr keṅkai-k ka 
+					<lb n="30v=69"/> raiyil kārām pacuvaik koṉṟa tōca 
+					<lb n="31v=70"/> ttilē yaṭaintu pōvāRĀkavum yinta 
+					<lb n="32v=71"/> p‌paṭikkuc cuvāmi centilātipati Āṟu
+					<lb n="33v=72"/> muka nayiṉār‌ kirupāk(i>a)ṭāṭṣattiṉālē
+					<lb n="34v=73"/> nayiṉār caṉṉitāṉa-t tirukkōpura-t-ti 
+					<lb n="35v=74"/> ruppaṇi-t taṟm‌mattukkut tāmpira-cātaṉa
+					<lb n="36v=75"/> p-paṭṭaiyam vāṅkiṉēṉ Aruṇācala-t 
+					<lb n="37v=76"/> tampirāṉ yintap paṭikku-t tāṉa cātaṉa 
+					<lb n="38v=77"/> p-‌paṭṭaiyattai-t tāmpira cātaṉamāka 
+					<lb n="39v=78"/> eḷutiṉēṉ yīṟācciyilirukkum Ayya 
+					<lb n="40v=79"/> m perumāḷ Ācāri kumāraṉ puṉṉaivaṉ=AM {pc} 
+					<lb n="41v=80"/> tiruppaṇi nēmukam vāṅkāru tēvaṉ	
+					
+				</p>
+				
+				
+	<!--<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		<l n="a">dānapālanayōr maddhyē</l> 
+		<l n="b">dānāt· cchreyo ’nupālanam· <g type="danda">.</g></l> 
+		<l n="c">dānā<lb n="1v11=24" break="no"/>t· svargam avāpnōti</l> 
+		<l n="d">pālanād acyutam· padam· <g type="ddanda">.</g></l> 
+		</lg>
+		
+		<lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		<l n="a">svadattāt· dviguṇam · puṇyam ·</l> 
+		<l n="b">paradattānupā<add place="below" rend="mark">la</add>nam· <g type="danda">.</g></l> 
+		<l n="c"><lb n="1v12=25"/>paradattāpahārēṇa</l> 
+		<l n="d">svadattan niṣphalam · bhavēt·<g type="ddanda">.</g></l> 
+		</lg>
+		
+		<lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		<l n="a">svadattām· paradattāṁ vā</l> 
+		<l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas<choice><sic>va</sic><corr>u</corr></choice>n <lb n="1v13=26" break="no"/>dharām <g type="danda">.</g></l> 
+		<l n="c">ṣaṣṭi<surplus>r</surplus>-varṣa-sahasrāṇi</l> 
+		<l n="d"> viṣṭhāyāñ jāyate kṛmiḥ <g type="ddanda">.</g></l> 
+		</lg>
+		
+		<lg n="4" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		<l n="a">Ekaika bhaginī loke</l> 
+		<l n="b"><lb n="1v14=27"/>sarvveṣām eva bhūbhujāḥ<g type="danda">.</g></l> 
+		<l n="c">nā bhōjyā na k<unclear>a</unclear>ragrāhyā</l> 
+		<l n="d">vipradattā vasundharāḥ<g type="ddanda">.</g></l> 
+		</lg>
+		
+		<lg n="5" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		<l n="a">sā<lb n="1v15=28"/>māṉyo yan dharmma-setu<unclear>r</unclear> nṛpāṇāṁ</l>
+		<l n="b">kāle kāle pālanīyo bhavat·bhi<supplied reason="omitted">ḥ</supplied> <g type="danda">.</g></l>
+		<l n="c">sarvān etā<unclear>nn</unclear> <pb n="2r"/><lb n="2r1=29"/>bhāvinaḥ pā<supplied reason="omitted">r</supplied>tthivendr<choice><sic>a</sic><corr>ā</corr></choice>n ·</l>
+		<l n="d">bhūyo bhūyo yācate rām acandraḥ <g type="ddanda">.</g></l>
+		</lg>-->
+	
+</div>
+	
+	
+<!--<div type="apparatus">
+		<!-\-apparatus encoded as per EGD §9.1, basic elements for apparatus below-\->
+		
+	<listApp><!-\- one <app> for each apparatus entry -\->
+			
+		<app loc="line"><!-\- update the value of @loc. (this always refers to line beginning)-\->
+		<lem><!-\- fill in a lemma here (as I read it)-\-></lem>
+		<rdg source="bib:Kirusnamurtti2000_01"><!-\- update the @source value, fill in variant reading here -\-></rdg>
+		<note>...</note>
+		</app>
+		
+	</listApp>
+</div>-->
+	
+<div type="translation" resp="part:matr">
+		
+		<p n="1-2">....</p>
+	
+	
+<!--specify the lines inside the <p> tag, as <p n="1">...</p>  ; when it's the translation of a stanza, <p rend="stanza" n="1"> </p> and the number is in this second type of translation tag is taken from the <lg> number-->
+	
+	
+	</div>
+	
+<!--<div type="commentary">
+</div>-->
+	
+<div type="bibliography">
+		
+	<p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl> (ARIE/1986-1987/A/1986-1987/69).</p>
+	
+	<p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 61). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
+	
+	<p>This edition by Margherita Trento (2024), based on EFEO photographs (2015).
+	</p>
+	
+	<listBibl type="primary">
+		
+		<bibl n="K">
+			<ptr target="bib:Kirusnamurtti2000_01"/>
+			<citedRange unit="page">248-54</citedRange>
+			<citedRange unit="item">61</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+	<listBibl type="secondary">
+		<bibl>
+			<ptr target="bib:ARIE1986-1987"/>
+			<citedRange unit="page">29</citedRange>
+			<citedRange unit="item">69</citedRange>
+		</bibl>
+	</listBibl>	    
+		    
+</div>
+</body>
+</text>
+
+</TEI>
