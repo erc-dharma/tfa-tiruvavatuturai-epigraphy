@@ -141,8 +141,8 @@
 					<lb n="25r=25"/>puṇṇiya cātaṉam yeḷutik kuṭutta paricā 
 					<lb n="26r=26"/>vatu cuvāmi tēcikā mūrtti cāmiyaḷ Arumai 
 					<lb n="27r=27"/>t-‌tiruvākkāyt tirumukaṅ kaṭṭaḷaiyiṭṭ' aru 
-					<lb n="28r=28"/>ḷiya paṭikku <g type="varuṣam"></g> 1 <seg type="aksara">k=ku</seg> talaikkaṭṭukku <unclear reason="eccentric_ductus"><g type="paṇam"/></unclear> <unclear><expan><abbr>I</abbr><ex>raṇṭu</ex><abbr>m</abbr></expan></unclear> ye 
-<!-- we must have a measure of money or - less likely - paddy; but they symbols are unclear-->
+					<lb n="28r=28"/>ḷiya paṭikku <g type="varuṣam"></g> 1 <seg type="aksara">k=ku</seg> talaikkaṭṭukku <unclear reason="eccentric_ductus"><g type="paṇam"/></unclear> <expan><abbr>I</abbr><ex>raṇṭu</ex><abbr>m</abbr></expan> ye 
+<!-- we must have a measure of money or - less likely - paddy; but the symbols are unclear-->
 					<lb n="29r=29"/>ṉṟu-c cakala caṉa cammatiyāy-t tāmpura-cā 
 					<lb n="30r=30"/>taṉa-p-paṭṭaiyam yeḷutik koṭuttōm 
 				</p>		
@@ -237,8 +237,8 @@
 	<listApp><!-- one <app> for each apparatus entry -->
 			
 		<app loc="28r=28">
-		<lem><g type="varuṣam"></g> 1 <seg type="aksara">k=ku</seg> talaikkaṭṭukku <g type="paṇam"/> <expan><abbr>I</abbr><ex>raṇṭu</ex><abbr>m</abbr></expan> </lem>
-		<note>This reading is a guess based on Miḻalaikkūṟṟam Piḷḷaimār grant, Śaka year 1677, where the donation is also two paṇams per family per year. </note>
+		<lem><g type="paṇam"/> <expan><abbr>I</abbr><ex>raṇṭu</ex><abbr>m</abbr></expan> </lem>
+		<note>This reading is a guess based on Miḻalaikkūṟṟam Piḷḷaimār grant, Śaka year 1677, where the donation is also two <foreign>paṇam</foreign>s per family per year. </note>
 		</app>
 		
 	</listApp>
