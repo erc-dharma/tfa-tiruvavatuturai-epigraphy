@@ -37,9 +37,7 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by John 
-                            Doe.</p>
-                        <!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3" if necessary — the copyright is that of the encoder(s) -->
+                        <p>Copyright (c) 2019-2025 by John Doe.</p>
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -56,7 +54,6 @@
                     <physDesc>
                         <handDesc>
                             <p><foreign>ka</foreign> and <foreign>ta</foreign> are very similar.</p>
-                            
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -87,8 +84,7 @@
     
     <text xml:space="preserve">
         
-        <body>
-            
+        <body>            
             
             <div type="edition">
                 
@@ -142,7 +138,8 @@
                         y-icai 
                         <lb n="1r12=12=12" break="no"/>nta peru-ṉā<choice><orig>n</orig><reg>ṉ</reg></choice>k’ ellaikku Uṭpaṭṭa peruṉāvallūrukkum vaṭa-veḷḷā
                          <lb n="1r13=13=13" break="no"/>ṟṟu-nāṭṭu-p paṉaiṅkaiya-nāṭṭu Araiyar kuḷapaṟṟu vēṅkūr Eḻuvaṉēri peru 
-                        <pb n="1v"/><lb n="1v1=14=14" break="no"/>-ṉānk' ellaikku Uḷpaṭṭaṉavum y-iṉṉā<unclear>ṭṭi</unclear>l y-inta paṟṟu śrī-kaṇṭamaṅkalam ca
+                        <pb n="1v"/>
+                        <lb n="1v1=14=14" break="no"/>-ṉānk' ellaikku Uḷpaṭṭaṉavum y-iṉṉā<unclear>ṭṭi</unclear>l y-inta paṟṟu śrī-kaṇṭamaṅkalam ca
                         <lb n="1v2=15=15" break="no"/>tu-<hi rend="grantha">sī</hi>maikku Uḷpaṭṭaṉavum Āka 
                         
                         y-inta Ūrkaḷukku uṇṭā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">sakala-samudā</hi>ya 
@@ -186,15 +183,15 @@
                     <lg n="4" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                         <l n="a">Ekaika bhaginī loke</l> 
                         <l n="b"><lb n="1v14=27=27"/>sarvveṣām eva bhūbhujāḥ<g type="danda">.</g></l> 
-                        <l n="c">nā bhōjyā na k<unclear>a</unclear>ragrāhyā</l> 
-                        <l n="d">vipradattā vasundharāḥ<g type="ddanda">.</g></l> 
+                        <l n="c">nā bhojyā na k<unclear>a</unclear>ragrāhyā</l> 
+                        <l n="d">vipradattā vasundharā<surplus>ḥ</surplus> <g type="ddanda">.</g></l> 
                     </lg>
                     
                     <lg n="5" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                        <l n="a">sā<lb n="1v15=28=28"/>māṉyo yan dharmma-setu<unclear>r</unclear> nṛpāṇāṁ</l>
+                        <l n="a">sā<lb n="1v15=28=28" break="no"/>māṉyo yan dharmma-setu<unclear>r</unclear> nṛpāṇāṁ</l>
                         <l n="b">kāle kāle pālanīyo bhavat·bhi<supplied reason="omitted">ḥ</supplied> <g type="danda">.</g></l>
                         <l n="c">sarvān etā<unclear>nn</unclear> <pb n="2r"/><lb n="2r1=29=29"/>bhāvinaḥ pā<supplied reason="omitted">r</supplied>tthivendr<choice><sic>a</sic><corr>ā</corr></choice>n·</l>
-                        <l n="d">bhūyo bhūyo yācate rām acandraḥ <g type="ddanda">.</g></l>
+                        <l n="d">bhūyo bhūyo yācate rāmacandraḥ <g type="ddanda">.</g></l>
                     </lg>
                     
                     <p>
