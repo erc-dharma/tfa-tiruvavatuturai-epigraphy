@@ -103,13 +103,16 @@
 			<div type="edition" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:83215">		
 				
 				<pb n="1r"/>
-
+				
 				<p>	
 					<lb n="1r=1"/> <g type="pc"></g> cuvatti <choice><orig>ṟi</orig><reg>śrī</reg></choice> cālivākaṇa cakāṟṟam <num> <g type="numeral">1000</g> 7 <g type="numeral">100</g> 9 <g type="numeral">10</g> 1</num> <seg type="aksara">k=ku</seg> mē 
-					<lb n="2r=2"/>l cell(a>ā) niṉra kollam 9 100+ 5 10+ 4 {varuṣam} vikāri {varuṣam} 
+					<lb n="2r=2"/>l cell<choice><sic>a</sic><corr>ā</corr></choice>niṉra kollam <num value="954">9 <g type="numeral">100</g> 5 <g type="numeral">10</g> 4</num> <g type="varuṣam"></g> vikāri <g type="varuṣam"></g> 
 					<lb n="3r=3"/>Āṉi(ṭṭa) {mātam}10+ 7 {tēti} pavuṟaṇai cōma vāramum mūla naṭce
 					<lb n="4r=4"/>ttiram piramaṉāma yōkam viṭṭik karaṇam kūṭiya cupati 
-					<lb n="5r=5"/>ṉa puṇṇiya kālattil likitañ ceyta taṟma cātaṉa 
+					<lb n="5r=5"/>ṉa puṇṇiya kālattil 
+				</p>
+				<p>
+					likitañ ceyta taṟma cātaṉa 
 					<lb n="6r=6"/>māvatu kuṭa ṉāṭṭil t‌tiruccentūr Ātimūrtti ti 
 					<lb n="7r=7"/>ṟipuvaṉa makātēvi c‌caturvēta-maṅkalm nayiṉār vī 
 					<lb n="8r=8"/>ra mayil vākaṉa kukkuṭat tuvacarāṉa ceṉāpati {|}
@@ -147,7 +150,7 @@
 				</p>
 				
 				<pb n="1v"/>
-			
+				
 				<p>
 					<lb n="1v=40"/>kiṟamam ciṟuteṭṭu-k kiṟāmam Umpaḷak ki 
 					<lb n="2v=41"/>ṟāmam cīvita-k kiṟāmam mutalākiya caṟu 
@@ -194,46 +197,46 @@
 				</p>
 				
 				
-	<!--<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<l n="a">dānapālanayōr maddhyē</l> 
-		<l n="b">dānāt· cchreyo ’nupālanam· <g type="danda">.</g></l> 
-		<l n="c">dānā<lb n="1v11=24" break="no"/>t· svargam avāpnōti</l> 
-		<l n="d">pālanād acyutam· padam· <g type="ddanda">.</g></l> 
-		</lg>
-		
-		<lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<l n="a">svadattāt· dviguṇam · puṇyam ·</l> 
-		<l n="b">paradattānupā<add place="below" rend="mark">la</add>nam· <g type="danda">.</g></l> 
-		<l n="c"><lb n="1v12=25"/>paradattāpahārēṇa</l> 
-		<l n="d">svadattan niṣphalam · bhavēt·<g type="ddanda">.</g></l> 
-		</lg>
-		
-		<lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<l n="a">svadattām· paradattāṁ vā</l> 
-		<l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas<choice><sic>va</sic><corr>u</corr></choice>n <lb n="1v13=26" break="no"/>dharām <g type="danda">.</g></l> 
-		<l n="c">ṣaṣṭi<surplus>r</surplus>-varṣa-sahasrāṇi</l> 
-		<l n="d"> viṣṭhāyāñ jāyate kṛmiḥ <g type="ddanda">.</g></l> 
-		</lg>
-		
-		<lg n="4" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<l n="a">Ekaika bhaginī loke</l> 
-		<l n="b"><lb n="1v14=27"/>sarvveṣām eva bhūbhujāḥ<g type="danda">.</g></l> 
-		<l n="c">nā bhōjyā na k<unclear>a</unclear>ragrāhyā</l> 
-		<l n="d">vipradattā vasundharāḥ<g type="ddanda">.</g></l> 
-		</lg>
-		
-		<lg n="5" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<l n="a">sā<lb n="1v15=28"/>māṉyo yan dharmma-setu<unclear>r</unclear> nṛpāṇāṁ</l>
-		<l n="b">kāle kāle pālanīyo bhavat·bhi<supplied reason="omitted">ḥ</supplied> <g type="danda">.</g></l>
-		<l n="c">sarvān etā<unclear>nn</unclear> <pb n="2r"/><lb n="2r1=29"/>bhāvinaḥ pā<supplied reason="omitted">r</supplied>tthivendr<choice><sic>a</sic><corr>ā</corr></choice>n ·</l>
-		<l n="d">bhūyo bhūyo yācate rām acandraḥ <g type="ddanda">.</g></l>
-		</lg>-->
-	
-</div>
-	
-	
-<!--<div type="apparatus">
-		<!-\-apparatus encoded as per EGD §9.1, basic elements for apparatus below-\->
+				<!--<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+					<l n="a">dānapālanayōr maddhyē</l> 
+					<l n="b">dānāt· cchreyo ’nupālanam· <g type="danda">.</g></l> 
+					<l n="c">dānā<lb n="1v11=24" break="no"/>t· svargam avāpnōti</l> 
+					<l n="d">pālanād acyutam· padam· <g type="ddanda">.</g></l> 
+					</lg>
+					
+					<lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+					<l n="a">svadattāt· dviguṇam · puṇyam ·</l> 
+					<l n="b">paradattānupā<add place="below" rend="mark">la</add>nam· <g type="danda">.</g></l> 
+					<l n="c"><lb n="1v12=25"/>paradattāpahārēṇa</l> 
+					<l n="d">svadattan niṣphalam · bhavēt·<g type="ddanda">.</g></l> 
+					</lg>
+					
+					<lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+					<l n="a">svadattām· paradattāṁ vā</l> 
+					<l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas<choice><sic>va</sic><corr>u</corr></choice>n <lb n="1v13=26" break="no"/>dharām <g type="danda">.</g></l> 
+					<l n="c">ṣaṣṭi<surplus>r</surplus>-varṣa-sahasrāṇi</l> 
+					<l n="d"> viṣṭhāyāñ jāyate kṛmiḥ <g type="ddanda">.</g></l> 
+					</lg>
+					
+					<lg n="4" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+					<l n="a">Ekaika bhaginī loke</l> 
+					<l n="b"><lb n="1v14=27"/>sarvveṣām eva bhūbhujāḥ<g type="danda">.</g></l> 
+					<l n="c">nā bhōjyā na k<unclear>a</unclear>ragrāhyā</l> 
+					<l n="d">vipradattā vasundharāḥ<g type="ddanda">.</g></l> 
+					</lg>
+					
+					<lg n="5" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+					<l n="a">sā<lb n="1v15=28"/>māṉyo yan dharmma-setu<unclear>r</unclear> nṛpāṇāṁ</l>
+					<l n="b">kāle kāle pālanīyo bhavat·bhi<supplied reason="omitted">ḥ</supplied> <g type="danda">.</g></l>
+					<l n="c">sarvān etā<unclear>nn</unclear> <pb n="2r"/><lb n="2r1=29"/>bhāvinaḥ pā<supplied reason="omitted">r</supplied>tthivendr<choice><sic>a</sic><corr>ā</corr></choice>n ·</l>
+					<l n="d">bhūyo bhūyo yācate rām acandraḥ <g type="ddanda">.</g></l>
+					</lg>-->
+				
+			</div>
+			
+			
+			<!--<div type="apparatus">
+				<!-\-apparatus encoded as per EGD §9.1, basic elements for apparatus below-\->
 		
 	<listApp><!-\- one <app> for each apparatus entry -\->
 			
