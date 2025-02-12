@@ -110,7 +110,7 @@
 					<lb n="3r=3"/>1</num> <seg type="aksara">k=ku</seg> mēl cellā niṉṟa kollam <num value="955">9 <g type="numeral">100</g> 5 <g type="numeral">10</g> 5</num> <g type="varuṣam"></g>  
 					<lb n="4r=4"/>vikāri <g type="varuṣam"></g> kārttikai <g type="mācam"></g> <num value="22"> 2 2 <g type="numeral">10</g> </num> <g type="tēti"></g> ticamiyuṅ kuru 
 					<!-- I believe that there is a mistake: the scribe has written 2 2 10+ instead of 2 10+ 2; how to encode that? -->
-					<lb n="5r=5" break="no"/>vāramum uttira naṭcettiramum Āyuṣṭṭiṇa-ṉāma yō  
+					<lb n="5r=5" break="no"/>vāramum uttira naṭcettiramum Āyu<hi rend="grantha">ṣ</hi>ṭṭiṇa-ṉāma yō  
 					<lb n="6r=6" break="no"/>kamum keca karaṇamum rācata vēḷaiyum cukkiṟavō  
 					<lb n="7r=7" break="no"/>raiyum kūṭiṉa maṅkaḷa cupatiṉattil 
 				</p>
@@ -132,7 +132,7 @@
 				<p>
 				  naṭuvu maṇṭalam vaṇita cēkaram cōḷa va  
 					<lb n="19r=19" break="no"/>ḷaṉāṭāṉa niṭacēpa nati tīram cāttūr neṉmēṉi  
-					<lb n="20r=20"/>vaṭamalaipuram vaṇita cēkaram Acēṣa vi<choice><orig>ṟṟ</orig><reg>tt</reg></choice>uva makācaṉa  
+					<lb n="20r=20"/>vaṭamalaipuram vaṇita cēkaram Acē<hi rend="grantha">ṣ</hi>a vi<choice><orig>ṟṟ</orig><reg>tt</reg></choice>uva makācaṉa  
 					<lb n="21r=21" break="no"/>ṅkaḷum tāṉāṉattār talattār Āṟāṟu kāḷa piḷḷai  
 					<lb n="22r=22" break="no"/>mār ‌mutalimār ṉāyakkamār kavaṟaic ceṭṭiyaḷ  
 					<lb n="23r=23"/>reṭṭiyaḷ toṭṭiyar ko<surplus>ṉ</surplus>ṅkaḷ tēvamār  
@@ -168,14 +168,14 @@
 					<lb n="44r=44" break="no"/>ya-t-‌taṭuttāḷ-k koṇṭ' aruḷiṉa paṭiyiṉālē  
 					<lb n="45r=45"/>yintat taṟmattukku yātām orutar paripāl<choice><orig>I</orig><reg>a</reg></choice> 
 					<lb n="46r=46" break="no"/>ṉam paṇṇiṉavarkaḷ tavacam niluvai viṭāma  
-					<lb n="47r=47" break="no"/>l-c cēkarañ ceytu vicēṣṭamāka vanta vi  
+					<lb n="47r=47" break="no"/>l-c cēkarañ ceytu vicē<hi rend="grantha">ṣ</hi>ṭamāka vanta vi  
 					<lb n="48r=48" break="no"/>ravuñ ceytu kuṭuttavarkaḷ puttira pavuttira pāra  	
 				
 				<pb n="1v"/>	
 					
 					<lb n="1v=48" break="no"/>ravuñ ceytu kuṭuttavarkaḷ puttira pavuttira pāra
 					<lb n="2v=49" break="no"/>mparaiyāka yikattilē pākkiyamu parattilē mō
-					<lb n="3v=50" break="no"/>ṭṣamum peṟuvārkaḷ yintat taṟmattukku yātā
+					<lb n="3v=50" break="no"/>ṭ<hi rend="grantha">ṣ</hi>amum peṟuvārkaḷ yintat taṟmattukku yātā
 					<lb n="4v=51" break="no"/>m orutar vikātam paṇṇiṉavarkaḷ tuṉpattuka ce
 					<lb n="5v=52" break="no"/>tuvar avārkaḷ tarmattai-p paripālaṉam paṇṇi
 					<lb n="6v=53" break="no"/>ṉavarkaḷ civakkiyāṉamum tīrkkāyicum peṟṟu
@@ -187,7 +187,7 @@
 					<lb n="8v=55"/>c-cammatittu t-‌tirukkōpura-t-‌tiruppaṇi-t-‌taṟmat
 					<lb n="9v=56" break="no"/>tukku-t tāṉa-cātaṉa-p-paṭṭaiyam Eḷuti-k kuṭut
 					<lb n="10v=57" break="no"/>tōm cāttūr neṉmēṉi vaṭalaipuram cēkara
-					<lb n="11v=58" break="no"/>m Ace<hi rend="grantha">ṣ</hi>ṭa viṟṟuva makācaṉaṅkaḷ mutalākiya
+					<lb n="11v=58" break="no"/>m Ace<hi rend="grantha">ṣ</hi>ṭa vi<choice><orig>ṟṟ</orig><reg>tt</reg></choice>uva makācaṉaṅkaḷ mutalākiya
 					<lb n="12v=59"/>Uḷāvarkaḷōm yippaṭikku yintappaṭṭaiyam E
 					<lb n="13v=60" break="no"/>ḷutiṉēṉ piṟacaṉṉa varatayyaṉ kumāraṉ kiṟāma
 					<lb n="14v=61" break="no"/>kkaṇakku ccītar rāmayyaṉ <g type="pc"></g> 
@@ -198,13 +198,13 @@
 					<lb n="15v=62" break="no"/>ttūr makācaṉaṅkaḷ Oppam <g type="pc"></g> cuppārāyar makā
 					<lb n="16v=63"/>tēvayyaṉ mukāraṉ cuppārāyar teṉkarai makā
 					<lb n="17v=64"/>rācāvayyaṉ paṭṭāpirāmayyaṉ pāriccivāra
-					<lb n="18v=65" break="no"/>m paṭṭāveṅkiṣṭṭiraṅkayaṉ cuppayaṉ koṉap
+					<lb n="18v=65" break="no"/>m paṭṭāveṅki<hi rend="grantha">ṣ</hi>ṭṭiraṅkayaṉ cuppayaṉ koṉap
 					<lb n="19v=66" break="no"/>payyaṉ Aṉantaṉāṟāyaṇayyaṉ muttaya nampiyār
 					<lb n="20v=67"/>caṅkarayyaṉ 
 				</p>
 				<p>
 					teṉmēṉi makācaṉaṅkaḷ Oppam
-					<lb n="21v=68"/>ceṣayyaṉ kumāraṉ caṅkarayyaṉ Ātiveṅkiṭa
+					<lb n="21v=68"/>ce<hi rend="grantha">ṣ</hi>ayyaṉ kumāraṉ caṅkarayyaṉ Ātiveṅkiṭa
 					<lb n="22v=69"/>cuppayyaṉ kūṭappayyaṉ cuppārāyar ‌muttaṉanta
 					<lb n="23v=70" break="no"/>yyaṉ perumāḷayyaṉ kūṭappa caṅkāṉaṟaṇayya
 					<lb n="24v=71" break="no"/>ṉ vaikuṇṭapati Ayyaṉ kaṇakkuccuppayyaṉ
@@ -216,7 +216,7 @@
 					<lb n="27v=74"/>muttayyaṉ vēmpūr āṇṭi ayyaṉ rāmacuvāmi
 					<lb n="28v=75"/>Ayyaṉ veṅk<choice><orig>i</orig><reg>a</reg></choice>ṭa cuppayyaṉ mēlk kāntaik kō
 					<lb n="29v=76" break="no"/>pāla Ayyaṉ ṉākappayyaṉ ciṟukkuḷam Aṉantayya
-					<lb n="30v=77" break="no"/>ṉ ‌muṭittalai veṅkiṭāṣalam ayyaṉ kocu kuṇṭuc
+					<lb n="30v=77" break="no"/>ṉ ‌muṭittalai veṅkiṭā<hi rend="grantha">ṣ</hi>alam ayyaṉ kocu kuṇṭuc
 					<lb n="31v=78"/>cuppayyaṉ meṭṭil ōṭṭi Aṇṇāvayyaṉ cāmi Ayya
 					<lb n="32v=79" break="no"/>ṉ cāttūr vaṇitam maṇiyam vētappa mutaliyār
 					<lb n="33v=80"/>cokkup piḷḷai caṅkaraliṅkam piḷḷai maturanāyakam cā
