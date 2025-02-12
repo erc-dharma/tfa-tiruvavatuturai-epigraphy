@@ -106,7 +106,13 @@
 				
 				<p>
 					<lb n="1r=1"/><g type="pc"></g> cāttūr neṉmēṉi vaṭalaipuram cēkaram pa  
-					<lb n="2r=2" break="no"/>ṭṭaiyam <g type="pc"></g> cuva<hi rend="grantha">ṣ</hi>tiṟi cālivākaṉa cakāṟṟam <num value="1701"> <g type="numeral">1000</g> 7 <g type="numeral">100</g>  
+					<lb n="2r=2" break="no"/>ṭṭaiyam <g type="pc"></g> 
+				</p>
+				<p>
+					cuva<hi rend="grantha">ṣ</hi>tiṟi 
+				</p>
+				<p>
+					cālivākaṉa cakāṟṟam <num value="1701"> <g type="numeral">1000</g> 7 <g type="numeral">100</g>  
 					<lb n="3r=3"/>1</num> <seg type="aksara">k=ku</seg> mēl cellā niṉṟa kollam <num value="955">9 <g type="numeral">100</g> 5 <g type="numeral">10</g> 5</num> <g type="varuṣam"></g>  
 					<lb n="4r=4"/>vikāri <g type="varuṣam"></g> kārttikai <g type="mācam"></g> <num value="22"> 2 2 <g type="numeral">10</g> </num> <g type="tēti"></g> ticamiyuṅ kuru 
 					<!-- I believe that there is a mistake: the scribe has written 2 2 10+ instead of 2 10+ 2; how to encode that? -->
