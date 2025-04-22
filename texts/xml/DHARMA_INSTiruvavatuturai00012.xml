@@ -108,7 +108,7 @@
 					<lb n="1r=1"/> <g type="pc"></g> cuvatti <choice><orig>ṟi</orig><reg>śrī</reg></choice> 
 				</p>
 				<p>
-					cālivākaṇa cakāṟṟam <num> <g type="numeral">1000</g> 7 <g type="numeral">100</g> 9 <g type="numeral">10</g> 1</num> <seg type="aksara">k=ku</seg> mē 
+					cālivākaṇa cakāṟṟam <num> <g type="numeral">1000</g> 7 <g type="numeral">100</g> <sic>9</sic> <g type="numeral">10</g> 1</num> <seg type="aksara">k=ku</seg> mē 
 					<lb n="2r=2" break="no"/>l cell<choice><sic>a</sic><corr>ā</corr></choice>niṉra kollam <num value="954">9 <g type="numeral">100</g> 5 <g type="numeral">10</g> 4</num> <g type="varuṣam"></g> vikāri <g type="varuṣam"></g> 
 					<lb n="3r=3"/>Āṉiṭṭa <g type="mācam"></g> <num value="17"> <g type="numeral">10</g> 7</num> <g type="tēti"></g> pavuṟaṇai cōma-vāramum mūla naṭce
 					<lb n="4r=4" break="no"/>ttiram piramaṉāma yōkam viṭṭik karaṇam kūṭiya cupati 
@@ -200,7 +200,7 @@
 					<lb n="24v=63" break="no"/>tara pāṇṭiyaṉ Ēṟa pāppa nāyakkarōm
 					<lb n="25v=64"/>Intap paṭikku Inta-t tāṉa-cātaṉam ye 
 					<lb n="26v=65" break="no"/>ḷutiṉēṉ nāṭṭuk kaṇakku tāmōta
-					<lb n="27v=66" break="no"/>ratācukku-k kumaraṉ tuṇai {pc} ēṟa pāppaṉ {pc}
+					<lb n="27v=66" break="no"/>ratācukku-k kumaraṉ tuṇai <g type="pc"></g> ēṟa pāppaṉ <g type="pc"></g>
 					</p>
 				<p>
 					<lb n="28v=67"/>Inta tāmpira cātaṉattukku Ārāmoru
@@ -219,7 +219,7 @@
 					<lb n="37v=76"/>tampirāṉ yintap paṭikku-t tāṉa cātaṉa 
 					<lb n="38v=77"/>p-paṭṭaiyattai-t tāmpira cātaṉamāka 
 					<lb n="39v=78"/>eḷutiṉēṉ yīṟācciyilirukkum Ayya 
-					<lb n="40v=79" break="no"/>m perumāḷ Ācāri kumāraṉ puṉṉaiva<seg type="aksara">ṉ=am</seg> {pc} 
+					<lb n="40v=79" break="no"/>m perumāḷ Ācāri kumāraṉ puṉṉaiva<seg type="aksara">ṉ=AM</seg> <g type="pc"></g> 
 					<lb n="41v=80"/>tiruppaṇi nēmukam vāṅkāru tēvaṉ	
 					
 				</p>
