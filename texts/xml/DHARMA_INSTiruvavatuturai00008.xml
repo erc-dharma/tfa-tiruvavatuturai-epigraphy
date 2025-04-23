@@ -182,7 +182,7 @@
 				<p>
 					<!--in terms of meaning, this paragraph is the continuation of the previous one but it seems Oxygen will not validate an <ab> element withing a <p> element so I am dividing-->
 					<lb n="1v=49"/>picak' illāmal naṭantu koḷvōm ākavu
-					<lb n="2v=50"/>m 
+					<lb n="2v=50" break="no"/>m 
 				</p>	
 				
 				<p>
@@ -191,29 +191,29 @@
 					<lb n="4v=52"/>koṇṭaruḷiṉa paṭiyiṉālē yātāmoru
 					<lb n="5v=53" break="no"/>var yintat tavacam niluvai y-illāmal c
 					<lb n="6v=54"/>cēkarañ ceytu kuṭuttu vicē<hi rend="grantha">ṣ</hi>amāka Ati
-					<lb n="7v=55"/>ya viravum paṇṇi kuṭuttu ttaṟmattai ppari
-					<lb n="8v=56"/>pāliṉam paṇṇiṉavarkaḷ puttira kaḷattira pa
-					<lb n="9v=56"/>vuttira pāramparaiyāka Ikattilē pākkiya
-					<lb n="10v=57"/>mum parattilē mōṭcamum peṟuvārkaḷ
+					<lb n="7v=55" break="no"/>ya viravum paṇṇi kuṭuttu ttaṟmattai ppari
+					<lb n="8v=56" break="no"/>pāliṉam paṇṇiṉavarkaḷ puttira kaḷattira pa
+					<lb n="9v=56" break="no"/>vuttira pāramparaiyāka Ikattilē pākkiya
+					<lb n="10v=57" break="no"/>mum parattilē mōṭcamum peṟuvārkaḷ
 					<lb n="11v=58"/>Itaṟku vikkiṉañ ceytavarkaḷ tōcatti
-					<lb n="12v=59"/>lē pōvārkaḷ taṟmattaip paripāliṉam
+					<lb n="12v=59" break="no"/>lē pōvārkaḷ taṟmattaip paripāliṉam
 					<lb n="13v=60"/>paṇṇiṉavarkaḷ cirañcīviyāka yiruppār
-					<lb n="14v=61"/>kaḷ Intappaṭikkuc cakala caṉa cammatiyākat
+					<lb n="14v=61" break="no"/>kaḷ Intappaṭikkuc cakala caṉa cammatiyākat
 					<lb n="15v=62"/>tirukkōpura-t-tiruppaṇit taṟmattukku-t tar
-					<lb n="16v=63"/>mpiṟacātaṉap paṭṭaiyam Eḷutik koṭuttōm
+					<lb n="16v=63" break="no"/>mpiṟacātaṉap paṭṭaiyam Eḷutik koṭuttōm
 					
 				</p>
 				<p>
 					<lb n="17v=64"/>Ēḷu kiṟāma vaṇitam mēl taṭṭappāṟai kīḷ t-
 					<lb n="18v=65"/>taṭṭappāṟai Umurikkōṭṭai cekkālaik
 					<lb n="19v=66"/>kuṭi kāricēri ciṅkattā kuṟicci, pūvāṇi ko
-					<lb n="20v=67"/>mpāṭi murampaṉ caṅkampaṭṭi vākaikkuḷam cē
-					<lb n="21v=68"/>karam Acē<hi rend="grantha">ṣ</hi>a vittuva makācaṉaṅkaḷum camucā
-					<lb n="22v=69"/>riyaḷ palapaṭṭaṟai Uḷḷiṭṭārōm Inta p
-					<lb n="23v=70"/>paṭikku yintat tāṉacācaṉap paṭṭaiyam Uḷu
-					<lb n="24v=71"/>tiṉēṉ taṭṭappāṟai vaṇitam nāṭṭukkaṇa
-					<lb n="25v=72"/>kkuc caṅkāṇāṟāyaṉ piḷḷai kumāraṉ kumāracu
-					<lb n="26v=73"/>vāmi <g type="pc"></g> 
+					<lb n="20v=67" break="no"/>mpāṭi murampaṉ caṅkampaṭṭi vākaikkuḷam cē
+					<lb n="21v=68" break="no"/>karam Acē<hi rend="grantha">ṣ</hi>a vittuva makācaṉaṅkaḷum camucā
+					<lb n="22v=69" break="no"/>riyaḷ palapaṭṭaṟai Uḷḷiṭṭārōm Inta p
+					<lb n="23v=70"/>paṭikku yintat tāṉacācaṉap paṭṭaiyam Eḷu
+					<lb n="24v=71" break="no"/>tiṉēṉ taṭṭappāṟai vaṇitam nāṭṭukkaṇa
+					<lb n="25v=72" break="no"/>kkuc caṅkāṇāṟāyaṉ piḷḷai kumāraṉ kumāracu
+					<lb n="26v=73" break="no"/>vāmi <g type="pc"></g> 
 				</p>
 				
 				<p>
