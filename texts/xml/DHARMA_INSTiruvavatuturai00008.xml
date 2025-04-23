@@ -172,15 +172,15 @@
 				<p>yintat taṟmam cakala caṉa cammatiyāka-t taṟ
 					<lb n="47r=47" break="no"/>ma cātaṉamāka-t tāmmaṟa-cātaṉa-p paṭṭaiyam ye 
 					<lb n="48r=48" break="no"/>ḷuti-k koṭutta paṭiyiṉālē Ippaṭikku A<hi rend="grantha">ṣ</hi>cara
-			
+				</p>
 				
 				
 				<pb n="1v"/>
 				
 				<ab xml:lang="tam-Latn" rendition="class:tamil maturity:83215"> <g type="pc"></g> pūvāṇiccattiram mīṉayyaṉ oppam <g type="pc"></g></ab>
 				
-				
-					<!--in terms of meaning, this paragraph is the continuation of the previous one but  -->
+				<p>
+					<!--in terms of meaning, this paragraph is the continuation of the previous one but it seems Oxygen will not validate an <ab> element withing a <p> element so I am dividing-->
 					<lb n="1v=49"/>picak' illāmal naṭantu koḷvōm ākavu
 					<lb n="2v=50"/>m 
 				</p>	
@@ -201,6 +201,9 @@
 					<lb n="14v=61"/>kaḷ Intappaṭikkuc cakala caṉa cammatiyākat
 					<lb n="15v=62"/>tirukkōpura-t-tiruppaṇit taṟmattukku-t tar
 					<lb n="16v=63"/>mpiṟacātaṉap paṭṭaiyam Eḷutik koṭuttōm
+					
+				</p>
+				<p>
 					<lb n="17v=64"/>Ēḷu kiṟāma vaṇitam mēl taṭṭappāṟai kīḷ t-
 					<lb n="18v=65"/>taṭṭappāṟai Umurikkōṭṭai cekkālaik
 					<lb n="19v=66"/>kuṭi kāricēri ciṅkattā kuṟicci, pūvāṇi ko
@@ -210,28 +213,72 @@
 					<lb n="23v=70"/>paṭikku yintat tāṉacācaṉap paṭṭaiyam Uḷu
 					<lb n="24v=71"/>tiṉēṉ taṭṭappāṟai vaṇitam nāṭṭukkaṇa
 					<lb n="25v=72"/>kkuc caṅkāṇāṟāyaṉ piḷḷai kumāraṉ kumāracu
-					<lb n="26v=73"/>vāmi <g type="pc"></g> intappaṭikku Oppam mēl taṭṭappāṟai-p
-					<lb n="27v=74"/>perumāḷ ṉāyakkar ki<hi rend="grantha">ṣ</hi>ṇappa nāyakkar mutalākiya
-					<lb n="28v=75"/>camucariyaḷom  Intappaṭikkuk kīḷtaṭṭappā
-					<lb n="30v=76"/>ṟai caṅkara mūrtti ṉāyakkar cittama ṉāyakkar muta
-					<lb n="31v=77"/>lāki camucāriyaḷōm Intappaṭikkuk cekkā
-					<lb n="32v=78"/>laikkuṭik kiḷiyak kavaṇṭaṉ Oḷḷik kavaṇṭaṉ
-					<lb n="33v=79"/>vīrapāṇṭiyat talaivaṉ mutalākiya camucāriyaḷō
-					<lb n="34v=80"/>m yintappaṭikku Umurikkōṭṭai reṅkakkavaṇṭaṉ
-					<lb n="35v=81"/>mutalākiya camucāriyaḷōm intappaṭikkuk kāricēri
-					<lb n="36v=82"/>nākama {nāyakka}r tāttaya {nāyakka}r mutalākiya camucāriyaḷōm
-					<lb n="37v=83"/>Intappaṭik=ku c-ciṅkattā kuṟicci liṅkappa {nāyakka}r nal
-					<lb n="38v=84"/>la vāṭa {nāyakka}r Akkappa {nāyakka}r mutalākiya camucāriyaḷō
-					<lb n="39v=85"/>m Intapaṭikkup pūvāṇippoṟṟu {nāyakka}r ṉārāyaṇa
-					<lb n="40v=86"/>{nāyakka}r rāma{nāyakka}r laṭcumaṇa {nāyakka}r Āṇṭiyappiḷḷai
-					<lb n="41v=87"/>mutalākiya camucāriyaḷōm Intappaṭikkuk ko
-					<lb n="42v=88"/>mpāṭi-p pēraiya {nāyakka}r pōṭi {nāyakka}r mutalākiya camu
-					<lb n="43v=89"/>cāriyaḷōm Intap paṭikku murampaṉ cittama {nāyakka}r
-					<lb n="44v=90"/>Ellappa {nāyakka}r mutalākiya camucāriyaḷōm Intap
-					<lb n="45v=91"/>paṭikkuc caṅkampaṭṭi velappa {nāyakka}r pōla {nāyakka}
-					<lb n="46v=92"/>r kuruvappa {nāyakka}r mutalākiya camucāriyaḷōm Inta
+					<lb n="26v=73"/>vāmi <g type="pc"></g> 
+				</p>
+				
+				<p>
+					intappaṭikku Oppam mēl taṭṭappāṟai-p <list><item>
+					<lb n="27v=74"/>perumāḷ ṉāyakkar</item> <item>ki<hi rend="grantha">ṣ</hi>ṇappa nāyakkar</item></list> mutalākiya
+					<lb n="28v=75"/>camucariyaḷom  
+				</p>
+				<p>
+					Intappaṭikkuk kīḷtaṭṭappā
+					<lb n="30v=76"/>ṟai <list><item>caṅkara mūrtti ṉāyakkar</item> <item>cittama ṉāyakkar</item></list> muta
+					<lb n="31v=77"/>lāki camucāriyaḷōm 
+					
+				</p>
+				<p>
+					Intappaṭikkuk cekkā
+					<lb n="32v=78"/>laikkuṭik <list><item>kiḷiyak kavaṇṭaṉ</item> <item>Oḷḷik kavaṇṭaṉ</item>
+					<lb n="33v=79"/><item>vīrapāṇṭiyat talaivaṉ</item></list> mutalākiya camucāriyaḷō
+					<lb n="34v=80"/>m 
+				</p>	
+				<p>	
+					yintappaṭikku Umurikkōṭṭai reṅkakkavaṇṭaṉ
+					<lb n="35v=81"/>mutalākiya camucāriyaḷōm 
+				</p>
+				
+			<p>	
+				intappaṭikkuk kāricēri
+				<lb n="36v=82"/><list><item>nākama <g type="nāyakka"></g>r</item> <item>tāttaya <g type="nāyakka"></g>r</item></list> mutalākiya camucāriyaḷōm
+				
+			</p>	
+				<p>	
+					<lb n="37v=83"/>Intappaṭik=ku c-ciṅkattā kuṟicci <list><item>liṅkappa {nāyakka}r</item> <item>nal
+						<lb n="38v=84"/>la vāṭa <g type="nāyakka"></g>r</item> <item>Akkappa <g type="nāyakka"></g>r</item></list> mutalākiya camucāriyaḷō
+					<lb n="39v=85"/>m 
+				</p>
+				
+				<p>	
+					Intapaṭikkup <list><item>pūvāṇippoṟṟu {nāyakka}r</item> <item>ṉārāyaṇa
+					<lb n="40v=86"/><g type="nāyakka"></g>r</item> <item>rāma<g type="nāyakka"></g>r</item> <item>laṭcumaṇa <g type="nāyakka"></g>r</item> <item>Āṇṭiyappiḷḷai</item></list>
+					<lb n="41v=87"/>mutalākiya camucāriyaḷōm 
+				</p>	
+				
+				<p>	
+					Intappaṭikkuk <list><item>ko
+					<lb n="42v=88"/>mpāṭi-p pēraiya <g type="nāyakka"></g>r</item> <item>pōṭi <g type="nāyakka"></g>r </item></list> mutalākiya camu
+					<lb n="43v=89"/>cāriyaḷōm 
+					</p>		
+						
+				<p>
+					Intap paṭikku <list><item>murampaṉ cittama <g type="nāyakka"></g>r</item>
+					<item><lb n="44v=90"/>Ellappa {nāyakka}r</item></list> mutalākiya camucāriyaḷōm 
+				</p>	
+				
+				<p>
+					Intap
+					<lb n="45v=91"/>paṭikkuc caṅkampaṭṭi <list><item>velappa {nāyakka}r</item> <item>pōla <g type="nāyakka"></g>
+					<lb n="46v=92"/>r</item> <item>kuruvappa <g type="nāyakka"></g>r</item></list> mutalākiya camucāriyaḷōm 
+				</p>
+				
+				<p>Inta
 					<lb n="47v=93"/>ppaṭikku Intap paṭṭaiyam nayiṉār caṉṉiya tāṉattuk
-					<lb n="48v=94"/>ku vāṅkiṉēṉ kumāravēlup paṇṭāram <g type="pc"></g> Inta-t
+					<lb n="48v=94"/>ku vāṅkiṉēṉ kumāravēlup paṇṭāram <g type="pc"></g> 
+				</p>
+				
+					<p>
+					Inta-t
 					<lb n="49v=95"/>tāmpiṟa cātaṉa-p-paṭṭaiyam Eḻutiṉēṉ periya ayya
 					<lb n="50v=96"/>ṉ Ācāri kumāraṉ puṉṉaivaṉam <g type="pc"></g> kumaraṉ tuṇai <g type="pc"></g>
 					<lb n="51v=97"/>cekkālaik kuṭip paṇṇaic caṅkaraliṅkam
