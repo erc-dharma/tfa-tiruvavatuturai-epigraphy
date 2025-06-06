@@ -5,312 +5,295 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Civakāci grant, Śaka year 1699</title>
-				<respStmt>
-					<resp>EpiDoc Encoding</resp>
-					<persName ref="part:matr">
-						<forename>Margherita</forename>
-						<surname>Trento</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<!--<persName ref="part:reda">
-						<forename>Renato</forename>
-						<surname>Dávalos</surname>
-					</persName>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>-->
-					<persName ref="part:matr">
-						<forename>Margherita</forename>
-						<surname>Trento</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Aubervilliers</pubPlace>
-				<idno type="filename">DHARMA_INSTiruvavatuturai00010</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by John 
-							Doe.</p>
-						<!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3" if necessary — the copyright is that of the encoder(s) -->
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<!-- only the handDesc can be filled in at this stage -->
-				<msDesc>
-					<!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-						<!-- don't modify this -->
-					</msIdentifier>
-					<msContents>
-						<!-- describe the intellectual content of an inscription -->
-						<summary>This plate records a gift to the Murugan temple in Tirucchendur.</summary>
-						<!-- offers the possibility to give a summary of the inscription's content -->
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p><!--<foreign>ka</foreign> and <foreign>ta</foreign> are very similar.--></p>
-							
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<!-- UPDATE the link once the release is made official -->
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:matr" when="2024-03-21">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	
-	<text xml:space="preserve">
-		
-		<body>
-			
-			<div type="edition" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:83215">		
-				
-				<pb n="1r"/>
-				
-				<p>
-					<lb n="1r=1"/><hi rend="grantha">śrī</hi> 
-				</p>
-				<p>
-					cālivākaṉa cakārttam <num value="1699"> <g type="numeral">1000</g> <g type="numeral">6</g> <g type="numeral">100</g> <g type="numeral">9</g> <g type="numeral">10</g> <g type="numeral">9</g> </num> 
-					<lb n="2r=2"/>kku mēl-c cellā niṉṟa kollam <num value="954"> <g type="numeral">9</g> <g type="numeral">100</g>
-					<lb n="3r=3"/><g type="numeral">5</g> <g type="numeral">10</g> <g type="numeral">4</g> </num> <g type="varuṣam"></g> viḷampi <g type="varuṣam"></g> Aṟpaci <g type="mācam"></g> <num value="21">2 1</num> <g type="tēti"></g> putaṉ 
-					<!-- in this line, after Aṟpaci, there two symbols; one resembling ṭṭa or <g "paṇam"></g>, but perhaps meaning "mācam"; and antoher one that might be a 2, even though it would mean that the number 21 is written wrongly without the symbol 10+-->
-					<lb n="4r=4"/>vāramum a<choice><orig>m</orig><reg>p</reg></choice>ara paṭ<hi rend="grantha">ṣ</hi>attu-t ticamiyum pūca naṭce
-					<lb n="5r=5"/>ttiramum <abbr>tulā</abbr> lakkaṉamum kūṭiya cupatiṉat 
-					<lb n="6r=6"/>til 
-				</p>
-				
-				<p>	
-					mēruviṉ cu<surplus>cu</surplus>ttuṭaittāṉa navakaṇ 
-					<lb n="7r=7"/>ṭa-p piṟitiviyil-p pārata kaṇṭattil-p piri 
-					<lb n="8r=8"/>nta kumari kaṇṭattil cērā cōḷa pāṇṭi 
-					<lb n="9r=9"/>yar pūmiyil-p pāṇṭi maṇṭalattil <supplied reason="subaudible">l</supplied>īlā vi 
-					<lb n="10r=10"/>ṉōta-p piṟiyarāṉa mīṉācci cuntarēcurā  
-					<lb n="11r=11"/>ḷ Eḻuntaruḷi yirukkum ma<choice><sic>rutā</sic><corr>turā</corr></choice>purikku-t 
-					<lb n="12r=12"/>teṉticai-y-ākiya cuppiṟamaṇṇiya-<hi rend="grantha">ṣ</hi>tta 
-					<lb n="13r=13"/>lam Āṟil raṇṭan talam ākiya tiruccentiṉi 
-					<lb n="14r=14"/>l-t tēvar cēṉāpatiyākiya civakumārarā 
-					<lb n="15r=15"/>ṉa civakurunātar civacentil ātipatiyāki 
-					<lb n="16r=16"/>ya Āṟumuka nayiṉār tiruvuḷam paripūṟṇamā 
-					<lb n="17r=17"/>ya yeḻuntaruḷi yirukkum caṉṉati tāṉa 
-					<lb n="18r=18"/>ttil-t
-				</p>
-				
-				<p>
-					tirukkōpura-t tiruppaṇi-c civapuṇ 
-					<lb n="19r=19"/>ṇiyattukku-c civakāciyil irukkum nā 
-					<lb n="20r=20"/>ṭākkaḷ Ariya puttira nāṭāṉ tampi nā 
-					<lb n="21r=21"/>ṭāṉ kaṭṭa-k-kumāraṉ civamuruka nāṭāṉ 
-					<lb n="22r=22"/>kūtta nāṭāṉ muttayaṉ periyaṇaṉ nāṭā 
-					<lb n="23r=23"/>ṉ tāḷaimuttu nāṭāṉ aṭiyē<sic>ṉṅ</sic>kaḷ nāṭā 
-					<lb n="24r=24"/>kkaḷ aṉaivōrum palapaṭṭaṭaiyuḷ paṭa-c civa 
-					<lb n="25r=25"/>puṇṇiya cātaṉam yeḷutik kuṭutta paricā 
-					<lb n="26r=26"/>vatu 
-				</p>	
-					
-					
-				<p>	
-					cuvāmi tēcikā mūrtti cāmiyaḷ Arumai 
-					<lb n="27r=27"/>t-tiruvākkāyt tirumukaṅ kaṭṭaḷaiyiṭṭ' aru 
-					<lb n="28r=28"/>ḷiya paṭikku <g type="varuṣam"></g> 1 <seg type="aksara">k=ku</seg> talaikkaṭṭukku <unclear reason="eccentric_ductus"><g type="poṉ"/></unclear> <g type="aṟai"></g> <expan><ex>paṇa</ex><abbr>m</abbr></expan> ye 
-<!-- we must have a measure of money ; but the symbols are unclear-->
-					<lb n="29r=29"/>ṉṟu-c cakala caṉa cammatiyāy-t tāmpura-cā 
-					<lb n="30r=30"/>taṉa-p-paṭṭaiyam yeḷutik koṭuttōm 
-				</p>	
-				
-				<p>
-					<lb n="31r=31"/>talaikkaṭṭut tukaik kaṇakku paṭikku nāṭ 
-					<lb n="32r=32"/>ṭāṇmaikkāṟar kaṇakku-p piḷḷaimār 
-					<lb n="33r=33"/>muṉṉiṉṟu niluvai pōṭāmalt talat 
-					<lb n="34r=34"/>tār vāṅki-c cuvāmi caṉṉati tāṉat ti 
-					<lb n="35r=35"/>ruppaṇi maṉuṭar vantavarkaḷukk' ēṟkka 
-					<lb n="36r=36"/>c-cammati ceytu pōtuvōm ākavum 
-				</p>	
-					<pb n="1v"/>
-				<p>
-					<lb n="1v=37"/>Inta-t taṟmam Ikaparam reṇṭukkun tika 
-					<lb n="2v=38"/>ṭṭāta kaṉiyāka-c cuvāmi valiya-t taṭuttā 
-					<lb n="3v=39"/>ḷ k-koṇṭa paṭiyiṉālē paripālaṉa 
-					<lb n="4v=40"/>ñ ceyta pēr tūṇṭiṉa viral-c co<supplied reason="omitted">r</supplied>
-					<lb n="5v=41"/>kkam peṟuvatāy Ikattukkup pākkiya 
-					<lb n="6v=42"/>mum parattukku mōṭ<hi rend="grantha">ṣ</hi>amum puttira-pavu 
-					<lb n="7v=43"/>ttira pāramparai yuṇṭāyc cakala pāk 
-					<lb n="8v=44"/>kiyamum peṟṟu-c cukañ cīviyāka Iruppā 
-					<lb n="9v=45"/>rkaḷ Inta-t taṟmam puttira pāramparaiyā 
-					<lb n="10v=46"/>y-c cantirātittāḷ Uḷḷavaraikkum 
-					<lb n="11v=47"/>paripālaṉañ ceytu naṭantu koḷḷu 
-					<lb n="12v=48"/>vōm ākavum yinta-c civapuṇṇiyattuk 
-					<lb n="13v=49"/>ku yātām orut<supplied reason="omitted">t</supplied>ar vikkiṉam yiṭaikūṟu 
-					<lb n="14v=50"/>coṉṉavarkaḷ rāvurāti narakattukk' ē 
-					<lb n="15v=51"/>tuvāy-t tuṉpattai yaṭaintu pōvā 
-					<lb n="16v=52"/>rākavum 
-				</p>	
-				<p>
-						yintappaṭikku-c cakala caṉa 
-					<lb n="17v=53"/>ṅkaḷuṅ kūṭi yiruntu cuvāmi nayiṉār 
-					<lb n="18v=54"/>pāta tāmaraikku-c civapuṇṇiya tām 
-					<lb n="19v=55"/>pura cātaṉam yeḷuti-k koṭuttōm 
-					<lb n="20v=56"/>civakāciyil irukku nāṭākkaḷ aṉaivōru 
-					<lb n="21v=57"/>m palapaṭṭaṭai yuḷḷiṭṭārōm 
-				</p>
-				<p>
-					yintapaṭi 
-					<lb n="22v=58"/>kku yinta civapuṇṇiya cātaṉam yeḷu 
-					<lb n="23v=59"/>tiṉēṉ civakācip palar makamai mayil ē 
-					<lb n="24v=60"/>ṟum perumāḷ Uyippaṭikku 
-				</p>	
-				<p>
-					vēlappa nā 
-					<lb n="25v=61"/>ṭāṉ Aḷaka nāṭāṉ cīṉap paṇikka nāṭā 
-					<lb n="26v=62"/>ṉ Ātīṉam aḷaki nāṭāṉ Avaṇa nāṭāṉ 
-					<lb n="27v=63"/>vakuttakuṭṭi nāṭāṉ <g type="pc"></g> nayiṉār tiruppaṇi 
-					<lb n="28v=64"/>kku-c civakāci nāṭākkaḷ tāmpura cātaṉa 
-					<lb n="29v=65"/>p-paṭṭaiyam 
-					
-				</p>
-				<p>
-					nīṭuḷi vāḷka <g type="pc"></g> kumaraṉ tuṇai 
-				</p>
-				
-				
-			
-				
-	<!--<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<l n="a">dānapālanayōr maddhyē</l> 
-		<l n="b">dānāt· cchreyo ’nupālanam· <g type="danda">.</g></l> 
-		<l n="c">dānā<lb n="1v11=24" break="no"/>t· svargam avāpnōti</l> 
-		<l n="d">pālanād acyutam· padam· <g type="ddanda">.</g></l> 
-		</lg>
-		
-		<lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<l n="a">svadattāt· dviguṇam · puṇyam ·</l> 
-		<l n="b">paradattānupā<add place="below" rend="mark">la</add>nam· <g type="danda">.</g></l> 
-		<l n="c"><lb n="1v12=25"/>paradattāpahārēṇa</l> 
-		<l n="d">svadattan niṣphalam · bhavēt·<g type="ddanda">.</g></l> 
-		</lg>
-		
-		<lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<l n="a">svadattām· paradattāṁ vā</l> 
-		<l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas<choice><sic>va</sic><corr>u</corr></choice>n <lb n="1v13=26" break="no"/>dharām <g type="danda">.</g></l> 
-		<l n="c">ṣaṣṭi<surplus>r</surplus>-varṣa-sahasrāṇi</l> 
-		<l n="d"> viṣṭhāyāñ jāyate kṛmiḥ <g type="ddanda">.</g></l> 
-		</lg>
-		
-		<lg n="4" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<l n="a">Ekaika bhaginī loke</l> 
-		<l n="b"><lb n="1v14=27"/>sarvveṣām eva bhūbhujāḥ<g type="danda">.</g></l> 
-		<l n="c">nā bhōjyā na k<unclear>a</unclear>ragrāhyā</l> 
-		<l n="d">vipradattā vasundharāḥ<g type="ddanda">.</g></l> 
-		</lg>
-		
-		<lg n="5" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<l n="a">sā<lb n="1v15=28"/>māṉyo yan dharmma-setu<unclear>r</unclear> nṛpāṇāṁ</l>
-		<l n="b">kāle kāle pālanīyo bhavat·bhi<supplied reason="omitted">ḥ</supplied> <g type="danda">.</g></l>
-		<l n="c">sarvān etā<unclear>nn</unclear> <pb n="2r"/><lb n="2r1=29"/>bhāvinaḥ pā<supplied reason="omitted">r</supplied>tthivendr<choice><sic>a</sic><corr>ā</corr></choice>n ·</l>
-		<l n="d">bhūyo bhūyo yācate rām acandraḥ <g type="ddanda">.</g></l>
-		</lg>-->
-	
-</div>
-	
-	
-<div type="apparatus">
-		<!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-		
-	<listApp><!-- one <app> for each apparatus entry -->
-			
-		<app loc="28r=28">
-		<lem><g type="paṇam"/> <expan><abbr>Ima</abbr><ex>riyātai</ex></expan> </lem>
-		<note>The symbol that I interpret as <foreign>paṇam</foreign> is difficult to decipher; it needs to express the amount of the donation, and it was likely a money donation. The interpretation of the abbreviation <foreign>Ima</foreign> as meaning <foreign>Imariyatāi</foreign>, literally "this honour", has been suggested to me in a personal conversation by prof. Vijayavenugopal (on 12/02/2025). </note>
-		</app>
-		
-	</listApp>
-</div>
-	
-			<div type="translation" resp="part:matr">
-				
-				<p n="1"> Fortune ! </p>
-				<p n="1-6"> While the śaka year 1699 is ongoing, in the kollam year 954, which is a vilampi year, in the month of aṟpaci, on the 11th day, which is a Wednesday, at the time of a certain direction and star, under the sign of the tulā, on this auspicious day... </p>
-				<p n="6-18"> in the land of the nine continents surrounding mount Meru, in the bhārata khaṇḍa, in the kumarikhaṇḍa which was separated, in the land of the Cēra, Cōḷas and Pāṇṭiyas, in the Pāṇṭiya region, ...
-				</p>
-				<p n="18-31">...</p>
-				<p n="31-36"> In order to count the group (tukai=kūṭṭam) of families, <supplied reason="subaudible">we</supplied> the headmen appeared in front of the kaṇakku piḷḷais, without leaving out any balance, and calling the temple officials, we took the decision [that the donation would be] for the sake of the men who had come for the renovation service given for the Lord's house. 
-				</p>
-				
-	
-<!--specify the lines inside the <p> tag, as <p n="1">...</p>  ; when it's the translation of a stanza, <p rend="stanza" n="1"> </p> and the number is in this second type of translation tag is taken from the <lg> number-->
-	
-	
-	</div>
-	
-<!--<div type="commentary">
-</div>-->
-	
-<div type="bibliography">
-		
-	<p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl> (ARIE/1986-1987/A/1986-1987/67).</p>
-	
-	<p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 64). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
-	
-	<p>This edition by Margherita Trento (2024), based on EFEO photographs (2015).
-	</p>
-	
-	<listBibl type="primary">
-		
-		<bibl n="K">
-			<ptr target="bib:Kirusnamurtti2000_01"/>
-			<citedRange unit="page">273-77</citedRange>
-			<citedRange unit="item">64</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-		<bibl>
-			<ptr target="bib:ARIE1986-1987"/>
-			<citedRange unit="page">28</citedRange>
-			<citedRange unit="item">67</citedRange>
-		</bibl>
-	</listBibl>	    
-		    
-</div>
-</body>
-</text>
-
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Civakāci grant, Śaka year 1699</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:matr">
+                        <forename>Margherita</forename>
+                        <surname>Trento</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Aubervilliers</pubPlace>
+                <idno type="filename">DHARMA_INSTiruvavatuturai00010</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Margherita Trento.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- only the handDesc can be filled in at this stage -->
+                <msDesc>
+                    <!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                        <!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents>
+                        <!-- describe the intellectual content of an inscription -->
+                        <summary>This plate records a gift to the Murugan temple in Tirucchendur.</summary>
+                        <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!--<foreign>ka</foreign> and <foreign>ta</foreign> are very similar.--></p>
+                            
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:matr" when="2024-03-21">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:83215">		
+                
+                <pb n="1r"/>
+                
+                <p>
+                    <lb n="1r=1"/><hi rend="grantha">śrī</hi> 
+                </p>
+                <p>
+                    cālivākaṉa cakārttam <num value="1699"> <g type="numeral">1000</g> <g type="numeral">6</g> <g type="numeral">100</g> <g type="numeral">9</g> <g type="numeral">10</g> <g type="numeral">9</g> </num> 
+                    <lb n="2r=2"/>kku mēl-c cellā niṉṟa kollam <num value="954"> <g type="numeral">9</g> <g type="numeral">100</g>
+                        <lb n="3r=3"/><g type="numeral">5</g> <g type="numeral">10</g> <g type="numeral">4</g> </num> <g type="varuṣam"></g> viḷampi <g type="varuṣam"></g> Aṟpaci <g type="mācam"></g> <num value="21">2 1</num> <g type="tēti"></g> putaṉ 
+                    <!-- in this line, after Aṟpaci, there two symbols; one resembling ṭṭa or <g "paṇam"></g>, but perhaps meaning "mācam"; and antoher one that might be a 2, even though it would mean that the number 21 is written wrongly without the symbol 10+-->
+                    <lb n="4r=4"/>vāramum a<choice><orig>m</orig><reg>p</reg></choice>ara paṭ<hi rend="grantha">ṣ</hi>attu-t ticamiyum pūca naṭce
+                    <lb n="5r=5"/>ttiramum <abbr>tulā</abbr> lakkaṉamum kūṭiya cupatiṉat 
+                    <lb n="6r=6"/>til 
+                </p>
+                
+                <p>	
+                    mēruviṉ cu<surplus>cu</surplus>ttuṭaittāṉa navakaṇ 
+                    <lb n="7r=7"/>ṭa-p piṟitiviyil-p pārata kaṇṭattil-p piri 
+                    <lb n="8r=8"/>nta kumari kaṇṭattil cērā cōḷa pāṇṭi 
+                    <lb n="9r=9"/>yar pūmiyil-p pāṇṭi maṇṭalattil <supplied reason="subaudible">l</supplied>īlā vi 
+                    <lb n="10r=10"/>ṉōta-p piṟiyarāṉa mīṉācci cuntarēcurā  
+                    <lb n="11r=11"/>ḷ Eḻuntaruḷi yirukkum ma<choice><sic>rutā</sic><corr>turā</corr></choice>purikku-t 
+                    <lb n="12r=12"/>teṉticai-y-ākiya cuppiṟamaṇṇiya-<hi rend="grantha">ṣ</hi>tta 
+                    <lb n="13r=13"/>lam Āṟil raṇṭan talam ākiya tiruccentiṉi 
+                    <lb n="14r=14"/>l-t tēvar cēṉāpatiyākiya civakumārarā 
+                    <lb n="15r=15"/>ṉa civakurunātar civacentil ātipatiyāki 
+                    <lb n="16r=16"/>ya Āṟumuka nayiṉār tiruvuḷam paripūṟṇamā 
+                    <lb n="17r=17"/>ya yeḻuntaruḷi yirukkum caṉṉati tāṉa 
+                    <lb n="18r=18"/>ttil-t
+                </p>
+                
+                <p>
+                    tirukkōpura-t tiruppaṇi-c civapuṇ 
+                    <lb n="19r=19"/>ṇiyattukku-c civakāciyil irukkum nā 
+                    <lb n="20r=20"/>ṭākkaḷ Ariya puttira nāṭāṉ tampi nā 
+                    <lb n="21r=21"/>ṭāṉ kaṭṭa-k-kumāraṉ civamuruka nāṭāṉ 
+                    <lb n="22r=22"/>kūtta nāṭāṉ muttayaṉ periyaṇaṉ nāṭā 
+                    <lb n="23r=23"/>ṉ tāḷaimuttu nāṭāṉ aṭiyē<sic>ṉṅ</sic>kaḷ nāṭā 
+                    <lb n="24r=24"/>kkaḷ aṉaivōrum palapaṭṭaṭaiyuḷ paṭa-c civa 
+                    <lb n="25r=25"/>puṇṇiya cātaṉam yeḷutik kuṭutta paricā 
+                    <lb n="26r=26"/>vatu 
+                </p>	
+                
+                
+                <p>	
+                    cuvāmi tēcikā mūrtti cāmiyaḷ Arumai 
+                    <lb n="27r=27"/>t-tiruvākkāyt tirumukaṅ kaṭṭaḷaiyiṭṭ' aru 
+                    <lb n="28r=28"/>ḷiya paṭikku <g type="varuṣam"></g> 1 <seg type="aksara">k=ku</seg> talaikkaṭṭukku <unclear reason="eccentric_ductus"><g type="poṉ"/></unclear> <g type="aṟai"></g> <expan><ex>paṇa</ex><abbr>m</abbr></expan> ye 
+                    <!-- we must have a measure of money ; but the symbols are unclear-->
+                    <lb n="29r=29"/>ṉṟu-c cakala caṉa cammatiyāy-t tāmpura-cā 
+                    <lb n="30r=30"/>taṉa-p-paṭṭaiyam yeḷutik koṭuttōm 
+                </p>	
+                
+                <p>
+                    <lb n="31r=31"/>talaikkaṭṭut tukaik kaṇakku paṭikku nāṭ 
+                    <lb n="32r=32"/>ṭāṇmaikkāṟar kaṇakku-p piḷḷaimār 
+                    <lb n="33r=33"/>muṉṉiṉṟu niluvai pōṭāmalt talat 
+                    <lb n="34r=34"/>tār vāṅki-c cuvāmi caṉṉati tāṉat ti 
+                    <lb n="35r=35"/>ruppaṇi maṉuṭar vantavarkaḷukk' ēṟkka 
+                    <lb n="36r=36"/>c-cammati ceytu pōtuvōm ākavum 
+                </p>	
+                <pb n="1v"/>
+                <p>
+                    <lb n="1v=37"/>Inta-t taṟmam Ikaparam reṇṭukkun tika 
+                    <lb n="2v=38"/>ṭṭāta kaṉiyāka-c cuvāmi valiya-t taṭuttā 
+                    <lb n="3v=39"/>ḷ k-koṇṭa paṭiyiṉālē paripālaṉa 
+                    <lb n="4v=40"/>ñ ceyta pēr tūṇṭiṉa viral-c co<supplied reason="omitted">r</supplied>
+                    <lb n="5v=41"/>kkam peṟuvatāy Ikattukkup pākkiya 
+                    <lb n="6v=42"/>mum parattukku mōṭ<hi rend="grantha">ṣ</hi>amum puttira-pavu 
+                    <lb n="7v=43"/>ttira pāramparai yuṇṭāyc cakala pāk 
+                    <lb n="8v=44"/>kiyamum peṟṟu-c cukañ cīviyāka Iruppā 
+                    <lb n="9v=45"/>rkaḷ Inta-t taṟmam puttira pāramparaiyā 
+                    <lb n="10v=46"/>y-c cantirātittāḷ Uḷḷavaraikkum 
+                    <lb n="11v=47"/>paripālaṉañ ceytu naṭantu koḷḷu 
+                    <lb n="12v=48"/>vōm ākavum yinta-c civapuṇṇiyattuk 
+                    <lb n="13v=49"/>ku yātām orut<supplied reason="omitted">t</supplied>ar vikkiṉam yiṭaikūṟu 
+                    <lb n="14v=50"/>coṉṉavarkaḷ rāvurāti narakattukk' ē 
+                    <lb n="15v=51"/>tuvāy-t tuṉpattai yaṭaintu pōvā 
+                    <lb n="16v=52"/>rākavum 
+                </p>	
+                <p>
+                    yintappaṭikku-c cakala caṉa 
+                    <lb n="17v=53"/>ṅkaḷuṅ kūṭi yiruntu cuvāmi nayiṉār 
+                    <lb n="18v=54"/>pāta tāmaraikku-c civapuṇṇiya tām 
+                    <lb n="19v=55"/>pura cātaṉam yeḷuti-k koṭuttōm 
+                    <lb n="20v=56"/>civakāciyil irukku nāṭākkaḷ aṉaivōru 
+                    <lb n="21v=57"/>m palapaṭṭaṭai yuḷḷiṭṭārōm 
+                </p>
+                <p>
+                    yintapaṭi 
+                    <lb n="22v=58"/>kku yinta civapuṇṇiya cātaṉam yeḷu 
+                    <lb n="23v=59"/>tiṉēṉ civakācip palar makamai mayil ē 
+                    <lb n="24v=60"/>ṟum perumāḷ Uyippaṭikku 
+                </p>	
+                <p>
+                    vēlappa nā 
+                    <lb n="25v=61"/>ṭāṉ Aḷaka nāṭāṉ cīṉap paṇikka nāṭā 
+                    <lb n="26v=62"/>ṉ Ātīṉam aḷaki nāṭāṉ Avaṇa nāṭāṉ 
+                    <lb n="27v=63"/>vakuttakuṭṭi nāṭāṉ <g type="pc"></g> nayiṉār tiruppaṇi 
+                    <lb n="28v=64"/>kku-c civakāci nāṭākkaḷ tāmpura cātaṉa 
+                    <lb n="29v=65"/>p-paṭṭaiyam 
+                    
+                </p>
+                <p>
+                    nīṭuḷi vāḷka <g type="pc"></g> kumaraṉ tuṇai 
+                </p>
+                
+                
+                
+                
+                <!--<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <l n="a">dānapālanayōr maddhyē</l> 
+                    <l n="b">dānāt· cchreyo ’nupālanam· <g type="danda">.</g></l> 
+                    <l n="c">dānā<lb n="1v11=24" break="no"/>t· svargam avāpnōti</l> 
+                    <l n="d">pālanād acyutam· padam· <g type="ddanda">.</g></l> 
+                    </lg>
+                    
+                    <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <l n="a">svadattāt· dviguṇam · puṇyam ·</l> 
+                    <l n="b">paradattānupā<add place="below" rend="mark">la</add>nam· <g type="danda">.</g></l> 
+                    <l n="c"><lb n="1v12=25"/>paradattāpahārēṇa</l> 
+                    <l n="d">svadattan niṣphalam · bhavēt·<g type="ddanda">.</g></l> 
+                    </lg>
+                    
+                    <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <l n="a">svadattām· paradattāṁ vā</l> 
+                    <l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas<choice><sic>va</sic><corr>u</corr></choice>n <lb n="1v13=26" break="no"/>dharām <g type="danda">.</g></l> 
+                    <l n="c">ṣaṣṭi<surplus>r</surplus>-varṣa-sahasrāṇi</l> 
+                    <l n="d"> viṣṭhāyāñ jāyate kṛmiḥ <g type="ddanda">.</g></l> 
+                    </lg>
+                    
+                    <lg n="4" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <l n="a">Ekaika bhaginī loke</l> 
+                    <l n="b"><lb n="1v14=27"/>sarvveṣām eva bhūbhujāḥ<g type="danda">.</g></l> 
+                    <l n="c">nā bhōjyā na k<unclear>a</unclear>ragrāhyā</l> 
+                    <l n="d">vipradattā vasundharāḥ<g type="ddanda">.</g></l> 
+                    </lg>
+                    
+                    <lg n="5" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <l n="a">sā<lb n="1v15=28"/>māṉyo yan dharmma-setu<unclear>r</unclear> nṛpāṇāṁ</l>
+                    <l n="b">kāle kāle pālanīyo bhavat·bhi<supplied reason="omitted">ḥ</supplied> <g type="danda">.</g></l>
+                    <l n="c">sarvān etā<unclear>nn</unclear> <pb n="2r"/><lb n="2r1=29"/>bhāvinaḥ pā<supplied reason="omitted">r</supplied>tthivendr<choice><sic>a</sic><corr>ā</corr></choice>n ·</l>
+                    <l n="d">bhūyo bhūyo yācate rām acandraḥ <g type="ddanda">.</g></l>
+                    </lg>-->
+                
+            </div>
+            
+            
+            <div type="apparatus">
+                <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+                
+                <listApp><!-- one <app> for each apparatus entry -->
+                    
+                    <app loc="28r=28">
+                        <lem><g type="paṇam"/> <expan><abbr>Ima</abbr><ex>riyātai</ex></expan> </lem>
+                        <note>The symbol that I interpret as <foreign>paṇam</foreign> is difficult to decipher; it needs to express the amount of the donation, and it was likely a money donation. The interpretation of the abbreviation <foreign>Ima</foreign> as meaning <foreign>Imariyatāi</foreign>, literally "this honour", has been suggested to me in a personal conversation by prof. Vijayavenugopal (on 12/02/2025). </note>
+                    </app>
+                    
+                </listApp>
+            </div>
+            
+            <div type="translation" resp="part:matr">
+                
+                <p n="1"> Fortune ! </p>
+                <p n="1-6"> While the śaka year 1699 is ongoing, in the kollam year 954, which is a vilampi year, in the month of aṟpaci, on the 11th day, which is a Wednesday, at the time of a certain direction and star, under the sign of the tulā, on this auspicious day... </p>
+                <p n="6-18"> in the land of the nine continents surrounding mount Meru, in the bhārata khaṇḍa, in the kumarikhaṇḍa which was separated, in the land of the Cēra, Cōḷas and Pāṇṭiyas, in the Pāṇṭiya region, ...
+                </p>
+                <p n="18-31">...</p>
+                <p n="31-36"> In order to count the group (tukai=kūṭṭam) of families, <supplied reason="subaudible">we</supplied> the headmen appeared in front of the kaṇakku piḷḷais, without leaving out any balance, and calling the temple officials, we took the decision [that the donation would be] for the sake of the men who had come for the renovation service given for the Lord's house. 
+                </p>
+                
+                
+                <!--specify the lines inside the <p> tag, as <p n="1">...</p>  ; when it's the translation of a stanza, <p rend="stanza" n="1"> </p> and the number is in this second type of translation tag is taken from the <lg> number-->
+                
+                
+            </div>
+            
+            <!--<div type="commentary">
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl> (ARIE/1986-1987/A/1986-1987/67).</p>
+                
+                <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 64). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
+                
+                <p>This edition by Margherita Trento (2024), based on EFEO photographs (2015).
+                </p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="K">
+                        <ptr target="bib:Kirusnamurtti2000_01"/>
+                        <citedRange unit="page">273-77</citedRange>
+                        <citedRange unit="item">64</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bib:ARIE1986-1987"/>
+                        <citedRange unit="page">28</citedRange>
+                        <citedRange unit="item">67</citedRange>
+                    </bibl>
+                </listBibl>	    
+                
+            </div>
+        </body>
+    </text>
+    
 </TEI>
