@@ -274,8 +274,8 @@
                     <head xml:lang="eng">Grant no. 3</head>
                     
                     <p>
-                        <lb n="2v9=54=1"/>dhātu-varuṣattukku-c‌ cellum‌
-                        <lb n="2v10=55=2"/>Īśvara-varuṣam‌· pu[ra*]ṭṭāti-mātam‌ <g type="pc"/> 2= 10 2 śrīman·mūvaRĀyar‌ kaṇṭaṉ‌ IRĀcamīcar‌
+                        <lb n="2v9=54=1"/><hi rend="grantha">dhā</hi>tu-varu<hi rend="grantha">ṣ</hi>attukku-c‌ cellum‌
+                        <lb n="2v10=55=2"/><hi rend="grantha">Īśva</hi>ra-varu<hi rend="grantha">ṣam‌·</hi> pu<supplied reason="omitted">ra</supplied>ṭṭāti-mātam‌ <g type="pc"/> <num value="22"> <g type="numeral">2=10</g> 2</num> śrīman·mūvaRĀyar‌ kaṇṭaṉ‌ IRĀcamīcar‌
                         <!-- The symbol around 22 looks like “ḷa” -->
                         <lb n="2v11=56=3"/>kaṇṭaṉ‌, matiyāta maṉṉar‌ maṇavāḷaṉ‌, camara-kōlākaraṉ‌, pū-pā
                         <lb n="2v13=57=4"/>la-kōpālaṉ‌, bhuvanēka-vīraṉ‌, paṭṭana-māṉaṅ kāttāṉ‌, srīmat((u))-vīra-
@@ -528,7 +528,7 @@
             
             <div type="bibliography">
                 
-                <p><seg rend="check">Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl> (ARIE/1986-1987/A/1986-1987/**).</seg></p>
+                <p><seg rend="check">Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl> (ARIE/1986-1987/A/1986-1987/57,**).</seg></p>
                 
                 <p>
                     Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> as individual grants (nos. 1-15), whereas they are in fact found in succession in a single set of plates. These editions are not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.
