@@ -148,7 +148,6 @@
                 </p>
                 
                 <lg n="1" met="viruttam">
-                    <!-- how to mark that the verse below is a viruttam? is there a model? -->
                     <l n="a"> civañāṉac ceyaluṭaiyōr kaiyilt tāṉam tilapiḷavē ceyti<lb n="8v=39"/>ṭiṉum nilamalaipōṟ ṟi(ka)ḻntu</l>
                     <l n="b">pavamāyak kaṭaliliḻun tātavakai yeṭuttup parapōkan tu<lb n="9v=40"/>yppittup pācattai yaṟuttut</l>
                     <l n="c">tavamārum piṟappoṉṟiṟ cārap paṇṇic caritaikiri <lb n="10v=41"/>[yā]yōkan taṉṉiluñcārāmal</l>
@@ -169,7 +168,7 @@
                 </p>
                 
                 <p><!-- how to mark that this is a signature in much larger **TELEGU** characters-->
-                    <lb n="17v=48"/>Śrī Subhramaṇya Tirumalaiya Sētupati Raghunātha 
+                    <lb n="17v=48"/><foreign xml:lang="tel-Latn">Śrī Subhramaṇya Tirumalaiya Sētupati Raghunātha </foreign>
                 </p>
                 <p>
                     <lb n="18v=49"/>svastir astu <g type="danda">.</g>
