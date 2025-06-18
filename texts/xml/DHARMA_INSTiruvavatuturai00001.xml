@@ -227,7 +227,7 @@
                     <p>
                         miḻalai-k-kūṟṟattu naṭuvi
                         <lb n="2r10=38=6" break="no"/><add place="left">ṟ</add>-k-kūṟṟam <hi rend="grantha">brahmadeśam·</hi> taṉiyūr tirupperuntuṟaiyāṉa pavittiṟa-m<unclear reason="eccentric_ductus">ā</unclear>ṇikka-nall<choice><orig>u</orig><reg>ū</reg></choice>
-                        <lb n="2r11=39=7" break="no"/><unclear reason="eccentric_ductus"><choice><orig>RĀ</orig><reg>r</reg></choice></unclear> <hi rend="grantha">ca</hi>tu<hi rend="grantha">rvve</hi>timaṅkalattu nāyaṉār Āḷu<supplied reason="omitted">ṭai</supplied>ya paramacuvāmiṟku 
+                        <lb n="2r11=39=7" break="no"/><choice><unclear reason="eccentric_ductus"><orig>RĀ</orig></unclear><reg>r</reg></choice> <hi rend="grantha">ca</hi>tu<hi rend="grantha">rvve</hi>timaṅkalattu nāyaṉār Āḷu<supplied reason="omitted">ṭai</supplied>ya paramacuvāmiṟku 
                     </p>
                     
                     <p>
@@ -245,7 +245,7 @@
                     
                     <p>
                         <hi rend="grantha">sahi</hi>raṇya <hi rend="grantha">Udak<choice><orig>a</orig><reg>ā</reg></choice>dh</hi>ĀRa<hi rend="grantha">pūrvva</hi>māka kuṭu
-                       <pb n="2v"/><lb n="2v1=45=13" break="no"/>tta vaṭave<space/><supplied>ḷ</supplied>ḷāṟāṉa cuntirapāṇṭiya-vaḷa-nāṭṭu pa<unclear>ṉaiñ</unclear>kaya-nāṭṭu kīḻai vi
+                       <pb n="2v"/><lb n="2v1=45=13" break="no"/>tta vaṭave<space/><supplied reason="omitted">ḷ</supplied>ḷāṟāṉa cuntirapāṇṭiya-vaḷa-nāṭṭu pa<unclear>ṉaiñ</unclear>kaya-nāṭṭu kīḻai vi
                         <lb n="2v2=46=14" break="no"/><hi rend="grantha">ja</hi>ya<hi rend="grantha">puratti</hi>kku perunāṉkellai Āvaṉa 
                         <list>
                             <item>paṉaiñkuḷat=tu puravukku mēṟku</item>
@@ -275,7 +275,7 @@
                     
                     <p>
                         <hi rend="grantha">dhā</hi>tu-varu<hi rend="grantha">ṣ</hi>attukku-c cellum
-                        <lb n="2v10=54=1"/><hi rend="grantha">Īśva</hi>ra-varu<hi rend="grantha">ṣam·</hi> pu<supplied reason="omitted">ra</supplied>ṭṭāti-mātam‌ <g type="pc"/> <num value="22"> <g type="numeral">2=10</g> 2</num> <g type="tēti"></g> 
+                        <lb n="2v10=54=1"/><hi rend="grantha">Īśva</hi>ra-varu<hi rend="grantha">ṣam·</hi> pu<supplied reason="omitted">ra</supplied>ṭṭāti-mātam‌ <g type="pc"/> <num value="22"> 2=<g type="numeral">10</g> 2</num> <g type="tēti"></g> 
                     </p>
                     <p>
                         <hi rend="grantha">śrīmaN</hi>mūvaRĀyar kaṇṭaṉ IRĀcamīcar
