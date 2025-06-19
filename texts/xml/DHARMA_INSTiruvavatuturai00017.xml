@@ -106,26 +106,26 @@
                     <lb n="1v14=27"/>...
                 </p>
                 <p>
-                    nammai aṭainta maṉuṣarellām intat taṉma cā
-                    <lb n="1v15=28"/>taṉap paṭṭaiyappaṭikku oru cillaṟaikaḷum vārāmal intap puṇṇiyattai paripālaṉam pa
+                    nammai Aṭainta maṉu<hi rend="grantha">ṣa</hi>r ellām Inta-t taṉma-cā
+                    <lb n="1v15=28" break="no"/>taṉap paṭṭaiya-p-paṭikku Oru cillaṟaikaḷum vārāmal Inta-p puṇṇiyattai paripālaṉam <unclear>pa</unclear>
              
                 <pb n="2r"/>
                 
-                    <lb n="2r1=29"/>ṇṇip pūṟuvā pūṟuvam naṭantapaṭiyē uttarōttaramāka naṭappikkak kaṭavōrākavum 
+                    <lb n="2r1=29"/>ṇṇi-p pūṟuvāpūṟuvam naṭanta paṭiyē Uttarōttaramāka naṭappikka-k kaṭavōr ākavum 
                 </p>
                 <p>
-                    intat ta
-                    <lb n="2r2=30"/>ṉmattai yātāmoruttar paripālaṉam paṇṇiṉa pērkaḷ keṅkaik karaiyilum cētuk karaiyilum ā
-                    <lb n="2r3=31"/>yiraṅ kapilaip pacuvum āyiram pirāmaṇar kuṭumpapa piṟatiṭṭaiyum aṉēka kōṭi pūtāṉa kaṉṉi
-                    <lb n="2r4=32"/>(32) yātāṉamum paṇṇiṉa puṇṇiyattai aṭaiyakkaṭavārākavum anēka tōṭi civaliṅka piṟatiṭṭai
-                    <lb n="2r5=33"/>(33) paṇṇiṉa puṇṇiyattaiyum aṭaiyak kaṭavarākavum. intat taṉmattukku yātoruttar akitam paṇ-
-                    <lb n="2r6=34"/>(34) -ṇiṉa pērkaḷ keṅkaikkarayilum cētukkaraiyilum kārām pacuvaiyum kuruvaiyum māta
-                    <lb n="2r7=35"/>(35) pitāvaiyum koṉṟa tōṣattilē pōkakkaṭavār ākavum 
+                    Inta-t ta
+                    <lb n="2r2=30"/>ṉmattai yātāmorutar paripālaṉam paṇṇiṉa pērkaḷ keṅkai-k karaiyilum cētuk karaiyilum Ā
+                    <lb n="2r3=31" break="no"/>yiraṅ kapilai-p pacuvum Āyiram pirāmaṇar k=kuṭumpa-p piṟatiṭṭaiyum Aṉēka kōṭi pūtāṉa kaṉṉi
+                    <lb n="2r4=32"/>yātāṉamum paṇṇiṉa puṇṇiyattai Aṭaiya-k kaṭavārākavum Anēka tōṭi civaliṅka piṟatiṭṭai
+                    <lb n="2r5=33"/>paṇṇiṉa puṇṇiyattai<add place="below">yum</add> Aṭaiya-k kaṭavarākavum Intat taṉmattukku yātoruttar Akitam paṇ
+                    <lb n="2r6=34" break="no"/>ṇiṉa pērkaḷ keṅkai-k karayilum cētukkaraiyilum kārām pacuvaiyum kuruvaiyum māta-
+                    <lb n="2r7=35"/>pitāvaiyum koṉṟa tō<hi rend="grantha">ṣa</hi>ttilē pōka-k kaṭavār ākavum 
                 </p>
                 <p>
-                    ippaṭi cammatittu srītirumalaiya cētupati rakunā-
-                    <lb n="2r8=36"/>(36) -ta tēvar āvuṭaiya paramacuvāmiyārkku uṣākāla pūcaik kaṭṭaḷai naṭattum ampalattāṭum paṇṭāram ava
-                     <lb n="2r9=37"/>rkaḷukku tamma cācaṉap paṭṭaiyam kuṭuttōm. ippaṭikku <g type="pc"/>
+                    Ippaṭi cammatittu <hi rend="grantha">srī</hi> tirumalaiya cētupati <hi rend="grantha">raghu</hi>nā
+                    <lb n="2r8=36" break="no"/><hi rend="grantha">tha</hi> tēvar Āvuṭaiya paramacuvāmiyārk=ku U<hi rend="grantha">ṣā</hi>kāla pūcaik kaṭṭaḷai naṭattum Ampalattāṭum paṇṭāram Ava
+                    <lb n="2r9=37" break="no"/>rkaḷukku <hi rend="grantha">dharmma śāsana</hi>-p paṭṭaiyam kuṭuttōm ippaṭikku <g type="pc"/>
                 </p>
                 
                 
@@ -136,9 +136,8 @@
                 <p>
                     <lb n="2r11=39"/><hi rend="grantha">svastir astu </hi><g type="pc"/>
                 </p>
-                
-                
-                <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                                
+                <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">dānapālanayōr mmaddhyē</l> 
                     <l n="b">dā<choice><orig>t</orig><reg>n</reg></choice>āt cchreyo ’nupālanam· <g type="danda">.</g></l> 
                     <l n="c">dānāt· svargam avā<lb n="2r12=40"/>pnōti</l> 
