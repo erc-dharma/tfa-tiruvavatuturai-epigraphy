@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tirupperuntuṟai grant, Śaka year 1582</title>
+                <title>Peruṅkāṭṭu grant, Śaka year 1589</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:matr">
@@ -108,10 +108,10 @@
               
                                 
                 <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">dānapālanayōr mmaddhyē</l> 
-                    <l n="b">dā<choice><orig>t</orig><reg>n</reg></choice>āt cchreyo ’nupālanam· <g type="danda">.</g></l> 
-                    <l n="c">dānāt· svargam avā<lb n="2r12=40"/>pnōti</l> 
-                    <l n="d">pālanād acyutam· padam· <g type="ddanda">.</g> <g type="pc"/></l> 
+                    <l n="a"><lb n="20v=58"/>dānapālanayōr mmaddhyē</l> 
+                    <l n="b">dānā<lb n="21v=59"/>t cchreyo ’nupālanam· <g type="danda">.</g> 
+                    <l n="c">dānāt· sva<lb n="22v=60"/>rgam avāpnōti</l> 
+                    <l n="d">pālanād acyuta<lb n="22v=61"/>m· padam· <g type="ddanda">.</g> <g type="pc"/></l> 
                 </lg>
                 
                 
