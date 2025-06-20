@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Peruṅkāṭṭu grant, Śaka year 1589</title>
+                <title>Pullukkuṭi grant, Śaka year 1600</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:matr">
@@ -20,7 +20,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Aubervilliers</pubPlace>
-                <idno type="filename">DHARMA_INSTiruvavatuturai00017</idno>
+                <idno type="filename">DHARMA_INSTiruvavatuturai00019</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -44,7 +44,7 @@
                     </msIdentifier>
                     <msContents>
                         <!-- describe the intellectual content of an inscription -->
-                        <summary>This plate records an endowment made by Cuppiramaṇiya Tirumalai Cētupati Rakunāta to Ampalattāṭum paṇṭāram for performing pūja in Avudaiyarkoil to honor his ancestors and Tirumalai Nāyakkar.</summary>
+                        <summary>This plate records a donation made at the time of Tirumalai Cētupati Kātta Raghunātta Tēvar at the feet of a certain Rājaśrī paṇṭāram, for the sake of pūja, as well as taking care of the garden and the maṭam, in the temple of Tirupperuntuṟai aka Āvuṭaiyarkōyil, .</summary>
                         <!-- offers the possibility to give a summary of the inscription's content -->
                     </msContents>
                     <physDesc>
@@ -88,24 +88,37 @@
                 
                 <pb n="1r"/>
                 <p>
-               ... 
+                    ... 
                 </p>
                 
                 <pb n="1v"/>
-                
                 <p>
-                    <lb n="10v=48"/>...Inta-t taṟma
-                    <lb n="11v=49" break="no"/>ttai yātām oruvar paripālaṉam paṇ
-                    <lb n="12v=50" break="no"/>ṇiṉa pērkaḷ cētuk karaiyilum keṅkai
-                    <lb n="13v=51"/>k-karaiyilum  Āneka civaliṅka-p piṟatiṭṭai
-                    <lb n="14v=52" break="no"/>yum kō-tāṉa pū-tāṉaṅkaḷaiyum paṇṇiṉa 
-                    <lb n="15v=53"/>puṇṇiyattai yaṭaiyak kaṭavār ākavum
-                    <lb n="16v=54"/>Inta ‌taṟmattukku Akitam ‌paṇṇiṉa pēr 
-                    <lb n="17v=55"/>kaḷ mātā pitāvaiyum kuruvaiyum kārā 
-                    <lb n="18v=56"/>m ‌pacuvaiyum koṉṟatu tō<hi rend="grantha">ṣa</hi>ttilē pō 
-                    <lb n="19v=57"/>ka-k kaṭavār ākavum <g type="pc"></g>
+                    <lb n="1v22=58"/> ...
                 </p>
                 
+                <p>
+                    Intat ta
+                    <lb n="1v23=59" break="no"/>ṟmattai yātām oruvar tiṟi-vita-<hi rend="grantha">sahā</hi>yat=tiṉālum paripālaṉa
+                    <lb n="1v24=60" break="no"/> m paṇṇiṉavarkaḷ vaṅki<hi rend="grantha">ṣa</hi> pāramparaiyāy cavupākkiya can
+                    <lb n="1v25=61" break="no"/>tāṉamum aṉēka coṟkāti pōkaṅkaḷaiyum aṉupavippārkaḷ
+                    <lb n="1v26=62"/>Inta taṟmat=tukku vikātam paṇṇiṉa pērkaḷ mātā pitā kuru-t
+                    <lb n="1v27=63"/>turōkikaḷāy keṅkaik karaiyil pirāmaṇaraiyum
+                    <lb n="1v28=64"/>kārām pacuvaiyum koṉṟa tō<hi rend="grantha">ṣa</hi>ttilē pōkak kaṭa
+                    <lb n="1v29=65" break="no"/>var ākavum 
+                    
+                </p>
+                
+                <p>Intac cātaṉam Aṭṭavaṇai cēturāma li
+                    <lb n="1v30=66" break="no"/>ṅkam piḷḷai eḻuttu Inta cātaṉam kalliṉum
+                    <lb n="1v31=67"/>veṭṭik koḷḷavum.
+                </p>
+                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    rāmaliṁga tuṇai
+                </ab>
+                
+                
+                
+                <!--   
                 <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a"><lb n="20v=58"/>dānapālanayōr mmaddhyē</l> 
                     <l n="b">dānā<lb n="21v=59"/>t cchreyo ’nupālanam· <g type="danda">.</g></l>
@@ -113,9 +126,6 @@
                     <l n="d">pālanād acyuta<lb n="22v=61"/>m· padam· <g type="ddanda">.</g> <g type="pc"/></l>
                 </lg>  
                 
-                
-                
-                <!--   
                     <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">svadattāt· dviguṇam · puṇyam ·</l> 
                     <l n="b">paradattānupā<add place="below" rend="mark">la</add>nam· <g type="danda">.</g></l> 
