@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Pocukkuṭi grant, Śaka year 1654 </title>
+                <title>Tiruppoṟkōṭṭai grant, Śaka year 1656</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:matr">
@@ -20,7 +20,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Aubervilliers</pubPlace>
-                <idno type="filename">DHARMA_INSTiruvavatuturai00022</idno>
+                <idno type="filename">DHARMA_INSTiruvavatuturai00023</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -44,7 +44,7 @@
                     </msIdentifier>
                     <msContents>
                         <!-- describe the intellectual content of an inscription -->
-                        <summary>This plate records an endowment made by Rakunāta Cētupati Kāttatēvar for mantaining and agrahāra and a maṭam.</summary>
+                        <summary>This grant records a gift of the Sethupathi king to the god in Avudayarkoyil.</summary>
                         <!-- offers the possibility to give a summary of the inscription's content -->
                     </msContents>
                     <physDesc>
@@ -88,24 +88,29 @@
                 
                 <pb n="1r"/>
                 <p>
-                    ... 
+                   <lb n="1r42=42"/> ... 
                 </p>
                 
                 
-                <ab>rāmaliṅkan tuṇai
-                </ab>
+                 <p>
                 
                 <pb n="1v"/>
                 
-                <ab>??</ab>
+          
                 
-                <p> <lb n="1v5=34"/>Intat taṉmattai yātāmoruvar paripālaṉam 
-                    <lb n="1v6=35"/>paṇṇiṉapēr kōṭi kaṉṉikātāṉam paṇṇiṉa 
-                    <lb n="1v7=36"/>palaṉ peṟuvārkaḷ Akutam paṇṇiṉa pēr 
-                    <lb n="1v8=37"/>keṅkai-k karaiyilē kārām pacuvaiyum 
-                    <lb n="1v9=38"/>cētukkaraiyilē pirāmaṇaṉaik koṉṟa tō 
-                    <lb n="1v10=39" break="no"/>ottilē pōvārākavum <g type="pc"></g> paḻaṉiyāṉ tuṇai
-                </p>
+                Mūṉṟupaṭi tavacamum intappaṭikku mayēcuvara pūcaikkuk kaṭṭaḷai yiṭṭa 
+                <lb n="1v1=43"/>paṭiyiṉālē cantirātitta varaikkum kallum kāvērip pullum‌pūmi 
+                 <lb n="1v2=44"/>yum uḷḷamaṭṭukkum āṇṭaṉupavittuk koḷḷak kaṭavārākavum. Yinta 
+                  <lb n="1v3=45"/>ttaṟ.Mattaiene paripālaṉam paṇṇiṉapēreae civaliṅkam 
+                 <lb n="1v4=46"/>piratiṭṭaiyum kōṭi viṟumap piratiṭṭaiyum kōṭi eee titers 
+                 <lb n="1v5=47"/>paṇṇiṉa palattaiyum aṭaivārākavum. Intat akaṭṭu yātāmo 
+                 <lb n="1v6=48"/>ruttar akitam'niṉaittapēr'keṅkaik karaiyilēyuñ Ces ea, mā 
+                  <lb n="1v7=49"/>tā pitāvaiyum kārām pacuvaiyum vatai paṇṇiṉa tōṣattilē 
+                  <lb n="1v8=50"/>pōkak kaṭavarākavum. Ampalavāṇaṉ ṟiruvaṭi vāḻka U
+                 <lb n="1v9=51"/>āvuṭaiyār kōyil caṉṉatiyil nam'miṭa cattiramum paṇṭārac caṉ 
+                 <lb n="1v10=52"/>ṉati aṉṉatāṉa maṭamākak kaṭṭaḷaiyiṭṭōm. Intappaṭikku 
+                  <lb n="1v11=53"/>ceṉṉavīrappaṉ eḻuttu.
+                
                 
                 
                 
@@ -177,9 +182,9 @@
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl> (ARIE/1986-1987/A/1986-1987/33).</p>
+               <!-- <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl> (ARIE/1986-1987/A/1986-1987/33).</p> -->
                 
-                <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 24). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
+                <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 27). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
                 
                 <p>This edition is by Margherita Trento (2025), based on EFEO photographs (2015).
                 </p>
@@ -188,19 +193,20 @@
                     
                     <bibl n="K">
                         <ptr target="bib:Kirusnamurtti2000_01"/>
-                        <citedRange unit="page">112-114</citedRange>
-                        <citedRange unit="item">26</citedRange>
+                        <citedRange unit="page">114-120</citedRange>
+                        <citedRange unit="item">27</citedRange>
                     </bibl>
                     
                 </listBibl>
                 
-                <listBibl type="secondary">
+              <!--   <listBibl type="secondary">
                     <bibl>
                         <ptr target="bib:ARIE1986-1987"/>
                         <citedRange unit="page">21</citedRange>
                         <citedRange unit="item">33</citedRange>
                     </bibl>
-                </listBibl>	    
+                </listBibl>
+              --> 	    
                 
             </div>
         </body>
