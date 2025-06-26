@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kāḷatti Ēntal grant, Śaka year 1689</title>
+                <title>Kōṭi Maṅkal grant, Śaka year 1691</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:matr">
@@ -20,7 +20,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Aubervilliers</pubPlace>
-                <idno type="filename">DHARMA_INSTiruvavatuturai00026</idno>
+                <idno type="filename">DHARMA_INSTiruvavatuturai00027</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -103,7 +103,7 @@
                     <lb n="1v21=54"/>koṇṭu taṟmam paripālaṉam paṇṇi-k koṇṭ' i 
                     <lb n="1v22=55" break="no"/>ruppārkaḷ ākavu=M yinta taṟmmattai yātām oru 
                     <lb n="1v23=56" break="no"/>var paripālaṉam paṇṇiṉa pēr kāciyilēyu=M 
-                    <lb n="1v24=57"/>cētuvilēyu<hi rend="bold">·</hi> Āyiram civaliṅka-p piṟatiṭṭai 
+                    <lb n="1v24=57"/>cētuvilēyu<hi rend="grantha">m·</hi> Āyiram civaliṅka-p piṟatiṭṭai 
                     <lb n="1v25=58" break="no"/>yu=M Āyiram piṟama-p piṟatiṭṭaiyu=M Āyiram kaṉṉika tā 
                     <lb n="1v26=59" break="no"/>ṉam kōtāṉa puṇṇiyamum peṟuvārkaḷāka  
                     <lb n="1v27=60" break="no"/>vu=M yinta taṟmattukku Ayitam paṇṇiṉa pēr 
@@ -112,7 +112,11 @@
                     <lb n="1v30=63" break="no"/>lē pōvār<unclear reason="eccentric_ductus">ā</unclear>kavu<hi rend="bold">·</hi> <g type="pc"></g>
                 </p>
                 
-               <!--  <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                <ab xml:lang="tel-Latn" rendition="class:telugu maturity:vernacular">
+                    <g type="pc"/> Ārumukam· sahāyam· <g type="pc"/>
+                </ab>
+                
+                <!-- <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">svadattād dviguṇam· puṇyam·</l> 
                     <l n="b">paradattā<lb n="1v22=53"/>nupālanam· <g type="danda">.</g></l> 
                     <l n="c">paradattāpahārēṇ<choice><sic>ā</sic><corr>a</corr></choice></l> 
@@ -182,9 +186,9 @@
             
             <div type="bibliography">
                 
-               <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl> (ARIE/1986-1987/A/1986-1987/51).</p> 
+               <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/36).</p> 
                 
-                <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 31). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
+                <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 32). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
                 
                 <p>This edition is by Margherita Trento (2025), based on EFEO photographs (2015).
                 </p>
@@ -193,8 +197,8 @@
                     
                     <bibl n="K">
                         <ptr target="bib:Kirusnamurtti2000_01"/>
-                        <citedRange unit="page">132-134</citedRange>
-                        <citedRange unit="item">31</citedRange>
+                        <citedRange unit="page">135-138</citedRange>
+                        <citedRange unit="item">32</citedRange>
                     </bibl>
                     
                 </listBibl>
@@ -202,8 +206,8 @@
                 <listBibl type="secondary">
                     <bibl>
                         <ptr target="bib:ARIE1986-1987"/>
-                        <citedRange unit="page">25</citedRange>
-                        <citedRange unit="item">51</citedRange>
+                        <citedRange unit="page">22</citedRange>
+                        <citedRange unit="item">36</citedRange>
                     </bibl>
                 </listBibl>
            	    
