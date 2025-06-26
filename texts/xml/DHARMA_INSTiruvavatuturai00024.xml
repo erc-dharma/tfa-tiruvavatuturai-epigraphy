@@ -106,29 +106,29 @@
                 
               <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">svadattād dviguṇam· puṇyam·</l> 
-                    <l n="b">paradattānup<lb n="1v21=51"/>ālanam· <g type="danda">.</g></l> 
+                    <l n="b">paradattānup<lb n="1v21=51" break="no"/>ālanam· <g type="danda">.</g></l> 
                     <l n="c">paradattāpahārēṇ<choice><sic>ā</sic><corr>a</corr></choice></l> 
                     <l n="d">svadattam· niṣphalam· bhavēt·<g type="ddanda">.</g></l> <g type="pc"></g>
                     </lg>
                 
                 <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">Ekai<lb n="1v22=52"/><choice><sic>ka</sic><corr>va</corr></choice> bhaginī loke</l> 
+                    <l n="a">Ekai<lb n="1v22=52" break="no"/><choice><sic>ka</sic><corr>va</corr></choice> bhaginī loke</l> 
                     <l n="b">sarvveṣām <choice><orig>i</orig><reg>e</reg></choice>va bhūbhujām· <g type="danda">.</g></l> 
-                    <l n="c">nā bhōjyā na karagrāhy<lb n="1v23=53"/>ā</l> 
-                    <l n="d">vipradattā vasundharāḥ<g type="ddanda">.</g></l> <g type="pc"></g>
+                    <l n="c">nā bhōjyā na <choice><sic>ga</sic><corr>ka</corr></choice>ragrāhy<lb n="1v23=53" break="no"/>ā</l> 
+                    <l n="d">vipradattā vasundharā<g type="ddanda">.</g></l> <g type="pc"></g>
                     </lg>
                 
                 <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">dānapālanayōr mmaddhyē</l> 
-                    <l n="b">dānā<lb n="24v=54"/>t cchreyo ’nupālanam· <g type="danda">.</g></l>
-                    <l n="c">dānāt· svargam avāpnōti</l> 
-                    <l n="d">pālanād acyu<lb n="25v=55"/>tam· padam· <g type="ddanda">.</g> <g type="pc"/></l>
+                    <l n="b">dānā<lb n="24v=54" break="no"/>c chreyo ’nupālanam· <g type="danda">.</g></l>
+                    <l n="c">dānāt svargam avāpnōti</l> 
+                    <l n="d">pālanād acyu<lb n="25v=55" break="no"/>tam· padam· <g type="ddanda">.</g> <g type="pc"/></l>
                     </lg> 
                
                 <p>
-                   Intappaṭikku pokkicak kaṇakku Ātiṉārāyaṇa 
-                   <lb n="26v=56"/>ḷai makaṉ taḷavāttāṉ kaiyeḻuttuppaṭikku muttuppattar 
-                   <lb n="27v=57"/>ṉ vēlāyutaṉ kaiyeḻuttu <g type="pc"></g>
+                   Inta-p paṭikku pokkica-k kaṇakku Ātiṉā<hi rend="grantha">rā</hi>yaṇa piḷ
+                   <lb n="26v=56" break="no"/>ḷai makaṉ taḷavāttāṉ kaiyeḻuttu-p paṭikku muttuppattar maka
+                   <lb n="27v=57" break="no"/>ṉ vēlāyutaṉ kaiyeḻuttu <g type="pc"></g>
                 </p>
                 
                 <!--
