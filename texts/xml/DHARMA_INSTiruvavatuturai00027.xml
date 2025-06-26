@@ -96,20 +96,13 @@
                 <pb n="1v"/>
                 
                 <p>
-                    <lb n="1v17=50"/>caṟuvamāṉiyamāka c
-                    <lb n="1v18=51" break="no"/>ntirāti<choice><orig>t</orig><reg>tt</reg></choice>ar Uḷḷavaraikkum parampa<choice><orig>ra</orig><reg>rai</reg></choice>yāka kaiyāṭi-k 
-                    <lb n="1v19="/>koṇṭu Aramaṉaik kaṭṭukku-t takaiyāka <g type="varuṣam"/> kaṭukali <g type="pc"/> 5 
-                    <lb n="1v20=53"/>--poṟuppukkuṭuttu caṟuvamāṉiyamāka-k kaiyāṭi-k 
-                    <lb n="1v21=54"/>koṇṭu taṟmam paripālaṉam paṇṇi-k koṇṭ' i 
-                    <lb n="1v22=55" break="no"/>ruppārkaḷ ākavu=M yinta taṟmmattai yātām oru 
-                    <lb n="1v23=56" break="no"/>var paripālaṉam paṇṇiṉa pēr kāciyilēyu=M 
-                    <lb n="1v24=57"/>cētuvilēyu<hi rend="grantha">m·</hi> Āyiram civaliṅka-p piṟatiṭṭai 
-                    <lb n="1v25=58" break="no"/>yu=M Āyiram piṟama-p piṟatiṭṭaiyu=M Āyiram kaṉṉika tā 
-                    <lb n="1v26=59" break="no"/>ṉam kōtāṉa puṇṇiyamum peṟuvārkaḷāka  
-                    <lb n="1v27=60" break="no"/>vu=M yinta taṟmattukku Ayitam paṇṇiṉa pēr 
-                    <lb n="1v28=61"/>kāciyilēyu<hi rend="bold">·</hi> cētuvilēyu<hi rend="bold">·</hi> āyira<hi rend="bold">·</hi> kārāṉpacu 
-                    <lb n="1v29=62"/>mātā kuru yivarkaḷai vatai paṇṇiṉa tōcatti 
-                    <lb n="1v30=63" break="no"/>lē pōvār<unclear reason="eccentric_ductus">ā</unclear>kavu<hi rend="bold">·</hi> <g type="pc"></g>
+                    <lb n="1v4=33"/>c-cantirātittaruḷḷavaraikkum paramparaiyāka kaiyāṭi-k koṇṭu taṟmam paripālaṉa
+                    <lb n="1v5=34"/>m paṇṇi-k koṇṭiruppārkaḷākavum Inta-t taṟmattai yātāmoruvar paripālahnam paṇ
+                    <lb n="1v6=35"/>ṇiṉa pēr kāciyilēyuṅ cētulēyum Āyirañ civaliṅka-p piratiṭṭaiyum Āyira<add place="below">m</add> pirrama-p
+                    <lb n="1v7=36"/>piṟatiṭṭaiyum Āyiraṅ kaṉṉikā-tāṉaṅ kō-tāṉa-puṇṇiyamum peṟuvārākavum I
+                    <lb n="1v8=37"/>nta taṟmattukku Ayitam paṇṇiṉa pēr itaṟku yetirmaṟai-p payaṉai yaṭaivār ākavu=M <g type="pc"/>
+                    <lb n="1v9=38"/>itu vallāmalum aṉeka kuṟūr pāva-payaṉaiyum aṭaivār ākavum
+                    
                 </p>
                 
                 <ab xml:lang="tel-Latn" rendition="class:telugu maturity:vernacular">
@@ -121,7 +114,7 @@
                     <l n="b">paradattā<lb n="1v22=53"/>nupālanam· <g type="danda">.</g></l> 
                     <l n="c">paradattāpahārēṇ<choice><sic>ā</sic><corr>a</corr></choice></l> 
                     <l n="d">svadattam· niṣphalam· bhavēt·<g type="ddanda">.</g></l> <g type="pc"></g><lb n="1v23=54"/>
-                </lg>
+                    </lg>
                 
                 <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">dānapālanayōr mmaddhyē</l> 
