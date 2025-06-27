@@ -95,40 +95,31 @@
                 
                 <pb n="1v"/>
                 
-                <p>
-                    <lb n="1v21=54"/>Intap paṭikku ti
-                    <lb n="1v22=55" break="no"/>rumālai <surplus>tirumālai</surplus> tiruviḷakku tiruṉantavaṉam tirumaṇ
-                    <lb n="1v23=56" break="no"/>ṭapam tirumaṭamum cantirātit=ta varaikkum puttiṟapavuttuṟapā
-                    <lb n="1v24=57" break="no"/>ramparaiyum naṭappiccu-k koḷḷa-k kaṭavar ākavu=M
-                </p>
-                
-                <p>Inta taṟm‌ 
-                    <lb n="1v25=58" break="no"/>mattai yātām oruvar paripālaṉam paṇṇi<choice><sic>a</sic><corr>i</corr></choice>ṉa pērkaḷ
-                    ‌ <lb n="1v26=59"/>Aṟupattu mūvarum māṇikkavācakarum caṇṭēcura-p piḷ
-                    <lb n="1v27=60" break="no"/>ḷaiyārum paṉṉit=tira Āḻvārum peṟṟa pēṟu peṟak=kaṭavar
-                    <lb n="1v28=61"/>ākavum Inta taṟmat=tukku vikātam paṇṇiṉa pērkaḷ kāci
-                    <lb n="1v29=62"/>keṅkai pirayākai tiruvēṇi caṅkamat=til cētu taṉu<hi rend="grantha">ṣ</hi>k
-                    <lb n="1v30=63"/>kōṭiyil kārām pacuvaiyum piRĀmaṇaraiyam mātā pit 
-                    <lb n="1v31=64" break="no"/>āvaiyum kurukkaḷaiyu=M‌ koṉṟa tō<hi rend="grantha">ṣ</hi>at=tilē pōka kaṭa
-                    <lb n="1v32=65" break="no"/>vōr ākavum
-                </p>
-                
-                <p>inta paṭik=ku nantakōpālĀRum‌ pō‌viṇ
-                    <lb n="1v33=66" break="no"/>ṭamār aṉaivaruñ colla Inta taṟmma cātaṉa-p paṭṭaiyam 
-                    <lb n="1v34=67"/>Eḻutiṉēṉ tirupperuntuṟai māṇikka kūt=ta mutali
-                    <lb n="1v35=68"/>yār Eḻut=tu <g type="pc"/> <hi rend="grantha">śubham astu</hi>
-                </p>
-                <p><add>Inta paṭṭaiya-p paṭikku ye
-                    <lb n="1v36=69" break="no"/>ṅkaḷ-c cāti put=tirāṉa kaṇṭiya t=tirukkōṭi tēvaram paṇa
-                    <lb n="1v37=70" break="no"/>m ‌kuṭāta pēraiyum ‌taṟm‌mattilē yītaipātai 
-                    <lb n="1v38=71"/> varāmal‌ naṭappikkavum‌ <g type="pc"/></add>
-                </p>
-                
-                <!--  <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                <p> 
+                    <lb n="1v4=33"/>... yinta tammam paripālaṉam paṇṇi
+                    <lb n="1v5=34"/>ṉavarkaḷukku keṅkaikkaraiyilum Āti
+                    <lb n="1v6=35"/>cētuvilum Āyiram civaliṅka pi<choice><sic>e</sic><corr>ra</corr></choice>tiṭ
+                    <lb n="1v7=36"/>ṭaiyum Āyiram kōtāṉam paṇṇiṉa pala
+                    <lb n="1v18=37"/>ṉai Aṭaivār Akutam niṉaittavarkaḷukku
+                    <lb n="1v19=38"/>keṅkai-k karaiyilum Āticētuvilum
+                    <lb n="1v20=39"/>Āyira kō-vataiyum śrīvataiyum ce
+                    <lb n="1v21=40"/>yita tōṣattil ppōkakaṭavō
+                    <lb n="1v22=41"/>RĀkavu=M 
+                    
+                    <p>
+                        
+                    </p>
+                    
+                     <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">svadattād dviguṇam· puṇyam·</l> 
-                    <l n="b">paradattā<lb n="1v22=53"/>nupālanam· <g type="danda">.</g></l> 
-                    <l n="c">paradattāpahārēṇ<choice><sic>ā</sic><corr>a</corr></choice></l> 
-                    <l n="d">svadattam· niṣphalam· bhavēt·<g type="ddanda">.</g></l> <g type="pc"></g><lb n="1v23=54"/>
+                    <l n="b">paradattānupālanam· <g type="danda">.</g></l> 
+                    <l n="c">paradattāpahārēṇāa</l> 
+                    <l n="d">svadattam· niṣphalam· bhavēt·<g type="ddanda">.</g></l> 
+                    
+                    
+                </p>
+                
+                <!--  
                 </lg>
                 
                 <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
