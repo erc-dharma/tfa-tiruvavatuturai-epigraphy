@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kālakamarutu aka Nāḻaiya Nakara grant, Śaka year 1375</title>
+                <title>Amaṭaṭakki's seven towns grant, Śaka year 1530</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:matr">
@@ -20,7 +20,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Aubervilliers</pubPlace>
-                <idno type="filename">DHARMA_INSTiruvavatuturai00031</idno>
+                <idno type="filename">DHARMA_INSTiruvavatuturai00032</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -88,18 +88,13 @@
                 
                 <pb n="1r"/>
                 <p>
-                    <lb n="1r1=1"/>svasti śrīmāt makāmaṇṭalecuraṉ Ariya taḷavip
-                    <lb n="1r2=2"/>āṭaṉ ...
-                    <lb n="1r46=46"/> ...
-                </p>
-                
-               
-                
-                <pb n="1v"/>
-                
-                <p> 
-                  <lb n="1v1=47"/>m miḻakiṭu pattai ...
-                    <lb n="1v45=92"/>ṟ kellai miḻakiṭu pattai kollaikku 
+                   <lb n="1r34=34"/>..kallum
+                    <lb n="1r35=35"/>kāvēriyum pullum pūmiyum cantirātitta varaikkum puttirar pa<supplied reason="omitted">vu</supplied>ttira pa
+                    <lb n="1r36=36" break="no"/>rāmparaikkum Ā<choice><orig>ṉ</orig><reg>ṇ</reg></choice>ṭum Aṉupovittum cītaṉam kuṭuttum ciṉeki-t ta
+                    <lb n="1r37=37" break="no"/>āṉam paṇṇiyum vittum Otti vayittum Upaya kuṭuttu Āṇṭu Aṉupavit
+                    <lb n="1r38=38" break="no"/>tu-k koḷḷak kaṭavar ākavum Intappaṭikki Eḻu ēntalum kiṟaya cātaṉamāy <add place="below">pa</add>ṇ
+                    <lb n="1r39=39" break="no"/>ṇi-k kuṭuttu-y iruppatāl neriñci tūttukkuṭi-y etti tiraviya-p-piṟayā
+                    <lb n="1r40=40" break="no"/>camāyi kiṟāma paripālaṉam paṇṇik koḷḷak kaṭavar ākavum ...
                 </p>
                 
                
@@ -179,9 +174,9 @@
             
             <div type="bibliography">
                 
-               <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/41).</p> 
+          <!--    <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/41).</p> -->   
                 
-                <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 36). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
+                <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 39). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
                 
                 <p>This edition is by Margherita Trento (2025), based on EFEO photographs (2015).
                 </p>
@@ -190,19 +185,19 @@
                     
                     <bibl n="K">
                         <ptr target="bib:Kirusnamurtti2000_01"/>
-                        <citedRange unit="page">155-158</citedRange>
-                        <citedRange unit="item">36</citedRange>
+                        <citedRange unit="page">168-171</citedRange>
+                        <citedRange unit="item">39</citedRange>
                     </bibl>
                     
-                </listBibl>
+         <!--        </listBibl>
                 
                 <listBibl type="secondary">
                     <bibl>
                         <ptr target="bib:ARIE1986-1987"/>
                         <citedRange unit="page">23</citedRange>
                         <citedRange unit="item">41</citedRange>
-                    </bibl>
-                </listBibl>
+                    </bibl> -->  
+                </listBibl>  
            	    
                 
             </div>
