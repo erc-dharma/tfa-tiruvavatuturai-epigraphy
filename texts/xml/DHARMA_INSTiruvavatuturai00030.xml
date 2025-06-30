@@ -107,22 +107,23 @@
                     <lb n="1v22=41"/>RĀkavu=M 
                 </p>
                 
-                <p>cakāṟttam <num value="1525"> <g type="numeral">1000</g> 5 <g type="numeral">100</g> 2 <g type="numeral">10</g> 5 </num> k=ku <hi rend="grantha">śa
+                <p>
+                    cakāṟttam <num value="1525"> <g type="numeral">1000</g> 5 <g type="numeral">100</g> 2 <g type="numeral">10</g> 5 </num> k=ku <hi rend="grantha">śa
                     <lb n="1v23=42"/>kam·</hi> mēl-c cellā niṉṟa pava<hi rend="grantha">sam·</hi>
                     <lb n="1v24=43"/>...
                 </p>
                 
+            
                 <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">svadattād dviguṇam· puṇyam·</l> 
                     <l n="b">paradattānupālanam· <g type="danda">.</g></l> 
                     <l n="c">paradattāpahārēṇāa</l> 
                     <l n="d">svadattam· niṣphalam· bhavēt·<g type="ddanda">.</g></l> 
-                    
+                  </lg> 
                   
                 
                 <!--  
-                </lg>
-                
+               
                 <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">dānapālanayōr mmaddhyē</l> 
                     <l n="b">dānāc chreyo ’nupālanam· <g type="danda">.</g></l>
