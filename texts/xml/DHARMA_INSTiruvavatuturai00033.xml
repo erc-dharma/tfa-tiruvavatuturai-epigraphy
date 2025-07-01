@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Piṟāntaṉil ēntalkaḷ, kuṟiccikaḷ grant, Śaka year 1427 </title>
+                <title>Piṟāntaṉil ēntalkaḷ, kuṟiccikaḷ grant, Śaka year 1427</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:matr">
@@ -88,13 +88,7 @@
                 
                 <pb n="1r"/>
                 <p>
-                   <lb n="1r34=34"/>..kallum
-                    <lb n="1r35=35"/>kāvēriyum pullum pūmiyum cantirātitta varaikkum puttirar pa<supplied reason="omitted">vu</supplied>ttira pa
-                    <lb n="1r36=36" break="no"/>rāmparaikkum Ā<choice><orig>ṉ</orig><reg>ṇ</reg></choice>ṭum Aṉupovittum cītaṉam kuṭuttum ciṉeki-t ta
-                    <lb n="1r37=37" break="no"/>āṉam paṇṇiyum vittum Otti vayittum Upaya kuṭuttu Āṇṭu Aṉupavit
-                    <lb n="1r38=38" break="no"/>tu-k koḷḷak kaṭavar ākavum Intappaṭikki Eḻu ēntalum kiṟaya cātaṉamāy <add place="below">pa</add>ṇ
-                    <lb n="1r39=39" break="no"/>ṇi-k kuṭuttu-y iruppatāl neriñci tūttukkuṭi-y etti tiraviya-p-piṟayā
-                    <lb n="1r40=40" break="no"/>camāyi kiṟāma paripālaṉam paṇṇik koḷḷak kaṭavar ākavum ...
+                   
                 </p>
                 
                
@@ -174,7 +168,7 @@
             
             <div type="bibliography">
                 
-          <!--    <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/41).</p> -->   
+       <!--     <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/41).</p> -->
                 
                 <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 39). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
                 
@@ -185,18 +179,18 @@
                     
                     <bibl n="K">
                         <ptr target="bib:Kirusnamurtti2000_01"/>
-                        <citedRange unit="page">168-171</citedRange>
-                        <citedRange unit="item">39</citedRange>
+                        <citedRange unit="page">171-175</citedRange>
+                        <citedRange unit="item">40</citedRange>
                     </bibl>
                     
-         <!--        </listBibl>
+               </listBibl>
                 
-                <listBibl type="secondary">
+             <!--   <listBibl type="secondary">
                     <bibl>
                         <ptr target="bib:ARIE1986-1987"/>
                         <citedRange unit="page">23</citedRange>
                         <citedRange unit="item">41</citedRange>
-                    </bibl> -->  
+                    </bibl> -->
                 </listBibl>  
            	    
                 
