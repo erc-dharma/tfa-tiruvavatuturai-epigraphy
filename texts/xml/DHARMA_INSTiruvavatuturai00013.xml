@@ -34,23 +34,18 @@
                 <date from="2019" to="2025">2019-2025</date>
             </publicationStmt>
             <sourceDesc>
-                <!-- only the handDesc can be filled in at this stage -->
                 <msDesc>
-                    <!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
                     <msIdentifier>
                         <repository>DHARMAbase</repository>
                         <idno/>
                         <!-- don't modify this -->
                     </msIdentifier>
                     <msContents>
-                        <!-- describe the intellectual content of an inscription -->
                         <summary>This plate records a gift to the Murugan temple in Tirucchendur.</summary>
-                        <!-- offers the possibility to give a summary of the inscription's content -->
                     </msContents>
                     <physDesc>
                         <handDesc>
                             <p><!--<foreign>ka</foreign> and <foreign>ta</foreign> are very similar.--></p>
-                            
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -83,28 +78,29 @@
         
         <body>
             
-            <div type="edition" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:83215">		
+            <div type="edition" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:vernacular">		
                 
                 <pb n="1r"/>
                 
                 <p>
-                    <lb n="1r=1"/><g type="pc"></g> cāttūr neṉmēṉi vaṭalaipuram cēkaram pa  
-                    <lb n="2r=2" break="no"/>ṭṭaiyam <g type="pc"></g> 
+                    <lb n="1r=1"/><g type="pc"/> cāttūr neṉmēṉi vaṭamalaipuram cēkaram pa  
+                    <lb n="2r=2" break="no"/>ṭṭaiyam <g type="pc">.</g> 
                 </p>
                 <p>
                     cuva<hi rend="grantha">ṣ</hi>tiṟi 
                 </p>
                 <p>
-                    cālivākaṉa cakāṟṟam <num value="1701"> <g type="numeral">1000</g> 7 <g type="numeral">100</g>  
-                        <lb n="3r=3"/>1</num> <seg type="aksara">k=ku</seg> mēl cellā niṉṟa kollam <num value="955">9 <g type="numeral">100</g> 5 <g type="numeral">10</g> 5</num> <g type="varuṣam"></g>  
+                    cālivākaṉa-cakāṟṟam <num value="1701"> <g type="numeral">1000</g> 7 <g type="numeral">100</g>  
+                        <lb n="3r=3"/>1</num> <seg type="aksara">k=ku</seg><!--EF: it seems there is no "1" and only "k=ka" for "k=ku"--> mēl cellā niṉṟa kollam <num value="955">9 <g type="numeral">100</g> 5 <g type="numeral">10</g> 5</num> <g type="varuṣam"></g>  
                     <lb n="4r=4"/>vikāri <g type="varuṣam"></g> kārttikai <g type="mācam"></g> <num value="22"> 2 2 <g type="numeral">10</g> </num> <g type="tēti"></g> ticamiyuṅ kuru 
                     <!-- I believe that there is a mistake: the scribe has written 2 2 10+ instead of 2 10+ 2; how to encode that? -->
-                    <lb n="5r=5" break="no"/>vāramum uttira naṭcettiramum Āyu<hi rend="grantha">ṣ</hi>ṭṭiṇa-ṉāma yō  
-                    <lb n="6r=6" break="no"/>kamum keca karaṇamum rācata vēḷaiyum cukkiṟavō  
-                    <lb n="7r=7" break="no"/>raiyum kūṭiṉa maṅkaḷa cupatiṉattil 
+                    <lb n="5r=5" break="no"/>vāramum Uttira-naṭcettiramum Āyu<hi rend="grantha">ṣ</hi>ṭṭiṇa-ṉāma-yō  
+                    <lb n="6r=6" break="no"/>kamum keca-karaṇamum rācata-vēḷaiyum cukkiṟavō  
+                    <lb n="7r=7" break="no"/>raiyum kūṭiṉa maṅkaḷa-cupatiṉattil 
                 </p>
                 
-                <p>	mākāmēruviṉ  
+                <p>
+                    mākāmēruviṉ  
                     <lb n="8r=8"/>cuṟṟuṭaittāṉa na<choice><orig>m</orig><reg>v</reg></choice>a-kaṇṭa-p-piṟitivil-p pārata-kaṇ  
                     <lb n="9r=9" break="no"/>ṭattil-p pirinta kumari-kaṇṭattili-c cēra-cōḷa-pā  
                     <lb n="10r=10" break="no"/>ṇṭiyar pūmiyil-p pāṇṭi-maṇṭalattil līlā-viṉō  
@@ -150,8 +146,7 @@
                     <lb n="39r=39" break="no"/>kk' ēṟka Aḷantu kuṭuttu varuvōm ākavum Inta paṭi  
                     <lb n="40r=40" break="no"/>kku-c cakala-caṉa-cammatiyāka-t taṟma-cātaṉap paṭṭai  
                     <lb n="41r=41" break="no"/>yam eḷuti-k kuṭutta paṭiyiṉālē Aṭ<hi rend="grantha">ṣ</hi>aram tappāmal  
-                    <lb n="42r=42"/>naṭantu koḷvōm ākavum 
-                    
+                    <lb n="42r=42"/>naṭantu koḷvōm ākavum                    
                 </p>
                 
                 <p>
@@ -175,19 +170,20 @@
                 </p>
                 
                 
-                <p>	yintappaṭikku
+                <p>
+                    y-intappaṭikku
                     <lb n="8v=55"/>c-cammatittu t-tirukkōpura-t-tiruppaṇi-t-taṟmat
                     <lb n="9v=56" break="no"/>tukku-t tāṉa-cātaṉa-p-paṭṭaiyam Eḷuti-k kuṭut
                     <lb n="10v=57" break="no"/>tōm cāttūr neṉmēṉi vaṭalaipuram cēkara
                     <lb n="11v=58" break="no"/>m Ace<hi rend="grantha">ṣ</hi>ṭa vi<choice><orig>ṟṟ</orig><reg>tt</reg></choice>uva makācaṉaṅkaḷ mutalākiya
                     <lb n="12v=59"/>Uḷāvarkaḷōm y-ippaṭikku y-intappaṭṭaiyam E
                     <lb n="13v=60" break="no"/>ḷutiṉēṉ piṟacaṉṉa varatayyaṉ kumāraṉ kiṟāma
-                    <lb n="14v=61" break="no"/>k-kaṇakku c-cītar rāmayyaṉ <g type="pc"></g> 
+                    <lb n="14v=61" break="no"/>k-kaṇakku c-cītar rāmayyaṉ <g type="pc">.</g> 
                 </p>
                 
                 <p>
                     y-intappaṭikku c-cā
-                    <lb n="15v=62" break="no"/>ttūr makācaṉaṅkaḷ Oppam <g type="pc"></g> 
+                    <lb n="15v=62" break="no"/>ttūr makācaṉaṅkaḷ Oppam <g type="pc">.</g> 
                     
                     cuppārāyar makā<lb n="16v=63"/>tēvayyaṉ mukāraṉ 
                     cuppārāyar teṉkarai makā<lb n="17v=64"/>rācāvayyaṉ 
@@ -209,16 +205,27 @@
                     vaṭa
                     <lb n="26v=73"/>malaipuram makācaṉaṅkaḷ Oppam 
                     <list> 
-                        <item>Appācāmi Ayyaṉ</item><item><lb n="27v=74"/>muttayyaṉ</item><item>vēmpūr āṇṭi ayyaṉ</item> <item>rāmacuvāmi
-                            <lb n="28v=75"/>Ayyaṉ</item><item>veṅk<choice><orig>i</orig><reg>a</reg></choice>ṭa cuppayyaṉ</item> <item>mēlk kāntaik kō
-                                <lb n="29v=76" break="no"/>pāla Ayyaṉ</item> <item>ṉākappayyaṉ</item><item> ciṟukkuḷam Aṉantayya
-                                    <lb n="30v=77" break="no"/>ṉ</item> <item>muṭittalai veṅkiṭā<hi rend="grantha">ṣ</hi>alam ayyaṉ</item> <item>kocu kuṇṭuc
-                                        <lb n="31v=78"/>cuppayyaṉ</item> <item>meṭṭil ōṭṭi Aṇṇāvayyaṉ</item> <item>cāmi Ayya
-                                            <lb n="32v=79" break="no"/>ṉ</item> <item>cāttūr vaṇitam maṇiyam vētappa mutaliyār</item>
-                        <item><lb n="33v=80"/>cokkup piḷḷai</item> <item>caṅkaraliṅkam piḷḷai</item> <item>maturanāyakam</item> <item>cā
-                            <lb n="34v=81" break="no"/>ttūr appaṉ</item> <item>cēruvai ṉāṭṭuk kaṇakku Ayyaṉāpiḷḷai</item>
-                    </list> 
-                    
+                        <item>Appācāmi Ayyaṉ</item><item><lb n="27v=74"/>muttayyaṉ</item>
+                        <item>vēmpūr āṇṭi ayyaṉ</item>
+                        <item>rāmacuvāmi
+                            <lb n="28v=75"/>Ayyaṉ</item>
+                        <item>veṅk<choice><orig>i</orig><reg>a</reg></choice>ṭa cuppayyaṉ</item>
+                        <item>mēlk kāntaik kō
+                            <lb n="29v=76" break="no"/>pāla Ayyaṉ</item>
+                        <item>ṉākappayyaṉ</item><item> ciṟukkuḷam Aṉantayya
+                                <lb n="30v=77" break="no"/>ṉ</item>
+                        <item>muṭittalai veṅkiṭā<hi rend="grantha">ṣ</hi>alam ayyaṉ</item>
+                        <item>kocu kuṇṭuc
+                                    <lb n="31v=78"/>cuppayyaṉ</item>
+                        <item>meṭṭil ōṭṭi Aṇṇāvayyaṉ</item> <item>cāmi Ayya
+                                        <lb n="32v=79" break="no"/>ṉ</item>
+                        <item>cāttūr vaṇitam maṇiyam vētappa mutaliyār</item>
+                        <item><lb n="33v=80"/>cokkup piḷḷai</item>
+                        <item>caṅkaraliṅkam piḷḷai</item> <item>maturanāyakam</item>
+                        <item>cā
+                            <lb n="34v=81" break="no"/>ttūr appaṉ</item>
+                        <item>cēruvai ṉāṭṭuk kaṇakku Ayyaṉāpiḷḷai</item>
+                    </list>                     
                 </p>
                 <p>
                     cā
@@ -254,44 +261,6 @@
                     <lb n="53v=101"/><g type="pc"></g> kūmaraṉ tuṇai <g type="pc"></g>
                 </p>
                 
-                
-                
-                
-                <!--<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">dānapālanayōr maddhyē</l> 
-                    <l n="b">dānāt· cchreyo ’nupālanam· <g type="danda">.</g></l> 
-                    <l n="c">dānā<lb n="1v11=24" break="no"/>t· svargam avāpnōti</l> 
-                    <l n="d">pālanād acyutam· padam· <g type="ddanda">.</g></l> 
-                    </lg>
-                    
-                    <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">svadattāt· dviguṇam · puṇyam ·</l> 
-                    <l n="b">paradattānupā<add place="below" rend="mark">la</add>nam· <g type="danda">.</g></l> 
-                    <l n="c"><lb n="1v12=25"/>paradattāpahārēṇa</l> 
-                    <l n="d">svadattan niṣphalam · bhavēt·<g type="ddanda">.</g></l> 
-                    </lg>
-                    
-                    <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">svadattām· paradattāṁ vā</l> 
-                    <l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas<choice><sic>va</sic><corr>u</corr></choice>n <lb n="1v13=26" break="no"/>dharām <g type="danda">.</g></l> 
-                    <l n="c">ṣaṣṭi<surplus>r</surplus>-varṣa-sahasrāṇi</l> 
-                    <l n="d"> viṣṭhāyāñ jāyate kṛmiḥ <g type="ddanda">.</g></l> 
-                    </lg>
-                    
-                    <lg n="4" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">Ekaika bhaginī loke</l> 
-                    <l n="b"><lb n="1v14=27"/>sarvveṣām eva bhūbhujāḥ<g type="danda">.</g></l> 
-                    <l n="c">nā bhōjyā na k<unclear>a</unclear>ragrāhyā</l> 
-                    <l n="d">vipradattā vasundharāḥ<g type="ddanda">.</g></l> 
-                    </lg>
-                    
-                    <lg n="5" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">sā<lb n="1v15=28"/>māṉyo yan dharmma-setu<unclear>r</unclear> nṛpāṇāṁ</l>
-                    <l n="b">kāle kāle pālanīyo bhavat·bhi<supplied reason="omitted">ḥ</supplied> <g type="danda">.</g></l>
-                    <l n="c">sarvān etā<unclear>nn</unclear> <pb n="2r"/><lb n="2r1=29"/>bhāvinaḥ pā<supplied reason="omitted">r</supplied>tthivendr<choice><sic>a</sic><corr>ā</corr></choice>n ·</l>
-                    <l n="d">bhūyo bhūyo yācate rām acandraḥ <g type="ddanda">.</g></l>
-                    </lg>-->
-                
             </div>
             
             
@@ -312,11 +281,7 @@
             <div type="translation" resp="part:matr">
                 
                 <p n="1-2">....</p>
-                
-                
                 <!--specify the lines inside the <p> tag, as <p n="1">...</p>  ; when it's the translation of a stanza, <p rend="stanza" n="1"> </p> and the number is in this second type of translation tag is taken from the <lg> number-->
-                
-                
             </div>
             
             <!--<div type="commentary">
