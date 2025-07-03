@@ -34,23 +34,17 @@
                 <date from="2019" to="2025">2019-2025</date>
             </publicationStmt>
             <sourceDesc>
-                <!-- only the handDesc can be filled in at this stage -->
                 <msDesc>
-                    <!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
                     <msIdentifier>
                         <repository>DHARMAbase</repository>
                         <idno/>
-                        <!-- don't modify this -->
                     </msIdentifier>
                     <msContents>
-                        <!-- describe the intellectual content of an inscription -->
                         <summary>This grant records donation made by two caste groups - the Kōpālar and the Pōyaṇṭar (palanquin bearers).</summary>
-                        <!-- offers the possibility to give a summary of the inscription's content -->
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><!--<foreign>ka</foreign> and <foreign>ta</foreign> are very similar.--></p>
-                            
+                            <p><!--<foreign>ka</foreign> and <foreign>ta</foreign> are very similar.--></p>                            
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -91,26 +85,25 @@
                     ...
                 </p>
                 
-                
-                
+                                
                 <pb n="1v"/>
                 
                 <p> 
                     <lb n="1v4=33"/>... yinta tammam paripālaṉam paṇṇi
-                    <lb n="1v5=34"/>ṉavarkaḷukku keṅkaikkaraiyilum Āti
-                    <lb n="1v6=35"/>cētuvilum Āyiram civaliṅka pi<choice><sic>e</sic><corr>ra</corr></choice>tiṭ
-                    <lb n="1v7=36"/>ṭaiyum Āyiram kōtāṉam paṇṇiṉa pala
-                    <lb n="1v18=37"/>ṉai Aṭaivār Akutam niṉaittavarkaḷukku
+                    <lb n="1v5=34" break="no"/>ṉavarkaḷukku keṅkaikkaraiyilum Āti
+                    <lb n="1v6=35" break="no"/>cētuvilum Āyiram civaliṅka-pi<choice><sic>e</sic><corr>ra</corr></choice>tiṭ
+                    <lb n="1v7=36" break="no"/>ṭaiyum Āyiram kōtāṉam paṇṇiṉa pala
+                    <lb n="1v18=37" break="no"/>ṉai Aṭaivār Akutam niṉaittavarkaḷukku
                     <lb n="1v19=38"/>keṅkai-k karaiyilum Āticētuvilum
                     <lb n="1v20=39"/>Āyira kō-vataiyum śrīvataiyum ce
-                    <lb n="1v21=40"/>yita tōṣattil ppōkakaṭavō
+                    <lb n="1v21=40" break="no"/>yita tōṣattil ppōkakaṭavō
                     <lb n="1v22=41"/>RĀkavu=M 
                 </p>
                 
                 <p>
                     cakāṟttam <num value="1525"> <g type="numeral">1000</g> 5 <g type="numeral">100</g> 2 <g type="numeral">10</g> 5 </num> k=ku <hi rend="grantha">śa
-                    <lb n="1v23=42"/>kam·</hi> mēl-c cellā niṉṟa pava<hi rend="grantha">sam·</hi>
-                    <lb n="1v24=43"/>vassarattu uttarāyaṇa <g type="varuṣam"/>
+                    <lb n="1v23=42" break="no"/>kam·</hi> mēl-c cellā niṉṟa pava<hi rend="grantha">sam·</hi>
+                    <lb n="1v24=43" break="no"/>vassarattu uttarāyaṇa <g type="varuṣam"/>
                 </p>
                 
             

@@ -34,23 +34,17 @@
                 <date from="2019" to="2025">2019-2025</date>
             </publicationStmt>
             <sourceDesc>
-                <!-- only the handDesc can be filled in at this stage -->
                 <msDesc>
-                    <!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
                     <msIdentifier>
                         <repository>DHARMAbase</repository>
                         <idno/>
-                        <!-- don't modify this -->
                     </msIdentifier>
                     <msContents>
-                        <!-- describe the intellectual content of an inscription -->
                         <summary>The grant included a second plate, now lost.</summary>
-                        <!-- offers the possibility to give a summary of the inscription's content -->
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><!--<foreign>ka</foreign> and <foreign>ta</foreign> are very similar.--></p>
-                            
+                            <p><!--<foreign>ka</foreign> and <foreign>ta</foreign> are very similar.--></p>                            
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -84,16 +78,16 @@
         <body>
             
             <div type="edition" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:83215">		
-                
-                
+                                
                 <pb n="1r"/>
+                <ab>
+                    <lb n="1r1=1"/><hi rend="grantha">svasti</hi>
+                </ab>
                 <p>
-                    <lb n="1r1=1"/>svasti śrīmāt makāmaṇṭalecuraṉ Ariya taḷavip
+                    <hi rend="grantha">śrīmāT</hi> makāmaṇṭalēcuraṉ Ariya taḷavip
                     <lb n="1r2=2"/>āṭaṉ ...
-                    <lb n="1r46=46"/> ...
+                    <lb n="1r46=46"/>...
                 </p>
-                
-               
                 
                 <pb n="1v"/>
                 
@@ -101,11 +95,6 @@
                   <lb n="1v1=47"/>m miḻakiṭu pattai ...
                     <lb n="1v45=92"/>ṟ kellai miḻakiṭu pattai kollaikku 
                 </p>
-                
-               
-                
-     
-                  
                 
                 <!--  
                     
