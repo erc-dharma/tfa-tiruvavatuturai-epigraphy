@@ -34,18 +34,13 @@
                 <date from="2019" to="2025">2019-2025</date>
             </publicationStmt>
             <sourceDesc>
-                <!-- only the handDesc can be filled in at this stage -->
                 <msDesc>
-                    <!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
                     <msIdentifier>
                         <repository>DHARMAbase</repository>
                         <idno/>
-                        <!-- don't modify this -->
                     </msIdentifier>
                     <msContents>
-                        <!-- describe the intellectual content of an inscription -->
                         <summary>This plate records a gift of village to endow worship in Tirupperuntuṟai; the village was bought in auction by two individuals Kāṉkāri Tēvaṉ and Cintāṉ Puli Tēvan.</summary>
-                        <!-- offers the possibility to give a summary of the inscription's content -->
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -97,15 +92,14 @@
                 <pb n="1v"/>
                 
                 <p>
-                    <lb n="1v1=27"/>Inta taṉmam‌ yātām‌ Oruvar‌ paripālam‌ paṇṇiṉavar‌ nūṟu liṅkap‌ piṟatiṭṭaiyu‌ nūṟu 
-                    <lb n="1v2=28"/>kaṇṇiyātāṉamum‌ nūṟu kōtāṉamum‌ nūṟu pūtāṉamum‌ paṇṇiṉa palaṉ‌ Aṭaivār
-                    <lb n="1v3=29" break="no"/>kaḷ‌ Inta taṉmattukku yātām‌ Oruvar‌ akitam‌ paṇṇiṉavarkaḷ‌ keṅkaik‌ karaiyilē 
-                    <lb n="1v4=30"/>kārām‌ pacuvaiyum‌ māt pitāvaiyum‌ kuruvaiyum‌ koṇṇa tōṣat=tilē pōka ka
+                    <lb n="1v1=27"/>Inta taṉmam yātām Oruvar paripālam paṇṇiṉavar nūṟu liṅkap piṟatiṭṭaiyu nūṟu 
+                    <lb n="1v2=28"/>kaṇṇiyātāṉamum nūṟu kōtāṉamum nūṟu pūtāṉamum paṇṇiṉa palaṉ Aṭaivār
+                    <lb n="1v3=29" break="no"/>kaḷ Inta taṉmattukku yātām Oruvar akitam paṇṇiṉavarkaḷ keṅkaik karaiyilē 
+                    <lb n="1v4=30"/>kārām pacuvaiyum māt pitāvaiyum kuruvaiyum koṇṇa tōṣat=tilē pōka ka
                     <lb n="1v5=31" break="no"/>ṭavar ākavum
                 </p>
                 
-               
-                
+                               
                 <p></p>	
                 
                 <!--<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
@@ -205,3 +199,5 @@
     </text>
     
 </TEI>
+
+
