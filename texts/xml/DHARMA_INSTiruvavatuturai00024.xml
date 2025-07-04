@@ -34,22 +34,17 @@
                 <date from="2019" to="2025">2019-2025</date>
             </publicationStmt>
             <sourceDesc>
-                <!-- only the handDesc can be filled in at this stage -->
                 <msDesc>
-                    <!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
                     <msIdentifier>
                         <repository>DHARMAbase</repository>
                         <idno/>
-                        <!-- don't modify this -->
                     </msIdentifier>
                     <msContents>
-                        <!-- describe the intellectual content of an inscription -->
                         <summary>This grant records a gift of the Sethupathi king to the god in Avudayarkoyil.</summary>
-                        <!-- offers the possibility to give a summary of the inscription's content -->
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><!--<foreign>ka</foreign> and <foreign>ta</foreign> are very similar.--></p>
+                            <p></p>
                             
                         </handDesc>
                     </physDesc>
@@ -96,7 +91,7 @@
                     <pb n="1v"/>
                 
                 <p>
-                   <lb n="1v15=45"/>Intat taṟmattaip paripālaṉam paṇṇiṉavarkaḷ keṅkaikkarai
+                   <lb n="1v15=45"/>Intat taṟmattai-p paripālaṉam paṇṇiṉavarkaḷ keṅkai-k-karai
                    <lb n="1v16=46" break="no"/>yilē cētuvilē puṇṇiya <hi rend="grantha">sta</hi>laṅkaḷilē kōṭi civaliṅka-p piṟa 
                    <lb n="1v17=47" break="no"/>ti<hi rend="grantha">ṣṭ</hi>ai kōṭi kaṉṉikā tāṉam kōṭi Akki<hi rend="grantha">rā</hi>kāra-piṟati<hi rend="grantha">ṣṭai</hi>ai paṇṇiṉa 
                    <lb n="1v18=48"/>palaṉaiyaṭaivārkaḷ Inta tarmattukku Akitam paṇṇiṉavarkaḷ ke 
@@ -108,14 +103,14 @@
                     <l n="a">svadattād dviguṇam· puṇyam·</l> 
                     <l n="b">paradattānup<lb n="1v21=51" break="no"/>ālanam· <g type="danda">.</g></l> 
                     <l n="c">paradattāpahārēṇ<choice><sic>ā</sic><corr>a</corr></choice></l> 
-                    <l n="d">svadattam· niṣphalam· bhavēt·<g type="ddanda">.</g></l> <g type="pc"></g>
+                    <l n="d">svadattam· niṣphalam· bhavēt·<g type="ddanda">.</g> <g type="pc">.</g></l>
                     </lg>
                 
                 <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">Ekai<lb n="1v22=52" break="no"/><choice><sic>ka</sic><corr>va</corr></choice> bhaginī loke</l> 
                     <l n="b">sarvveṣām <choice><orig>i</orig><reg>e</reg></choice>va bhūbhujām· <g type="danda">.</g></l> 
                     <l n="c">nā bhōjyā na <choice><sic>ga</sic><corr>ka</corr></choice>ragrāhy<lb n="1v23=53" break="no"/>ā</l> 
-                    <l n="d">vipradattā vasundharā<g type="ddanda">.</g></l> <g type="pc"></g>
+                    <l n="d">vipradattā vasundharā<g type="ddanda">.</g> <g type="pc">.</g></l>
                     </lg>
                 
                 <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
@@ -131,23 +126,6 @@
                    <lb n="27v=57" break="no"/>ṉ vēlāyutaṉ kaiyeḻuttu <g type="pc"></g>
                 </p>
                 
-                <!--
-                    
-                    <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">svadattām· paradattāṁ vā</l> 
-                    <l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas<choice><sic>va</sic><corr>u</corr></choice>n <lb n="1v13=26" break="no"/>dharām <g type="danda">.</g></l> 
-                    <l n="c">ṣaṣṭi<surplus>r</surplus>-varṣa-sahasrāṇi</l> 
-                    <l n="d"> viṣṭhāyāñ jāyate kṛmiḥ <g type="ddanda">.</g></l> 
-                    </lg>
-                    
-                   
-                    
-                    <lg n="5" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">sā<lb n="1v15=28"/>māṉyo yan dharmma-setu<unclear>r</unclear> nṛpāṇāṁ</l>
-                    <l n="b">kāle kāle pālanīyo bhavat·bhi<supplied reason="omitted">ḥ</supplied> <g type="danda">.</g></l>
-                    <l n="c">sarvān etā<unclear>nn</unclear> <pb n="2r"/><lb n="2r1=29"/>bhāvinaḥ pā<supplied reason="omitted">r</supplied>tthivendr<choice><sic>a</sic><corr>ā</corr></choice>n ·</l>
-                    <l n="d">bhūyo bhūyo yācate rām acandraḥ <g type="ddanda">.</g></l>
-                    </lg>-->
                 
             </div>
             
