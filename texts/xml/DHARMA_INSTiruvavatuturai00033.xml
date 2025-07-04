@@ -88,13 +88,13 @@
                 
                 <pb n="1r"/>
                 <p>
-                   
+                    
                 </p>
                 
-               
                 
-     
-                  
+                
+                
+                
                 
                 <!--  
                     
@@ -103,23 +103,23 @@
                     <l n="b">paradattā<choice><sic>ra</sic><corr>nu</corr></choice>pālanam· <g type="danda">.</g></l> 
                     <l n="c">paradattāpahārēṇa</l> 
                     <l n="d">svadatt<choice><sic>ā</sic><corr>am</corr></choice> niṣphalam· bhavēt·<g type="ddanda">.</g></l> 
-                  </lg> 
-               
-                <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    </lg> 
+                    
+                    <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">dānapālanayōr mmaddhyē</l> 
                     <l n="b">dānāc chreyo ’nupālanam· <g type="danda">.</g></l>
                     <l n="c">dānāt svarga<lb n="1v24=55"/>m avāpnōti</l> 
                     <l n="d">pālanād acyutam· padam· <g type="ddanda">.</g> <g type="pc"/></l>
-                </lg> 
-                
-                <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    </lg> 
+                    
+                    <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">Ekaika bhaginī lok<lb n="1v25=56"/>e</l> 
                     <l n="b">sarvveṣām <choice><sic>i</sic><corr>e</corr></choice>va bhūbhujām· <g type="danda">.</g></l> 
                     <l n="c">nā bhōjyā na <choice><sic>ka</sic>k<corr>a</corr></choice>ragrāhyā</l> 
                     <l n="d">vipradattā va<lb n="1v26=57"/>sundharā<g type="ddanda">.</g></l><g type="pc"></g>
-                </lg>
-                
-          
+                    </lg>
+                    
+                    
                     <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">svadattām· paradattāṁ vā</l> 
                     <l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas<choice><sic>va</sic><corr>u</corr></choice>n <lb n="1v13=26" break="no"/>dharām <g type="danda">.</g></l> 
@@ -127,7 +127,7 @@
                     <l n="d"> viṣṭhāyāñ jāyate kṛmiḥ <g type="ddanda">.</g></l> 
                     </lg>
                     
-                   
+                    
                     
                     <lg n="5" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">sā<lb n="1v15=28"/>māṉyo yan dharmma-setu<unclear>r</unclear> nṛpāṇāṁ</l>
@@ -168,7 +168,7 @@
             
             <div type="bibliography">
                 
-       <!--     <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/41).</p> -->
+                <!--     <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/41).</p> -->
                 
                 <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 39). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
                 
@@ -183,16 +183,17 @@
                         <citedRange unit="item">40</citedRange>
                     </bibl>
                     
-               </listBibl>
+                </listBibl>
                 
-             <!--   <listBibl type="secondary">
+                <!--
+                    <listBibl type="secondary">
                     <bibl>
-                        <ptr target="bib:ARIE1986-1987"/>
-                        <citedRange unit="page">23</citedRange>
-                        <citedRange unit="item">41</citedRange>
-                    </bibl> -->
-                </listBibl>  
-           	    
+                    <ptr target="bib:ARIE1986-1987"/>
+                    <citedRange unit="page">23</citedRange>
+                    <citedRange unit="item">41</citedRange>
+                    </bibl> 
+                -->
+                
                 
             </div>
         </body>
