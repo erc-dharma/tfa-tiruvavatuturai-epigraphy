@@ -34,22 +34,17 @@
                 <date from="2019" to="2025">2019-2025</date>
             </publicationStmt>
             <sourceDesc>
-                <!-- only the handDesc can be filled in at this stage -->
                 <msDesc>
-                    <!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
                     <msIdentifier>
                         <repository>DHARMAbase</repository>
                         <idno/>
-                        <!-- don't modify this -->
                     </msIdentifier>
                     <msContents>
-                        <!-- describe the intellectual content of an inscription -->
                         <summary>This plate records the donation of part of the income of the pearl fisheries at Maṉṉār and Tūttukkuṭi to the temple in Āvuṭaiyārkōyil. The donor is allegedly Tirumalai Nāyakkar (r. 1623-1659), but the date on the plate (śaka 1461, A.D. 1539) does not correspond to the period of his reign.</summary>
-                        <!-- offers the possibility to give a summary of the inscription's content -->
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><!--<foreign>ka</foreign> and <foreign>ta</foreign> are very similar.--></p>
+                            <p></p>
                             
                         </handDesc>
                     </physDesc>
@@ -89,7 +84,7 @@
                 <pb n="1r"/>
                 
                 <ab>
-                    <lb n="1r1=1"/><g type="pc"></g> muttu-cilā-p-paṭṭayam <g type="pc"></g> civayōka-ṉāyaki tuṇai <g type="pc"></g>
+                    <lb n="1r1=1"/><g type="pc"/> muttu-cilā-p-paṭṭayam <g type="pc"></g> civayōka-ṉāyaki tuṇai <g type="pc">.</g>
                 </ab>
                 
                 <p>	

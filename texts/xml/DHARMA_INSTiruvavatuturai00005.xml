@@ -34,22 +34,17 @@
                 <date from="2019" to="2025">2019-2025</date>
             </publicationStmt>
             <sourceDesc>
-                <!-- only the handDesc can be filled in at this stage -->
                 <msDesc>
-                    <!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
                     <msIdentifier>
                         <repository>DHARMAbase</repository>
                         <idno/>
-                        <!-- don't modify this -->
                     </msIdentifier>
                     <msContents>
-                        <!-- describe the intellectual content of an inscription -->
-                        <summary>This plate records a gift from Cēṭṭiyār and Uṭaiyār temple right-owners. </summary>
-                        <!-- offers the possibility to give a summary of the inscription's content -->
+                        <summary>This plate records a gift from Cēṭṭiyār and Uṭaiyār temple right-owners.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><!--<foreign>ka</foreign> and <foreign>ta</foreign> are very similar.--></p>
+                            <p></p>
                             
                         </handDesc>
                     </physDesc>
@@ -88,14 +83,14 @@
                 <pb n="1r"/>
                 
                 <ab> 	
-                    <lb n="1r1=1"/><g type="pc"></g> cupam a<hi rend="grantha">s</hi>tu
+                    <lb n="1r1=1"/><g type="pc"/> cupam a<hi rend="grantha">s</hi>tu
                 </ab>
                 
                 <p> 
-                    <hi rend="grantha">srī</hi>maṉ makā maṇṭalēcuraṉ ariyarāya
-                    <lb n="1r2=2"/>vipāṭaṉ pā<hi rend="grantha">ṣai</hi>kkut tappuvarāya kaṇṭaṉ kaṇṭa 
+                    <hi rend="grantha">srī</hi>maṉ-makā-maṇṭalēcuraṉ Ariyarāya
+                    <lb n="1r2=2"/>vipāṭaṉ pā<hi rend="grantha">ṣai</hi>kku-t tappuvarāya kaṇṭaṉ kaṇṭa 
                     <lb n="1r3=3"/>nāṭu koṇṭu koṇṭa nāṭu koṭātāṉ pūṟuva 
-                    <lb n="1r4=4"/>pa<hi rend="grantha">kṣ</hi>cima Uttara te<hi rend="grantha">kṣa</hi>ṇa cattacamuttirātipati
+                    <lb n="1r4=4" break="no"/>-pa<hi rend="grantha">ṣ</hi>cima-Uttara-te<hi rend="grantha">ṣa</hi>ṇa-catta-camuttirātipati
                     <lb n="1r5=5"/>rācātirācaṉ rāca-paramēcuraṉ rāca-māttāṇṭa
                     <lb n="1r6=6" break="no"/>ṉ rāca-kempīraṉ rāca-p-piṟatāpaṉ pūlōka tēvē
                     <lb n="1r7=7" break="no"/>ntiraṉ Aṉṉa-la<choice><orig><hi rend="grantha">ṣ</hi>cu</orig><reg>ṭcu</reg></choice>mi cōṟṉa-la<choice><orig><hi rend="grantha">ṣ</hi>cu</orig><reg>ṭcu</reg></choice>mi cantāṉa
@@ -120,83 +115,49 @@
                     <lb n="1r22=22" break="no"/>ḷ piṟitivirācciyam paṇṇi Aruḷa Akkāriyattukku
                     
                     <pb n="1v"/>
-                    <lb n="1v1=23"/>kaṟttaRĀṉa muttu vacavā reṭṭiyār avarkaḷ
-                    <lb n="1v2=24"/>vācal piṟatāṉi nantiyappa piḷḷai-y-avarkaḷ
+                    <lb n="1v1=23"/>kaṟttaRĀṉa muttu vacavā-reṭṭiyār avarkaḷ
+                    <lb n="1v2=24"/>vācal piṟatāṉi nantiyappa-piḷḷai-y-avarkaḷ
                     <lb n="1v3=25"/>rācciya paripā<supplied reason="omitted">la</supplied>ṉam paṇṇukaiyil mēlaiccitam
-                    <lb n="1v4=26" break="no"/>param reṟṟiṉa capaiyākiya tiruppaiññīliyil
+                    <lb n="1v4=26" break="no"/>param reṟṟiṉa capai-y-ākiya tiruppaiññīliyil
                 </p>
                 <p>
                     <lb n="1v5=27"/>nīlivaṉa nāta cuvāmi vicālā<choice><orig>ṣ</orig><reg>ṭ</reg></choice>ci Ammaṉ Atta
                     <lb n="1v6=28"/>cāma kaṭṭaḷai Apiṣēka <add place="below">kāviri tirumañcaṉam</add> neyvēttiyam tiruṉantavaṉa
-                    <lb n="1v7=29"/>m maṭat=tu tanmattukkum tuṟaiyūril mukavaṉūr Uṟa 
-                    <lb n="1v8=30"/>viṉ muṟaiyār Āyiravar kārkuṭi Uṟaviṉ muṟaiyār
+                    <lb n="1v7=29" break="no"/>m maṭat=tu tanmattukkum tuṟaiyūril mukavaṉūr Uṟa 
+                    <lb n="1v8=30" break="no"/>viṉ muṟaiyār Āyiravar kārkuṭi Uṟaviṉ muṟaiyār
                     <lb n="1v9=31"/>rum kōmuṭṭi ceṭ=ṭimārum Ammaṉpēṭṭai Oṟa muṟai 
-                    <lb n="1v10=32"/>yār Aṉavaruṅ kūṭi civappiṟakāca cuvāmiyār caṉṉa 
-                    <lb n="1v11=33"/>tiyil caṭai Ampalavāṇa tampirāṉ avarkaḷ kaiyil maka 
-                    <lb n="1v12=34"/>mai tāmpiracātaṉam eḻuti koṭuttapaṭi<add place="below">yaiṉ</add> potiyuṭa<choice><orig>n</orig><reg>ṉ</reg></choice>ē cēn
-                    <!-- 	<lb n="1v13=35"/>ttukkuṭi [blank: how to mark it?] niṟaiyuṭaṉē cekantatukku (pupam) kā
-                        <lb n="1v14=36"/>yatāṉiyattuṭaṉē cēntatukku… 60 āṭu 105
-                        <lb n="1v15=37"/>yintappaṭi kōyil aṟtacāma kaṭṭaḷaikku iru paṅkum
+                    <lb n="1v10=32" break="no"/>yār Aṉavaruṅ kūṭi civappiṟakāca cuvāmiyār caṉṉa 
+                    <lb n="1v11=33" break="no"/>tiyil caṭai Ampalavāṇa tampirāṉ avarkaḷ kaiyil maka 
+                    <lb n="1v12=34" break="no"/>mai tāmpiracātaṉam Eḻuti koṭutta paṭi<add place="below" rend="mark">yaiṉ</add> potiyuṭa<choice><orig>n</orig><reg>ṉ</reg></choice>ē cēn <space type="unclassified" quantity="3" unit="character"/>
+                    <!--<lb n="1v13=35"/>ttukkuṭi [blank: how to mark it?] <space type="unclassified" quantity="3" unit="character"/ niṟaiyuṭaṉē cekantatukku (pupam) kā
+                        <lb n="1v14=36"/>yatāṉiyattuṭaṉē cēntatukku… 60 Āṭu 105
+                        <lb n="1v15=37"/>y-inta-p paṭi kōyil aṟtacāma kaṭṭaḷaikku iru paṅkum
                         <lb n="1v16=38"/>maṭattil paratēci cīmāyēcura pūcaikku /oru paṅku\m mutaliyāravarkaḷ coṟpaṭi-->
-                    <lb n="1v17=39"/>naṭappittu koḷḷak kaṭavarākavum
+                    <lb n="1v17=39"/>naṭappittu koḷḷak kaṭavar ākavu=m
                 </p>
                 <p>	
-                    yinta taṉmattuk=ku yātāmōru
-                    <lb n="1v18=40"/>var vākkuc cakāyam Aṟta cakāyam carīra cakāyam paṇṇiṉa pēr
-                    <lb n="1v19=41"/>kaḷ kāciyil keṅkā s<choice><orig>tā</orig><reg>nā</reg></choice>ṉapaṇṇiṉa palanum citamparam
-                    <lb n="1v20=42"/>viruttācalam tiru Aṇṇāmalai tiruk=kāḷatti tiruvārūr 
-                    <lb n="1v21=43"/>maturai RĀmēcuram piṉṉai{yum} Aṉēkam kōṭi civastala 
-                    <lb n="1v22=44"/>ṅkaḷilum viṣṇu stalaṅkaḷilum pōyc civakeṅkai mu
-                    <lb n="1v23=45"/>talākiya puṇṇiya tīṟtaṅkaḷilē s<choice><orig>t</orig><reg>n</reg></choice>āṉam paṇṇi cāmi te 
+                    y-inta taṉmattuk=ku yātām ōru
+                    <lb n="1v18=40" break="no"/>var vākku-c cakāyam Aṟta cakāyam carīra cakāyam paṇṇiṉa pēr
+                    <lb n="1v19=41" break="no"/>kaḷ kāciyil keṅkā s<choice><orig>tā</orig><reg>nā</reg></choice>ṉa paṇṇiṉa palanum citamparam
+                    <lb n="1v20=42"/>viruttācalam tiru-Aṇṇāmalai tiru-k=-kāḷatti tiru-v-ārūr 
+                    <lb n="1v21=43"/>maturai RĀmēcuram piṉṉaiyu=m Aṉēkam kōṭi civastala 
+                    <lb n="1v22=44" break="no"/>ṅkaḷilum viṣṇu stalaṅkaḷilum pōy-c civa-keṅkai mu
+                    <lb n="1v23=45" break="no"/>tal-ākiya puṇṇiya tīṟtaṅkaḷilē s<choice><orig>t</orig><reg>n</reg></choice>āṉam paṇṇi cāmi te 
                     <lb n="1v24=46"/>ricaṉam paṇṇiṉa palanum pe<choice><orig>t=t</orig><reg>ṟṟ</reg></choice>u pirāmaṇa-pōcaṉam civa-pūcai- 
-                    <lb n="1v25=47"/>kuru-pūcai-mayēcura-pūcai paṇṇiṉa palaṉum pe<choice><orig>t=t</orig><reg>ṟṟ</reg></choice>u put=tira pavut=tira 
-                    <lb n="1v26=48"/>kaḷ tirātiyaḷ uṭaṉē makāpākkiya-vāṉāy iruppārkaḷ yin
-                    <lb n="1v27=49"/>ta tarmat=tuk=ku vikātam paṇṇi<add place="below">ṉa</add>varkaḷ keṅkaik=ka 
-                    <lb n="1v28=50"/>raiyil kĀRām pacuvai koṉṟa tōṣat=tilē<abbr>yum</abbr> mātā
-                    <lb n="1v29=51"/>pitāvai kuruvai koṉṟa tōṣat=tilē pōvārkaḷ
+                    <lb n="1v25=47" break="no"/>kuru-pūcai-mayēcura-pūcai paṇṇiṉa palaṉum pe<choice><orig>t=t</orig><reg>ṟṟ</reg></choice>u put=tira pavut=tira 
+                    <lb n="1v26=48" break="no"/>kaḷ tirātiyaḷ-uṭaṉē makā-pākkiya-vāṉāy iruppārkaḷ y-in
+                    <lb n="1v27=49" break="no"/>ta tarmat=tuk=ku vikātam paṇṇi<add place="below">ṉa</add>varkaḷ keṅkai-k=ka 
+                    <lb n="1v28=50" break="no"/>raiyil kĀRām pacuvai koṉṟa tōṣat=tilē<abbr>yum</abbr> mātā
+                    <lb n="1v29=51" break="no"/>-pitāvai kuruvai koṉṟa tōṣat=tilē pōvārkaḷ
                 </p>
                 
                 <p>
-                    <lb n="1v30=52"/>yitaṟku taṟkuṟimukavaṉūr Uṟaviṉ muṟaiyĀR kōmuṭṭi
+                    <lb n="1v30=52"/>y-itaṟku taṟkuṟimukavaṉūr Uṟaviṉ muṟaiyĀR kōmuṭṭi
                     <lb n="1v31=53"/>ceṭṭimār Aṉaivarum <unclear>Ā</unclear>yiravar Aṉaivaru<hi rend="grantha">m·</hi> kārkuṭi Uṟavi
                     <lb n="1v32=54"/>ṉ muṟaiyar Ammaṉ pēṭṭaiyār Aṉaivarum <g type="pc"></g> cā<choice><orig>ṣ</orig><reg>ṭ</reg></choice>ci
-                    <lb n="1v33=55"/>Ampalavāṇar <g type="pc"></g>
+                    <lb n="1v33=55"/>Ampalavāṇar <g type="pc">.</g>
                 </p>
                 
-                <!--<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">dānapālanayōr maddhyē</l> 
-                    <l n="b">dānāt· cchreyo ’nupālanam· <g type="danda">.</g></l> 
-                    <l n="c">dānā<lb n="1v11=24" break="no"/>t· svargam avāpnōti</l> 
-                    <l n="d">pālanād acyutam· padam· <g type="ddanda">.</g></l> 
-                    </lg>
-                    
-                    <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">svadattāt· dviguṇam · puṇyam ·</l> 
-                    <l n="b">paradattānupā<add place="below" rend="mark">la</add>nam· <g type="danda">.</g></l> 
-                    <l n="c"><lb n="1v12=25"/>paradattāpahārēṇa</l> 
-                    <l n="d">svadattan niṣphalam · bhavēt·<g type="ddanda">.</g></l> 
-                    </lg>
-                    
-                    <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">svadattām · paradattāṁ vā</l> 
-                    <l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas<choice><sic>va</sic><corr>u</corr></choice>n <lb n="1v13=26" break="no"/>dharām <g type="danda">.</g></l> 
-                    <l n="c">ṣaṣṭi<surplus>r</surplus>-varṣa-sahasrāṇi</l> 
-                    <l n="d"> viṣṭhāyāñ jāyate kṛmiḥ <g type="ddanda">.</g></l> 
-                    </lg>
-                    
-                    <lg n="4" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">Ekaika bhaginī loke</l> 
-                    <l n="b"><lb n="1v14=27"/>sarvveṣām eva bhūbhujāḥ<g type="danda">.</g></l> 
-                    <l n="c">nā bhōjyā na k<unclear>a</unclear>ragrāhyā</l> 
-                    <l n="d">vipradattā vasundharāḥ<g type="ddanda">.</g></l> 
-                    </lg>
-                    
-                    <lg n="5" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">sā<lb n="1v15=28"/>māṉyo yan dharmma-setu<unclear>r</unclear> nṛpāṇāṁ</l>
-                    <l n="b">kāle kāle pālanīyo bhavat·bhi<supplied reason="omitted">ḥ</supplied> <g type="danda">.</g></l>
-                    <l n="c">sarvān etā<unclear>nn</unclear> <pb n="2r"/><lb n="2r1=29"/>bhāvinaḥ pā<supplied reason="omitted">r</supplied>tthivendr<choice><sic>a</sic><corr>ā</corr></choice>n ·</l>
-                    <l n="d">bhūyo bhūyo yācate rām acandraḥ <g type="ddanda">.</g></l>
-                    </lg>-->
                 
             </div>
             
