@@ -201,13 +201,13 @@
                 </listBibl>
                 
                
-                    <listBibl type="secondary">
+                <listBibl type="secondary">
                     <bibl>
                     <ptr target="bib:ARIE1986-1987"/>
                     <citedRange unit="page">19</citedRange>
                     <citedRange unit="item">22</citedRange>
                     </bibl> 
-               
+                </listBibl>
                 
             </div>
         </body>
