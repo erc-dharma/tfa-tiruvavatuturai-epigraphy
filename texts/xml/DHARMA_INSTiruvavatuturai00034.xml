@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Miḻalai Nāṭu's Kāṭaṅkuṭi's grant, Śaka year 1659</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:matr">
+                        <forename>Margherita</forename>
+                        <surname>Trento</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Aubervilliers</pubPlace>
+                <idno type="filename">DHARMA_INSTiruvavatuturai00034</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Margherita Trento.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- only the handDesc can be filled in at this stage -->
+                <msDesc>
+                    <!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                        <!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents>
+                        <!-- describe the intellectual content of an inscription -->
+                        <summary></summary>
+                        <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!--<foreign>ka</foreign> and <foreign>ta</foreign> are very similar.--></p>
+                            
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:matr" when="2024-03-21">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:83215">		
+                
+                
+                <pb n="1r"/>
+                <p>
+                    ...
+                </p>
+                
+                <pb n="1v"/>
+                
+                <p>
+                    <lb n="1r15=54"/> .. Āḷu 
+                    <lb n="1r15=55" break="no"/>ṭaiya nāyaṉar <hi rend="grantha">śrī</hi>paṇṭāra-k-kaṭavuḷarukku Āca 
+                    <lb n="1r16=56" break="no"/>ntirākka <hi rend="grantha">stā</hi>yiyāka Aṉupavittu koḷḷa-k kaṭa
+                    <lb n="1r17=57" break="no"/>vōr ākavum nammai cā<choice><orig>ṟ</orig><reg>r</reg></choice>nta maṉucar makkaḷ ellārum 
+                    <lb n="1r18=58"/>yinta taṟmattukku Oru cillaṟaiyaḷum varāmal tarmat
+                    <lb n="1r19=59" break="no"/>tai paripālaṉam paṇṇi uttirōttiramāka naṭappivikka 
+                    <lb n="1r20=60"/>k-kaṭavōr ākavum yintapaṭikku Āḷuṭaiya nāyaṉā 
+                    <lb n="1r21=61" break="no"/>r <hi rend="grantha">śrī</hi>paṇṭāra-k-kaṭavuḷarukku maṉappūṟuvamāka Apimāṉi 
+                    <lb n="1r22=62" break="no"/><choice><orig>ccu</orig><reg>ttu</reg></choice> caṟuvamāṉiya paṭṭayam paṇṇi-k koṭuttōm 
+                    <lb n="1r23=63"/>yinta taṟmattai paripālaṉam paṇṇiṉavarkaḷ keṅ 
+                    <lb n="1r24=64" break="no"/>kai-k karaiyilum Āti-cētuvilum puṇṇiya<hi rend="grantha">kṣē</hi>t 
+                    <lb n="1r25=65" break="no"/>tiraṅkaḷilum Aṉēkaṅ kōṭi piṟama-piṟitiṭṭaiyum a 
+                    <lb n="1r26=66" break="no"/>ṉēkaṅ kōṭi civaliṅka-piṟitiṭṭaiyum paṇṇi 
+                    <lb n="1r27=67" break="no"/>ṉa taṟmattai yaṭaiyvār ākavum yinta taṟmattukku 
+                    <lb n="1r28=68"/>yātām oruvar vikātañ cillaṟaiyaḷ paṇṇiṉava 
+                    <lb n="1r29=69" break="no"/>rkaḷ keṅkaikkaraiyilum Āti-cētuvilum Aṉēka 
+                    <lb n="1r30=70" break="no"/>ṅ ‌kōṭi kōvatai paṇṇiṉa tō<hi rend="grantha">ṣa</hi>ttilum mātāpi 
+                    <lb n="1r31=71"/>tāvai vataiceyita tō<hi rend="grantha">ṣa</hi>ttilum kōṭi piṟamakatti 
+                    <lb n="1r32=72"/>paṇṇiṉa tō<hi rend="grantha">ṣa</hi>ttilum pōka-k kaṭavār ākavum
+                    <lb n="1r33=73"/>Intapaṭikki taṟmattukku taṟma-cācaṉa-p-paṭṭayam
+                    <lb n="1r34=74"/>paṇṇi koṭuttōm Ēkapperumāḷ-t toṇṭaimā 
+                    <lb n="1r35=75" break="no"/>ṉār poṉṉam‌pala toṇṭaimāṉār avarkaḷ <hi rend="grantha">śrī</hi> Ā
+                    <lb n="1r36=76" break="no"/>ḷuṭaiya nayiṉār śrī paṇṭārak kaṭavuḷarukku yin 
+                    <lb n="1r37=77" break="no"/>ta paṭikku Āvuṭaiya-p pācāri veṭṭeḷuttu
+                    
+                </p>
+                
+                
+                
+                
+                
+                <!--  
+                    
+                    <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <l n="a">svada<lb n="1v25=44"/>ttād dviguṇam· puṇyam·</l> 
+                    <l n="b">paradattā<choice><sic>ra</sic><corr>nu</corr></choice>pālanam· <g type="danda">.</g></l> 
+                    <l n="c">paradattāpahārēṇa</l> 
+                    <l n="d">svadatt<choice><sic>ā</sic><corr>am</corr></choice> niṣphalam· bhavēt·<g type="ddanda">.</g></l> 
+                    </lg> 
+                    
+                    <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <l n="a">dānapālanayōr mmaddhyē</l> 
+                    <l n="b">dānāc chreyo ’nupālanam· <g type="danda">.</g></l>
+                    <l n="c">dānāt svarga<lb n="1v24=55"/>m avāpnōti</l> 
+                    <l n="d">pālanād acyutam· padam· <g type="ddanda">.</g> <g type="pc"/></l>
+                    </lg> 
+                    
+                    <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <l n="a">Ekaika bhaginī lok<lb n="1v25=56"/>e</l> 
+                    <l n="b">sarvveṣām <choice><sic>i</sic><corr>e</corr></choice>va bhūbhujām· <g type="danda">.</g></l> 
+                    <l n="c">nā bhōjyā na <choice><sic>ka</sic>k<corr>a</corr></choice>ragrāhyā</l> 
+                    <l n="d">vipradattā va<lb n="1v26=57"/>sundharā<g type="ddanda">.</g></l><g type="pc"></g>
+                    </lg>
+                    
+                    
+                    <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <l n="a">svadattām· paradattāṁ vā</l> 
+                    <l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas<choice><sic>va</sic><corr>u</corr></choice>n <lb n="1v13=26" break="no"/>dharām <g type="danda">.</g></l> 
+                    <l n="c">ṣaṣṭi<surplus>r</surplus>-varṣa-sahasrāṇi</l> 
+                    <l n="d"> viṣṭhāyāñ jāyate kṛmiḥ <g type="ddanda">.</g></l> 
+                    </lg>
+                    
+                    
+                    
+                    <lg n="5" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <l n="a">sā<lb n="1v15=28"/>māṉyo yan dharmma-setu<unclear>r</unclear> nṛpāṇāṁ</l>
+                    <l n="b">kāle kāle pālanīyo bhavat·bhi<supplied reason="omitted">ḥ</supplied> <g type="danda">.</g></l>
+                    <l n="c">sarvān etā<unclear>nn</unclear> <pb n="2r"/><lb n="2r1=29"/>bhāvinaḥ pā<supplied reason="omitted">r</supplied>tthivendr<choice><sic>a</sic><corr>ā</corr></choice>n ·</l>
+                    <l n="d">bhūyo bhūyo yācate rām acandraḥ <g type="ddanda">.</g></l>
+                    </lg>-->
+                
+            </div>
+            
+            
+            <!--<div type="apparatus">
+                <!-\-apparatus encoded as per EGD §9.1, basic elements for apparatus below-\->
+                
+                <listApp><!-\- one <app> for each apparatus entry -\->
+                
+                <app loc="line"><!-\- update the value of @loc. (this always refers to line beginning)-\->
+                <lem><!-\- fill in a lemma here (as I read it)-\-></lem>
+                <rdg source="bib:Kirusnamurtti2000_01"><!-\- update the @source value, fill in variant reading here -\-></rdg>
+                <note>...</note>
+                </app>
+                
+                </listApp>
+                </div>-->
+            
+            <div type="translation" resp="part:matr">
+                
+                <p n="1-2">....</p>
+                
+                
+                <!--specify the lines inside the <p> tag, as <p n="1">...</p>  ; when it's the translation of a stanza, <p rend="stanza" n="1"> </p> and the number is in this second type of translation tag is taken from the <lg> number-->
+                
+                
+            </div>
+            
+            <!--<div type="commentary">
+                </div>-->
+            
+            <div type="bibliography">
+                
+                  <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/22).</p> 
+                
+                <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 41). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
+                
+                <p>This edition is by Margherita Trento (2025), based on EFEO photographs (2015).
+                </p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="K">
+                        <ptr target="bib:Kirusnamurtti2000_01"/>
+                        <citedRange unit="page">175-178</citedRange>
+                        <citedRange unit="item">41</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+               
+                    <listBibl type="secondary">
+                    <bibl>
+                    <ptr target="bib:ARIE1986-1987"/>
+                    <citedRange unit="page">19</citedRange>
+                    <citedRange unit="item">22</citedRange>
+                    </bibl> 
+               
+                
+            </div>
+        </body>
+    </text>
+    
+</TEI>
