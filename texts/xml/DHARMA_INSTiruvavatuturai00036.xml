@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Aḻuñci Ēntal grant, Śaka year 1663</title>
+                <title>Maṇamēlkoṭi grant, Śaka year 1654</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:matr">
@@ -20,7 +20,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Aubervilliers</pubPlace>
-                <idno type="filename">DHARMA_INSTiruvavatuturai00035</idno>
+                <idno type="filename">DHARMA_INSTiruvavatuturai00036</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -88,21 +88,13 @@
                 
                 <pb n="1r"/>
                 <p>
-                    ...
+                 27 […] Ituvē paṭṭaiyamākak kāṭṭu koṇṭu kīḻ nōkki 28 ya viruṭcamum uḷḷavaraikkum cantirāttivaraikkum āṇṭaṉupavittuk koṇ 29. Ṭu mayēcura pūcai naṭattiviccuk koṇṭu cukattilēyirukkavum inta taṟmattai yā 30. Tāmoruttar paripālaṉam paṇṇiṉa pōrkaḷ aṉēkam kōtāṉa pūtāṉa kaṉṉikātāṉam 34. Akkirakārap piratiṣṭai paṇṇiṉa palaṉ peṟṟuk kayilācivāciyā yi 32 ruppārkaḷ. Intappaṭikku intap paṭṭaiyam eḻutiṉa naṉmaikku aṭṭavaṇai vīrappaṉ 33 kaiyyeḻuttu u
                 </p>
                 
                 <pb n="1v"/>
                 
                 <p>
-                  <lb n="1v4=38"/>Intat tarmattai yātām oruvar paripālaṉam paṇṇi 
-                  <lb n="1v5=39" break="no"/>ṉa pērkaḷ Aṉēka kō-tāṉam pū-tāṉaṅ kaṉṉikā-tāṉam 
-                  <lb n="1v6=40"/>Aṉēka civa-p-piṟati<hi rend="grantha"><choice><sic>kṣai</sic><corr>ṣṭai</corr></choice></hi> paṇṇiṉa payaṉ piṟantu cukat 
-                  <lb n="iv7=41" break="no"/>tilē yiruppārkaḷ Inta-t taṟmattai yātām oruva
-                  <lb n="1v7=42" break="no"/>r ‌vikātam paṇṇiṉa pērkaḷ keṅkai-k karaiyilē A
-                  <lb n="1v8=43" break="no"/>ṉēka kōṭi kārām pacuvaiyum Aṉēka kōṭi pirāma 
-                  <lb n="1v9=44" break="no"/>ṇaraiyum mātā-pitāvaiyum vataitta tō<hi rend="grantha">ṣa</hi>tti 
-                  <lb n="1v10=45" break="no"/>lē pōvārkaḷ ākavum Intat tāmpira-cātaṉa-p-paṭṭai 
-                  <lb n="1v11=46" break="no"/>yam Aṭṭavaṇai-c citamparanātaṉ kaiyyeḻuttu                 
+                  4 intat taṉmattai yātāmoruvar paripālaṉam paṇṇi 35 ṉa pērkaḷ kōṭi kaṉṉikātāṉam paṇṇiṉa palaṉ peṟuvā. 36 Rkaḷ. Akutam paṇṇiṉa pēr keṅkai karaiyilē kāra 37 ram pacuvaiyum cētukkaraiyilē pirāmaṇaṉaik koṉṟa 38 tōṣattilē atat papapa vaṉ 2 āvuṭaiyār tuṇai. 39 Intap paṭṭaiyam yeḷuti[ṉa]vaṉ āvu[ṭai]yār kōvilyirukkuma 40 makiḷrāvaṇam ācāri. 
                 </p>
                 
                 
@@ -181,7 +173,7 @@
             
             <div type="bibliography">
                 
-                  <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/43).</p> 
+               <!--   <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/43).</p>  -->
                 
                 <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 43). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
                 
@@ -199,14 +191,14 @@
                 </listBibl>
                 
                
-                <listBibl type="secondary">
+          <!--      <listBibl type="secondary">
                     <bibl>
                     <ptr target="bib:ARIE1986-1987"/>
                     <citedRange unit="page">23</citedRange>
                     <citedRange unit="item">43</citedRange>
                     </bibl> 
                 </listBibl>
-                
+                -->
             </div>
         </body>
     </text>
