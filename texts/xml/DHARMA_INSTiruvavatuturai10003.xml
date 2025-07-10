@@ -5,852 +5,852 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of Parakesarivarman, year 36</title>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:reda">
-						<forename>Renato</forename>
-						<surname>Dávalos</surname>
-					</persName>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>					
-					<persName ref="part:rama">
-						<name>N. Ramaswamy</name>
-					</persName>
-					<persName ref="part:matr">
-						<forename>Margherita</forename>
-						<surname>Trento</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>EpiDoc Encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Aubervilliers</pubPlace>
-				<idno type="filename">DHARMA_INSTiruvavatuturai10003</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2026 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-					    <summary>Land donation, after sale/purchase, by Tāyaṅ Kaṭaṉ, lord of Vīramāṅkuṭi, to the Lord (<foreign>āḷvār</foreign>) of Tiruvāvaṭutuṟai, for appointing hymn singers, gardeners, and flower garnishers, for daily food offerings for the god and for feeding Śivayogins and Paṉmāheśvaras (great devotees of Śiva) on seven specified festival days.</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
-								nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union's Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<!-- UPDATE the link once the release is made official -->
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-02-14">Creation of the file.</change>
-		</revisionDesc>
-	</teiHeader>
-
-	<text xml:space="preserve">
-
-<body>
-
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-            	
-    <ab>
-        <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">First Wall Portion</label>
-        <lb n="A01=01"/>na<hi rend="grantha">maś śi</hi>vā
-        <lb n="A01=02" break="no"/>ya <hi rend="grantha">svasti śrī</hi>
-    </ab>
-    
-    <p>		
-        <lb n="A1=1"/>mat<choice><orig>i</orig><reg>u</reg></choice>rai koṇṭa
-        <lb n="A2=2"/>kō-p-para-kēcari-pa
-        <lb n="A3=3" break="no"/><hi rend="grantha">nma</hi><reg>r</reg>kk<choice><orig>i</orig><reg>u</reg></choice> <unclear>y</unclear>āṇṭu <num value="36">3 <g type="numeral">10</g> 6</num>-Āvatu
-    </p>
-    
-    <p>
-        <lb n="A4=4"/>teṉ-karai-t tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu
-        <lb n="A5=5"/><hi rend="grantha">brahma</hi>tēyañ cāttaṉūr <hi rend="grantha">śrī</hi>-tiru
-        <lb n="A6=6" break="no"/>-v-āvaṭu-tuṟ<unclear>ai</unclear> Āḷvārkku Ivar aṭiyē
-        <lb n="A7=7" break="no"/>ṉ miṟai-k-<unclear>kū</unclear>ṟṟattu v<choice><orig>i</orig><reg>ī</reg></choice>ra-māṅku
-        <lb n="A8=8" break="no"/>ṭaiyāṉ t<unclear>ā</unclear>yaṅ-kāṭaṉ-ēṉ
-        ciṟu-pu
-        <lb n="A9=9" break="no"/>liyūr <hi rend="grantha">sabhai</hi>yār iṭai Iṟai-Ili koṇ
-        <lb n="A10=10" break="no"/>ṭa nilamum
-        ci<unclear>ṟ</unclear>ṟāṉ<unclear>ai</unclear>ccūr-k koṇṭu I
-        <lb n="A11=11" break="no"/>ṟai-y-i<unclear>li</unclear> ceyta nilamum
-    </p>
-    
-    <p>
-        Ivv-iraṇ
-        <lb n="A12=12" break="no"/>ṭu <gap reason="illegible" quantity="1" unit="character"/> <hi rend="grantha">sabhai</hi>yār <unclear>i</unclear>ṭaiyum can=tirātitta
-        <lb n="A13=13" break="no"/>-val Iṟai kāppat’ āka-p poṉ koṇ		
-        <lb n="A14=14" break="no"/>ṭ<unclear>u</unclear> Iṟai-Ili <unclear>cey</unclear>ta nilattukk’ el
-        <lb n="A15=15" break="no"/>l<unclear>ai</unclear>
-        
-        <list>
-            <item>
-                k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pāṟk’ ellai It-tēvar ma<unclear>ṇa</unclear>
-                <lb n="A16=16" break="no"/>l-<choice><orig>i</orig><reg>ī</reg></choice>ṭṭukkum It-tēvar Ātitta-karat			
-                <lb n="A17=17" break="no"/>tu tēvar nilattukku<reg>m</reg> mē<supplied reason="omitted">ṟ</supplied>kku
-            </item>
-            
-            <item>
-                teṉ
-                <lb n="A18=18" break="no"/>-pāṟk’ ellai ciṟṟāṉaiccūrār iṭai Ivaṉē
-                <lb n="A19=19" break="no"/>-y Iṟai-y-ili koṇṭa nilattuḷ kal
-                <lb n="A20=20" break="no"/>li Ivaṉē-y v-iṭṭa kaṭampaṉ vāykk<supplied reason="omitted">ā</supplied>
-                <lb n="A21=21" break="no"/>lukku <unclear>va</unclear><supplied reason="lost">ṭak</supplied>kum
-            </item>
-            
-            <item>
-                mē<unclear reason="eccentric_ductus">l</unclear>-pā<choice><orig>l</orig><reg>ṟ</reg></choice>kk’ ellai
-                <lb n="A22=22"/>tiru-v-āva<unclear>ṭu</unclear>-tuṟai Āḷvārkku veḷḷ<choice><sic>a</sic><corr>ā</corr></choice><unclear>ṟu</unclear>-t <unclear>ta</unclear>ṉi
-                <lb n="A23=23"/>Utta<unclear>ma</unclear>-c<choice><sic>a</sic><corr>ā</corr></choice>mavētam vallār pir<choice><sic>a</sic><corr>ā</corr></choice>maṇar tēva
-                <lb n="A24=24" break="no"/>r muṉ Uṇpataṟku vilai koṇṭu kalluvicca
-                <lb n="A25=25"/>nilattukku kiḻakkum
-            </item>
-            
-            <item>
-                vaṭa-pā<choice><orig>l</orig><reg>ṟ</reg></choice>k’ ellai pē
-                <lb n="A26=26" break="no"/>rum peru-<unclear>vaḻik</unclear>kum tēvar maṇal-<choice><orig>i</orig><reg>ī</reg></choice>ṭṭukkum civa
-                <lb n="A27=27" break="no"/><supplied reason="lost">paṭu</supplied> <unclear>tiru</unclear>-nan=ta-vāṉattukku teṟku<choice><orig>mm</orig><reg>m</reg></choice>	
-            </item>
-        </list>        
-    </p>
-	
-    <p>		
-        <lb n="A28=28" break="no"/>I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ā<unclear>ṉ</unclear>k’ <supplied reason="lost">e</supplied>llaiyilum naṭuvu-paṭṭa ko
-        <lb n="A29=29" break="no"/>llaiyum pu<unclear>ṉ</unclear>-ceyyum teṟk’ aṭai
-        <lb n="A30=30" break="no"/>ya Ivaṉē kalluvicca n<choice><orig>i</orig><reg>ī</reg></choice>r-nilamum
-        <lb n="A31=31"/>kalliṉa paḻaṅ-kaṭampaṉ vāyum I
-        <lb n="A32=32" break="no"/>v-vāykkāl Iraṇṭu karaiyilum
-        <lb n="A33=33"/>kalliṉa kollaiyum puṉ-ceyum
-    </p>
-	<p>
-        <lb n="A34=34"/>Iraṇṭu <gap reason="illegible" quantity="1" unit="character"/> nilattilum kalli mayak
-        <lb n="A35=35" break="no"/>kiṉa <supplied reason="lost">I</supplied>ñ-ñilattuḷ teṟk’ aṭaiya mayak
-        <lb n="A36=36" break="no"/>kiṉa n<choice><orig>i</orig><reg>ī</reg></choice>r-nilam Iraṇṭē kāl
-	</p>
-	<p>
-        Iv-vi
-        <milestone type="pagelike" n="B" unit="zone" break="no"/>
-        <label xml:lang="eng">Second Wall Portion</label>
-        <lb n="B1=37" break="no"/>raṇtē kālilum mē<supplied reason="omitted">ṟ</supplied>kk’ aṭai<unclear>ya-p</unclear>
-        <lb n="B2=38"/><unclear>p</unclear>atiyam
-	
-        <list>
-            <item>
-                tiru-v-āvaṭu-tuṟai Āḷvā<unclear>r</unclear>k
-                <lb n="B3=39" break="no"/>ku pāṭuvār iruvar Iraṇṭu can=tiyum pāṭa A
-                <lb n="B4=40" break="no"/>ṟu māvum
-            </item>
-            <item>
-                t<unclear>i</unclear>ru-nan=ta-vāṉam tiru<unclear>t</unclear><supplied reason="lost">tam</supplied> I
-                <lb n="B5=41" break="no"/>ṟaippār iruvarkku Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice><unclear>ḻ</unclear>ai nā<supplied reason="lost">lu</supplied> māvu
-                <lb n="B6=42" break="no"/>m				
-            </item>
-            <item>
-                tiru-p-paḷḷi-t-tāmam paṟi<choice><orig>cc</orig><reg>tt</reg></choice>u ce<unclear>ṟi</unclear>ppār I
-                <lb n="B7=43" break="no"/>ru-vā<choice><orig>n</orig><reg>ṉ</reg></choice>avaṉmāṟku Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻai Iraṇṭu māvu
-                <lb n="B8=44" break="no"/>m                
-            </item>
-            <item>
-                nicati-p paṭi nāṭa-p pōṉakattukku patto
-                <lb n="B9=45" break="no"/>ṭṭu kuttal paḻa-v-arici nā-ṉāḻiyum
-                kummāya
-                <lb n="B10=46" break="no"/>-Amitiṉukku parupp’ uriyum  
-                neyy-amitu
-                <lb n="B11=47"/><unclear>O</unclear>ru piṭiyum
-                tayir-amitu Uriyum
-                <unclear>p</unclear>ori-k-kaṟi-A
-                <lb n="B12=48" break="no"/>mitum
-                Aṭai-k-kāy-amitu nālum
-                Amitu ce
-                <lb n="B13=49" break="no"/>yvippitiṉukku
-                tiru-k-kōyil Uṭaiyār <gap reason="illegible" quantity="1" unit="character"/>
-                <lb n="B14=50" break="no"/><gap reason="illegible" quantity="4" unit="character"/> koṇṭa nilam Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻai Eṭṭu māvu
-                <lb n="B15=51" break="no"/>m
-            </item>
-        </list>
-	</p>
-    
-    <p>
-                Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻai-c cat<surplus>ti</surplus><hi rend="grantha">tra</hi>-viḷākam vēli-c ceyu
-                <lb n="B16=52" break="no"/>m koṇṭu v<choice><orig>i</orig><reg>ī</reg></choice>ra-māṅkuṭaiyāṉ tāyaṅ-kāṭaṉ va
-                <lb n="B17=53" break="no"/>ḻiyilārum pa<hi rend="grantha">nmāheśva</hi>rarum Uruttira-p-perumakka
-                <lb n="B18=54" break="no"/>ḷum Iṭa-p-paṭṭa maṭa-pati Ic-cattira-viḷākam vēliyu
-                <lb n="B19=55" break="no"/>m
-    </p>
-    <p>            
-                Aṭuttu-k koṇṭu Aṭuvitāṉ Arici A<unclear>ṟu</unclear>-patt’ iru-ka
-                <lb n="B20=56" break="no"/>lamum payaṟu Aiṅ-kalamum            
-	</p>
-    
-    <p>
-        tiru-k-koṭi Iḻicca <hi rend="grantha">sna</hi>
-        <lb n="B21=57" break="no"/><choice><sic>ma</sic><corr>pa</corr></choice>nattukku poṉ kaḻañcum Ivv-ēḻu nāḷu Ip-pa
-        <lb n="B22=58" break="no"/>ṭi Ūṭṭuvikka māṭṭāta maṭa-patiyai tiruttam āṭiṉa piṟṟai nā
-        <lb n="B23=59" break="no"/>ṉṟu Urudra-kaṇa-perumakkaḷum pa<hi rend="grantha">nmāheśva</hi>rarum tāyaṅ
-        <lb n="B24=60" break="no"/>-kaṭaṉ vaḻiyilārum Āka t<unclear>ā</unclear>ṉ māṟṟi Āvāṉ or maṭa
-        <lb n="B25=61" break="no"/>-patiyai Iṭuvit’ ākavum
-    </p>
-    
-    <p>	    
-        <unclear>Iv-ai</unclear>mpatt’ iru-kalamum Aḷa
-        <lb n="B26=62" break="no"/>ppi<choice><orig>cc</orig><reg>tt</reg></choice>u-k <unclear>koṇ</unclear>ṭu I<supplied reason="lost">ta</supplied>ṉ kaṇkāṇi<unclear>yo</unclear>ṭum
-        tiru-viḻ<unclear>ā</unclear>
-        <lb n="B27=63"/>Eṭutta nāḷ        
-        
-        <list>
-            <item>
-                m<choice><orig>u</orig><reg>ū</reg></choice>la-mutal
-                Aṭa-k kaṭava Ariya-c-civayō<hi rend="grantha">gi</hi>
-                <lb n="B28=64" break="no"/>kaḷukku patakkum            
-                pa<hi rend="grantha">nmāheśva</hi>rarkku Aṭum arici tūṇiyum
-            </item>
-            
-            <item>
-                <lb n="B29=65"/><sic>pūrāṭatti</sic> ṉāṉṟu
-                civayō<hi rend="grantha">gi</hi>ka<unclear>ḷukku</unclear> Aṭum A
-                <lb n="B30=66" break="no"/>rici tūṇi-p patakkum
-                pa<hi rend="grantha">nmāheśva</hi>rarkku Aṭum a
-                <lb n="B31=67" break="no"/>rici kalamum
-            </item>
-            
-            <item>
-                Uttirāṭatti ṉāṉṟu
-                civayō<hi rend="grantha">gi</hi><unclear>kaḷu</unclear>
-                <lb n="B32=68" break="no"/>kku Aṭum arici kalamum
-                pa<hi rend="grantha">nmāheśva</hi>rarkku Aṭum a
-                <lb n="B33=69" break="no"/>rici mu-k-kalamum
-            </item>
-            
-            <item>
-                tiruvōṇatti ṉāṉṟu
-                civayō
-                <lb n="B34=70" break="no"/><hi rend="grantha">gi</hi>kaḷukku Aṭum arici Iru-kalamum           
-                pa<hi rend="grantha">nmāheśva</hi>rar
-                <lb n="B35=71" break="no"/>kku Aṭum Arici Aṟu kalamum
-            </item>
-            
-            <item>
-                 Aviṭṭatti ṉāṉṟu
-                <milestone type="pagelike" n="C" unit="zone"/><label xml:lang="eng">Third Wall Portion</label>
-                <lb n="C1=72"/>civayō<hi rend="grantha">gi</hi>kaḷukku Aṭum arici mu-k-kalamum
-                <lb n="C2=73"/>pa<hi rend="grantha">nmāheśva</hi>raṟk’ aṭum arici Ēḻu kalamum
-            </item>
-            
-            <item>
-                 ca
-        <lb n="C3=74" break="no"/>taiyatti ṉāṉṟu
-                civayō<hi rend="grantha">gi</hi>kaḷukku Aṭum a
-                <lb n="C4=75" break="no"/>rici nār-kalamum
-                pa<hi rend="grantha">nmāheśva</hi>raṟk’ aṭum a
-                <lb n="C5=76" break="no"/>rici Eṇ-kalamum
-            </item>
-            
-            <item>
-                tiruttam āṭum pūraṭṭāti <lb n="C6=77"/>nāṉṟu
-                civayō<hi rend="grantha">gi</hi>kaḷukku Aṭum arici Aiṅ
-                <lb n="C7=78"/>-kalamum
-                pa<hi rend="grantha">nmāheśva</hi>raṟk’ aṭum arici paṉṉiru
-                <lb n="C8=79"/>kalamum</item>
-        </list>
-        
-        Āka
-        
-        Ivv-ēḻu nāḷum aṭa-k kaṭava A
-        <lb n="C9=80" break="no"/>rici Aim-patt’ iru-kalamum
-    </p>
-    
-    <p>        
-        Aṉaiccu nāḷaik
-        <lb n="C10=81" break="no"/>kum
-        āka
-        
-        payar’ aiṅ-kalamum Ip-paṭi maṭa-pati
-        <lb n="C11=82"/>Ūṭṭi tiruttam āṭiṉa piṟṟai nāṉṟu tiru-k-koṭi
-        <lb n="C12=83"/>Iḻicca <hi rend="grantha">sna</hi><choice><orig>m</orig><reg>p</reg></choice>aṉa-<hi rend="grantha">dravya</hi>ttukkum puṭavaikkum
-        āka
-        
-        <list>
-            
-            <item><lb n="C13=84" break="no"/>p 
-                poṉ Arai-k kaḻañcum
-            </item>
-            <item>                
-                <hi rend="grantha">Ācā<reg>r</reg>yya-pūjai</hi> <unclear>kā</unclear>
-                <lb n="C14=85" break="no"/>lum
-            </item>
-            <item>                
-                kalacamu<supplied reason="subaudible">m</supplied> macālu<supplied reason="subaudible">m</supplied> makuṭamu<supplied reason="subaudible">m</supplied> mak<unclear>i</unclear>lamum I
-                <lb n="C15=86" break="no"/>ṭum kucavaṉukku poṉ kālum
-            </item>
-        
-        </list>
-    </p>
-    <p>
-        kalacatti
-        <lb n="C16=87" break="no"/><unclear>ṉ</unclear> <gap reason="illegible" quantity="8" unit="character" precision="low"/> mum perun t<supplied reason="lost">i</supplied>ru-<supplied reason="lost">A</supplied><unclear>mir</unclear>
-        <lb n="C17=88" break="no"/>t<unclear>u</unclear>kku ceṉṉa-nellu kalamum kari-y-amirtukku
-        <lb n="C18=89" break="no"/>m neyy-amirtukkum tayir-amirtukkum Aṭai
-        <lb n="C19=90" break="no"/>-k-kāy-amirtukkum
-        āka
-        
-        nellu tūṇi-p patakkum
-        <lb n="C20=91"/>Āka
-        
-        ca<hi rend="grantha">tra</hi>-viḷākam vēliyum koṇṭu Ivv-ūṭṭuṭṭi
-        <lb n="C21=92" break="no"/>Ip-paṭi ceyvvikku maṭa-patikku Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻai-k ka
-        <lb n="C22=93" break="no"/>ṟṟeyyuṅ koṇṭu v<choice><orig>i</orig><reg>ī</reg></choice>ra-māṅkuṭaiyāṉ tāya
-        <lb n="C23=94" break="no"/>ṅ-kāṭaṉ vaḻiyilār Ēḻu nāḷum maṭa-patiyoṭē ni
-        <lb n="C24=95" break="no"/>ṉṟu Ivv-arici Aḷappiccu-k koṇṭu kaṇkāṇiy<choice><sic><unclear>ā</unclear></sic><corr>um</corr></choice>
-        <lb n="C25=96"/>Aṭuviccu <unclear>Ū</unclear>ṭṭuvippaṉukku nicati patakk’
-        āka
-        
-        Ari
-        <lb n="C26=97" break="no"/>ci kalaṉē patakkum kuṭuttu ip-paṭi ceyviccu I
-        <lb n="C27=98" break="no"/>p-paṭi Ūṭṭi Iñ-ñivan=ta-p paṭi ceviccu niṉṟa puṉ
-        <lb n="C28=99" break="no"/>-ceyyilum kollaiyilum kiḻakk’ aṭaiya A
-        <lb n="C29=100" break="no"/>ṟu mā nilam tiru-na<supplied reason="omitted">n</supplied>tavāṉam ceyviccu teṅkum ā<supplied reason="omitted">ka</supplied>
-        <lb n="C30=101" break="no"/>vum
-    </p>
-    
-    <p>
-        maṟṟu<reg>m</reg> mēṟpa<choice><sic>c</sic><corr>y</corr></choice>ir<unclear> Ūṉ</unclear>ṉa Ellāṅ koṇṭu maṭa-pati
-        <lb n="C31=102" break="no"/>yē tiru-nāḷ Ēḻu nāḷaikkum Ivv-ūṭṭukku vēṇṭum
-        <lb n="C32=103"/>vicattukku koḷvit’ ākavum
-    </p>
-    
-    <p>        
-        niṉṟa puṉ-ceyum kol
-        <lb n="C33=104" break="no"/>laiyum Aṭuttu-k koṇṭu neykkum Aṭṭuvitiṉu
-        <lb n="C34=105" break="no"/>kkum kaṟikkum pākkiṉukkum veṟṟilaikkum Uppu
-        <lb n="C35=106" break="no"/>kkum puḷikkum maṟṟum pala-kāyttukkum Eṇṇai
-        <lb n="C36=107" break="no"/>yum viṟakum maṟṟum vēṇṭum vicattukkum It
-        
-        <milestone type="pagelike" n="D" unit="zone" break="no"/><label xml:lang="eng">Fourth Wall Portion</label>      
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of Parakesarivarman, year 36</title>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>					
+                    <persName ref="part:rama">
+                        <name>N. Ramaswamy</name>
+                    </persName>
+                    <persName ref="part:matr">
+                        <forename>Margherita</forename>
+                        <surname>Trento</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
                 
-        <lb n="D1=108" break="no"/>-tiru-nāḷ Ēḻu nāḷaikkum Ūṭṭukku vēṇ
-        <lb n="D2=109" break="no"/>ṭum kalam iṭum kucavaṉukku poṉ Aṟai-k-ka
-        <lb n="D3=110" break="no"/>ḻañcum
-    </p>
-    <p>
-        Ivaṉukku Ēḻu nāḷaikku nicati kuṟu
-        <lb n="D4=111" break="no"/>ṇi Arici
-        y-āka
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Aubervilliers</pubPlace>
+                <idno type="filename">DHARMA_INSTiruvavatuturai10003</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2026 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Land donation, after sale/purchase, by Tāyaṅ Kaṭaṉ, lord of Vīramāṅkuṭi, to the Lord (<foreign>āḷvār</foreign>) of Tiruvāvaṭutuṟai, for appointing hymn singers, gardeners, and flower garnishers, for daily food offerings for the god and for feeding Śivayogins and Paṉmāheśvaras (great devotees of Śiva) on seven specified festival days.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+                                nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-02-14">Creation of the file.</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:space="preserve">
         
-        Ēḻu kuruṇi Aricikkum
-        āka
-        
-        nan=tavā
-        <lb n="D5=112" break="no"/>ṉam pōkki niṉṟa puñ-ceyum kollaiyum A
-        <lb n="D6=113" break="no"/>ṭuttu-k koṇṭu It-taṉaiyum kuṟai v-aṟuttu
-        <lb n="D7=114" break="no"/>-k koṇṭu maṭa-pati Ūṭṭuvit’ ākavum
-    </p>
-    
-    <p>
-        Im-ma
-        <lb n="D8=115" break="no"/>ṭa-patiyē cāttaṉūr It-tiru-viḻā-vāriyaṟ
-        <lb n="D9=116" break="no"/>ku Ivv-ēḻu nāḷum Ik-kōyil-k-kāvaṇam
-        <lb n="D10=117"/>Iṭuvi<choice><orig>cc</orig><reg>tt</reg></choice>u It-tiru-viḻā ceyvikkum vāriya-p
-        <lb n="D11=118" break="no"/>-perumakkaḷukku nicati Aiṅ-kuṟuṇi Oru nāḻi A
-        <lb n="D12=119" break="no"/>rici
-        y-āka 
-        
-        Ēḻu nāḷaikku peṟum arici mu-k-kalamum
-        <lb n="D13=120"/>maṭa-pati tāṉ peṟum kāṟ ceyilum Aṭṭuvi
-        <lb n="D14=121"/>t’ ākavum       
-    </p>
-    
-    <p>
-        It-taṉaiyum kuṟai v-aṟuttu In
-        <lb n="D15=122" break="no"/>-n<choice><orig>i</orig><reg>ī</reg></choice>r-nilam Iraṇṭē kālum kollaiyum puṉ
-        <lb n="D16=123" break="no"/>c<unclear>e</unclear>yum koṇṭu nan=ta-vāṉattu mēṟ-payiru
-        <lb n="D17=124" break="no"/>ṅ koṇṭu In-nivan=ta-p paṭi ceyya-k kaṭavāṉ
-        <lb n="D18=125"/>ceyvittu It-taṉaiyum kuṟai v-aṟuttu ko
-        <lb n="D19=126" break="no"/>ṇṭu Ivv-ēḻu nāḷum Ivv-ūṭṭu Ip-paṭiyē ma
-        <lb n="D20=127" break="no"/>ṭa-patiyē v<choice><orig>i</orig><reg>ī</reg></choice>ra-māṅkuṭaiyaṉ tāyaṉ kāṭaṉ vaḻi
-        <lb n="D21=128" break="no"/>yilār kaṇkāṇiyōṭum Ūṭṭi In-nivan=ta-p paṭi        
-        <lb n="D22=129"/>ceyvi-p-pat’ ākavum        
-    </p>
-    
-    <p>
-        In-nilam ciṟu-puliyūrilum
-        <lb n="D23=130"/>ciṟṟāṉaiccūrilum Iṟai-Ili vilai koṇṭu kal
-        <lb n="D24=131" break="no"/>li-t tiruttiṉa n<choice><orig>i</orig><reg>ī</reg></choice>r-nilamum kollaiyum puṉ
-        <lb n="D25=132" break="no"/>-ceyum In-nilam It-taṉaiyum tiru-v-āvaṭu-tu
-        <lb n="D26=133" break="no"/>ṟai <hi rend="grantha">mahā-de</hi>vaṟku In-nilam Ip-paṭi koṇṭu
-        <lb n="D27=134"/>In-nivan=tam ceytu kuṭuttēṉ vaṭa-karai mi<unclear>ṟai</unclear>        
-        <lb n="D28=135" break="no"/>-k-kūṟṟattu v<choice><orig>i</orig><reg>ī</reg></choice>ra-māṅkuṭaiyāṉ tāyaṉ kāṭaṉ-ēṉ        
-    </p>
-    
-    <p>        
-        <lb n="D29=136"/>I<hi rend="grantha">d-dhanma</hi>m pa<hi rend="grantha">nmāheśvarar</hi> Ira<hi rend="grantha">kṣai</hi>
-    </p>
-    
-    <p>
-        I<hi rend="grantha">d-dhanma</hi>m
-        <lb n="D30=137"/>Ira<hi rend="grantha">kṣi</hi>ppār <hi rend="grantha">śrī</hi>-pā<hi rend="grantha">dayū</hi>ḷi Eṉ talai mēla
-        <lb n="D31=138" break="no"/><add place="above">ṉa</add>
-    </p>
-    
-    <p>
-        tāyaṅ kāṭaṉ ciṟu-puliyūr ca<hi rend="grantha">bhai</hi>yā
-        <lb n="D32=139" break="no"/>r iṭai Iṟai-Ili koṇṭa nilam
-    </p>
-    <p>
-        In=-nila
-        <lb n="D33=140" break="no"/>ttu<unclear>k</unclear>ku Aṭṭa-k kaṭava nellu patiṉ kalam
-    </p>
-    <p>
-        <lb n="D34=141"/>Ip-pati<supplied reason="omitted">ṉ</supplied> kalamum Aṭṭa-k kaṭavōm Iru <choice><unclear>y</unclear><unclear><g type="numeral">10</g></unclear></choice> poṉ koṇṭōm tiru-v-ā
-        <lb n="D35=142" break="no"/>vaṭu-tuṟai tiru-k-kōyil uṭaiyōm
-    </p>
-		
-</div>
-	
-	
-<div type="apparatus">
-	
-	<listApp>
-		
-	    <app loc="11">
-	        <lem>Ivv-iraṇ<lb n="A12=12" break="no"/>ṭu <gap reason="illegible" quantity="1" unit="character"/></lem>
-	        <note>The illegible, that is undeciphered, character looks like a <foreign>kāl</foreign> or a <foreign>daṇḍa</foreign>. See also line 34.</note>
-	    </app>
-	  	    
-	    <app loc="22">
-	        <lem>veḷḷa<unclear>ṟu</unclear>-t <unclear>ta</unclear>ṉi</lem>
-	        <note>Alternatively <foreign>veḷḷ Atcuṇi</foreign>.</note>
-	    </app>
-	    
-	    <app loc="34">
-	        <lem>Iraṇṭu <gap reason="illegible" quantity="1" unit="character"/></lem>
-	        <note>The illegible, that is undeciphered, character looks like a <foreign>kāl</foreign> or a <foreign>daṇḍa</foreign>. See also line 11.</note>
-	    </app>
-	    
-	</listApp>
-</div>
-	
-	
-<div type="translation" resp="part:emfr">
-	
-    <p n="01-02">Homage to Śiva. Prosperity! Fortune!</p>
-    
-    <p n="1-3">36th year of the king Parakesarivarman, who took Maturai.</p>
-    
-    <p n="1">
-    Homage to Śiva. Prosperity! Fortune!
-</p>
-
-<p n="3">
-    This is the 36th year of the king Parakesarivarman, who took Matirai.
-</p>
-
-<p n="4-11">
-    For the Lord <supplied reason="explanation"><foreign>āḷvār</foreign></supplied> <supplied reason="subaudible">of</supplied> glorious Tiruvāvaṭutuṟai <supplied reason="subaudible">in</supplied> Cāttaṉūr, <supplied reason="subaudible">which is</supplied> a <foreign>brahmadeya</foreign> in the Tiraimūrnāṭu on the southern bank, there is a plot of land <supplied reason="subaudible">(nilam)</supplied> that I, Tāyaṅ Kāṭaṉ, a servant of Him <supplied reason="subaudible">(ivar aṭiyēṉ)</supplied>, and lord of Vīramāṅkuṭi in the Miṟai-k-kūṟṟam, obtained tax-free from <supplied reason="explanation"><foreign>iṭai</foreign></supplied> the members of the assembly <supplied reason="subaudible">of</supplied> Ciṟupuliyūr, and a plot of land, made tax-free, obtained from Ciṟṟāṉaiccūr.
-</p>
-
-<p n="12-27">
-    After using gold so as to take care of the taxes <supplied reason="explanation"><foreign>iṟai kāppat’ āka</foreign></supplied> as long as the sun and moon perdure, <supplied reason="subaudible">depositing it</supplied> with <supplied reason="explanation"><foreign>iṭaiyum</foreign></supplied> the members of the assembly of these two villages, the boundaries of <supplied reason="subaudible">these</supplied> plots of land, made tax-free, are <supplied reason="subaudible">as follows</supplied>:
-
-    <list>
-        <item>
-            the eastern boundary is to the west of the sand dunes <supplied reason="explanation"><foreign>maṇal-īṭu</foreign></supplied> <supplied reason="subaudible">of</supplied> this god and to the land <supplied reason="subaudible">of</supplied> the god of the Āditya-gṛha <supplied reason="explanation"><foreign>ātitta-karam</foreign></supplied> of this god;
-        </item>
-        <item>
-            the southern boundary is to the north of the Kaṭampaṉ channel which I myself <supplied reason="explanation"><foreign>ivaṉē</foreign></supplied> have given <supplied reason="explanation"><foreign>iṭṭa</foreign></supplied> after digging <supplied reason="explanation"><foreign>kalli</foreign></supplied> within the land, which I obtained tax-free from <supplied reason="explanation"><foreign>iṭai</foreign></supplied> the inhabitants of Ciṟṟāṉaiccūr <supplied reason="explanation"><foreign>ciṟṟāṉaiccūrār</foreign></supplied>;
-        </item>
-        <item>
-            the western boundary is to the east of the land which, after purchase <supplied reason="explanation"><foreign>vilai koṇṭu</foreign></supplied>, I had caused to be dug <supplied reason="explanation"><foreign>kalluvitta</foreign></supplied>, for feeding, in front of the god, the Brahmins who are the unmatched <supplied reason="explanation"><foreign>taṉi</foreign></supplied> experts in the (Uttama)-Sāmaveda from the Veḷḷāṟu <supplied reason="explanation"><foreign>veḷḷāṟu</foreign></supplied> <supplied reason="subaudible">area</supplied> for the Lord of Tiruvāvaṭutuṟai;
-        </item>
-        <item>
-            the northern boundary is to the south of the departing <supplied reason="explanation"><foreign>pērum</foreign></supplied> great road, of the sand dunes <supplied reason="explanation"><foreign>maṇal-īṭu</foreign></supplied> <supplied reason="subaudible">of</supplied> the god and of the glorious flower garden <supplied reason="subaudible">named</supplied> Civapaṭu.
-        </item>
-    </list>
-</p>
-
-<p n="28-33">
-    Comprised within these four boundaries, <supplied reason="subaudible">there are</supplied> sylvan tracts <supplied reason="explanation"><foreign>kollai</foreign></supplied>, dry-land <supplied reason="explanation"><foreign>puṉ-cey</foreign></supplied>, and further to the south <supplied reason="subaudible">of these</supplied>, a wet-land <supplied reason="explanation"><foreign>nīr-nilam</foreign></supplied> which I have caused to be dug <supplied reason="explanation"><foreign>kalluvitta</foreign></supplied> myself, as well as the old Kaṭampaṉ channel <supplied reason="explanation"><foreign>vāyum</foreign></supplied>, which was already dug <supplied reason="explanation"><foreign>kalliṉa</foreign></supplied>, and dry-land and sylvan tracts, already dug <supplied reason="explanation"><foreign>kalliṉa</foreign></supplied>, on both banks <supplied reason="subaudible">of</supplied> this channel.
-</p>
-
-<p n="34-36">
-    After digging a pit <supplied reason="explanation"><foreign>kalli</foreign></supplied> in both these lands, <supplied reason="subaudible">there are</supplied> two quarters <supplied reason="subaudible">of a vēli</supplied> of wet-land … <supplied reason="explanation"><foreign>mayakkiṉa</foreign></supplied>, bordering on the south in the land … <supplied reason="explanation"><foreign>mayakkiṉa</foreign></supplied>.
-</p>
-
-<p n="36-51">
-    <supplied reason="subaudible">Comprised</supplied> within these two quarters <supplied reason="subaudible">of a vēli</supplied>, a <foreign>patiyam</foreign>, bordering on the west, <supplied reason="subaudible">the provision is as follows</supplied>:
-
-    <list>
-        <item>
-            six <foreign>mā</foreign>s so that two singers may sing <supplied reason="explanation"><foreign>pāṭa</foreign></supplied> <supplied reason="subaudible">at</supplied> two <foreign>canti</foreign>s for the Lord of Tiruvāvaṭutuṟai;
-        </item>
-        <item>
-            four <foreign>mā</foreign>s east of this, for two persons who draw <supplied reason="explanation"><foreign>iṟaippār</foreign></supplied> water <supplied reason="explanation"><foreign>tiruttam</foreign></supplied> <supplied reason="subaudible">in</supplied> the flower garden;
-        </item>
-        <item>
-            two <foreign>mā</foreign>s east of this, for two gardeners, who, after plucking <supplied reason="explanation"><foreign>paṟittu</foreign></supplied>, string <supplied reason="explanation"><foreign>ceṟippār</foreign></supplied> flower garlands;
-        </item>
-        <item>
-            eight <foreign>mā</foreign>s east of the land obtained by the Lord of the temple, for having food-offerings made <supplied reason="explanation"><foreign>amitu ceyvippitiṉukku</foreign></supplied> daily <supplied reason="explanation"><foreign>nicati-p paṭi</foreign></supplied>: four <foreign>nāḻi</foreign>s of husked and seasoned paddy for noon <supplied reason="explanation"><foreign>nāṭ</foreign></supplied> feeding, one <foreign>uri</foreign> of lentils <supplied reason="explanation"><foreign>paruppu</foreign></supplied>, one <foreign>piṭi</foreign> of butter, one <foreign>uri</foreign> of yogurt, one fried offering, and four areca-nut offerings.
-        </item>
-    </list>
-</p>
-    
-    <p n="52-61">
-    East of this, taking a plot of land of one <foreign>vēli</foreign> from the vicinity of the choultry, taking <supplied reason="explanation"><foreign>aṭuttu koṇṭu</foreign></supplied> this <foreign>vēli</foreign> near this choultry for <supplied reason="explanation"><foreign>paṭṭa</foreign></supplied> <foreign>maṭam</foreign>’s pontiff, to be appointed <supplied reason="explanation"><foreign>iṭa</foreign></supplied> by those in the lineage of Vīra Māṅkuṭaiyāṉ Tāyaṅkāṭaṉ <supplied reason="explanation"><foreign>vaḻiyilārum</foreign></supplied>, by the <foreign>Panmaheśvaras</foreign>, and <foreign>Rudra’s people</foreign> <supplied reason="explanation"><foreign>uruttira perumakkaḷ</foreign></supplied>:
-
-    <list>
-        <item>
-            52 <foreign>kalams</foreign> of rice cooked <supplied reason="explanation"><foreign>aṭuvitāṉa</foreign></supplied>, and 5 <foreign>kalams</foreign> of cereal seeds <supplied reason="explanation"><foreign>payaṟu</foreign></supplied>;
-        </item>
-        <item>
-            a <foreign>kalañcu</foreign> of gold for the ritual bathing <supplied reason="explanation"><foreign>snapanattukku</foreign></supplied> after lowering <supplied reason="explanation"><foreign>Iḻicca</foreign></supplied> the sacred flag;
-        </item>
-        <item>
-            On the next day of the water-sprinkling <supplied reason="explanation"><foreign>tiruttam āṭiṉa piṟṟai nāṉṟu</foreign></supplied>, changing <supplied reason="explanation"><foreign>māṟṟi</foreign></supplied> that <foreign>maṭapati</foreign> who is not able <supplied reason="explanation"><foreign>māṭṭāta</foreign></supplied> to cause feeding <supplied reason="explanation"><foreign>ūṭṭuvikka</foreign></supplied> in this way;
-        </item>
-    </list>
-</p>
-
-<p n="62-80">
-    After measuring <supplied reason="explanation"><foreign>aḷappittu</foreign></supplied> these 52 <foreign>kalams</foreign>, the day determined for the festival, along with the superintendent <supplied reason="explanation"><foreign>kaṇkāṇi</foreign></supplied>:
-
-    <list>
-        <item>
-            Starting with the Mūlam festival, what is necessary to cook <supplied reason="explanation"><foreign>aṭak kaṭava</foreign></supplied>:
-            one <foreign>patakku</foreign> for the <foreign>Śivayogins</foreign>, and one <foreign>tūṇi</foreign> of paddy for the <foreign>Panmaheśvarar</foreign>;
-        </item>
-        <item>
-            At the time of Pūrāṭatti:
-            one <foreign>tūṇi</foreign> and one <foreign>patakku</foreign> of cooked rice for the <foreign>Śivayogins</foreign>, one <foreign>kalam</foreign> of rice for the <foreign>Panmaheśvarar</foreign>;
-        </item>
-        <item>
-            At the time of Uttirāṭatti:
-            three <foreign>kalams</foreign> of cooked rice for the <foreign>Panmaheśvarar</foreign>, one <foreign>kalam</foreign> of cooked rice for the <foreign>Śivayogins</foreign>;
-        </item>
-        <item>
-            At the time of Tiruvōṇam:
-            two <foreign>kalams</foreign> of cooked rice for the <foreign>Śivayogins</foreign>, and six <foreign>kalams</foreign> for the <foreign>Panmaheśvaras</foreign>;
-        </item>
-        <item>
-            At the time of Aviṭṭam:
-            seven <foreign>kalams</foreign> of cooked rice for the <foreign>Panmaheśvarar</foreign>, three <foreign>kalams</foreign> for the <foreign>Śivayogins</foreign>;
-        </item>
-        <item>
-            At the time of Cataiyam:
-            four <foreign>kalams</foreign> of cooked rice for the <foreign>Śivayogins</foreign>, eight <foreign>kalams</foreign> for the <foreign>Panmaheśvarar</foreign>;
-        </item>
-        <item>
-            At the time of Pūraṭṭāti with the water ritual <supplied reason="explanation"><foreign>tiruttam āṭum</foreign></supplied>:
-            five <foreign>kalams</foreign> of cooked rice for the <foreign>Śivayogins</foreign>, twelve <foreign>kalams</foreign> for the <foreign>Panmaheśvarar</foreign>;
-        </item>
-    </list>
-
-    52 <foreign>kalams</foreign> of rice <supplied reason="subaudible">are</supplied> needed for all of these seven <supplied reason="explanation"><foreign>nakṣatra</foreign></supplied> days.
-</p>
-
-<p n="81-86">
-    5 <foreign>kalams</foreign> of <foreign>pulse</foreign> <supplied reason="subaudible">are</supplied> needed for all these <supplied reason="explanation"><foreign>nakṣatra</foreign></supplied> days.
-</p>
-
-<p n="101-103">
-    After giving thus one <foreign>kalam</foreign> and one <foreign>patakku</foreign> of rice in this way in which it was ordered <supplied reason="explanation"><foreign>ceyviccu</foreign></supplied>, as per this provision <supplied reason="explanation"><foreign>inna-vanta paṭi</foreign></supplied>, so that six <foreign>mā</foreign>s of land of the garden further west of the wet-land and the sylvan tracts becomes a coconut land.
-</p>
-
-<p n="129-135">
-    Having acquired this plot of land tax-free in Ciṟupuliyūr and in Ciṟṟāṉaiccūr, and <supplied reason="subaudible">it comprises</supplied> wet land which has been excavated, sylvan tracts, fertile land, having taken in this way this land for the great God of Tiruvāvaṭutuṟai, having done this agreement, I gave it. Vīra-māṅkuṭaiyāṉ Tāyaṅ Kāṭaṉ from the northern shore of the Miṟaikūṟṟam.
-</p>
-
-<p n="136">
-    This pious donation <supplied reason="subaudible">is under</supplied> the protection of the many great devotees of Śiva.
-</p>
-
-<p n="137-138">
-    The dust on the glorious feet of he who protects this pious donation are on my head.
-</p>
-
-<p n="139">
-    <supplied reason="subaudible">There is</supplied> a land that Tāyaṅ Kāṭaṉ obtained tax-free from the members of the assembly.
-</p>
-
-<p n="140">
-    For this land ten pots of paddy are to be provided.
-</p>
-
-<p n="141-142">
-    We are appointed to provide these ten pots; we have obtained two gold coins, we the lords of the glorious temple of Tiruvāvaṭutuṟai.
-</p>
-
-    
-    
-    
-   <!-- <p n="4-11">
-        For the Lord <supplied reason="explanation"><foreign>āḷvār</foreign></supplied> <supplied reason="subaudible">of</supplied> the glorious Tiruvāvaṭutuṟai <supplied reason="subaudible">in</supplied> Cāttaṉūr, <supplied reason="subaudible">which is</supplied> a <foreign>brahmadeya</foreign> in the Tiraimūrnāṭu on the southern bank,
-        <supplied reason="subaudible">there is</supplied>
-        a land that I, Tāyaṅ Kaṭaṉ, lord of Vīramāṅkuṭi in the Mīraikkūṟṟam, a servant of him<note>That is, the Lord of Tiruvāvaṭutuṟai.</note>,
-        obtained tax-free from <supplied reason="explanation"><foreign>iṭai</foreign></supplied> the members of the assembly <supplied reason="subaudible">of</supplied> Ciṟupuliyūr,
-        and
-        a land, made tax-fee, obtained <supplied reason="subaudible">in</supplied> Ciṟṟāṉaiccūr. 
-    </p>
-    
-    <p n="12-27">
-        The boundaries of <supplied reason="subaudible">these</supplied> lands, made tax-free, after obtaining <supplied reason="subaudible">from me</supplied> the gold deposited with <supplied reason="explanation"><foreign>iṭaiyum</foreign>?</supplied> the members of the assembly of these two <supplied reason="subaudible">villages</supplied>, so as to take care of the taxes <supplied reason="explanation"><foreign>iṟai kāppat’ āka</foreign><note>That is, to secure the payment of taxes with the capital interest.</note></supplied>, as long as the moon, are <supplied reason="subaudible">as follows</supplied>:
-        
-        <list>			
-            <item>
-                the eastern boundary is to the west of the sand dunes <supplied reason="explanation"><foreign>maṇal-īṭu</foreign></supplied> <supplied reason="subaudible">of</supplied> this god and to the land <supplied reason="subaudible">of</supplied> the god of the Āditya-gṛha <supplied reason="explanation"><foreign>ātitta-karam</foreign></supplied><note>This possibly refers to be the present-day Cūriyaṉār Kōyil in the village of same name, in the Tanjore district, less than 10 km west of Tiruvavāṭutuṟai.</note> of this god;
-            </item>
+        <body>
             
-            <item>
-                the southern boundary is to the north of the Kaṭampaṉ channel which he <supplied reason="explanation"><foreign>ivaṉē</foreign><note>That is, Kaṭampaṉ or the donor, Tāyaṅ Kaṭaṉ.</note></supplied> has given <supplied reason="explanation"><foreign>iṭṭa</foreign><note>Literally, put.</note></supplied> 
-                after digging <supplied reason="explanation"><foreign>kalli</foreign></supplied> within the land,
-                which he obtained tax-free from <supplied reason="explanation"><foreign>iṭai</foreign></supplied> the inhabitants of Ciṟṟāṉaiccūr <supplied reason="explanation"><foreign>ciṟṟāṉaiccūrār</foreign><note>That is, the <foreign>ūrār</foreign>s of Ciṟṟāṉaiccūr?</note></supplied>;
-            </item>
             
-            <item>
-                the western boundary is to the east of the land which, after purchase <supplied reason="explanation"><foreign>vilai koṇṭu</foreign></supplied>, he had dug <supplied reason="explanation"><foreign>kalluvitta</foreign><note>That is, dug and thus made fit for cultivation?</note></supplied>, for feeding, in front of the god,<note>This phrase appears to mean that the Sāmaveda reciters are fed in front of the god.</note> the Brahmins who are the matchlessly <supplied reason="explanation"><foreign>taṉi</foreign></supplied> expert in the <unclear>Uttama</unclear>-Sāmaveda in the Veḷḷāṟu <supplied reason="explanation"><foreign>veḷḷ<choice><sic>a</sic><corr>ā</corr></choice><unclear>ṟu</unclear></foreign>?</supplied> <supplied reason="subaudible">area</supplied> for the Lord of Tiruvāvaṭutuṟai;
-            </item>
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">First Wall Portion</label>
+                    <lb n="A01=01"/>na<hi rend="grantha">maś śi</hi>vā
+                    <lb n="A01=02" break="no"/>ya <hi rend="grantha">svasti śrī</hi>
+                </ab>
+                
+                <p>		
+                    <lb n="A1=1"/>mat<choice><orig>i</orig><reg>u</reg></choice>rai koṇṭa
+                    <lb n="A2=2"/>kō-p-para-kēcari-pa
+                    <lb n="A3=3" break="no"/><hi rend="grantha">nma</hi><reg>r</reg>kk<choice><orig>i</orig><reg>u</reg></choice> <unclear>y</unclear>āṇṭu <num value="36">3 <g type="numeral">10</g> 6</num>-Āvatu
+                </p>
+                
+                <p>
+                    <lb n="A4=4"/>teṉ-karai-t tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu
+                    <lb n="A5=5"/><hi rend="grantha">brahma</hi>tēyañ cāttaṉūr <hi rend="grantha">śrī</hi>-tiru
+                    <lb n="A6=6" break="no"/>-v-āvaṭu-tuṟ<unclear>ai</unclear> Āḷvārkku Ivar aṭiyē
+                    <lb n="A7=7" break="no"/>ṉ miṟai-k-<unclear>kū</unclear>ṟṟattu v<choice><orig>i</orig><reg>ī</reg></choice>ra-māṅku
+                    <lb n="A8=8" break="no"/>ṭaiyāṉ t<unclear>ā</unclear>yaṅ-kāṭaṉ-ēṉ
+                    ciṟu-pu
+                    <lb n="A9=9" break="no"/>liyūr <hi rend="grantha">sabhai</hi>yār iṭai Iṟai-Ili koṇ
+                    <lb n="A10=10" break="no"/>ṭa nilamum
+                    ci<unclear>ṟ</unclear>ṟāṉ<unclear>ai</unclear>ccūr-k koṇṭu I
+                    <lb n="A11=11" break="no"/>ṟai-y-i<unclear>li</unclear> ceyta nilamum
+                </p>
+                
+                <p>
+                    Ivv-iraṇ
+                    <lb n="A12=12" break="no"/>ṭu <gap reason="illegible" quantity="1" unit="character"/> <hi rend="grantha">sabhai</hi>yār <unclear>i</unclear>ṭaiyum can=tirātitta
+                    <lb n="A13=13" break="no"/>-val Iṟai kāppat’ āka-p poṉ koṇ		
+                    <lb n="A14=14" break="no"/>ṭ<unclear>u</unclear> Iṟai-Ili <unclear>cey</unclear>ta nilattukk’ el
+                    <lb n="A15=15" break="no"/>l<unclear>ai</unclear>
+                    
+                    <list>
+                        <item>
+                            k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pāṟk’ ellai It-tēvar ma<unclear>ṇa</unclear>
+                            <lb n="A16=16" break="no"/>l-<choice><orig>i</orig><reg>ī</reg></choice>ṭṭukkum It-tēvar Ātitta-karat			
+                            <lb n="A17=17" break="no"/>tu tēvar nilattukku<reg>m</reg> mē<supplied reason="omitted">ṟ</supplied>kku
+                        </item>
+                        
+                        <item>
+                            teṉ
+                            <lb n="A18=18" break="no"/>-pāṟk’ ellai ciṟṟāṉaiccūrār iṭai Ivaṉē
+                            <lb n="A19=19" break="no"/>-y Iṟai-y-ili koṇṭa nilattuḷ kal
+                            <lb n="A20=20" break="no"/>li Ivaṉē-y v-iṭṭa kaṭampaṉ vāykk<supplied reason="omitted">ā</supplied>
+                            <lb n="A21=21" break="no"/>lukku <unclear>va</unclear><supplied reason="lost">ṭak</supplied>kum
+                        </item>
+                        
+                        <item>
+                            mē<unclear reason="eccentric_ductus">l</unclear>-pā<choice><orig>l</orig><reg>ṟ</reg></choice>kk’ ellai
+                            <lb n="A22=22"/>tiru-v-āva<unclear>ṭu</unclear>-tuṟai Āḷvārkku veḷḷ<choice><sic>a</sic><corr>ā</corr></choice><unclear>ṟu</unclear>-t <unclear>ta</unclear>ṉi
+                            <lb n="A23=23"/>Utta<unclear>ma</unclear>-c<choice><sic>a</sic><corr>ā</corr></choice>mavētam vallār pir<choice><sic>a</sic><corr>ā</corr></choice>maṇar tēva
+                            <lb n="A24=24" break="no"/>r muṉ Uṇpataṟku vilai koṇṭu kalluvicca
+                            <lb n="A25=25"/>nilattukku kiḻakkum
+                        </item>
+                        
+                        <item>
+                            vaṭa-pā<choice><orig>l</orig><reg>ṟ</reg></choice>k’ ellai pē
+                            <lb n="A26=26" break="no"/>rum peru-<unclear>vaḻik</unclear>kum tēvar maṇal-<choice><orig>i</orig><reg>ī</reg></choice>ṭṭukkum civa
+                            <lb n="A27=27" break="no"/><supplied reason="lost">paṭu</supplied> <unclear>tiru</unclear>-nan=ta-vāṉattukku teṟku<choice><orig>mm</orig><reg>m</reg></choice>	
+                        </item>
+                    </list>        
+                </p>
+                
+                <p>		
+                    <lb n="A28=28" break="no"/>I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ā<unclear>ṉ</unclear>k’ <supplied reason="lost">e</supplied>llaiyilum naṭuvu-paṭṭa ko
+                    <lb n="A29=29" break="no"/>llaiyum pu<unclear>ṉ</unclear>-ceyyum teṟk’ aṭai
+                    <lb n="A30=30" break="no"/>ya Ivaṉē kalluvicca n<choice><orig>i</orig><reg>ī</reg></choice>r-nilamum
+                    <lb n="A31=31"/>kalliṉa paḻaṅ-kaṭampaṉ vāyum I
+                    <lb n="A32=32" break="no"/>v-vāykkāl Iraṇṭu karaiyilum
+                    <lb n="A33=33"/>kalliṉa kollaiyum puṉ-ceyum
+                </p>
+                <p>
+                    <lb n="A34=34"/>Iraṇṭu <gap reason="illegible" quantity="1" unit="character"/> nilattilum kalli mayak
+                    <lb n="A35=35" break="no"/>kiṉa <supplied reason="lost">I</supplied>ñ-ñilattuḷ teṟk’ aṭaiya mayak
+                    <lb n="A36=36" break="no"/>kiṉa n<choice><orig>i</orig><reg>ī</reg></choice>r-nilam Iraṇṭē kāl
+                </p>
+                <p>
+                    Iv-vi
+                    <milestone type="pagelike" n="B" unit="zone" break="no"/>
+                    <label xml:lang="eng">Second Wall Portion</label>
+                    <lb n="B1=37" break="no"/>raṇtē kālilum mē<supplied reason="omitted">ṟ</supplied>kk’ aṭai<unclear>ya-p</unclear>
+                    <lb n="B2=38"/><unclear>p</unclear>atiyam
+                    
+                    <list>
+                        <item>
+                            tiru-v-āvaṭu-tuṟai Āḷvā<unclear>r</unclear>k
+                            <lb n="B3=39" break="no"/>ku pāṭuvār iruvar Iraṇṭu can=tiyum pāṭa A
+                            <lb n="B4=40" break="no"/>ṟu māvum
+                        </item>
+                        <item>
+                            t<unclear>i</unclear>ru-nan=ta-vāṉam tiru<unclear>t</unclear><supplied reason="lost">tam</supplied> I
+                            <lb n="B5=41" break="no"/>ṟaippār iruvarkku Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice><unclear>ḻ</unclear>ai nā<supplied reason="lost">lu</supplied> māvu
+                            <lb n="B6=42" break="no"/>m				
+                        </item>
+                        <item>
+                            tiru-p-paḷḷi-t-tāmam paṟi<choice><orig>cc</orig><reg>tt</reg></choice>u ce<unclear>ṟi</unclear>ppār I
+                            <lb n="B7=43" break="no"/>ru-vā<choice><orig>n</orig><reg>ṉ</reg></choice>avaṉmāṟku Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻai Iraṇṭu māvu
+                            <lb n="B8=44" break="no"/>m                
+                        </item>
+                        <item>
+                            nicati-p paṭi nāṭa-p pōṉakattukku patto
+                            <lb n="B9=45" break="no"/>ṭṭu kuttal paḻa-v-arici nā-ṉāḻiyum
+                            kummāya
+                            <lb n="B10=46" break="no"/>-Amitiṉukku parupp’ uriyum  
+                            neyy-amitu
+                            <lb n="B11=47"/><unclear>O</unclear>ru piṭiyum
+                            tayir-amitu Uriyum
+                            <unclear>p</unclear>ori-k-kaṟi-A
+                            <lb n="B12=48" break="no"/>mitum
+                            Aṭai-k-kāy-amitu nālum
+                            Amitu ce
+                            <lb n="B13=49" break="no"/>yvippitiṉukku
+                            tiru-k-kōyil Uṭaiyār <gap reason="illegible" quantity="1" unit="character"/>
+                            <lb n="B14=50" break="no"/><gap reason="illegible" quantity="4" unit="character"/> koṇṭa nilam Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻai Eṭṭu māvu
+                            <lb n="B15=51" break="no"/>m
+                        </item>
+                    </list>
+                </p>
+                
+                <p>
+                    Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻai-c cat<surplus>ti</surplus><hi rend="grantha">tra</hi>-viḷākam vēli-c ceyu
+                    <lb n="B16=52" break="no"/>m koṇṭu v<choice><orig>i</orig><reg>ī</reg></choice>ra-māṅkuṭaiyāṉ tāyaṅ-kāṭaṉ va
+                    <lb n="B17=53" break="no"/>ḻiyilārum pa<hi rend="grantha">nmāheśva</hi>rarum Uruttira-p-perumakka
+                    <lb n="B18=54" break="no"/>ḷum Iṭa-p-paṭṭa maṭa-pati Ic-cattira-viḷākam vēliyu
+                    <lb n="B19=55" break="no"/>m
+                </p>
+                <p>            
+                    Aṭuttu-k koṇṭu Aṭuvitāṉ Arici A<unclear>ṟu</unclear>-patt’ iru-ka
+                    <lb n="B20=56" break="no"/>lamum payaṟu Aiṅ-kalamum            
+                </p>
+                
+                <p>
+                    tiru-k-koṭi Iḻicca <hi rend="grantha">sna</hi>
+                    <lb n="B21=57" break="no"/><choice><sic>ma</sic><corr>pa</corr></choice>nattukku poṉ kaḻañcum Ivv-ēḻu nāḷu Ip-pa
+                    <lb n="B22=58" break="no"/>ṭi Ūṭṭuvikka māṭṭāta maṭa-patiyai tiruttam āṭiṉa piṟṟai nā
+                    <lb n="B23=59" break="no"/>ṉṟu Urudra-kaṇa-perumakkaḷum pa<hi rend="grantha">nmāheśva</hi>rarum tāyaṅ
+                    <lb n="B24=60" break="no"/>-kaṭaṉ vaḻiyilārum Āka t<unclear>ā</unclear>ṉ māṟṟi Āvāṉ or maṭa
+                    <lb n="B25=61" break="no"/>-patiyai Iṭuvit’ ākavum
+                </p>
+                
+                <p>	    
+                    <unclear>Iv-ai</unclear>mpatt’ iru-kalamum Aḷa
+                    <lb n="B26=62" break="no"/>ppi<choice><orig>cc</orig><reg>tt</reg></choice>u-k <unclear>koṇ</unclear>ṭu I<supplied reason="lost">ta</supplied>ṉ kaṇkāṇi<unclear>yo</unclear>ṭum
+                    tiru-viḻ<unclear>ā</unclear>
+                    <lb n="B27=63"/>Eṭutta nāḷ        
+                    
+                    <list>
+                        <item>
+                            m<choice><orig>u</orig><reg>ū</reg></choice>la-mutal
+                            Aṭa-k kaṭava Ariya-c-civayō<hi rend="grantha">gi</hi>
+                            <lb n="B28=64" break="no"/>kaḷukku patakkum            
+                            pa<hi rend="grantha">nmāheśva</hi>rarkku Aṭum arici tūṇiyum
+                        </item>
+                        
+                        <item>
+                            <lb n="B29=65"/><sic>pūrāṭatti</sic> ṉāṉṟu
+                            civayō<hi rend="grantha">gi</hi>ka<unclear>ḷukku</unclear> Aṭum A
+                            <lb n="B30=66" break="no"/>rici tūṇi-p patakkum
+                            pa<hi rend="grantha">nmāheśva</hi>rarkku Aṭum a
+                            <lb n="B31=67" break="no"/>rici kalamum
+                        </item>
+                        
+                        <item>
+                            Uttirāṭatti ṉāṉṟu
+                            civayō<hi rend="grantha">gi</hi><unclear>kaḷu</unclear>
+                            <lb n="B32=68" break="no"/>kku Aṭum arici kalamum
+                            pa<hi rend="grantha">nmāheśva</hi>rarkku Aṭum a
+                            <lb n="B33=69" break="no"/>rici mu-k-kalamum
+                        </item>
+                        
+                        <item>
+                            tiruvōṇatti ṉāṉṟu
+                            civayō
+                            <lb n="B34=70" break="no"/><hi rend="grantha">gi</hi>kaḷukku Aṭum arici Iru-kalamum           
+                            pa<hi rend="grantha">nmāheśva</hi>rar
+                            <lb n="B35=71" break="no"/>kku Aṭum Arici Aṟu kalamum
+                        </item>
+                        
+                        <item>
+                            Aviṭṭatti ṉāṉṟu
+                            <milestone type="pagelike" n="C" unit="zone"/><label xml:lang="eng">Third Wall Portion</label>
+                            <lb n="C1=72"/>civayō<hi rend="grantha">gi</hi>kaḷukku Aṭum arici mu-k-kalamum
+                            <lb n="C2=73"/>pa<hi rend="grantha">nmāheśva</hi>raṟk’ aṭum arici Ēḻu kalamum
+                        </item>
+                        
+                        <item>
+                            ca
+                            <lb n="C3=74" break="no"/>taiyatti ṉāṉṟu
+                            civayō<hi rend="grantha">gi</hi>kaḷukku Aṭum a
+                            <lb n="C4=75" break="no"/>rici nār-kalamum
+                            pa<hi rend="grantha">nmāheśva</hi>raṟk’ aṭum a
+                            <lb n="C5=76" break="no"/>rici Eṇ-kalamum
+                        </item>
+                        
+                        <item>
+                            tiruttam āṭum pūraṭṭāti <lb n="C6=77"/>nāṉṟu
+                            civayō<hi rend="grantha">gi</hi>kaḷukku Aṭum arici Aiṅ
+                            <lb n="C7=78"/>-kalamum
+                            pa<hi rend="grantha">nmāheśva</hi>raṟk’ aṭum arici paṉṉiru
+                            <lb n="C8=79"/>kalamum</item>
+                    </list>
+                    
+                    Āka
+                    
+                    Ivv-ēḻu nāḷum aṭa-k kaṭava A
+                    <lb n="C9=80" break="no"/>rici Aim-patt’ iru-kalamum
+                </p>
+                
+                <p>        
+                    Aṉaiccu nāḷaik
+                    <lb n="C10=81" break="no"/>kum
+                    āka
+                    
+                    payar’ aiṅ-kalamum Ip-paṭi maṭa-pati
+                    <lb n="C11=82"/>Ūṭṭi tiruttam āṭiṉa piṟṟai nāṉṟu tiru-k-koṭi
+                    <lb n="C12=83"/>Iḻicca <hi rend="grantha">sna</hi><choice><orig>m</orig><reg>p</reg></choice>aṉa-<hi rend="grantha">dravya</hi>ttukkum puṭavaikkum
+                    āka
+                    
+                    <list>
+                        
+                        <item><lb n="C13=84" break="no"/>p 
+                            poṉ Arai-k kaḻañcum
+                        </item>
+                        <item>                
+                            <hi rend="grantha">Ācā<reg>r</reg>yya-pūjai</hi> <unclear>kā</unclear>
+                            <lb n="C14=85" break="no"/>lum
+                        </item>
+                        <item>                
+                            kalacamu<supplied reason="subaudible">m</supplied> macālu<supplied reason="subaudible">m</supplied> makuṭamu<supplied reason="subaudible">m</supplied> mak<unclear>i</unclear>lamum I
+                            <lb n="C15=86" break="no"/>ṭum kucavaṉukku poṉ kālum
+                        </item>
+                        
+                    </list>
+                </p>
+                <p>
+                    kalacatti
+                    <lb n="C16=87" break="no"/><unclear>ṉ</unclear> <gap reason="illegible" quantity="8" unit="character" precision="low"/> mum perun t<supplied reason="lost">i</supplied>ru-<supplied reason="lost">A</supplied><unclear>mir</unclear>
+                    <lb n="C17=88" break="no"/>t<unclear>u</unclear>kku ceṉṉa-nellu kalamum kari-y-amirtukku
+                    <lb n="C18=89" break="no"/>m neyy-amirtukkum tayir-amirtukkum Aṭai
+                    <lb n="C19=90" break="no"/>-k-kāy-amirtukkum
+                    āka
+                    
+                    nellu tūṇi-p patakkum
+                    <lb n="C20=91"/>Āka
+                    
+                    ca<hi rend="grantha">tra</hi>-viḷākam vēliyum koṇṭu Ivv-ūṭṭuṭṭi
+                    <lb n="C21=92" break="no"/>Ip-paṭi ceyvvikku maṭa-patikku Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻai-k ka
+                    <lb n="C22=93" break="no"/>ṟṟeyyuṅ koṇṭu v<choice><orig>i</orig><reg>ī</reg></choice>ra-māṅkuṭaiyāṉ tāya
+                    <lb n="C23=94" break="no"/>ṅ-kāṭaṉ vaḻiyilār Ēḻu nāḷum maṭa-patiyoṭē ni
+                    <lb n="C24=95" break="no"/>ṉṟu Ivv-arici Aḷappiccu-k koṇṭu kaṇkāṇiy<choice><sic><unclear>ā</unclear></sic><corr>um</corr></choice>
+                    <lb n="C25=96"/>Aṭuviccu <unclear>Ū</unclear>ṭṭuvippaṉukku nicati patakk’
+                    āka
+                    
+                    Ari
+                    <lb n="C26=97" break="no"/>ci kalaṉē patakkum kuṭuttu ip-paṭi ceyviccu I
+                    <lb n="C27=98" break="no"/>p-paṭi Ūṭṭi Iñ-ñivan=ta-p paṭi ceviccu niṉṟa puṉ
+                    <lb n="C28=99" break="no"/>-ceyyilum kollaiyilum kiḻakk’ aṭaiya A
+                    <lb n="C29=100" break="no"/>ṟu mā nilam tiru-na<supplied reason="omitted">n</supplied>tavāṉam ceyviccu teṅkum ā<supplied reason="omitted">ka</supplied>
+                    <lb n="C30=101" break="no"/>vum
+                </p>
+                
+                <p>
+                    maṟṟu<reg>m</reg> mēṟpa<choice><sic>c</sic><corr>y</corr></choice>ir<unclear> Ūṉ</unclear>ṉa Ellāṅ koṇṭu maṭa-pati
+                    <lb n="C31=102" break="no"/>yē tiru-nāḷ Ēḻu nāḷaikkum Ivv-ūṭṭukku vēṇṭum
+                    <lb n="C32=103"/>vicattukku koḷvit’ ākavum
+                </p>
+                
+                <p>        
+                    niṉṟa puṉ-ceyum kol
+                    <lb n="C33=104" break="no"/>laiyum Aṭuttu-k koṇṭu neykkum Aṭṭuvitiṉu
+                    <lb n="C34=105" break="no"/>kkum kaṟikkum pākkiṉukkum veṟṟilaikkum Uppu
+                    <lb n="C35=106" break="no"/>kkum puḷikkum maṟṟum pala-kāyttukkum Eṇṇai
+                    <lb n="C36=107" break="no"/>yum viṟakum maṟṟum vēṇṭum vicattukkum It
+                    
+                    <milestone type="pagelike" n="D" unit="zone" break="no"/><label xml:lang="eng">Fourth Wall Portion</label>      
+                    
+                    <lb n="D1=108" break="no"/>-tiru-nāḷ Ēḻu nāḷaikkum Ūṭṭukku vēṇ
+                    <lb n="D2=109" break="no"/>ṭum kalam iṭum kucavaṉukku poṉ Aṟai-k-ka
+                    <lb n="D3=110" break="no"/>ḻañcum
+                </p>
+                <p>
+                    Ivaṉukku Ēḻu nāḷaikku nicati kuṟu
+                    <lb n="D4=111" break="no"/>ṇi Arici
+                    y-āka
+                    
+                    Ēḻu kuruṇi Aricikkum
+                    āka
+                    
+                    nan=tavā
+                    <lb n="D5=112" break="no"/>ṉam pōkki niṉṟa puñ-ceyum kollaiyum A
+                    <lb n="D6=113" break="no"/>ṭuttu-k koṇṭu It-taṉaiyum kuṟai v-aṟuttu
+                    <lb n="D7=114" break="no"/>-k koṇṭu maṭa-pati Ūṭṭuvit’ ākavum
+                </p>
+                
+                <p>
+                    Im-ma
+                    <lb n="D8=115" break="no"/>ṭa-patiyē cāttaṉūr It-tiru-viḻā-vāriyaṟ
+                    <lb n="D9=116" break="no"/>ku Ivv-ēḻu nāḷum Ik-kōyil-k-kāvaṇam
+                    <lb n="D10=117"/>Iṭuvi<choice><orig>cc</orig><reg>tt</reg></choice>u It-tiru-viḻā ceyvikkum vāriya-p
+                    <lb n="D11=118" break="no"/>-perumakkaḷukku nicati Aiṅ-kuṟuṇi Oru nāḻi A
+                    <lb n="D12=119" break="no"/>rici
+                    y-āka 
+                    
+                    Ēḻu nāḷaikku peṟum arici mu-k-kalamum
+                    <lb n="D13=120"/>maṭa-pati tāṉ peṟum kāṟ ceyilum Aṭṭuvi
+                    <lb n="D14=121"/>t’ ākavum       
+                </p>
+                
+                <p>
+                    It-taṉaiyum kuṟai v-aṟuttu In
+                    <lb n="D15=122" break="no"/>-n<choice><orig>i</orig><reg>ī</reg></choice>r-nilam Iraṇṭē kālum kollaiyum puṉ
+                    <lb n="D16=123" break="no"/>c<unclear>e</unclear>yum koṇṭu nan=ta-vāṉattu mēṟ-payiru
+                    <lb n="D17=124" break="no"/>ṅ koṇṭu In-nivan=ta-p paṭi ceyya-k kaṭavāṉ
+                    <lb n="D18=125"/>ceyvittu It-taṉaiyum kuṟai v-aṟuttu ko
+                    <lb n="D19=126" break="no"/>ṇṭu Ivv-ēḻu nāḷum Ivv-ūṭṭu Ip-paṭiyē ma
+                    <lb n="D20=127" break="no"/>ṭa-patiyē v<choice><orig>i</orig><reg>ī</reg></choice>ra-māṅkuṭaiyaṉ tāyaṉ kāṭaṉ vaḻi
+                    <lb n="D21=128" break="no"/>yilār kaṇkāṇiyōṭum Ūṭṭi In-nivan=ta-p paṭi        
+                    <lb n="D22=129"/>ceyvi-p-pat’ ākavum        
+                </p>
+                
+                <p>
+                    In-nilam ciṟu-puliyūrilum
+                    <lb n="D23=130"/>ciṟṟāṉaiccūrilum Iṟai-Ili vilai koṇṭu kal
+                    <lb n="D24=131" break="no"/>li-t tiruttiṉa n<choice><orig>i</orig><reg>ī</reg></choice>r-nilamum kollaiyum puṉ
+                    <lb n="D25=132" break="no"/>-ceyum In-nilam It-taṉaiyum tiru-v-āvaṭu-tu
+                    <lb n="D26=133" break="no"/>ṟai <hi rend="grantha">mahā-de</hi>vaṟku In-nilam Ip-paṭi koṇṭu
+                    <lb n="D27=134"/>In-nivan=tam ceytu kuṭuttēṉ vaṭa-karai mi<unclear>ṟai</unclear>        
+                    <lb n="D28=135" break="no"/>-k-kūṟṟattu v<choice><orig>i</orig><reg>ī</reg></choice>ra-māṅkuṭaiyāṉ tāyaṉ kāṭaṉ-ēṉ        
+                </p>
+                
+                <p>        
+                    <lb n="D29=136"/>I<hi rend="grantha">d-dhanma</hi>m pa<hi rend="grantha">nmāheśvarar</hi> Ira<hi rend="grantha">kṣai</hi>
+                </p>
+                
+                <p>
+                    I<hi rend="grantha">d-dhanma</hi>m
+                    <lb n="D30=137"/>Ira<hi rend="grantha">kṣi</hi>ppār <hi rend="grantha">śrī</hi>-pā<hi rend="grantha">dayū</hi>ḷi Eṉ talai mēla
+                    <lb n="D31=138" break="no"/><add place="above">ṉa</add>
+                </p>
+                
+                <p>
+                    tāyaṅ kāṭaṉ ciṟu-puliyūr ca<hi rend="grantha">bhai</hi>yā
+                    <lb n="D32=139" break="no"/>r iṭai Iṟai-Ili koṇṭa nilam
+                </p>
+                <p>
+                    In=-nila
+                    <lb n="D33=140" break="no"/>ttu<unclear>k</unclear>ku Aṭṭa-k kaṭava nellu patiṉ kalam
+                </p>
+                <p>
+                    <lb n="D34=141"/>Ip-pati<supplied reason="omitted">ṉ</supplied> kalamum Aṭṭa-k kaṭavōm Iru <choice><unclear>y</unclear><unclear><g type="numeral">10</g></unclear></choice> poṉ koṇṭōm tiru-v-ā
+                    <lb n="D35=142" break="no"/>vaṭu-tuṟai tiru-k-kōyil uṭaiyōm
+                </p>
+                
+            </div>
             
-            <item>
-                the northern boundary is to the south of the departing (?) <supplied reason="explanation"><foreign>pērum</foreign></supplied> great/main road, of the sand dunes <supplied reason="explanation"><foreign>maṇal-īṭu</foreign></supplied> <supplied reason="subaudible">of</supplied> the god and of the glorious flower garden <supplied reason="subaudible">named</supplied> Civapaṭu.
-            </item>
             
-        </list>		
-    </p>
-    
-    <p n="27-33">
-        Comprised within these four boundaries,
-        <supplied reason="subaudible">there are</supplied>
-        sylvan tracts <supplied reason="explanation"><foreign>kollai</foreign></supplied>,
-        dry-land <supplied reason="explanation"><foreign>puṉ-cey</foreign></supplied>,
-        wet-land <supplied reason="explanation"><foreign>nīr-nilam</foreign></supplied>, bordering on the south, which he had dug <supplied reason="explanation"><foreign>kalluvitta</foreign></supplied>,
-        as well as
-        the <foreign>vāy</foreign> <supplied reason="explanation"><foreign>vāyum</foreign></supplied> <supplied reason="subaudible">of</supplied> Paḻam Kaṭampaṉ, already dug (?) <supplied reason="explanation"><foreign>kalliṉa</foreign><note>That is, already fit for cultivation.</note></supplied>,
-        and    
-        dry-land and sylvan tracts, already dug (?) <supplied reason="explanation"><foreign>kalliṉa</foreign></supplied>, on both banks <supplied reason="subaudible">of</supplied> this channel.
-    </p>
-    
-    <p n="34-36">
-        <supplied reason="subaudible">There are</supplied> two quarters <supplied reason="subaudible">of a <foreign>vēli</foreign></supplied> of wet-land <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>mayakkiṉa</foreign></supplied>, bordering on the south in the land <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>mayakkiṉa</foreign></supplied>, after digging <supplied reason="explanation"><foreign>kalli</foreign></supplied> in these two lands.
-    </p>
-    
-    <p n="36-51">      	    
-        <supplied reason="subaudible">Comprised</supplied> within these two quarters <supplied reason="subaudible">of a <foreign>vēli</foreign></supplied>, a <foreign>patiyam</foreign>, bordering on the west, <supplied reason="subaudible">is provisioned as follows</supplied>:<note>Two quarters <foreign>vēli</foreign>, that is half a <foreign>vēli</foreign>, make 20 <foreign>mā</foreign>s, which are distributed as follows: 6 + 4 + 2 + 8 <foreign>mā</foreign>s.</note>
-        
-        <list>
+            <div type="apparatus">
+                
+                <listApp>
+                    
+                    <app loc="11">
+                        <lem>Ivv-iraṇ<lb n="A12=12" break="no"/>ṭu <gap reason="illegible" quantity="1" unit="character"/></lem>
+                        <note>The illegible, that is undeciphered, character looks like a <foreign>kāl</foreign> or a <foreign>daṇḍa</foreign>. See also line 34.</note>
+                    </app>
+                    
+                    <app loc="22">
+                        <lem>veḷḷa<unclear>ṟu</unclear>-t <unclear>ta</unclear>ṉi</lem>
+                        <note>Alternatively <foreign>veḷḷ Atcuṇi</foreign>.</note>
+                    </app>
+                    
+                    <app loc="34">
+                        <lem>Iraṇṭu <gap reason="illegible" quantity="1" unit="character"/></lem>
+                        <note>The illegible, that is undeciphered, character looks like a <foreign>kāl</foreign> or a <foreign>daṇḍa</foreign>. See also line 11.</note>
+                    </app>
+                    
+                </listApp>
+            </div>
             
-            <item>
-                six <foreign>mā</foreign>s, so that two singers sing <supplied reason="explanation"><foreign>pāṭa</foreign></supplied> <supplied reason="subaudible">at</supplied> two <foreign>canti</foreign>s for the Lord of Tiruvāvaṭutuṟai;
-            </item>
             
-            <item>
-                four <foreign>mā</foreign>s, west of this, for two persons who splash <supplied reason="explanation"><foreign>iṟaippār</foreign></supplied> water <supplied reason="explanation"><foreign>tiruttam</foreign></supplied> <supplied reason="subaudible">in</supplied> the glorious flower garden;
-            </item>
+            <div type="translation" resp="part:emfr">
+                
+                <p n="01-02">Homage to Śiva. Prosperity! Fortune!</p>
+                
+                <p n="1-3">36th year of the king Parakesarivarman, who took Maturai.</p>
+                
+                <p n="1">
+                    Homage to Śiva. Prosperity! Fortune!
+                </p>
+                
+                <p n="3">
+                    This is the 36th year of the king Parakesarivarman, who took Matirai.
+                </p>
+                
+                <p n="4-11">
+                    For the Lord <supplied reason="explanation"><foreign>āḷvār</foreign></supplied> <supplied reason="subaudible">of</supplied> glorious Tiruvāvaṭutuṟai <supplied reason="subaudible">in</supplied> Cāttaṉūr, <supplied reason="subaudible">which is</supplied> a <foreign>brahmadeya</foreign> in the Tiraimūrnāṭu on the southern bank, there is a plot of land <supplied reason="subaudible">(nilam)</supplied> that I, Tāyaṅ Kāṭaṉ, a servant of Him <supplied reason="subaudible">(ivar aṭiyēṉ)</supplied>, and lord of Vīramāṅkuṭi in the Miṟai-k-kūṟṟam, obtained tax-free from <supplied reason="explanation"><foreign>iṭai</foreign></supplied> the members of the assembly <supplied reason="subaudible">of</supplied> Ciṟupuliyūr, and a plot of land, made tax-free, obtained from Ciṟṟāṉaiccūr.
+                </p>
+                
+                <p n="12-27">
+                    After using gold so as to take care of the taxes <supplied reason="explanation"><foreign>iṟai kāppat’ āka</foreign></supplied> as long as the sun and moon perdure, <supplied reason="subaudible">depositing it</supplied> with <supplied reason="explanation"><foreign>iṭaiyum</foreign></supplied> the members of the assembly of these two villages, the boundaries of <supplied reason="subaudible">these</supplied> plots of land, made tax-free, are <supplied reason="subaudible">as follows</supplied>:
+                    
+                    <list>
+                        <item>
+                            the eastern boundary is to the west of the sand dunes <supplied reason="explanation"><foreign>maṇal-īṭu</foreign></supplied> <supplied reason="subaudible">of</supplied> this god and to the land <supplied reason="subaudible">of</supplied> the god of the Āditya-gṛha <supplied reason="explanation"><foreign>ātitta-karam</foreign></supplied> of this god;
+                        </item>
+                        <item>
+                            the southern boundary is to the north of the Kaṭampaṉ channel which I myself <supplied reason="explanation"><foreign>ivaṉē</foreign></supplied> have given <supplied reason="explanation"><foreign>iṭṭa</foreign></supplied> after digging <supplied reason="explanation"><foreign>kalli</foreign></supplied> within the land, which I obtained tax-free from <supplied reason="explanation"><foreign>iṭai</foreign></supplied> the inhabitants of Ciṟṟāṉaiccūr <supplied reason="explanation"><foreign>ciṟṟāṉaiccūrār</foreign></supplied>;
+                        </item>
+                        <item>
+                            the western boundary is to the east of the land which, after purchase <supplied reason="explanation"><foreign>vilai koṇṭu</foreign></supplied>, I had caused to be dug <supplied reason="explanation"><foreign>kalluvitta</foreign></supplied>, for feeding, in front of the god, the Brahmins who are the unmatched <supplied reason="explanation"><foreign>taṉi</foreign></supplied> experts in the (Uttama)-Sāmaveda from the Veḷḷāṟu <supplied reason="explanation"><foreign>veḷḷāṟu</foreign></supplied> <supplied reason="subaudible">area</supplied> for the Lord of Tiruvāvaṭutuṟai;
+                        </item>
+                        <item>
+                            the northern boundary is to the south of the departing <supplied reason="explanation"><foreign>pērum</foreign></supplied> great road, of the sand dunes <supplied reason="explanation"><foreign>maṇal-īṭu</foreign></supplied> <supplied reason="subaudible">of</supplied> the god and of the glorious flower garden <supplied reason="subaudible">named</supplied> Civapaṭu.
+                        </item>
+                    </list>
+                </p>
+                
+                <p n="28-33">
+                    Comprised within these four boundaries, <supplied reason="subaudible">there are</supplied> sylvan tracts <supplied reason="explanation"><foreign>kollai</foreign></supplied>, dry-land <supplied reason="explanation"><foreign>puṉ-cey</foreign></supplied>, and further to the south <supplied reason="subaudible">of these</supplied>, a wet-land <supplied reason="explanation"><foreign>nīr-nilam</foreign></supplied> which I have caused to be dug <supplied reason="explanation"><foreign>kalluvitta</foreign></supplied> myself, as well as the old Kaṭampaṉ channel <supplied reason="explanation"><foreign>vāyum</foreign></supplied>, which was already dug <supplied reason="explanation"><foreign>kalliṉa</foreign></supplied>, and dry-land and sylvan tracts, already dug <supplied reason="explanation"><foreign>kalliṉa</foreign></supplied>, on both banks <supplied reason="subaudible">of</supplied> this channel.
+                </p>
+                
+                <p n="34-36">
+                    After digging a pit <supplied reason="explanation"><foreign>kalli</foreign></supplied> in both these lands, <supplied reason="subaudible">there are</supplied> two quarters <supplied reason="subaudible">of a vēli</supplied> of wet-land … <supplied reason="explanation"><foreign>mayakkiṉa</foreign></supplied>, bordering on the south in the land … <supplied reason="explanation"><foreign>mayakkiṉa</foreign></supplied>.
+                </p>
+                
+                <p n="36-51">
+                    <supplied reason="subaudible">Comprised</supplied> within these two quarters <supplied reason="subaudible">of a vēli</supplied>, a <foreign>patiyam</foreign>, bordering on the west, <supplied reason="subaudible">the provision is as follows</supplied>:
+                    
+                    <list>
+                        <item>
+                            six <foreign>mā</foreign>s so that two singers may sing <supplied reason="explanation"><foreign>pāṭa</foreign></supplied> <supplied reason="subaudible">at</supplied> two <foreign>canti</foreign>s for the Lord of Tiruvāvaṭutuṟai;
+                        </item>
+                        <item>
+                            four <foreign>mā</foreign>s east of this, for two persons who draw <supplied reason="explanation"><foreign>iṟaippār</foreign></supplied> water <supplied reason="explanation"><foreign>tiruttam</foreign></supplied> <supplied reason="subaudible">in</supplied> the flower garden;
+                        </item>
+                        <item>
+                            two <foreign>mā</foreign>s east of this, for two gardeners, who, after plucking <supplied reason="explanation"><foreign>paṟittu</foreign></supplied>, string <supplied reason="explanation"><foreign>ceṟippār</foreign></supplied> flower garlands;
+                        </item>
+                        <item>
+                            eight <foreign>mā</foreign>s east of the land obtained by the Lord of the temple, for having food-offerings made <supplied reason="explanation"><foreign>amitu ceyvippitiṉukku</foreign></supplied> daily <supplied reason="explanation"><foreign>nicati-p paṭi</foreign></supplied>: four <foreign>nāḻi</foreign>s of husked and seasoned paddy for noon <supplied reason="explanation"><foreign>nāṭ</foreign></supplied> feeding, one <foreign>uri</foreign> of lentils <supplied reason="explanation"><foreign>paruppu</foreign></supplied>, one <foreign>piṭi</foreign> of butter, one <foreign>uri</foreign> of yogurt, one fried offering, and four areca-nut offerings.
+                        </item>
+                    </list>
+                </p>
+                
+                <p n="52-61">
+                    East of this, taking a plot of land of one <foreign>vēli</foreign> from the vicinity of the choultry, taking <supplied reason="explanation"><foreign>aṭuttu koṇṭu</foreign></supplied> this <foreign>vēli</foreign> near this choultry for <supplied reason="explanation"><foreign>paṭṭa</foreign></supplied> <foreign>maṭam</foreign>’s pontiff, to be appointed <supplied reason="explanation"><foreign>iṭa</foreign></supplied> by those in the lineage of Vīra Māṅkuṭaiyāṉ Tāyaṅkāṭaṉ <supplied reason="explanation"><foreign>vaḻiyilārum</foreign></supplied>, by the <foreign>Panmaheśvaras</foreign>, and <foreign>Rudra’s people</foreign> <supplied reason="explanation"><foreign>uruttira perumakkaḷ</foreign></supplied>:
+                    
+                    <list>
+                        <item>
+                            52 <foreign>kalams</foreign> of rice cooked <supplied reason="explanation"><foreign>aṭuvitāṉa</foreign></supplied>, and 5 <foreign>kalams</foreign> of cereal seeds <supplied reason="explanation"><foreign>payaṟu</foreign></supplied>;
+                        </item>
+                        <item>
+                            a <foreign>kalañcu</foreign> of gold for the ritual bathing <supplied reason="explanation"><foreign>snapanattukku</foreign></supplied> after lowering <supplied reason="explanation"><foreign>Iḻicca</foreign></supplied> the sacred flag;
+                        </item>
+                        <item>
+                            On the next day of the water-sprinkling <supplied reason="explanation"><foreign>tiruttam āṭiṉa piṟṟai nāṉṟu</foreign></supplied>, changing <supplied reason="explanation"><foreign>māṟṟi</foreign></supplied> that <foreign>maṭapati</foreign> who is not able <supplied reason="explanation"><foreign>māṭṭāta</foreign></supplied> to cause feeding <supplied reason="explanation"><foreign>ūṭṭuvikka</foreign></supplied> in this way;
+                        </item>
+                    </list>
+                </p>
+                
+                <p n="62-80">
+                    After measuring <supplied reason="explanation"><foreign>aḷappittu</foreign></supplied> these 52 <foreign>kalams</foreign>, the day determined for the festival, along with the superintendent <supplied reason="explanation"><foreign>kaṇkāṇi</foreign></supplied>:
+                    
+                    <list>
+                        <item>
+                            Starting with the Mūlam festival, what is necessary to cook <supplied reason="explanation"><foreign>aṭak kaṭava</foreign></supplied>:
+                            one <foreign>patakku</foreign> for the <foreign>Śivayogins</foreign>, and one <foreign>tūṇi</foreign> of paddy for the <foreign>Panmaheśvarar</foreign>;
+                        </item>
+                        <item>
+                            At the time of Pūrāṭatti:
+                            one <foreign>tūṇi</foreign> and one <foreign>patakku</foreign> of cooked rice for the <foreign>Śivayogins</foreign>, one <foreign>kalam</foreign> of rice for the <foreign>Panmaheśvarar</foreign>;
+                        </item>
+                        <item>
+                            At the time of Uttirāṭatti:
+                            three <foreign>kalams</foreign> of cooked rice for the <foreign>Panmaheśvarar</foreign>, one <foreign>kalam</foreign> of cooked rice for the <foreign>Śivayogins</foreign>;
+                        </item>
+                        <item>
+                            At the time of Tiruvōṇam:
+                            two <foreign>kalams</foreign> of cooked rice for the <foreign>Śivayogins</foreign>, and six <foreign>kalams</foreign> for the <foreign>Panmaheśvaras</foreign>;
+                        </item>
+                        <item>
+                            At the time of Aviṭṭam:
+                            seven <foreign>kalams</foreign> of cooked rice for the <foreign>Panmaheśvarar</foreign>, three <foreign>kalams</foreign> for the <foreign>Śivayogins</foreign>;
+                        </item>
+                        <item>
+                            At the time of Cataiyam:
+                            four <foreign>kalams</foreign> of cooked rice for the <foreign>Śivayogins</foreign>, eight <foreign>kalams</foreign> for the <foreign>Panmaheśvarar</foreign>;
+                        </item>
+                        <item>
+                            At the time of Pūraṭṭāti with the water ritual <supplied reason="explanation"><foreign>tiruttam āṭum</foreign></supplied>:
+                            five <foreign>kalams</foreign> of cooked rice for the <foreign>Śivayogins</foreign>, twelve <foreign>kalams</foreign> for the <foreign>Panmaheśvarar</foreign>;
+                        </item>
+                    </list>
+                    
+                    52 <foreign>kalams</foreign> of rice <supplied reason="subaudible">are</supplied> needed for all of these seven <supplied reason="explanation"><foreign>nakṣatra</foreign></supplied> days.
+                </p>
+                
+                <p n="81-86">
+                    5 <foreign>kalams</foreign> of <foreign>pulse</foreign> <supplied reason="subaudible">are</supplied> needed for all these <supplied reason="explanation"><foreign>nakṣatra</foreign></supplied> days.
+                </p>
+                
+                <p n="101-103">
+                    After giving thus one <foreign>kalam</foreign> and one <foreign>patakku</foreign> of rice in this way in which it was ordered <supplied reason="explanation"><foreign>ceyviccu</foreign></supplied>, as per this provision <supplied reason="explanation"><foreign>inna-vanta paṭi</foreign></supplied>, so that six <foreign>mā</foreign>s of land of the garden further west of the wet-land and the sylvan tracts becomes a coconut land.
+                </p>
+                
+                <p n="129-135">
+                    Having acquired this plot of land tax-free in Ciṟupuliyūr and in Ciṟṟāṉaiccūr, and <supplied reason="subaudible">it comprises</supplied> wet land which has been excavated, sylvan tracts, fertile land, having taken in this way this land for the great God of Tiruvāvaṭutuṟai, having done this agreement, I gave it. Vīra-māṅkuṭaiyāṉ Tāyaṅ Kāṭaṉ from the northern shore of the Miṟaikūṟṟam.
+                </p>
+                
+                <p n="136">
+                    This pious donation <supplied reason="subaudible">is under</supplied> the protection of the many great devotees of Śiva.
+                </p>
+                
+                <p n="137-138">
+                    The dust on the glorious feet of he who protects this pious donation are on my head.
+                </p>
+                
+                <p n="139">
+                    <supplied reason="subaudible">There is</supplied> a land that Tāyaṅ Kāṭaṉ obtained tax-free from the members of the assembly.
+                </p>
+                
+                <p n="140">
+                    For this land ten pots of paddy are to be provided.
+                </p>
+                
+                <p n="141-142">
+                    We are appointed to provide these ten pots; we have obtained two gold coins, we the lords of the glorious temple of Tiruvāvaṭutuṟai.
+                </p>
+                
+                
+                
+                
+                <!-- <p n="4-11">
+                    For the Lord <supplied reason="explanation"><foreign>āḷvār</foreign></supplied> <supplied reason="subaudible">of</supplied> the glorious Tiruvāvaṭutuṟai <supplied reason="subaudible">in</supplied> Cāttaṉūr, <supplied reason="subaudible">which is</supplied> a <foreign>brahmadeya</foreign> in the Tiraimūrnāṭu on the southern bank,
+                    <supplied reason="subaudible">there is</supplied>
+                    a land that I, Tāyaṅ Kaṭaṉ, lord of Vīramāṅkuṭi in the Mīraikkūṟṟam, a servant of him<note>That is, the Lord of Tiruvāvaṭutuṟai.</note>,
+                    obtained tax-free from <supplied reason="explanation"><foreign>iṭai</foreign></supplied> the members of the assembly <supplied reason="subaudible">of</supplied> Ciṟupuliyūr,
+                    and
+                    a land, made tax-fee, obtained <supplied reason="subaudible">in</supplied> Ciṟṟāṉaiccūr. 
+                    </p>
+                    
+                    <p n="12-27">
+                    The boundaries of <supplied reason="subaudible">these</supplied> lands, made tax-free, after obtaining <supplied reason="subaudible">from me</supplied> the gold deposited with <supplied reason="explanation"><foreign>iṭaiyum</foreign>?</supplied> the members of the assembly of these two <supplied reason="subaudible">villages</supplied>, so as to take care of the taxes <supplied reason="explanation"><foreign>iṟai kāppat’ āka</foreign><note>That is, to secure the payment of taxes with the capital interest.</note></supplied>, as long as the moon, are <supplied reason="subaudible">as follows</supplied>:
+                    
+                    <list>			
+                    <item>
+                    the eastern boundary is to the west of the sand dunes <supplied reason="explanation"><foreign>maṇal-īṭu</foreign></supplied> <supplied reason="subaudible">of</supplied> this god and to the land <supplied reason="subaudible">of</supplied> the god of the Āditya-gṛha <supplied reason="explanation"><foreign>ātitta-karam</foreign></supplied><note>This possibly refers to be the present-day Cūriyaṉār Kōyil in the village of same name, in the Tanjore district, less than 10 km west of Tiruvavāṭutuṟai.</note> of this god;
+                    </item>
+                    
+                    <item>
+                    the southern boundary is to the north of the Kaṭampaṉ channel which he <supplied reason="explanation"><foreign>ivaṉē</foreign><note>That is, Kaṭampaṉ or the donor, Tāyaṅ Kaṭaṉ.</note></supplied> has given <supplied reason="explanation"><foreign>iṭṭa</foreign><note>Literally, put.</note></supplied> 
+                    after digging <supplied reason="explanation"><foreign>kalli</foreign></supplied> within the land,
+                    which he obtained tax-free from <supplied reason="explanation"><foreign>iṭai</foreign></supplied> the inhabitants of Ciṟṟāṉaiccūr <supplied reason="explanation"><foreign>ciṟṟāṉaiccūrār</foreign><note>That is, the <foreign>ūrār</foreign>s of Ciṟṟāṉaiccūr?</note></supplied>;
+                    </item>
+                    
+                    <item>
+                    the western boundary is to the east of the land which, after purchase <supplied reason="explanation"><foreign>vilai koṇṭu</foreign></supplied>, he had dug <supplied reason="explanation"><foreign>kalluvitta</foreign><note>That is, dug and thus made fit for cultivation?</note></supplied>, for feeding, in front of the god,<note>This phrase appears to mean that the Sāmaveda reciters are fed in front of the god.</note> the Brahmins who are the matchlessly <supplied reason="explanation"><foreign>taṉi</foreign></supplied> expert in the <unclear>Uttama</unclear>-Sāmaveda in the Veḷḷāṟu <supplied reason="explanation"><foreign>veḷḷ<choice><sic>a</sic><corr>ā</corr></choice><unclear>ṟu</unclear></foreign>?</supplied> <supplied reason="subaudible">area</supplied> for the Lord of Tiruvāvaṭutuṟai;
+                    </item>
+                    
+                    <item>
+                    the northern boundary is to the south of the departing (?) <supplied reason="explanation"><foreign>pērum</foreign></supplied> great/main road, of the sand dunes <supplied reason="explanation"><foreign>maṇal-īṭu</foreign></supplied> <supplied reason="subaudible">of</supplied> the god and of the glorious flower garden <supplied reason="subaudible">named</supplied> Civapaṭu.
+                    </item>
+                    
+                    </list>		
+                    </p>
+                    
+                    <p n="27-33">
+                    Comprised within these four boundaries,
+                    <supplied reason="subaudible">there are</supplied>
+                    sylvan tracts <supplied reason="explanation"><foreign>kollai</foreign></supplied>,
+                    dry-land <supplied reason="explanation"><foreign>puṉ-cey</foreign></supplied>,
+                    wet-land <supplied reason="explanation"><foreign>nīr-nilam</foreign></supplied>, bordering on the south, which he had dug <supplied reason="explanation"><foreign>kalluvitta</foreign></supplied>,
+                    as well as
+                    the <foreign>vāy</foreign> <supplied reason="explanation"><foreign>vāyum</foreign></supplied> <supplied reason="subaudible">of</supplied> Paḻam Kaṭampaṉ, already dug (?) <supplied reason="explanation"><foreign>kalliṉa</foreign><note>That is, already fit for cultivation.</note></supplied>,
+                    and    
+                    dry-land and sylvan tracts, already dug (?) <supplied reason="explanation"><foreign>kalliṉa</foreign></supplied>, on both banks <supplied reason="subaudible">of</supplied> this channel.
+                    </p>
+                    
+                    <p n="34-36">
+                    <supplied reason="subaudible">There are</supplied> two quarters <supplied reason="subaudible">of a <foreign>vēli</foreign></supplied> of wet-land <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>mayakkiṉa</foreign></supplied>, bordering on the south in the land <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>mayakkiṉa</foreign></supplied>, after digging <supplied reason="explanation"><foreign>kalli</foreign></supplied> in these two lands.
+                    </p>
+                    
+                    <p n="36-51">      	    
+                    <supplied reason="subaudible">Comprised</supplied> within these two quarters <supplied reason="subaudible">of a <foreign>vēli</foreign></supplied>, a <foreign>patiyam</foreign>, bordering on the west, <supplied reason="subaudible">is provisioned as follows</supplied>:<note>Two quarters <foreign>vēli</foreign>, that is half a <foreign>vēli</foreign>, make 20 <foreign>mā</foreign>s, which are distributed as follows: 6 + 4 + 2 + 8 <foreign>mā</foreign>s.</note>
+                    
+                    <list>
+                    
+                    <item>
+                    six <foreign>mā</foreign>s, so that two singers sing <supplied reason="explanation"><foreign>pāṭa</foreign></supplied> <supplied reason="subaudible">at</supplied> two <foreign>canti</foreign>s for the Lord of Tiruvāvaṭutuṟai;
+                    </item>
+                    
+                    <item>
+                    four <foreign>mā</foreign>s, west of this, for two persons who splash <supplied reason="explanation"><foreign>iṟaippār</foreign></supplied> water <supplied reason="explanation"><foreign>tiruttam</foreign></supplied> <supplied reason="subaudible">in</supplied> the glorious flower garden;
+                    </item>
+                    
+                    <item>
+                    two <foreign>mā</foreign>, west of this, for two celestial(s), who, after plucking <supplied reason="explanation"><foreign>paṟittu</foreign></supplied>, tighten <supplied reason="explanation"><foreign>ceṟippār</foreign></supplied> glorious flower garlands;
+                    </item>
+                    
+                    <item>
+                    and, as for food <supplied reason="explanation"><foreign>pōṉakam</foreign></supplied> to be measured (?) <supplied reason="explanation"><foreign>nāṭa</foreign></supplied> on a daily basis <supplied reason="explanation"><foreign>nicatip paṭi</foreign></supplied>, eight <foreign>mā</foreign>s, east of the land, which the Lord of the glorious temple obtained,
+                    for having  food-offerings made,
+                    <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>pattoṭṭu</foreign></supplied>
+                    for daily food <supplied reason="subaudible">consisting in</supplied>
+                    four <foreign>nāḻi</foreign>s of husked and seasoned paddy,
+                    <supplied reason="subaudible">one</supplied> large (?) <supplied reason="explanation"><foreign>paruppu</foreign></supplied> <foreign>uri</foreign> of lentil food-offering,
+                    one <foreign>piṭi</foreign> of butter food-offering,
+                    <supplied reason="subaudible">one</supplied> <foreign>uri</foreign> of curd food-offering,
+                    <supplied reason="subaudible">one</supplied> cooked food-offering,	 			
+                    and four areca-nut food-offerings.
+                    </item>
+                    </list>
+                    </p>
+                    
+                    <p n="51-55">
+                    East of this, with ... <supplied reason="subaudible">from</supplied> the ...,
+                    so as to ...
+                    <supplied reason="subaudible">there is</supplied> one <foreign>vēli</foreign> <supplied reason="subaudible">from</supplied> this ...,
+                    </p>
+                    
+                    <p n="55-56">
+                    ...
+                    </p>
+                    <p n="56-61">
+                    So that the attendants of Rudra <supplied reason="explanation"><foreign>uruttira-p-perumakkaḷ</foreign></supplied>, the many great devotees of Śiva and the descendants of Tayaṉ Kaṭaṉ ...
+                    they should appoint a pontiff ...
+                    </p>
+                    <p n="61-80">
+                    So that there be <supplied reason="explanation"><foreign>āka</foreign></supplied>,
+                    after having these fifty-two pots measured <supplied reason="explanation"><foreign>aḷappittu</foreign></supplied> with the superintendant <supplied reason="explanation"><foreign>kaṇkāṇi</foreign></supplied>
+                    on days when glorious festivals are undertaken
+                    
+                    <list>
+                    <item>
+                    starting with the Mūlam festival,
+                    what is necessary to cook <supplied reason="explanation"><foreign>aṭak kaṭava</foreign></supplied> <supplied reason="subaudible">are</supplied>
+                    one <foreign>patakku</foreign> for the Śivayogins ...
+                    and one <foreign>tūṇi</foreign> of paddy ...
+                    </item>
+                    <item>
+                    at the time of Pūrāṭatti
+                    ...
+                    </item>
+                    <item>
+                    at the time of Uttirāṭatti
+                    ...
+                    </item>
+                    <item>
+                    at the time of Tiruvōṇam
+                    ...
+                    </item>
+                    <item>
+                    at the time of Aviṭṭam
+                    ...
+                    </item>
+                    <item>
+                    at the time of Cataiyam
+                    ...
+                    </item>
+                    <item>
+                    at the time of Pūraṭṭāti
+                    ...
+                    </item>
+                    <item>
+                    ...
+                    </item>
+                    </list>
+                    <supplied reason="explanation">there are</supplied> fifty-two pots of paddy.
+                    </p>
+                    
+                    <p n="80-86">
+                    ...
+                    </p>
+                    
+                    <p n="86-101">
+                    ...
+                    </p>
+                    
+                    <p n="101-103">
+                    ...
+                    </p>
+                    
+                    <p n="103-110">...</p>
+                    
+                    <p n="110-114">...</p>
+                    
+                    <p n="114-121">...</p>
+                    
+                    <p n="121-129">...</p>
+                    
+                    <p n="129-135">...</p>
+                    
+                    <p n="136">
+                    This pious donation <supplied reason="subaudible">is under</supplied> the protection of the the many great devotees of Śiva.
+                    </p>
+                    
+                    <p n="136-138">
+                    The dust on the glorious feet of he who protects this pious donation are on my head.
+                    </p>
+                    
+                    <p n="138-139">
+                    <supplied reason="subaudible">There is</supplied> a land that Tāyaṅ Kāṭaṉ obtained tax-free from the members of the assembly.
+                    </p>
+                    
+                    <p n="139-140">
+                    For this land ten pots of paddy are to be provided.
+                    </p>
+                    
+                    <p n="141-142">
+                    We are appointed to provide these ten pots; we have obtained two gold coins, we the lords of the glorious temple of Tiruvāvaṭutuṟai.
+                    </p>-->
+            </div>
             
-            <item>
-                two <foreign>mā</foreign>, west of this, for two celestial(s), who, after plucking <supplied reason="explanation"><foreign>paṟittu</foreign></supplied>, tighten <supplied reason="explanation"><foreign>ceṟippār</foreign></supplied> glorious flower garlands;
-            </item>
             
-            <item>
-                and, as for food <supplied reason="explanation"><foreign>pōṉakam</foreign></supplied> to be measured (?) <supplied reason="explanation"><foreign>nāṭa</foreign></supplied> on a daily basis <supplied reason="explanation"><foreign>nicatip paṭi</foreign></supplied>, eight <foreign>mā</foreign>s, east of the land, which the Lord of the glorious temple obtained,
-                for having  food-offerings made,
-                <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>pattoṭṭu</foreign></supplied>
-                for daily food <supplied reason="subaudible">consisting in</supplied>
-                four <foreign>nāḻi</foreign>s of husked and seasoned paddy,
-                <supplied reason="subaudible">one</supplied> large (?) <supplied reason="explanation"><foreign>paruppu</foreign></supplied> <foreign>uri</foreign> of lentil food-offering,
-                one <foreign>piṭi</foreign> of butter food-offering,
-                <supplied reason="subaudible">one</supplied> <foreign>uri</foreign> of curd food-offering,
-                <supplied reason="subaudible">one</supplied> cooked food-offering,	 			
-                and four areca-nut food-offerings.
-            </item>
-        </list>
-    </p>
-    
-    <p n="51-55">
-        East of this, with ... <supplied reason="subaudible">from</supplied> the ...,
-        so as to ...
-        <supplied reason="subaudible">there is</supplied> one <foreign>vēli</foreign> <supplied reason="subaudible">from</supplied> this ...,
-    </p>
-    
-    <p n="55-56">
-        ...
-    </p>
-    <p n="56-61">
-        So that the attendants of Rudra <supplied reason="explanation"><foreign>uruttira-p-perumakkaḷ</foreign></supplied>, the many great devotees of Śiva and the descendants of Tayaṉ Kaṭaṉ ...
-        they should appoint a pontiff ...
-    </p>
-    <p n="61-80">
-        So that there be <supplied reason="explanation"><foreign>āka</foreign></supplied>,
-        after having these fifty-two pots measured <supplied reason="explanation"><foreign>aḷappittu</foreign></supplied> with the superintendant <supplied reason="explanation"><foreign>kaṇkāṇi</foreign></supplied>
-        on days when glorious festivals are undertaken
-        
-        <list>
-            <item>
-                starting with the Mūlam festival,
-                what is necessary to cook <supplied reason="explanation"><foreign>aṭak kaṭava</foreign></supplied> <supplied reason="subaudible">are</supplied>
-                one <foreign>patakku</foreign> for the Śivayogins ...
-                and one <foreign>tūṇi</foreign> of paddy ...
-            </item>
-            <item>
-                at the time of Pūrāṭatti
-                ...
-            </item>
-            <item>
-                at the time of Uttirāṭatti
-                ...
-            </item>
-            <item>
-                at the time of Tiruvōṇam
-                ...
-            </item>
-            <item>
-                at the time of Aviṭṭam
-                ...
-            </item>
-            <item>
-                at the time of Cataiyam
-                ...
-            </item>
-            <item>
-                at the time of Pūraṭṭāti
-                ...
-            </item>
-            <item>
-                ...
-            </item>
-        </list>
-        <supplied reason="explanation">there are</supplied> fifty-two pots of paddy.
-    </p>
-    
-    <p n="80-86">
-        ...
-    </p>
-    
-    <p n="86-101">
-        ...
-    </p>
-    
-    <p n="101-103">
-        ...
-    </p>
-    
-    <p n="103-110">...</p>
-    
-    <p n="110-114">...</p>
-    
-    <p n="114-121">...</p>
-    
-    <p n="121-129">...</p>
-    
-    <p n="129-135">...</p>
-    
-    <p n="136">
-        This pious donation <supplied reason="subaudible">is under</supplied> the protection of the the many great devotees of Śiva.
-    </p>
-    
-    <p n="136-138">
-        The dust on the glorious feet of he who protects this pious donation are on my head.
-    </p>
-    
-    <p n="138-139">
-        <supplied reason="subaudible">There is</supplied> a land that Tāyaṅ Kāṭaṉ obtained tax-free from the members of the assembly.
-    </p>
-    
-    <p n="139-140">
-        For this land ten pots of paddy are to be provided.
-    </p>
-    
-    <p n="141-142">
-        We are appointed to provide these ten pots; we have obtained two gold coins, we the lords of the glorious temple of Tiruvāvaṭutuṟai.
-    </p>-->
-</div>
-	
-	
-<div type="commentary">
-	
-	<p n="1-4">Lines 01-02 and 1-2 are layed-out in two 2-line-columns.</p>
-	
-</div>
-	
-<div type="bibliography">
-				
-	<p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/111).</p>	
-	<p>Edited here by Renato Davalos, Emmanuel Francis, Babu N. Ramaswamy and Margherita Trento (2024), based on photos (EFEO, 2006; E. Francis, 2024) and autopsy (August 2024).</p>
-	<p>ASI transcript and estampage, if any, yet to be consulted.</p>
-	
-	
-	<!--<listBibl type="primary">
-		
-		<bibl n="...">
-			<ptr target="bib:..."/>
-			<citedRange unit="page">...</citedRange>
-			<citedRange unit="item">...</citedRange>
-		</bibl>
-		
-	</listBibl>-->
-	
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1924-1925"/>
-			<citedRange unit="page">25</citedRange>
-			<citedRange unit="appendix">B/1925</citedRange>
-			<citedRange unit="item">111</citedRange>
-		</bibl>     		
-		
-	</listBibl>
-</div>
-</body>
-  </text>
+            <div type="commentary">
+                
+                <p n="1-4">Lines 01-02 and 1-2 are layed-out in two 2-line-columns.</p>
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/111).</p>	
+                <p>Edited here by Renato Davalos, Emmanuel Francis, Babu N. Ramaswamy and Margherita Trento (2024), based on photos (EFEO, 2006; E. Francis, 2024) and autopsy (August 2024).</p>
+                <p>ASI transcript and estampage, if any, yet to be consulted.</p>
+                
+                
+                <!--<listBibl type="primary">
+                    
+                    <bibl n="...">
+                    <ptr target="bib:..."/>
+                    <citedRange unit="page">...</citedRange>
+                    <citedRange unit="item">...</citedRange>
+                    </bibl>
+                    
+                    </listBibl>-->
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1924-1925"/>
+                        <citedRange unit="page">25</citedRange>
+                        <citedRange unit="appendix">B/1925</citedRange>
+                        <citedRange unit="item">111</citedRange>
+                    </bibl>     		
+                    
+                </listBibl>
+            </div>
+        </body>
+    </text>
 </TEI>
