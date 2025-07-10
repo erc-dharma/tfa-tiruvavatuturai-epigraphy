@@ -20,7 +20,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Aubervilliers</pubPlace>
-                <idno type="filename">DHARMA_INSTiruvavatuturai00038</idno>
+                <idno type="filename">DHARMA_INSTiruvavatuturai00039</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -94,33 +94,8 @@
                 <pb n="1v"/>
                 
                 <p>
-                    <lb n="1v2=36"/> […] In=ta <hi rend="grantha">dharmma</hi>m <hi rend="grantha">candrāditya</hi>varai 
-                    <lb n="1v3=37" break="no"/>k=kum paripālaṉamāka naṭappikka kaṭavō
-                    <lb n="1v4=38" break="no"/>m ākavu=M Ippaṭiku naṭappicca pērkaḷ
-                    <lb n="1v5=39"/>keṅkai karaiyilum cētuvilum 
-                    <lb n="1v6=40"/><hi rend="grantha">godāna pūtāṉa kaṉṉikātāna ka
-                    <lb n="1v7=41" break="no"/>nna dāṉa</hi>m mutalākiya veku tāṉam 
-                    <lb n="1v8=42"/>paṇṇiṉa puṇ=ṇiyaṅkaḷai Aṭaiva 
-                    <lb n="1v9=43" break="no"/>r ākavu=M In<hi rend="grantha">ta dharmma</hi>t=tuk=ku Iṭaiyūṟu
-                    <lb n="1v10=44"/>paṇ=ṇiṉa pērkaḷ keṅkai k=karaiyi 
-                    <lb n="1v11=45"/>lum cētuvilum mātā-pitāvayum
-                    <lb n="1v12=46"/>kāRĀm pacu<choice><sic>vyai</sic><corr>vaiy</corr></choice>um koṉṟa <hi>do
-                    <lb n="1v13=47"/>ṣatti</hi> lē pōka k=kaṭavāRĀkavu=M <g type="pc"/>
-                    <lb n="1v14=48"/>Intap paṭik=ku śēṣagiṟi śāstriyar <g type="pc"/>
-                    <lb n="1v15=49"/>Eḻut=tu <g type="pc"/>
+                   
                 </p>
-                
-                  <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">dānapālanayōr mmaddhyē</l>
-                    <lb n="1v16=50"/><l n="b"><add place="above">dānāc chre</add>yo ’nupālanam· <g type="danda">.</g></l>
-                    <l n="c">dānāT svargam avā<lb n="1v17=51"/>pnōti</l> 
-                    <l n="d">pālanād acyutam· padam· <g type="ddanda">.</g> <g type="pc"/></l>
-                    </lg> 
-                    
-                    
-                <ab rend="large">
-              ceṅkāl piḷḷai ti 
-                </ab>
                 
                 
                 
@@ -200,7 +175,7 @@
             
             <div type="bibliography">
                 
-               <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/35).</p>  
+          <!--     <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/35).</p>  -->
                 
                 <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 47). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
                 
@@ -218,13 +193,13 @@
                 </listBibl>
                 
                
-              <listBibl type="secondary">
+         <!--     <listBibl type="secondary">
                     <bibl>
                     <ptr target="bib:ARIE1986-1987"/>
                     <citedRange unit="page">22</citedRange>
                     <citedRange unit="item">35</citedRange>
                     </bibl> 
-                </listBibl>
+                </listBibl> -->
                 
             </div>
         </body>
