@@ -5,156 +5,160 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of Parakesarivarman, year 3</title>
-				<respStmt>
-					<resp>EpiDoc Encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Aubervilliers</pubPlace>
-				<idno type="filename">DHARMA_INSTiruvavatuturai10016</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-					    <summary/>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p/>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-10-20">Creation of the file.</change>
-		</revisionDesc>
-	</teiHeader>
-
-	<text xml:space="preserve">
-
-<body>
-		
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-            	
-    <p>
-        <lb n="1"/>kō-p-para-kēcari-<hi rend="grantha">panma</hi>rk<supplied reason="lost">ku</supplied>
-        <lb n="2"/>yāṇṭu 3-Āvatu
-    </p>
     
-    <p>
-        perā
-        <lb n="3" break="no"/>vūr-nāṭṭu-k karai-na<unclear reason="eccentric_ductus">lū</unclear>r <choice><orig>u</orig><reg>ū</reg></choice>
-        <lb n="4" break="no"/>rōm ciṟu-puliyūr <hi rend="grantha">sa⌈</hi>
-        <lb n="5" break="no"/><hi rend="grantha">bhai</hi>yar iṭai vilai-ko<supplied reason="omitted">ṇ</supplied> 
-        <lb n="6" break="no"/>ṭa ... y-āḷvārk=ku cey
-        <lb n="7" break="no"/>... -c ceyta nila
-        <lb n="8" break="no"/><supplied reason="omitted">t</supplied>tuk’ ellai
-    </p>		
-	
-</div>
-				
-    <div type="apparatus">			
-        <listApp>
-            <app loc="7">
-                <lem>nila<lb n="8" break="no"/><supplied reason="omitted">t</supplied>tuk’ ellai</lem>
-                <rdg source="bib:SrinivasaRao1967_01">nat<lb n="8" break="no"/>tukellai</rdg>
-            </app>
-        </listApp>
-    </div>
-				
-<div type="translation" resp="part:emfr">
-			
-	<p n="1-2">
-		3rd year of the king Parakesarivarman.
-	</p>
-	
-	<p n="2-8">
-		...
-	</p>
-	
-</div>
-	
-<!--<div type="commentary">
-    <p></p>
-</div>-->
-		
-<div type="bibliography">
-			
-    <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/107).</p>    
-    <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.68).</p>    
-    <p>This edition by Emmanuel Francis (2024), based on photos (E. Francis, 2024) and autopsy (2024).</p>	
-    <p>ASI transcript and estampage, if any, yet to be consulted.</p>    
-		
-	<listBibl type="primary">
-        
-        <bibl n="SII">
-            <ptr target="bib:SrinivasaRao1967_01"/>
-            <citedRange unit="page">36</citedRange>
-            <citedRange unit="item">68</citedRange>
-        </bibl>
-        
-    </listBibl>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of Parakesarivarman, year 3</title>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Aubervilliers</pubPlace>
+                <idno type="filename">DHARMA_INSTiruvavatuturai10016</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-10-20">Creation of the file.</change>
+        </revisionDesc>
+    </teiHeader>
     
-    <listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1924-1925"/>
-			<citedRange unit="page">24</citedRange>
-			<citedRange unit="appendix">B/1925</citedRange>
-			<citedRange unit="item">107</citedRange>
-		</bibl>
-	</listBibl>
-</div>
-	</body>
-</text>
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <p>
+                    <lb n="1"/>kō-p-para-kēcari-<hi rend="grantha">panma</hi>rk<supplied reason="lost">ku</supplied>
+                    <lb n="2"/>yāṇṭu 3-Āvatu
+                </p>
+                
+                <p>
+                    perā
+                    <lb n="3" break="no"/>vūr-nāṭṭu-k karai-na<unclear reason="eccentric_ductus">lū</unclear>r <choice><orig>u</orig><reg>ū</reg></choice>
+                    <lb n="4" break="no"/>rōm ciṟu-puliyūr <hi rend="grantha">sa⌈</hi>
+                    <lb n="5" break="no"/><hi rend="grantha">bhai</hi>yar iṭai vilai-ko<supplied reason="omitted">ṇ</supplied> 
+                    <lb n="6" break="no"/>ṭa ... y-āḷvārk=ku cey
+                    <lb n="7" break="no"/>... -c ceyta nila
+                    <lb n="8" break="no"/><supplied reason="omitted">t</supplied>tuk’ ellai
+                </p>		
+                
+            </div>
+            
+            <div type="apparatus">			
+                <listApp>
+                    <app loc="4">
+                        <lem><hi rend="grantha">sa</hi><lb n="5" break="no"/><hi rend="grantha">bhai</hi>yar</lem>
+                        <rdg source="bib:SrinivasaRao1967_01"><hi rend="grantha">sa⌈</hi><lb n="5" break="no"/><hi rend="grantha">bhai</hi>yar</rdg>
+                    </app>
+                    <app loc="7">
+                        <lem>nila<lb n="8" break="no"/><supplied reason="omitted">t</supplied>tuk’ ellai</lem>
+                        <rdg source="bib:SrinivasaRao1967_01">nat<lb n="8" break="no"/>tukellai</rdg>
+                    </app>
+                </listApp>
+            </div>
+            
+            <div type="translation" resp="part:emfr">
+                
+                <p n="1-2">
+                    3rd year of the king Parakesarivarman.
+                </p>
+                
+                <p n="2-8">
+                    ...
+                </p>
+                
+            </div>
+            
+            <!--<div type="commentary">
+                <p></p>
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/107).</p>    
+                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.68).</p>    
+                <p>This edition by Emmanuel Francis (2024), based on photos (E. Francis, 2024) and autopsy (2024).</p>	
+                <p>ASI transcript and estampage, if any, yet to be consulted.</p>    
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:SrinivasaRao1967_01"/>
+                        <citedRange unit="page">36</citedRange>
+                        <citedRange unit="item">68</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1924-1925"/>
+                        <citedRange unit="page">24</citedRange>
+                        <citedRange unit="appendix">B/1925</citedRange>
+                        <citedRange unit="item">107</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
 </TEI>
