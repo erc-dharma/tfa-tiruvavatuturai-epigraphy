@@ -131,7 +131,7 @@
                 
                 <p>
                     Ivv-iraṇ
-                    <lb n="A12=12" break="no"/>ṭu <gap reason="illegible" quantity="1" unit="character"/> <hi rend="grantha">sabhai</hi>yār <unclear>i</unclear>ṭaiyum can=tirātitta
+                    <lb n="A12=12" break="no"/>ṭ<choice><orig>u</orig><reg>ū</reg></choice>r <hi rend="grantha">sabhai</hi>yār <unclear>i</unclear>ṭaiyum can=tirātitta
                     <lb n="A13=13" break="no"/>-val Iṟai kāppat’ āka-p poṉ koṇ		
                     <lb n="A14=14" break="no"/>ṭ<unclear>u</unclear> Iṟai-Ili <unclear>cey</unclear>ta nilattukk’ el
                     <lb n="A15=15" break="no"/>l<unclear>ai</unclear>
@@ -194,7 +194,7 @@
                             <lb n="B4=40" break="no"/>ṟu māvum
                         </item>
                         <item>
-                            t<unclear>i</unclear>ru-nan=ta-vāṉam tiru<unclear>t</unclear><supplied reason="lost">tam</supplied> I
+                            t<unclear>i</unclear>ru-nan=ta-v<choice><sic>ā</sic><corr>a</corr></choice>ṉam tiru<unclear>t</unclear><supplied reason="lost">tam</supplied> I
                             <lb n="B5=41" break="no"/>ṟaippār iruvarkku Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice><unclear>ḻ</unclear>ai nā<supplied reason="lost">lu</supplied> māvu
                             <lb n="B6=42" break="no"/>m				
                         </item>
@@ -253,7 +253,7 @@
                     <list>
                         <item>
                             m<choice><orig>u</orig><reg>ū</reg></choice>la-mutal
-                            Aṭa-k kaṭava Ariya-c-civayō<hi rend="grantha">gi</hi>
+                            Aṭa-k kaṭava Ari<surplus>y</surplus>ci civayō<hi rend="grantha">gi</hi>
                             <lb n="B28=64" break="no"/>kaḷukku patakkum            
                             pa<hi rend="grantha">nmāheśva</hi>rarkku Aṭum arici tūṇiyum
                         </item>
@@ -353,7 +353,7 @@
                     <lb n="C21=92" break="no"/>Ip-paṭi ceyvvikku maṭa-patikku Itaṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻai-k ka
                     <lb n="C22=93" break="no"/>ṟṟeyyuṅ koṇṭu v<choice><orig>i</orig><reg>ī</reg></choice>ra-māṅkuṭaiyāṉ tāya
                     <lb n="C23=94" break="no"/>ṅ-kāṭaṉ vaḻiyilār Ēḻu nāḷum maṭa-patiyoṭē ni
-                    <lb n="C24=95" break="no"/>ṉṟu Ivv-arici Aḷappiccu-k koṇṭu kaṇkāṇiy<choice><sic><unclear>ā</unclear></sic><corr>um</corr></choice>
+                    <lb n="C24=95" break="no"/>ṉṟu Ivv-arici Aḷappiccu-k koṇṭu kaṇkāṇiyā<unclear>l</unclear>
                     <lb n="C25=96"/>Aṭuviccu <unclear>Ū</unclear>ṭṭuvippaṉukku nicati patakk’
                     āka
                     
