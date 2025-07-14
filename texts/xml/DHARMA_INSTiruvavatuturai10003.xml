@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of Parakesarivarman, year 36</title>
+                <title>Tiruvāvaṭutuṟai, Gomuktīśvara temple, time of Parakesarivarman, year 36</title>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:reda">
@@ -483,7 +483,7 @@
             </div>
             
             
-            <div type="translation" resp="part:emfr">
+            <div type="translation" resp="part:reda part:emfr part:matr">
                 
                 <p n="01-02">Homage to Śiva. Prosperity! Fortune!</p>
                 
@@ -525,11 +525,11 @@
                 </p>
                 
                 <p n="34-36">
-                    After digging a pit <supplied reason="explanation"><foreign>kalli</foreign></supplied> in both these lands, <supplied reason="subaudible">there are</supplied> two quarters <supplied reason="subaudible">of a vēli</supplied> of wet-land … <supplied reason="explanation"><foreign>mayakkiṉa</foreign></supplied>, bordering on the south in the land … <supplied reason="explanation"><foreign>mayakkiṉa</foreign></supplied>.
+                    After digging a pit <supplied reason="explanation"><foreign>kalli</foreign></supplied> in both these lands, <supplied reason="subaudible">there are</supplied> two quarters <supplied reason="subaudible">of a <foreign>vēli</foreign></supplied> of wet-land … <supplied reason="explanation"><foreign>mayakkiṉa</foreign></supplied>, bordering on the south in the land … <supplied reason="explanation"><foreign>mayakkiṉa</foreign></supplied>.
                 </p>
                 
                 <p n="36-51">
-                    <supplied reason="subaudible">Comprised</supplied> within these two quarters <supplied reason="subaudible">of a vēli</supplied>, a <foreign>patiyam</foreign>, bordering on the west, <supplied reason="subaudible">the provision is as follows</supplied>:
+                    <supplied reason="subaudible">Comprised</supplied> within these two quarters <supplied reason="subaudible">of a <foreign>vēli</foreign></supplied>, a <foreign>patiyam</foreign>, bordering on the west, <supplied reason="subaudible">the provision is as follows</supplied>:
                     
                     <list>
                         <item>
@@ -548,14 +548,14 @@
                 </p>
                 
                 <p n="52-61">
-                    East of this, taking a plot of land of one <foreign>vēli</foreign> from the vicinity of the choultry, taking <supplied reason="explanation"><foreign>aṭuttu koṇṭu</foreign></supplied> this <foreign>vēli</foreign> near this choultry for <supplied reason="explanation"><foreign>paṭṭa</foreign></supplied> <foreign>maṭam</foreign>’s pontiff, to be appointed <supplied reason="explanation"><foreign>iṭa</foreign></supplied> by those in the lineage of Vīra Māṅkuṭaiyāṉ Tāyaṅkāṭaṉ <supplied reason="explanation"><foreign>vaḻiyilārum</foreign></supplied>, by the <foreign>Panmaheśvaras</foreign>, and <foreign>Rudra’s people</foreign> <supplied reason="explanation"><foreign>uruttira perumakkaḷ</foreign></supplied>:
+                    East of this, taking a plot of land of one <foreign>vēli</foreign> from the vicinity of the choultry, taking <supplied reason="explanation"><foreign>aṭuttu koṇṭu</foreign></supplied> this <foreign>vēli</foreign> near this choultry for <supplied reason="explanation"><foreign>paṭṭa</foreign></supplied> <foreign>maṭam</foreign>’s pontiff, to be appointed <supplied reason="explanation"><foreign>iṭa</foreign></supplied> by those in the lineage <supplied reason="explanation"><foreign>vaḻiyilārum</foreign></supplied> of Vīra Māṅkuṭaiyāṉ Tāyaṅkāṭaṉ, by the <foreign>Panmaheśvaras</foreign>, and Rudra’s people <supplied reason="explanation"><foreign>uruttira-perumakkaḷ</foreign></supplied>:
                     
                     <list>
                         <item>
                             52 <foreign>kalams</foreign> of rice cooked <supplied reason="explanation"><foreign>aṭuvitāṉa</foreign></supplied>, and 5 <foreign>kalams</foreign> of cereal seeds <supplied reason="explanation"><foreign>payaṟu</foreign></supplied>;
                         </item>
                         <item>
-                            a <foreign>kalañcu</foreign> of gold for the ritual bathing <supplied reason="explanation"><foreign>snapanattukku</foreign></supplied> after lowering <supplied reason="explanation"><foreign>Iḻicca</foreign></supplied> the sacred flag;
+                            a <foreign>kalañcu</foreign> of gold for the ritual bathing <supplied reason="explanation"><foreign>snapanattukku</foreign></supplied> after lowering <supplied reason="explanation"><foreign>iḻicca</foreign></supplied> the sacred flag;
                         </item>
                         <item>
                             On the next day of the water-sprinkling <supplied reason="explanation"><foreign>tiruttam āṭiṉa piṟṟai nāṉṟu</foreign></supplied>, changing <supplied reason="explanation"><foreign>māṟṟi</foreign></supplied> that <foreign>maṭapati</foreign> who is not able <supplied reason="explanation"><foreign>māṭṭāta</foreign></supplied> to cause feeding <supplied reason="explanation"><foreign>ūṭṭuvikka</foreign></supplied> in this way;
@@ -568,36 +568,36 @@
                     
                     <list>
                         <item>
-                            Starting with the Mūlam festival, what is necessary to cook <supplied reason="explanation"><foreign>aṭak kaṭava</foreign></supplied>:
+                            starting with the Mūlam festival, what is necessary to cook <supplied reason="explanation"><foreign>aṭak kaṭava</foreign></supplied>:
                             one <foreign>patakku</foreign> for the <foreign>Śivayogins</foreign>, and one <foreign>tūṇi</foreign> of paddy for the <foreign>Panmaheśvarar</foreign>;
                         </item>
                         <item>
-                            At the time of Pūrāṭatti:
+                            at the time of Pūrāṭatti:
                             one <foreign>tūṇi</foreign> and one <foreign>patakku</foreign> of cooked rice for the <foreign>Śivayogins</foreign>, one <foreign>kalam</foreign> of rice for the <foreign>Panmaheśvarar</foreign>;
                         </item>
                         <item>
-                            At the time of Uttirāṭatti:
-                            three <foreign>kalams</foreign> of cooked rice for the <foreign>Panmaheśvarar</foreign>, one <foreign>kalam</foreign> of cooked rice for the <foreign>Śivayogins</foreign>;
+                            at the time of Uttirāṭatti:
+                            three <foreign>kalam</foreign>s of cooked rice for the <foreign>Panmaheśvarar</foreign>, one <foreign>kalam</foreign> of cooked rice for the <foreign>Śivayogins</foreign>;
                         </item>
                         <item>
-                            At the time of Tiruvōṇam:
-                            two <foreign>kalams</foreign> of cooked rice for the <foreign>Śivayogins</foreign>, and six <foreign>kalams</foreign> for the <foreign>Panmaheśvaras</foreign>;
+                            at the time of Tiruvōṇam:
+                            two <foreign>kalam</foreign>s of cooked rice for the <foreign>Śivayogins</foreign>, and six <foreign>kalams</foreign> for the <foreign>Panmaheśvaras</foreign>;
                         </item>
                         <item>
-                            At the time of Aviṭṭam:
+                            at the time of Aviṭṭam:
                             seven <foreign>kalams</foreign> of cooked rice for the <foreign>Panmaheśvarar</foreign>, three <foreign>kalams</foreign> for the <foreign>Śivayogins</foreign>;
                         </item>
                         <item>
-                            At the time of Cataiyam:
+                            at the time of Cataiyam:
                             four <foreign>kalams</foreign> of cooked rice for the <foreign>Śivayogins</foreign>, eight <foreign>kalams</foreign> for the <foreign>Panmaheśvarar</foreign>;
                         </item>
                         <item>
-                            At the time of Pūraṭṭāti with the water ritual <supplied reason="explanation"><foreign>tiruttam āṭum</foreign></supplied>:
+                            at the time of Pūraṭṭāti with the water ritual <supplied reason="explanation"><foreign>tiruttam āṭum</foreign></supplied>:
                             five <foreign>kalams</foreign> of cooked rice for the <foreign>Śivayogins</foreign>, twelve <foreign>kalams</foreign> for the <foreign>Panmaheśvarar</foreign>;
                         </item>
                     </list>
                     
-                    52 <foreign>kalams</foreign> of rice <supplied reason="subaudible">are</supplied> needed for all of these seven <supplied reason="explanation"><foreign>nakṣatra</foreign></supplied> days.
+                    fifty-two <foreign>kalams</foreign> of rice <supplied reason="subaudible">are</supplied> needed for all of these seven <supplied reason="explanation"><foreign>nakṣatra</foreign></supplied> days.
                 </p>
                 
                 <p n="81-86">
@@ -616,24 +616,21 @@
                     This pious donation <supplied reason="subaudible">is under</supplied> the protection of the many great devotees of Śiva.
                 </p>
                 
-                <p n="137-138">
+                <p n="137-139">
                     The dust on the glorious feet of he who protects this pious donation are on my head.
                 </p>
                 
-                <p n="139">
+                <p n="139-140">
                     <supplied reason="subaudible">There is</supplied> a land that Tāyaṅ Kāṭaṉ obtained tax-free from the members of the assembly.
                 </p>
                 
-                <p n="140">
+                <p n="139-140">
                     For this land ten pots of paddy are to be provided.
                 </p>
                 
                 <p n="141-142">
                     We are appointed to provide these ten pots; we have obtained two gold coins, we the lords of the glorious temple of Tiruvāvaṭutuṟai.
                 </p>
-                
-                
-                
                 
                 <!-- <p n="4-11">
                     For the Lord <supplied reason="explanation"><foreign>āḷvār</foreign></supplied> <supplied reason="subaudible">of</supplied> the glorious Tiruvāvaṭutuṟai <supplied reason="subaudible">in</supplied> Cāttaṉūr, <supplied reason="subaudible">which is</supplied> a <foreign>brahmadeya</foreign> in the Tiraimūrnāṭu on the southern bank,
@@ -733,87 +730,9 @@
                     <p n="61-80">
                     So that there be <supplied reason="explanation"><foreign>āka</foreign></supplied>,
                     after having these fifty-two pots measured <supplied reason="explanation"><foreign>aḷappittu</foreign></supplied> with the superintendant <supplied reason="explanation"><foreign>kaṇkāṇi</foreign></supplied>
-                    on days when glorious festivals are undertaken
+                    on days when glorious festivals are undertaken                    
                     
-                    <list>
-                    <item>
-                    starting with the Mūlam festival,
-                    what is necessary to cook <supplied reason="explanation"><foreign>aṭak kaṭava</foreign></supplied> <supplied reason="subaudible">are</supplied>
-                    one <foreign>patakku</foreign> for the Śivayogins ...
-                    and one <foreign>tūṇi</foreign> of paddy ...
-                    </item>
-                    <item>
-                    at the time of Pūrāṭatti
-                    ...
-                    </item>
-                    <item>
-                    at the time of Uttirāṭatti
-                    ...
-                    </item>
-                    <item>
-                    at the time of Tiruvōṇam
-                    ...
-                    </item>
-                    <item>
-                    at the time of Aviṭṭam
-                    ...
-                    </item>
-                    <item>
-                    at the time of Cataiyam
-                    ...
-                    </item>
-                    <item>
-                    at the time of Pūraṭṭāti
-                    ...
-                    </item>
-                    <item>
-                    ...
-                    </item>
-                    </list>
-                    <supplied reason="explanation">there are</supplied> fifty-two pots of paddy.
-                    </p>
-                    
-                    <p n="80-86">
-                    ...
-                    </p>
-                    
-                    <p n="86-101">
-                    ...
-                    </p>
-                    
-                    <p n="101-103">
-                    ...
-                    </p>
-                    
-                    <p n="103-110">...</p>
-                    
-                    <p n="110-114">...</p>
-                    
-                    <p n="114-121">...</p>
-                    
-                    <p n="121-129">...</p>
-                    
-                    <p n="129-135">...</p>
-                    
-                    <p n="136">
-                    This pious donation <supplied reason="subaudible">is under</supplied> the protection of the the many great devotees of Śiva.
-                    </p>
-                    
-                    <p n="136-138">
-                    The dust on the glorious feet of he who protects this pious donation are on my head.
-                    </p>
-                    
-                    <p n="138-139">
-                    <supplied reason="subaudible">There is</supplied> a land that Tāyaṅ Kāṭaṉ obtained tax-free from the members of the assembly.
-                    </p>
-                    
-                    <p n="139-140">
-                    For this land ten pots of paddy are to be provided.
-                    </p>
-                    
-                    <p n="141-142">
-                    We are appointed to provide these ten pots; we have obtained two gold coins, we the lords of the glorious temple of Tiruvāvaṭutuṟai.
-                    </p>-->
+                   -->
             </div>
             
             
@@ -826,7 +745,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/111).</p>	
-                <p>Edited here by Renato Davalos, Emmanuel Francis, Babu N. Ramaswamy and Margherita Trento (2024), based on photos (EFEO, 2006; E. Francis, 2024) and autopsy (August 2024).</p>
+                <p>Edited here by Renato Davalos, Emmanuel Francis, Babu N. Ramaswamy and Margherita Trento, based on photos (EFEO, 2006; E. Francis, 2024) and autopsy (August 2024).</p>
                 <p>ASI transcript and estampage, if any, yet to be consulted.</p>
                 
                 
