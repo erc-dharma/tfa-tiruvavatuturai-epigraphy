@@ -179,7 +179,7 @@
             
             <div type="bibliography">
                 
-          <!--     <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/35).</p>  -->
+             <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/19).</p>  
                 
                 <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 48). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
                 
@@ -197,13 +197,13 @@
                 </listBibl>
                 
                
-         <!--     <listBibl type="secondary">
+            <listBibl type="secondary">
                     <bibl>
                     <ptr target="bib:ARIE1986-1987"/>
-                    <citedRange unit="page">22</citedRange>
-                    <citedRange unit="item">35</citedRange>
+                    <citedRange unit="page">19</citedRange>
+                    <citedRange unit="item">19</citedRange>
                     </bibl> 
-                </listBibl> -->
+                </listBibl> 
                 
             </div>
         </body>
