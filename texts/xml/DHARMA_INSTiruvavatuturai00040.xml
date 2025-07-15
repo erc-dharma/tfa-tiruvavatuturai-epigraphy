@@ -181,7 +181,7 @@
                 
           <!--     <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/35).</p>  -->
                 
-                <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 47). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
+                <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 48). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
                 
                 <p>This edition is by Margherita Trento (2025), based on EFEO photographs (2015).
                 </p>
@@ -190,8 +190,8 @@
                     
                     <bibl n="K">
                         <ptr target="bib:Kirusnamurtti2000_01"/>
-                        <citedRange unit="page">189-191</citedRange>
-                        <citedRange unit="item">47</citedRange>
+                        <citedRange unit="page">198-203</citedRange>
+                        <citedRange unit="item">48</citedRange>
                     </bibl>
                     
                 </listBibl>
