@@ -88,29 +88,24 @@
                 
                 <pb n="1r"/>
                 <p>
-                 
-                   <lb n="1r35=35"/>[…] Ācanti 
-                   <lb n="1r36=36" break="no"/>rāṟka<hi rend="grantha">st</hi>ākiyāka mayēcurapūcai Aṉṉa-tāṉa-mutali
-                   <lb n="1r37=37" break="no"/>ya taṟmattai paripālaṉam paṇṇi-k koṇṭu
-                   <lb n="1r38=38"/>varuvārkaḷ ākavu<supplied reason="omitted">m</supplied> yinta-p paṭikku-c camma
-                   <lb n="1r39=39" break="no"/>tittu makamai paṇṇi-k kuṭuttōm tiru
-                   <lb n="1r40=40" break="no"/>vārūr-c cīmai nākappaṭṭaṇam paṟkkaṇāy u 
-                   <lb n="1r41=41" break="no"/>Ḷpaṭa Acē<hi rend="grantha">ṣa</hi> vittu makā-caṉaṅkaḷum nā
-                   <lb n="1r42=42"/>ṭṭār kuṭiyāṉapeyar Uḷḷiṭṭārōm
-                   <lb n="1r43=43"/>yinta-t taṟmattai yātām orutar paripāla
+                    [...]
                 </p>
                 
                 <pb n="1v"/>
                 
                 <p>
-                   <lb n="1v1=44" break="no"/>ṉam paṇṇi-k koṇṭu varuvārkaḷō A
-                   <lb n="1v2=45" break="no"/>varkaḷ kāciyilē Aṉēka kōṭi kō-tā
-                   <lb n="1v3=46" break="no"/>ṉa pū-tāṉa kaṉṉikā-tāṉa palattaiyum
-                   <lb n="1v4=47"/>Aṉēkañ civaliṅka-p piṟatiṭṭa<gap reason="illegible" unit="character" quantity="1"></gap> palattaiyu 
-                   <lb n="1v5=48" break="no"/>m ‌peṟṟu-c ‌cukamē yiruppārkaḷ yint a-t
-                   <lb n="1v6=49"/>taṟ‌mattukku Akitam niṉaitta pērkaḷ ke 
-                   <lb n="1v7=50"/>ṅkai-k karaiyilē kō-katti piṟamatti pa 
-                   <lb n="1v8=51"/>ṇṇiṉa tō<hi rend="grantha">ṣa</hi>ttilē pōka kaṭavōr ākavum
+                    <lb n="1v12=33"/> […] Akai<add place="below">yāl</add> yātoruvar i
+                    <lb n="1v13=34"/>taṟku vākku-c-cakāyam Artta-cakāyam carīra-cakāyam paṇ 
+                    <lb n="1v14=35"/>ṇukiṟa peyarkaḷ makattākiya yākapalaṉum civakiṭāṭ<hi rend="grantha">ṣa</hi>mu 
+                    <lb n="1v15=36"/>m viṭṭiṇu-kiṭā<hi rend="grantha">ṣa</hi>muṅ kuru-kiṭā<hi rend="grantha">ṣa</hi>mu=M peṟṟu-p puttira mittira
+                    <lb n="1v16=37"/>kaḷattiṟātikkuṭaṉē makāpāykkiyavāṉāka Iruppār ākavu 
+                    <lb n="1v17=38"/>m inta-t taṉmattukku vikātam paṇṇiṉā<hi rend="grantha">l</hi> k-keṅkai-k-ka
+                    <lb n="1v18=39"/>rayilē kārām pacuvaiyum tēva-p-pirāmaṇaraiyum piramma
+                    <lb n="1v19=40"/>tiriyaḷaiyum cicukkaḷaiyum kuru-liṅka-caṅkamattaiyuṅ koṉ
+                    <lb n="1v20=41"/>ṟa tō<hi rend="grantha">ṣa</hi>ttilēyum pōvārkaḷ eṉṟu niccayittu-p paṭṭai
+                    <lb n="1v21=42"/>ye muti-t tārāt' ettam <!-- not clear whether it's tta or kka -->paṇṇi-k kuṭuttōm puttira putti 
+                    <lb n="1v22=43"/>m pāramparaiyāka-c cantirātittay varaiyum Inta Aṉṉa-tāṉa 
+                    <lb n="1v23=44"/>p-piccaiyaip paripālaṉam paṇṇi vara-k kaṭavōm ākavum
                 </p>
                 
                 
@@ -191,9 +186,9 @@
             
             <div type="bibliography">
                 
-             <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/46).</p>  
+             <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/20).</p>  
                 
-                <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 49). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
+                <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 50). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
                 
                 <p>This edition is by Margherita Trento (2025), based on EFEO photographs (2015).
                 </p>
@@ -202,8 +197,8 @@
                     
                     <bibl n="K">
                         <ptr target="bib:Kirusnamurtti2000_01"/>
-                        <citedRange unit="page">203-205</citedRange>
-                        <citedRange unit="item">49</citedRange>
+                        <citedRange unit="page">206-212</citedRange>
+                        <citedRange unit="item">50</citedRange>
                     </bibl>
                     
                 </listBibl>
@@ -212,8 +207,8 @@
             <listBibl type="secondary">
                     <bibl>
                     <ptr target="bib:ARIE1986-1987"/>
-                    <citedRange unit="page">24</citedRange>
-                    <citedRange unit="item">46</citedRange>
+                    <citedRange unit="page">19</citedRange>
+                    <citedRange unit="item">20</citedRange>
                     </bibl> 
                 </listBibl> 
                 
