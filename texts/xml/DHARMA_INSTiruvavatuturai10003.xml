@@ -204,7 +204,7 @@
                             <lb n="B8=44" break="no"/>m                
                         </item>
                         <item>
-                            nicati-p paṭi nāṭa-p pōṉakattukku patto
+                            nicati-p paṭi nāṭ-p pōṉakattukku patto
                             <lb n="B9=45" break="no"/>ṭṭu kuttal paḻa-v-arici nā-ṉāḻiyum
                             kummāya
                             <lb n="B10=46" break="no"/>-Amitiṉukku parupp’ uriyum  
@@ -231,7 +231,7 @@
                     <lb n="B19=55" break="no"/>m
                 </p>
                 <p>            
-                    Aṭuttu-k koṇṭu Aṭuvitāṉ Arici A<unclear>ṟu</unclear>-patt’ iru-ka
+                    Aṭuttu-k koṇṭu Aṭuvitāṉa Arici <choice><unclear>Aim</unclear><unclear>Aṟu</unclear></choice>-patt’ iru-ka
                     <lb n="B20=56" break="no"/>lamum payaṟu Aiṅ-kalamum            
                 </p>
                 
@@ -253,7 +253,7 @@
                     <list>
                         <item>
                             m<choice><orig>u</orig><reg>ū</reg></choice>la-mutal
-                            Aṭa-k kaṭava Ari<surplus>y</surplus>ci civayō<hi rend="grantha">gi</hi>
+                            Aṭa-k kaṭava Ari<surplus>y</surplus>ci<!--CHECK--> civayō<hi rend="grantha">gi</hi>
                             <lb n="B28=64" break="no"/>kaḷukku patakkum            
                             pa<hi rend="grantha">nmāheśva</hi>rarkku Aṭum arici tūṇiyum
                         </item>
@@ -310,21 +310,20 @@
                     
                     Ivv-ēḻu nāḷum aṭa-k kaṭava A
                     <lb n="C9=80" break="no"/>rici Aim-patt’ iru-kalamum
-                </p>
-                
-                <p>        
                     Aṉaiccu nāḷaik
                     <lb n="C10=81" break="no"/>kum
-                    āka
-                    
-                    payar’ aiṅ-kalamum Ip-paṭi maṭa-pati
-                    <lb n="C11=82"/>Ūṭṭi tiruttam āṭiṉa piṟṟai nāṉṟu tiru-k-koṭi
-                    <lb n="C12=83"/>Iḻicca <hi rend="grantha">sna</hi><choice><orig>m</orig><reg>p</reg></choice>aṉa-<hi rend="grantha">dravya</hi>ttukkum puṭavaikkum
-                    āka
+                    āka                    
+                    payar’ aiṅ-kalamum 
+                </p>
+                
+                <p> 
+                    Ip-paṭi maṭa-pati
+                    <lb n="C11=82"/>Ūṭṭi tiruttam āṭiṉa piṟṟai nāṉṟu                    
                     
                     <list>
-                        
-                        <item><lb n="C13=84" break="no"/>p 
+                        <item>tiru-k-koṭi
+                            <lb n="C12=83"/>Iḻicca <hi rend="grantha">sna</hi><choice><orig>m</orig><reg>p</reg></choice>aṉa-<hi rend="grantha">dravya</hi>ttukkum puṭavaikkum
+                            āka<lb n="C13=84" break="no"/>p 
                             poṉ Arai-k kaḻañcum
                         </item>
                         <item>                
@@ -341,7 +340,7 @@
                 <p>
                     kalacatti
                     <lb n="C16=87" break="no"/><unclear>ṉ</unclear> <gap reason="illegible" quantity="8" unit="character" precision="low"/> mum perun t<supplied reason="lost">i</supplied>ru-<supplied reason="lost">A</supplied><unclear>mir</unclear>
-                    <lb n="C17=88" break="no"/>t<unclear>u</unclear>kku ceṉṉa-nellu kalamum kari-y-amirtukku
+                    <lb n="C17=88" break="no"/>t<unclear>u</unclear>kku ce<choice><sic>ṉṉ</sic><corr>n</corr></choice>-nellu kalamum kari-y-amirtukku
                     <lb n="C18=89" break="no"/>m neyy-amirtukkum tayir-amirtukkum Aṭai
                     <lb n="C19=90" break="no"/>-k-kāy-amirtukkum
                     āka
@@ -498,7 +497,7 @@
                 </p>
                 
                 <p n="4-11">
-                    For the Lord <supplied reason="explanation"><foreign>āḷvār</foreign></supplied> <supplied reason="subaudible">of</supplied> glorious Tiruvāvaṭutuṟai <supplied reason="subaudible">in</supplied> Cāttaṉūr, <supplied reason="subaudible">which is</supplied> a <foreign>brahmadeya</foreign> in the Tiraimūrnāṭu on the southern bank, there is a plot of land <supplied reason="subaudible">(nilam)</supplied> that I, Tāyaṅ Kāṭaṉ, a servant of Him <supplied reason="subaudible">(ivar aṭiyēṉ)</supplied>, and lord of Vīramāṅkuṭi in the Miṟai-k-kūṟṟam, obtained tax-free from <supplied reason="explanation"><foreign>iṭai</foreign></supplied> the members of the assembly <supplied reason="subaudible">of</supplied> Ciṟupuliyūr, and a plot of land, made tax-free, obtained from Ciṟṟāṉaiccūr.
+                    For the Lord <supplied reason="explanation"><foreign>āḷvār</foreign></supplied> <supplied reason="subaudible">of</supplied> glorious Tiruvāvaṭutuṟai <supplied reason="subaudible">in</supplied> Cāttaṉūr, <supplied reason="subaudible">which is</supplied> a <foreign>brahmadeya</foreign> in the Tiraimūrnāṭu on the southern bank, there is a plot of land <supplied reason="explanation"><foreign>nilam</foreign></supplied> that I, Tāyaṅ Kāṭaṉ, a servant of Him <supplied reason="explanation"><foreign>ivar aṭiyēṉ</foreign></supplied>, and lord of Vīramāṅkuṭi in the Miṟai-k-kūṟṟam, obtained tax-free from <supplied reason="explanation"><foreign>iṭai</foreign></supplied> the members of the assembly <supplied reason="subaudible">of</supplied> Ciṟupuliyūr, and a plot of land, made tax-free, obtained from Ciṟṟāṉaiccūr.
                 </p>
                 
                 <p n="12-27">
@@ -548,60 +547,71 @@
                 </p>
                 
                 <p n="52-61">
-                    East of this, taking a plot of land of one <foreign>vēli</foreign> from the vicinity of the choultry, taking <supplied reason="explanation"><foreign>aṭuttu koṇṭu</foreign></supplied> this <foreign>vēli</foreign> near this choultry for <supplied reason="explanation"><foreign>paṭṭa</foreign></supplied> <foreign>maṭam</foreign>’s pontiff, to be appointed <supplied reason="explanation"><foreign>iṭa</foreign></supplied> by those in the lineage <supplied reason="explanation"><foreign>vaḻiyilārum</foreign></supplied> of Vīra Māṅkuṭaiyāṉ Tāyaṅkāṭaṉ, by the <foreign>Panmaheśvaras</foreign>, and Rudra’s people <supplied reason="explanation"><foreign>uruttira-perumakkaḷ</foreign></supplied>:
+                    East of this, taking a plot of land of one <foreign>vēli</foreign> from the vicinity of the choultry, taking <supplied reason="explanation"><foreign>aṭuttu koṇṭu</foreign></supplied> this <foreign>vēli</foreign> near this choultry for <supplied reason="explanation"><foreign>paṭṭa</foreign></supplied> <foreign>maṭam</foreign>’s pontiff, to be appointed <supplied reason="explanation"><foreign>iṭa</foreign></supplied> by those in the lineage <supplied reason="explanation"><foreign>vaḻiyilārum</foreign></supplied> of Vīra Māṅkuṭaiyāṉ Tāyaṅkāṭaṉ, by the Panmaheśvaras, and Rudra’s great people <supplied reason="explanation"><foreign>uruttira-perumakkaḷ</foreign></supplied>, <supplied reason="subaudible">the provision is as follows</supplied>:
                     
                     <list>
                         <item>
-                            52 <foreign>kalams</foreign> of rice cooked <supplied reason="explanation"><foreign>aṭuvitāṉa</foreign></supplied>, and 5 <foreign>kalams</foreign> of cereal seeds <supplied reason="explanation"><foreign>payaṟu</foreign></supplied>;
+                            fifty-two <foreign>kalam</foreign>s of cooked <supplied reason="explanation"><foreign>aṭuvitāṉa</foreign>?</supplied> rice, and five <foreign>kalam</foreign>s of cereal seeds <supplied reason="explanation"><foreign>payaṟu</foreign></supplied>;
                         </item>
                         <item>
                             a <foreign>kalañcu</foreign> of gold for the ritual bathing <supplied reason="explanation"><foreign>snapanattukku</foreign></supplied> after lowering <supplied reason="explanation"><foreign>iḻicca</foreign></supplied> the sacred flag;
                         </item>
                         <item>
-                            On the next day of the water-sprinkling <supplied reason="explanation"><foreign>tiruttam āṭiṉa piṟṟai nāṉṟu</foreign></supplied>, changing <supplied reason="explanation"><foreign>māṟṟi</foreign></supplied> that <foreign>maṭapati</foreign> who is not able <supplied reason="explanation"><foreign>māṭṭāta</foreign></supplied> to cause feeding <supplied reason="explanation"><foreign>ūṭṭuvikka</foreign></supplied> in this way;
+                            on the next day of the water-sprinkling <supplied reason="explanation"><foreign>tiruttam āṭiṉa piṟṟai nāṉṟu</foreign></supplied>, changing <supplied reason="explanation"><foreign>māṟṟi</foreign></supplied> that <foreign>maṭapati</foreign> who is not able <supplied reason="explanation"><foreign>māṭṭāta</foreign></supplied> to cause feeding <supplied reason="explanation"><foreign>ūṭṭuvikka</foreign></supplied> in this way;
                         </item>
                     </list>
                 </p>
                 
-                <p n="62-80">
-                    After measuring <supplied reason="explanation"><foreign>aḷappittu</foreign></supplied> these 52 <foreign>kalams</foreign>, the day determined for the festival, along with the superintendent <supplied reason="explanation"><foreign>kaṇkāṇi</foreign></supplied>:
+                <p n="62-81">
+                    After measuring <supplied reason="explanation"><foreign>aḷappittu</foreign></supplied> these fifty-two <foreign>kalam</foreign>s, the day determined for the festival, along with the superintendent <supplied reason="explanation"><foreign>kaṇkāṇi</foreign></supplied>, <supplied reason="subaudible">the provision is as follows</supplied>:
                     
                     <list>
                         <item>
                             starting with the Mūlam festival, what is necessary to cook <supplied reason="explanation"><foreign>aṭak kaṭava</foreign></supplied>:
-                            one <foreign>patakku</foreign> for the <foreign>Śivayogins</foreign>, and one <foreign>tūṇi</foreign> of paddy for the <foreign>Panmaheśvarar</foreign>;
+                            one <foreign>patakku</foreign> for the Śivayogins, and one <foreign>tūṇi</foreign> of paddy for the Panmaheśvaras;
                         </item>
                         <item>
                             at the time of Pūrāṭatti:
-                            one <foreign>tūṇi</foreign> and one <foreign>patakku</foreign> of cooked rice for the <foreign>Śivayogins</foreign>, one <foreign>kalam</foreign> of rice for the <foreign>Panmaheśvarar</foreign>;
+                            one <foreign>tūṇi</foreign> and one <foreign>patakku</foreign> of cooked rice for the Śivayogins, one <foreign>kalam</foreign> of rice for the Panmaheśvaras;
                         </item>
                         <item>
                             at the time of Uttirāṭatti:
-                            three <foreign>kalam</foreign>s of cooked rice for the <foreign>Panmaheśvarar</foreign>, one <foreign>kalam</foreign> of cooked rice for the <foreign>Śivayogins</foreign>;
+                            three <foreign>kalam</foreign>s of cooked rice for the Panmaheśvaras, one <foreign>kalam</foreign> of cooked rice for the Śivayogins;
                         </item>
                         <item>
                             at the time of Tiruvōṇam:
-                            two <foreign>kalam</foreign>s of cooked rice for the <foreign>Śivayogins</foreign>, and six <foreign>kalams</foreign> for the <foreign>Panmaheśvaras</foreign>;
+                            two <foreign>kalam</foreign>s of cooked rice for the Śivayogins, and six <foreign>kalam</foreign>s for the Panmaheśvaras;
                         </item>
                         <item>
                             at the time of Aviṭṭam:
-                            seven <foreign>kalams</foreign> of cooked rice for the <foreign>Panmaheśvarar</foreign>, three <foreign>kalams</foreign> for the <foreign>Śivayogins</foreign>;
+                            seven <foreign>kalam</foreign>s of cooked rice for the Panmaheśvaras, three <foreign>kalam</foreign>s for the Śivayogins;
                         </item>
                         <item>
                             at the time of Cataiyam:
-                            four <foreign>kalams</foreign> of cooked rice for the <foreign>Śivayogins</foreign>, eight <foreign>kalams</foreign> for the <foreign>Panmaheśvarar</foreign>;
+                            four <foreign>kalam</foreign>s of cooked rice for the Śivayogins, eight <foreign>kalam</foreign>s for the Panmaheśvaras;
                         </item>
                         <item>
                             at the time of Pūraṭṭāti with the water ritual <supplied reason="explanation"><foreign>tiruttam āṭum</foreign></supplied>:
-                            five <foreign>kalams</foreign> of cooked rice for the <foreign>Śivayogins</foreign>, twelve <foreign>kalams</foreign> for the <foreign>Panmaheśvarar</foreign>;
+                            five <foreign>kalam</foreign>s of cooked rice for the Śivayogins, twelve <foreign>kalam</foreign>s for the Panmaheśvaras;
                         </item>
                     </list>
                     
-                    fifty-two <foreign>kalams</foreign> of rice <supplied reason="subaudible">are</supplied> needed for all of these seven <supplied reason="explanation"><foreign>nakṣatra</foreign></supplied> days.
+                    that is, fifty-two <foreign>kalam</foreign>s of rice <supplied reason="subaudible">are</supplied> needed for all of these seven <supplied reason="explanation"><foreign>nakṣatra</foreign></supplied> days and five <foreign>kalam</foreign>s of <foreign>pulse</foreign> <supplied reason="subaudible">are</supplied> needed for all these <supplied reason="explanation"><foreign>nakṣatra</foreign></supplied> days.
                 </p>
                 
                 <p n="81-86">
-                    5 <foreign>kalams</foreign> of <foreign>pulse</foreign> <supplied reason="subaudible">are</supplied> needed for all these <supplied reason="explanation"><foreign>nakṣatra</foreign></supplied> days.
+                    After the head of the <foreign>maṭam</foreign> feeds [the Śaivas] in this way, the day after <supplied reason="explanation"><foreign>piṟṟai nāṉṟu</foreign></supplied> performing the ritual bath [of the idol] <supplied reason="explanation"><foreign>tiruttam āṭiṉa</foreign></supplied>, <supplied reason="subaudible">the provision is as follows</supplied>:
+                    
+                    <list>
+                        <item>for the items needed for the lowering <supplied reason="explanation"><foreign>iḻicca</foreign></supplied> of the sacred flag <supplied reason="explanation"><foreign>tirukkoṭi</foreign></supplied>, and for the cloth <supplied reason="explanation"><foreign>puṭavai</foreign></supplied>, half a <foreign>kaḻañcu</foreign> of gold;</item>
+                        <item>for the worship of the <foreign>ācārya</foreign>, one quarter <supplied reason="subaudible"><foreign>kaḻañcu</foreign> of gold</supplied>;</item>
+                        <item>for the potter <supplied reason="explanation"><foreign>kucavaṉukku</foreign></supplied> who puts/brings <supplied reason="explanation"><foreign>iṭum</foreign></supplied> water-pots <supplied reason="explanation"><foreign>kalacam</foreign></supplied>, torches <supplied reason="explanation"><foreign>macāl</foreign></supplied>, head ornaments/crowns <supplied reason="explanation"><foreign>makuṭam</foreign></supplied>, peacock-feathers<supplied reason="explanation"><foreign>makilamum</foreign>, that is, <foreign>mayilamum</foreign>?</supplied>), one quarter <supplied reason="subaudible"><foreign>kaḻañcu</foreign></supplied> of gold.</item>
+                    </list>
+                    
+                </p>
+                
+                <p n="86-101">
+                    ...
                 </p>
                 
                 <p n="101-103">
@@ -732,7 +742,7 @@
                     after having these fifty-two pots measured <supplied reason="explanation"><foreign>aḷappittu</foreign></supplied> with the superintendant <supplied reason="explanation"><foreign>kaṇkāṇi</foreign></supplied>
                     on days when glorious festivals are undertaken                    
                     
-                   -->
+                -->
             </div>
             
             
