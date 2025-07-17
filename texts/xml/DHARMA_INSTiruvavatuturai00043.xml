@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ēḻu Cīmai Mākāṇattū nāṭṭār grants, Śaka year 1632</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:matr">
+                        <forename>Margherita</forename>
+                        <surname>Trento</surname>
+                 <!--   </persName>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname> -->
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Aubervilliers</pubPlace>
+                <idno type="filename">DHARMA_INSTiruvavatuturai00043</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by John Doe.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>					
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>A set of two grants issued on the same year (Śaka 1632) recorded on the same copper plate.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><foreign>ka</foreign> and <foreign>ta</foreign> are very similar.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:matr" when="2024-01-26">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:space="preserve">
+        
+        <body>            
+            
+            <div type="edition">
+                
+                <div type="textpart" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:83215">
+                    <head xml:lang="eng">Grant no. 1</head>
+                    
+                   <pb n="1r"/>
+                    
+                    <p>
+                        
+                    </p>
+                    
+                   <pb n="1v"/>
+                    
+                     <p>
+                    [...]    
+                    </p>
+                   
+                </div>
+                
+                <div type="textpart" xml:lang="tam-Latn" n="2" rendition="class:tamil maturity:83215">
+                    <head xml:lang="eng">Grant no. 2</head>
+                    
+                   
+                    
+                    <p>
+                        <lb n="1v28=46=24"/>[...] ituk=ku yātām oruvaṉ vikātam paṇṇina
+                        <lb n="1v29=47=25"/>vaṉ makāpāvaṅkaḷai Aṉupavippar ākavum [...]
+                    </p>
+                    
+                
+                    
+                </div>
+                
+            </div> 
+            
+            <!--<div type="apparatus">
+                <!-\-apparatus encoded as per EGD §9.1, basic elements for apparatus below-\->
+                
+                <listApp><!-\- one <app> for each apparatus entry -\->
+                
+                <app loc="line"><!-\- update the value of @loc. (this always refers to line beginning)-\->
+                <lem><!-\- fill in a lemma here (as I read it)-\-></lem>
+                <rdg source="bib:Kirusnamurtti2000_01"><!-\- update the @source value, fill in variant reading here -\-></rdg>
+                <note>...</note>
+                </app>
+                
+                </listApp>
+                </div>-->
+            
+            <div type="translation" resp="part:reda part:emfr part:matr">
+                
+                <div type="textpart" n="1">
+                    <head xml:lang="eng">Grant no. 1</head>
+                    
+                    
+                </div>
+                
+                <div type="textpart" n="2">
+                    <head xml:lang="eng">Grant no. 2</head>
+  
+                </div>
+                
+            </div>
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p><seg rend="check">Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl> (ARIE/1986-1987/A/1986-1987/44 and 46).</seg></p>
+                
+                <p>
+                    Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> as individual grants (nos. 51-52), whereas they are in fact found in succession in a single plate. These editions are not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.
+                </p>
+                
+                <p>
+                    This edition by Margherita Trento (2025), based on EFEO photographs (2015).
+                </p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="K">
+                        <ptr target="bib:Kirusnamurtti2000_01"/>
+                        <citedRange unit="page">36-72</citedRange>
+                        <citedRange unit="item">51-52</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    <bibl>
+                    <ptr target="bib:ARIE1986-1987"/>
+                    <citedRange unit="page">212-216</citedRange>
+                    <citedRange unit="item">45-45</citedRange>
+                    </bibl>
+                   </listBibl>
+            </div>
+        </body>
+    </text>
+    
+</TEI>
+
+
