@@ -5,261 +5,258 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of Parakesarivarman, year 38</title>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:reda">
-						<forename>Renato</forename>
-						<surname>Dávalos</surname>
-					</persName>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>					
-					<persName ref="part:rama">
-						<name>N. Ramaswamy</name>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>EpiDoc Encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>				
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Aubervilliers</pubPlace>
-				<idno type="filename">DHARMA_INSTiruvavatuturai10002</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2026 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-					    <summary>Land donation, that is, remission of taxes by provision of gold for tax payment, by Tirukkaṟṟaḷi Piccar to the god (<foreign>deva</foreign>) of Tiruvāvaṭutuṟai.</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-							<p>Medial <foreign>i</foreign> and <foreign>ī</foreign> interchangeable.</p>
-							<p>The letter <foreign>ṉ</foreign> looks like <foreign>ḷ</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<!-- UPDATE the link once the release is made official -->
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-01-26">Creation of the file.</change>
-		</revisionDesc>
-	</teiHeader>
-
-	<text xml:space="preserve">
-
-<body>
-
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-            	
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>svasti śrī
-	</ab>
-	
-	<p>
-		mat<choice><orig>i</orig><reg>u</reg></choice>rai koṇṭa kō-p-para-kēcari
-		<lb n="2" break="no"/>-paṉmaṟkku yāṇṭu muppatt’ eṭṭ-āva
-		<lb n="3" break="no"/>tu
-	</p>
-	
-	<p>
-		teṉ-karai-t tiru-vaḻuntūr-nāṭṭu <hi rend="grantha">brahma</hi>
-		<lb n="4" break="no"/><hi rend="grantha">de</hi>yam ciṟṟāṉaiccūr <hi rend="grantha">sabhai</hi>yōm <hi rend="grantha">śrī</hi>-ti
-		<lb n="5" break="no"/>ru-v-āvaṭu-tuṟai tiru-k-kaṟṟaḷi-p-piccar iṭai
-		<lb n="6" break="no"/>-p poṉ koṇṭu <hi rend="grantha">śrī</hi>-tiru-v-āvaṭu-tuṟai <hi rend="grantha">de</hi>va
-		<lb n="7" break="no"/>rkku Iṟai kāt<unclear>tu</unclear>-<supplied reason="lost">k</supplied> <unclear>ku</unclear>ṭukkum	
-		n<supplied reason="lost">i</supplied><unclear>la</unclear>ttuk’ el
-		<lb n="8" break="no"/>lai 
-		
-		<list>
-			
-			<item>vāṇiyaṉ peru-<unclear>va</unclear>ḻikku mēṟkkum</item>
-			
-			<item>teṉ-pā
-				<lb n="9" break="no"/>ṟk’ ellai vaḻi-<unclear>va</unclear>rampukku vaṭakkum</item>
-			
-			<item>mēl
-				<lb n="10" break="no"/>-pāṟk’ ellai Uṭ<supplied reason="lost">ci</supplied>ṟu-vāy-k-kālukku-k kiḻak
-				<lb n="11" break="no"/>kum</item>
-			
-			<item>vata-pāṟk’ ellai Iluppai-c-ceykku te
-				<lb n="12" break="no"/>ṟkum</item>
-		</list>
-	</p>
-
-	<p>
-		Iṉ-ṉāṉk’ ellaiyilum Aka-p-paṭ
-		<lb n="13" break="no"/>ṭa nilam kālum
-	</p>
-	
-	<p>	
-		<unclear>mu</unclear>tta-caṅkara-māṟaṉ iṭai vi
-		<lb n="14" break="no"/>lai koṇṭa nilatukk’ ellai
-		
-		<list>
-			<item>k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pāṟ
-		<lb n="15" break="no"/>k’ ellai tāyaṉ kāṭaṉ <hi rend="grantha">de</hi>varkku vilai
-		<lb n="16"/>koṇṭa nilattukku <supplied reason="lost">mē</supplied><unclear>ṟkum</unclear></item>
-		<item>te<unclear>ṉ</unclear>-pārk’ e
-		<lb n="17" break="no"/>llai vaḻi-varampukku vaṭakkum</item>
-		<item>mēl-pārk’ e
-		<lb n="18" break="no"/>llai Uṭciṟu-vāy-k-kakukku-k kiḻakkum</item>
-		<item>vaṭa
-		<lb n="19" break="no"/>-pāṟk’ ellai kaṭampaṉ vāy-k-kālukku-t te
-		<lb n="20" break="no"/>ṟkum</item>
-		</list>
-	</p>
-	
-	<p>
-		Iṉ-ṉāṉk’ ellaiyilum Aka-p-paṭṭa
-		<lb n="21"/>nilam mu-m-mā v-araiyum<!--OR: varaiyum?--> mēṟ-pulattu Iru
-		<lb n="22" break="no"/>-māvum Āka Oṉpatu mā v-araiyum vācalil
-		<lb n="23"/>pō<choice><orig>ṉ</orig><reg>n</reg></choice>ta kuṭimai Ūr <unclear>iṭu</unclear> vari-<supplied reason="lost">p</supplied>-<unclear>pāṭu</unclear>m ceṉṉ<choice><orig>i</orig><reg>ī</reg></choice>r-ve
-		<lb n="24" break="no"/><unclear>ṭṭ</unclear>iyum <hi rend="grantha">candrādi</hi>t=ta-val Iṟai kāttu-k kuṭup
-		<lb n="25" break="no"/>pōm ā<unclear>y</unclear> kallil veṭṭi-k kuṭuttōm ciṟṟā
-		<lb n="26" break="no"/><unclear>ṉai</unclear>ccū<unclear>r</unclear> <hi rend="grantha"> <unclear>sa</unclear>bhai</hi>yōm
-	</p>
-
-	<p>
-		I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilattil Eṇ mā
-		<lb n="27"/><unclear>v-a</unclear>raiyu <gap reason="lost" unit="character" quantity="1"/> mām pāttiyil <unclear>A</unclear>rai māvum Iraṇ
-		<lb n="28" break="no"/><unclear>ṭu</unclear> <gap reason="lost" unit="character" quantity="3" precision="low"/> ti Arai-k kāṟ cey <supplied reason="lost">na</supplied><unclear>n=t</unclear><supplied reason="lost">ā</supplied><unclear>va</unclear>ṉam tiru-t
-		<lb n="29" break="no"/><gap reason="lost" unit="character" quantity="2" precision="low"/><unclear>ṟaikku</unclear> tiru-Uvaccakaḷuk<unclear>ku</unclear> <hi rend="grantha"><unclear>can</unclear></hi><hi rend="grantha"><choice><orig><unclear>t</unclear></orig><reg><unclear>d</unclear></reg></choice><unclear>r</unclear></hi><hi rend="grantha">āditya</hi>-vaṟ
-		
-		<lb n="30"/>nivan=tam ceytu kuṭuttēṉ kaṟṟaḷi-p-pi
-		<lb n="31" break="no"/>caṉ-ēṉ
-	</p>
-	<p>
-		Itu <hi rend="grantha">panmāheśvara-rakṣai</hi> <g type="gomutraFinal">.</g>		
-	</p>
-	
-</div>	
-	
-<div type="apparatus">
-	
-	<listApp>
-		
-		<app loc="7">
-			<lem>Iṟai kāt<unclear>tu</unclear><supplied reason="lost">k</supplied> <unclear>ku</unclear>ṭukkum</lem>
-			<note>Compare <foreign>Iṟai kāttuk kuṭuppōm</foreign> (lines 24-25).</note>
-		</app>
-		
-		<app loc="22">
-			<lem>vācalil<lb n="23"/>pō<choice><orig>ṉ</orig><reg>n</reg></choice>ta kuṭimai Ūr <unclear>iṭu</unclear> vari<supplied reason="lost">p</supplied><unclear>pāṭu</unclear>m</lem>
-			<note>Compare <foreign>vācalil pōn=ta kuṭimaiyum Ūr iṭu varippāṭum</foreign> (ARIE/1924-1925/B/1925/112).</note>
-		</app>
-		
-	</listApp>
-</div>
-	
-<div type="translation" resp="part:emfr">
-	
-	<p n="1">Prosperity! Fortune!</p>
-	
-	<p n="1-3">Thirty-eighth year of the king Parakesarivarman, who took Maturai.</p>
-	
-	<p n="3-12">The boundaries of the land, which, we, the members of the assembly of Ciṟṟāṉaiccūr, a <foreign>brahmadeya</foreign> in the Tiraivaḻuntūrnāṭu on the southern bank give, taking care of the tax money <supplied reason="explanation"><foreign>iṟaik kāṭṭu</foreign></supplied>, after receiving gold from Tirukkaṟṟaḷi Piccar of the glorious Tiruvāvaṭutuṟai, for the god of the glorious Tiruvāvaṭutuṟai <supplied reason="subaudible">are as follows</supplied>:
-		<list>
-			<item><supplied reason="subaudible">the eastern boundary is</supplied> west of <gap reason="ellipsis"/> of the main road Vāṇiyaṉ;</item>
-			<item>the southern boundary <supplied reason="subaudible">is</supplied> north of <gap reason="ellipsis"/>;</item>
-			<item>the western boundary <supplied reason="subaudible">is</supplied> east of <gap reason="ellipsis"/>;</item>
-			<item>the northern boundary <supplied reason="subaudible">is</supplied> south of Iluppaiceykku.</item>
-		</list>
-	</p>
-	
-	<p n="12-13">
-		The land comprised between these four boundaries <supplied reason="subaudible">amounts to</supplied> a quarter <supplied reason="subaudible"><foreign>vēli</foreign></supplied>.
-	</p>
-	
-	<p n="13-20">
-		The boundaries of the land got after sale/purchase from Mutta Caṅkara Māṟāṉ <supplied reason="subaudible">are as follows</supplied>:
-		<list>
-			<item>the eastern boundary <supplied reason="subaudible">is</supplied> west of <gap reason="ellipsis"/>;</item>
-			<item>the southern boundary <supplied reason="subaudible">is</supplied> north of <gap reason="ellipsis"/>.;</item>
-			<item>the western boundary <supplied reason="subaudible">is</supplied> east of <gap reason="ellipsis"/>;</item>
-			<item>the northern boundary <supplied reason="subaudible">is</supplied> south of the Katampaṉ channel.</item>
-		</list>
-	</p>
-	
-	<p n="20-26">
-		The land comprised between these four boundaries, that is, <gap reason="ellipsis"/>, we, the members of the assembly of Ciṟṟāṉaiccūr, being those who give <supplied reason="explanation"><foreign>kuṭuppōm</foreign></supplied>, taking care of the tax money, as long as the moon and the sun, we have given <supplied reason="explanation"><foreign>kuṭuttōm</foreign></supplied> <supplied reason="subaudible">it</supplied>, having engraved <supplied reason="subaudible">this agreement</supplied> on stone<note>That is, having this record engraved on stone.</note>.
-	</p>
-	
-	<p n="26-29">
-		From this land, <gap reason="ellipsis"/>, for the glorious drummers, 		
-		I, Tirukkaṟṟaḷi Piccaṉ, have given <gap reason="ellipsis"/>,
-		after making a binding agreement, as long as the moon and the sun.  
-	</p>
-	
-	<p n="29">
-		This <supplied reason="subaudible">is under</supplied> the protection of the many Māheśvaras.
-	</p>
-</div>
-		
-<!--<div type="commentary">
-</div>-->
-	
-<div type="bibliography">
-				
-	<p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/141).</p>	
-	<p>This edition by Renato Davalos, Emmanuel Francis, and Babu N. Ramaswamy (2024), based on photos (EFEO, 2006; E. Francis, 2024; M. Trento, 2024) and autopsy (2024).</p>
-	<p>ASI transcript and estampage, if any, yet to be consulted.</p>    
-		
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1924-1925"/>
-			<citedRange unit="page">28</citedRange>
-			<citedRange unit="appendix">B/1925</citedRange>
-			<citedRange unit="item">141</citedRange>
-		</bibl>     		
-		
-	</listBibl>
-</div>
-</body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of Parakesarivarman, year 38</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>					
+                    <persName ref="part:rama">
+                        <name>N. Ramaswamy</name>
+                    </persName>
+                    <persName ref="part:matr">
+                        <forename>Margherita</forename>
+                        <surname>Trento</surname>
+                    </persName>	
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Aubervilliers</pubPlace>
+                <idno type="filename">DHARMA_INSTiruvavatuturai10002</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2026 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Land donation, that is, remission of taxes by provision of gold for tax payment, by Tirukkaṟṟaḷi Piccar to the god (<foreign>deva</foreign>) of Tiruvāvaṭutuṟai.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                            <p>Medial <foreign>i</foreign> and <foreign>ī</foreign> interchangeable.</p>
+                            <p>The letter <foreign>ṉ</foreign> looks like <foreign>ḷ</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-01-26">Creation of the file.</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:space="preserve">
+        
+        <body>
+            
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <milestone n="1" unit="zone" type="pagelike"/><label>Wall</label><lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                
+                <p>
+                    mat<choice><orig>i</orig><reg>u</reg></choice>rai koṇṭa kō-p-para-kēcari
+                    <lb n="2" break="no"/>-paṉmaṟkku yāṇṭu muppatt’ eṭṭ-āva
+                    <lb n="3" break="no"/>tu
+                </p>
+                
+                <p>
+                    teṉ-karai-t tiru-vaḻuntūr-nāṭṭu <hi rend="grantha">brahma</hi>
+                    <lb n="4" break="no"/><hi rend="grantha">de</hi>yam ciṟṟāṉaiccūr <hi rend="grantha">sabhai</hi>yōm <hi rend="grantha">śrī</hi>-ti
+                    <lb n="5" break="no"/>ru-v-āvaṭu-tuṟai tiru-k-kaṟṟaḷi-p-piccar iṭai
+                    <lb n="6" break="no"/>-p poṉ koṇṭu <hi rend="grantha">śrī</hi>-tiru-v-āvaṭu-tuṟai <hi rend="grantha">de</hi>va
+                    <lb n="7" break="no"/>rkku Iṟai kāt<unclear>tu</unclear>-<supplied reason="lost">k</supplied> <unclear>ku</unclear>ṭukkum	
+                    n<supplied reason="lost">i</supplied><unclear>la</unclear>ttuk’ el
+                    <lb n="8" break="no"/>lai 
+                    
+                    <list>
+                        
+                        <item>vāṇiyaṉ peru-<unclear>va</unclear>ḻikku mēṟkkum</item>
+                        
+                        <item>teṉ-pā
+                            <lb n="9" break="no"/>ṟk’ ellai vaḻi-<unclear>va</unclear>rampukku vaṭakkum</item>
+                        
+                        <item>mēl
+                            <lb n="10" break="no"/>-pāṟk’ ellai Uṭ<supplied reason="lost">ci</supplied>ṟu-vāy-k-kālukku-k kiḻak
+                            <lb n="11" break="no"/>kum</item>
+                        
+                        <item>vata-pāṟk’ ellai Iluppai-c-ceykku te
+                            <lb n="12" break="no"/>ṟkum</item>
+                    </list>
+                </p>
+                
+                <p>
+                    Iṉ-ṉāṉk’ ellaiyilum Aka-p-paṭ
+                    <lb n="13" break="no"/>ṭa nilam kālum
+                </p>
+                
+                <p>	
+                    <supplied reason="lost">mu</supplied>tta-caṅkara-māṟaṉ iṭai vi
+                    <lb n="14" break="no"/>lai koṇṭa nilatukk’ ellai
+                    
+                    <list>
+                        <item>k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pāṟ
+                            <lb n="15" break="no"/>k’ ellai tāyaṉ kāṭaṉ <hi rend="grantha">de</hi>varkku vilai
+                            <lb n="16"/>koṇṭa nilattukku <supplied reason="lost">mē</supplied><unclear>ṟkum</unclear></item>
+                        <item>te<unclear>ṉ</unclear>-pārk’ e
+                            <lb n="17" break="no"/>llai vaḻi-varampukku vaṭakkum</item>
+                        <item>mēl-pāṟk’ e
+                            <lb n="18" break="no"/>llai Uṭciṟu-vāy-k-kālukku-k kiḻakkum</item>
+                        <item>vaṭa
+                            <lb n="19" break="no"/>-pāṟk’ ellai kaṭampaṉ vāy-k-kālukku-t te
+                            <lb n="20" break="no"/>ṟkum</item>
+                    </list>
+                </p>
+                
+                <p>
+                    Iṉ-ṉāṉk’ ellaiyilum Aka-p-paṭṭa
+                    <lb n="21"/>nilam mu-m-mā v-araiyum mēṟ-pulattu Oru
+                    <lb n="22"/>māvum Āka Oṉpatu mā v-araiyum vācalil
+                    <lb n="23"/>pō<choice><orig>ṉ</orig><reg>n</reg></choice>ta kuṭimai Ūr <unclear>iṭu</unclear> vari-<supplied reason="lost">p</supplied>-<unclear>pāṭu</unclear>m ceṉṉ<choice><orig>i</orig><reg>ī</reg></choice>r-ve
+                    <lb n="24" break="no"/><unclear>ṭṭ</unclear>iyum <hi rend="grantha">candrādi</hi>t=ta-val Iṟai kāttu-k kuṭup
+                    <lb n="25" break="no"/>pōm ā<unclear>y</unclear> kallil veṭṭi-k kuṭuttōm ciṟṟā
+                    <lb n="26" break="no"/>ṉ<unclear>ai</unclear>ccū<unclear>r</unclear> <hi rend="grantha"> <unclear>sa</unclear>bhai</hi>yōm
+                </p>
+                
+                <p>
+                    I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilattil Eṇ mā
+                    <lb n="27"/><unclear>v-a</unclear>raiyu <gap reason="lost" unit="character" quantity="1"/> mām pāttiyil <unclear>A</unclear>rai māvum Iraṇ
+                    <lb n="28" break="no"/><unclear>ṭu</unclear> <gap reason="lost" unit="character" quantity="3" precision="low"/> ti Arai-k kāṟ cey <supplied reason="lost">na</supplied><unclear>n=t</unclear><supplied reason="lost">ā</supplied><unclear>va</unclear>ṉam tiru-t
+                    <lb n="29" break="no"/>tuṟai It-tiru-Uvaccakaḷuk<unclear>ku</unclear> <hi rend="grantha"><unclear>can</unclear></hi><hi rend="grantha"><choice><orig><unclear>t</unclear></orig><reg><unclear>d</unclear></reg></choice><unclear>r</unclear></hi><hi rend="grantha">āditya</hi>-vaṟ
+                    
+                    <milestone n="2" unit="zone" type="pagelike"/><label>Base</label><lb n="30"/>nivan=tam ceytu kuṭuttēṉ kaṟṟaḷi-p-pi
+                    <lb n="31" break="no"/>caṉ-ēṉ
+                </p>
+                <p>
+                    Itu <hi rend="grantha">panmāheśvara-rakṣai</hi> <g type="gomutraFinal">.</g>		
+                </p>
+                
+            </div>	
+            
+            <div type="apparatus">
+                
+                <listApp>
+                    
+                    <app loc="7">
+                        <lem>Iṟai kāt<unclear>tu</unclear><supplied reason="lost">k</supplied> <unclear>ku</unclear>ṭukkum</lem>
+                        <note>Compare <foreign>Iṟai kāttuk kuṭuppōm</foreign> (lines 24-25).</note>
+                    </app>
+                    
+                    <app loc="22">
+                        <lem>vācalil<lb n="23"/>pō<choice><orig>ṉ</orig><reg>n</reg></choice>ta kuṭimai Ūr <unclear>iṭu</unclear> vari<supplied reason="lost">p</supplied><unclear>pāṭu</unclear>m</lem>
+                        <note>Compare <foreign>vācalil pōn=ta kuṭimaiyum Ūr iṭu varippāṭum</foreign> (ARIE/1924-1925/B/1925/112).</note>
+                    </app>
+                    
+                </listApp>
+            </div>
+            
+            <div type="translation" resp="part:emfr">
+                
+                <p n="1">Prosperity! Fortune!</p>
+                
+                <p n="1-3">Thirty-eighth year of the king Parakesarivarman, who took Maturai.</p>
+                
+                <p n="3-12">The boundaries of the land, which, we, the members of the assembly of Ciṟṟāṉaiccūr, a <foreign>brahmadeya</foreign> in the Tiraivaḻuntūrnāṭu on the southern bank give, taking care of the tax money <supplied reason="explanation"><foreign>iṟaik kāṭṭu</foreign></supplied>, after receiving gold from Tirukkaṟṟaḷi Piccar of the glorious Tiruvāvaṭutuṟai, for the god of the glorious Tiruvāvaṭutuṟai <supplied reason="subaudible">are as follows</supplied>:
+                    <list>
+                        <item><supplied reason="subaudible">the eastern boundary is</supplied> west of <gap reason="ellipsis"/> of the main road Vāṇiyaṉ;</item>
+                        <item>the southern boundary <supplied reason="subaudible">is</supplied> north of <gap reason="ellipsis"/>;</item>
+                        <item>the western boundary <supplied reason="subaudible">is</supplied> east of <gap reason="ellipsis"/>;</item>
+                        <item>the northern boundary <supplied reason="subaudible">is</supplied> south of Iluppaiceykku.</item>
+                    </list>
+                </p>
+                
+                <p n="12-13">
+                    The land comprised between these four boundaries <supplied reason="subaudible">amounts to</supplied> a quarter <supplied reason="subaudible"><foreign>vēli</foreign></supplied>.
+                </p>
+                
+                <p n="13-20">
+                    The boundaries of the land got after sale/purchase from Mutta Caṅkara Māṟāṉ <supplied reason="subaudible">are as follows</supplied>:
+                    <list>
+                        <item>the eastern boundary <supplied reason="subaudible">is</supplied> west of <gap reason="ellipsis"/>;</item>
+                        <item>the southern boundary <supplied reason="subaudible">is</supplied> north of <gap reason="ellipsis"/>.;</item>
+                        <item>the western boundary <supplied reason="subaudible">is</supplied> east of <gap reason="ellipsis"/>;</item>
+                        <item>the northern boundary <supplied reason="subaudible">is</supplied> south of the Katampaṉ channel.</item>
+                    </list>
+                </p>
+                
+                <p n="20-26">
+                    The land comprised between these four boundaries, that is, <gap reason="ellipsis"/>, we, the members of the assembly of Ciṟṟāṉaiccūr, being those who give <supplied reason="explanation"><foreign>kuṭuppōm</foreign></supplied>, taking care of the tax money, as long as the moon and the sun, we have given <supplied reason="explanation"><foreign>kuṭuttōm</foreign></supplied> <supplied reason="subaudible">it</supplied>, having engraved <supplied reason="subaudible">this agreement</supplied> on stone<note>That is, having this record engraved on stone.</note>.
+                </p>
+                
+                <p n="26-29">
+                    From this land, <gap reason="ellipsis"/>, for the glorious drummers, 		
+                    I, Tirukkaṟṟaḷi Piccaṉ, have given <gap reason="ellipsis"/>,
+                    after making a binding agreement, as long as the moon and the sun.  
+                </p>
+                
+                <p n="29">
+                    This <supplied reason="subaudible">is under</supplied> the protection of the many Māheśvaras.
+                </p>
+            </div>
+            
+            <!--<div type="commentary">
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/141).</p>	
+                <p>This edition by Renato Davalos, Emmanuel Francis, Babu N. Ramaswamy, and Margherita Trento, based on photos (EFEO, 2006; E. Francis, 2024; M. Trento, 2024) and autopsy (2024).</p>
+                <p>ASI transcript and estampage, if any, yet to be consulted.</p>    
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1924-1925"/>
+                        <citedRange unit="page">28</citedRange>
+                        <citedRange unit="appendix">B/1925</citedRange>
+                        <citedRange unit="item">141</citedRange>
+                    </bibl>     		
+                    
+                </listBibl>
+            </div>
+        </body>
+    </text>
 </TEI>
