@@ -94,13 +94,9 @@
                 <pb n="1v"/>
                 
                 <p>
-                 <lb n="1v12=34"/> [...] yinta maṭattukku yātoruvaṉ vikkiṉam ceytavaṉ keṅkai
-                 <lb n="1v13=35"/>k-karaiyilē kārām pacuvai koṉṟa to<hi rend="grantha">ṣa</hi>ttilē pōvār ākavum
-               </p>
-                    
-                  
-                
-                
+                    <lb n="1v12=34"/>[...] y-inta maṭattukku yāt' oruvaṉ vikkiṉam ceytavaṉ keṅkai
+                    <lb n="1v13=35" break="no"/>k-karaiyilē kār-ām-pacuvai koṉṟa to<hi rend="grantha">ṣa</hi>ttilē pōvār ākavum
+                </p>
                 
                 <!--  
                     
@@ -110,7 +106,6 @@
                     <l n="c">paradattāpahārēṇa</l> 
                     <l n="d">svadattam niṣphalam· bhavēt·<g type="ddanda">.</g></l> 
                     </lg> 
-                  
                     
                     <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">dānapālanayōr mmaddhyē</l> 
@@ -126,15 +121,12 @@
                     <l n="d">vipradattā vasundharā<g type="ddanda">.</g></l><g type="pc"></g>
                     </lg>
                     
-                    
                     <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">svadattām· paradattāṁ vā</l> 
                     <l n="b">yo hareta vasundharām <g type="danda">.</g></l> 
                     <l n="c">ṣaṣṭi-varṣa-sahasrāṇi</l> 
                     <l n="d">viṣṭhāyāñ jāyate kṛmiḥ <g type="ddanda">.</g></l> 
                     </lg>
-                    
-                    
                     
                     <lg n="5" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">sā<lb n="1v15=28"/>māṉyo yan dharmma-setu<unclear>r</unclear> nṛpāṇāṁ</l>
@@ -175,7 +167,7 @@
             
             <div type="bibliography">
                 
-             <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/61).</p>  
+                <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/61).</p>  
                 
                 <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 68). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
                 
@@ -192,12 +184,12 @@
                     
                 </listBibl>
                 
-               
-            <listBibl type="secondary">
+                
+                <listBibl type="secondary">
                     <bibl>
-                    <ptr target="bib:ARIE1986-1987"/>
-                    <citedRange unit="page">27</citedRange>
-                    <citedRange unit="item">61</citedRange>
+                        <ptr target="bib:ARIE1986-1987"/>
+                        <citedRange unit="page">27</citedRange>
+                        <citedRange unit="item">61</citedRange>
                     </bibl> 
                 </listBibl> 
                 
