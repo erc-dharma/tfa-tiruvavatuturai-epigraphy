@@ -83,7 +83,7 @@
         
         <body>
             
-            <div type="edition" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:83215">		
+            <div type="edition" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:vernacular">		
                 
                 
                 <pb n="1r"/>
@@ -114,8 +114,8 @@
                 <p>Inta cātaṉam kalliṉum
                     <lb n="1v31=67"/>veṭṭik koḷḷavum</p>
                
-                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    rāmaliṁga tuṇai
+                <ab>
+                    rāmaliṁga-tuṇai
                 </ab>
                 
                 

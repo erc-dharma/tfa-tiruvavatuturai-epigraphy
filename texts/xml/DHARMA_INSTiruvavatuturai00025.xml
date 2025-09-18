@@ -108,7 +108,7 @@
                 
                 <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">svadattād dviguṇam· puṇyam·</l> 
-                    <l n="b">paradattā<lb n="1v22=53"/>nupālanam· <g type="danda">.</g></l> 
+                    <l n="b">paradattā<lb n="1v22=53" break="no"/>nupālanam· <g type="danda">.</g></l> 
                     <l n="c">paradattāpahārēṇ<choice><sic>ā</sic><corr>a</corr></choice></l> 
                     <l n="d">svadattam· niṣphalam· bhavēt·<g type="ddanda">.</g> <g type="pc">.</g></l>
                 </lg>
@@ -116,15 +116,15 @@
                 <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a"><lb n="1v23=54"/>dānapālanayōr mmaddhyē</l> 
                     <l n="b">dānāc chreyo ’nupālanam· <g type="danda">.</g></l>
-                    <l n="c">dānāt svarga<lb n="1v24=55"/>m avāpnōti</l> 
+                    <l n="c">dānāt svarga<lb n="1v24=55" break="no"/>m avāpnōti</l> 
                     <l n="d">pālanād acyutam· padam· <g type="ddanda">.</g> <g type="pc">.</g></l>
                 </lg> 
                 
                 <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">Ekaika bhaginī lok<lb n="1v25=56"/>e</l> 
+                    <l n="a">Ekaika bhaginī lok<lb n="1v25=56"/>e<!--EF: check--></l> 
                     <l n="b">sarvveṣām <choice><sic>i</sic><corr>e</corr></choice>va bhūbhujām· <g type="danda">.</g></l> 
                     <l n="c">nā bhōjyā na <choice><sic>ga</sic><corr>ka</corr></choice>ragrāhyā</l> 
-                    <l n="d">vipradattā va<lb n="1v26=57"/>sundharā <g type="ddanda">.</g><g type="pc">.</g></l>
+                    <l n="d">vipradattā va<lb n="1v26=57" break="no"/>sundharā <g type="ddanda">.</g><g type="pc">.</g></l>
                 </lg>
                 
                 <p>

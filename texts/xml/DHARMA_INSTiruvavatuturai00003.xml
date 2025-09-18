@@ -102,8 +102,8 @@
                     <lb n="1r9=9" break="no"/>m pararāca-cēkaraṉ ravikula-cēkaraṉ ravivaṟ<surplus>m</surplus>
                     <lb n="1r10=10" break="no"/>maṉ corimuttu vaṉṉiyaṉ
                 </p>
-                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    svasti śrī</ab>
+                <ab>
+                    <hi rend="grantha">svasti śrī</hi></ab>
                 <p>
                     makā-maṇ
                     <lb n="1r11=11" break="no"/>ṭalēcuparaṉ Ari-RĀyar taḷavipāṭaṉ pācai<seg type="aksara">k=ku</seg> <seg type="aksara">t=ta</seg>p
@@ -198,9 +198,9 @@
                     <lb n="1v40=71"/> ceyta tō<hi rend="grantha">ṣa</hi><seg type="aksara">t=ti</seg><supplied reason="omitted">ṟ</supplied> pōka<seg type="aksara">k=ka</seg>ṭavaR Ākavum <g type="pc"></g>
                 </p>		
                 
-                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                <p>
                     <lb n="1v28=59=A01"/><hi rend="grantha">śrī-śaṁkaran·</hi> tuṇai
-                </ab>
+                </p>
             </div>
             
             

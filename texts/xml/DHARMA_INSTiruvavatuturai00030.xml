@@ -102,13 +102,13 @@
                 
                 <p>
                     cakāṟttam <num value="1525"> <g type="numeral">1000</g> 5 <g type="numeral">100</g> 2 <g type="numeral">10</g> 5 </num> k=ku <hi rend="grantha">śa
-                    <lb n="1v23=42" break="no"/>kam·</hi> mēl-c cellā niṉṟa pava<hi rend="grantha">sam·</hi>
+                    <lb n="1v23=42" break="no"/>kam·</hi> mēl-c cellā niṉṟa pava-<hi rend="grantha">sam·</hi>
                     <lb n="1v24=43" break="no"/>vassarattu uttarāyaṇa <g type="varuṣam"/>
                 </p>
                 
             
                 <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">svada<lb n="1v25=44"/>ttād dviguṇam· puṇyam·</l> 
+                    <l n="a">svada<lb n="1v25=44" break="no"/>ttād dviguṇam· puṇyam·</l> 
                     <l n="b">paradattā<choice><sic>ra</sic><corr>nu</corr></choice>pālanam· <g type="danda">.</g></l> 
                     <l n="c">paradattāpahārēṇa</l> 
                     <l n="d">svadatt<choice><sic>ā</sic><corr>am</corr></choice> niṣphalam· bhavēt·<g type="ddanda">.</g></l> 
