@@ -83,13 +83,12 @@
         
         <body>
             
-            <div type="edition" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:83215">		
-                
+            <div type="edition" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:vernacular">
                 
                 <pb n="1r"/>
                 <p>
                     <lb n="1r=1"/><hi rend="grantha">svasti śrī sakābdaṃ</hi> <num value="1582"> <g type="numeral">1000</g> 5 <g type="numeral">100</g> 8 <g type="numeral">10</g> 2 </num> mēlc cellāniṉṟa <hi rend="grantha">sārvarī saṃva
-                    <lb n="2r=2" break="no"/>tsara</hi>ttu uttarāyaṇattu māka mā<hi rend="grantha">sa</hi>ttu aparapa<hi rend="grantha">kṣa</hi>ttu catuṟteciyum āti<hi rend="grantha">tya </hi>
+                        <lb n="2r=2" break="no"/>tsara</hi>ttu uttarāyaṇattu māka mā<hi rend="grantha">sa</hi>ttu aparapa<hi rend="grantha">kṣa</hi>ttu catuṟteciyum āti<hi rend="grantha">tya </hi>
                     <lb n="3r=3"/>vāramum Aviṭṭa na<hi rend="grantha">kṣa</hi>ttiramum ci<add place="below">va</add>nāma-yōkamum peṟṟa puṇṇiya kālattu
                 </p>
                 <p>
@@ -183,7 +182,7 @@
                 </lg>
                 
                 <ab>
-                   kurunamacivāyam 
+                    kurunamacivāyam 
                 </ab>
                 
                 <ab>
@@ -255,7 +254,7 @@
                 
                 <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 17). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
                 
-                <p>This edition by Margherita Trento (2025), based on EFEO photographs (2015).
+                <p>This edition by Margherita Trento (2025), based on EFEO photographs (2015). Reviewed by Emmanuel Francis.
                 </p>
                 
                 <listBibl type="primary">
