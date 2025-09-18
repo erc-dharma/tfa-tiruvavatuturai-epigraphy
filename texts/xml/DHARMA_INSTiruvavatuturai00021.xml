@@ -88,7 +88,7 @@
                 
                 <p>
                     Ituvē tāmpura-tāṉa-p-paṭṭayam-<add place="below">ā</add>
-                    <lb n="1v22=49" break="no"/>ka cantiRĀtit=tavarai<!--EF: how to indicate that the offset Nāgari phrase is here? In apparatus?--> cantirap<!--EF:check--> piṟavēca-maṭa-taṟmamum 
+                    <lb n="1v22=49" break="no"/>ka cantiRĀtit=tavarai<!--EF: how to indicate that the offset Nāgari phrase is here? In apparatus?--> cantirap<!--EF:check-->-piṟavēca-maṭa-taṟmamum 
                     <lb n="1v23=50"/>Ak=kiṟakĀRamum Ut=tiRŌt=tiram-āka naṭappiccu-k koḷḷavum
                 </p>
                 <p>
@@ -103,7 +103,7 @@
                 </p>
                 
                 <ab xml:lang="san-Latn" rendition="class:nāgarī maturity:vernacular">
-                    <lb n="1v22=49"/>raghunāthakāge<unclear reason="eccentric_ductus">ṇye</unclear>
+                    <lb n="049"/>raghunātha-kāge<unclear reason="eccentric_ductus">ṇye</unclear><!--EF:check-->
                 </ab>
                 
             </div>
