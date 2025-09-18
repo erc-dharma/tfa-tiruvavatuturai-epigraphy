@@ -83,7 +83,7 @@
         
         <body>
             
-            <div type="edition" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:83215">		
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">		
                 
                 
                 <pb n="1r"/>
@@ -103,11 +103,13 @@
                     <lb n="1v25=65" break="no"/>m ceya ta puṇṇiyattai yaṭaiyavār ākavum 
                 </p>
                 
-                <p> 
-                    <lb n="1v26=66"/>cutattāti kuṇam puṇṇiyam paratattāṉupāla 
-                    <lb n="1v27=67"/>paratattāpakārēṇā cutattam ni<hi rend="grantha">ṣ</hi>palam
-                    <lb n="1v28=68"/>pavēttu <g type="ddanda">.</g> 
-                </p>
+                <lg n="1" xml:lang="san-Latn" rendition="class:tamil maturity:vernacular"> 
+                    <l n="a"><lb n="1v26=66"/>cutattāti kuṇam puṇṇiyam</l>
+                    <l n="b">paratattāṉupāla</l> 
+                    <l n="c"><lb n="1v27=67"/>paratattāpakārēṇā</l>
+                    <l n="d">cutattam ni<hi rend="grantha">ṣ</hi>palam
+                    <lb n="1v28=68"/>pavēttu <g type="ddanda">.</g></l> 
+                </lg>
                 
                 <p>
                     y-inta-t taṟma-cācaṉam tirā<choice><orig>va</orig><reg>vi</reg></choice>ṭa
