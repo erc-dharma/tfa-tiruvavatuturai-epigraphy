@@ -34,23 +34,17 @@
                 <date from="2019" to="2025">2019-2025</date>
             </publicationStmt>
             <sourceDesc>
-                <!-- only the handDesc can be filled in at this stage -->
                 <msDesc>
-                    <!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
                     <msIdentifier>
                         <repository>DHARMAbase</repository>
                         <idno/>
-                        <!-- don't modify this -->
                     </msIdentifier>
                     <msContents>
-                        <!-- describe the intellectual content of an inscription -->
-                        <summary>This plate records an endowment made by Rakunāta Cētupati Kāttatēvar for mantaining and agrahāra and a maṭam.</summary>
-                        <!-- offers the possibility to give a summary of the inscription's content -->
+                        <summary>This plate records an endowment made by Rakunāta Cētupati Kāttatēvar for maintaining an <foreign>agrahāra</foreign> and a <foreign>maṭam</foreign>.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><!--<foreign>ka</foreign> and <foreign>ta</foreign> are very similar.--></p>
-                            
+                            <p></p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -83,68 +77,34 @@
         
         <body>
             
-            <div type="edition" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:83215">		
+            <div type="edition" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:vernacular">
                 
-                
-                <pb n="1r"/>
                 <p>
-                    ... 
+                    <pb n="1r"/>
+                    <lb n="1r1=1"/>... 
+                    <pb n="1v"/>
+                    <lb n="1v21=48"/>...
                 </p>
                 
-                <pb n="1v"/>
-                
                 <p>
-                    <lb n="1v21=48"/>... Ituvē tāmpura-tāṉam paṭṭayam<add place="below">ā</add>
-                    <lb n="1v22=49" break="no"/>ka cantiRĀtit=tavarai cantirap piṟavēca maṭataṟmamum 
-                    <lb n="1v23=50"/>Ak=kiṟakĀRamum Ut=tirōttiramāka naṭappiccu-k koḷḷavum Inta taṟmat
-                    <lb n="1v24=51" break="no"/>tai yātāmoruttaṉ paripālaṉam paṇṇiṉavaṉ kōṭi liṅka-p pi<unclear>ṟa</unclear> 
-                    <lb n="1v25=52"/>tiṭṭai kōṭi viṟuma-p piṟatiṭṭaiyu=M Acuvamētai yākam paṇṇiṉa <unclear>pa</unclear> 
-                    <lb n="1v26=53"/>lattai Aṭaivarākavum Inta taṟmattuk=ku Akitam paṇṇiṉavaṉ kuruv<unclear>ai</unclear>
-                    <lb n="1v27=54"/>keṅkaikaraiyil kāRĀpacuvai ko<choice><orig>ṇṇ</orig><reg>ṉṟ</reg></choice>a pāvat=tilē pōvaRĀka<unclear>vum</unclear>
+                    Ituvē tāmpura-tāṉa-p-paṭṭayam-<add place="below">ā</add>
+                    <lb n="1v22=49" break="no"/>ka cantiRĀtit=tavarai<!--EF: how to indicate that the offset Nāgari phrase is here? In apparatus?--> cantirap<!--EF:check--> piṟavēca-maṭa-taṟmamum 
+                    <lb n="1v23=50"/>Ak=kiṟakĀRamum Ut=tiRŌt=tiram-āka naṭappiccu-k koḷḷavum
+                </p>
+                <p>
+                    Inta taṟmat
+                    <lb n="1v24=51" break="no"/>tai yātām oruttaṉ paripālaṉam paṇṇiṉavaṉ kōṭi-liṅka-p-pi<unclear>ṟa</unclear> 
+                    <lb n="1v25=52" break="no"/>tiṭṭai-kōṭi-viṟuma-p-piṟatiṭṭaiyu=M Acuvamētai-yākam paṇṇiṉa <unclear>pa</unclear> 
+                    <lb n="1v26=53" break="no"/>lattai Aṭaivar ākavum
+                </p>
+                <p>
+                    Inta taṟmattuk=ku Akitam paṇṇiṉavaṉ kuruv<unclear>ai</unclear>
+                    <lb n="1v27=54"/>keṅkaikaraiyil kāRĀpacuvai ko<choice><orig>ṇṇ</orig><reg>ṉṟ</reg></choice>a pāvat=tilē pōvaR Āka<unclear>vum</unclear>
                 </p>
                 
                 <ab xml:lang="san-Latn" rendition="class:nāgarī maturity:vernacular">
-                       raghunāthakāge<unclear reason="eccentric_ductus">ṇye</unclear>
-                   </ab>
-                 
-                
-                
-                
-                <!--
-                    <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a"><lb n="20v=58"/>dānapālanayōr mmaddhyē</l> 
-                    <l n="b">dānā<lb n="21v=59"/>t cchreyo ’nupālanam· <g type="danda">.</g></l>
-                    <l n="c">dānāt· sva<lb n="22v=60"/>rgam avāpnōti</l> 
-                    <l n="d">pālanād acyuta<lb n="22v=61"/>m· padam· <g type="ddanda">.</g> <g type="pc"/></l>
-                    </lg> 
-                
-                    <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">svadattāt· dviguṇam · puṇyam ·</l> 
-                    <l n="b">paradattānupā<add place="below" rend="mark">la</add>nam· <g type="danda">.</g></l> 
-                    <l n="c"><lb n="1v12=25"/>paradattāpahārēṇa</l> 
-                    <l n="d">svadattan niṣphalam · bhavēt·<g type="ddanda">.</g></l> 
-                    </lg>
-                    
-                    <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">svadattām· paradattāṁ vā</l> 
-                    <l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas<choice><sic>va</sic><corr>u</corr></choice>n <lb n="1v13=26" break="no"/>dharām <g type="danda">.</g></l> 
-                    <l n="c">ṣaṣṭi<surplus>r</surplus>-varṣa-sahasrāṇi</l> 
-                    <l n="d"> viṣṭhāyāñ jāyate kṛmiḥ <g type="ddanda">.</g></l> 
-                    </lg>
-                    
-                    <lg n="4" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">Ekaika bhaginī loke</l> 
-                    <l n="b"><lb n="1v14=27"/>sarvveṣām eva bhūbhujāḥ<g type="danda">.</g></l> 
-                    <l n="c">nā bhōjyā na k<unclear>a</unclear>ragrāhyā</l> 
-                    <l n="d">vipradattā vasundharāḥ<g type="ddanda">.</g></l> 
-                    </lg>
-                    
-                    <lg n="5" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">sā<lb n="1v15=28"/>māṉyo yan dharmma-setu<unclear>r</unclear> nṛpāṇāṁ</l>
-                    <l n="b">kāle kāle pālanīyo bhavat·bhi<supplied reason="omitted">ḥ</supplied> <g type="danda">.</g></l>
-                    <l n="c">sarvān etā<unclear>nn</unclear> <pb n="2r"/><lb n="2r1=29"/>bhāvinaḥ pā<supplied reason="omitted">r</supplied>tthivendr<choice><sic>a</sic><corr>ā</corr></choice>n ·</l>
-                    <l n="d">bhūyo bhūyo yācate rām acandraḥ <g type="ddanda">.</g></l>
-                    </lg>-->
+                    <lb n="1v22=49"/>raghunāthakāge<unclear reason="eccentric_ductus">ṇye</unclear>
+                </ab>
                 
             </div>
             
@@ -165,16 +125,13 @@
             
             <div type="translation" resp="part:matr">
                 
-                <p n="1-2">....</p>
-                
-                
+                <p n="1-">...</p>
                 <!--specify the lines inside the <p> tag, as <p n="1">...</p>  ; when it's the translation of a stanza, <p rend="stanza" n="1"> </p> and the number is in this second type of translation tag is taken from the <lg> number-->
-                
                 
             </div>
             
-            <!--<div type="commentary">
-                </div>-->
+            <div type="commentary">
+                </div>
             
             <div type="bibliography">
                 
@@ -182,7 +139,7 @@
                 
                 <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 24). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
                 
-                <p>This edition is by Margherita Trento (2025), based on EFEO photographs (2015).
+                <p>This edition is by Margherita Trento (2025), based on EFEO photographs (2015). Reviewed by Emmanuel Francis.
                 </p>
                 
                 <listBibl type="primary">
