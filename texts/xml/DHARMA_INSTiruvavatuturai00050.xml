@@ -44,7 +44,7 @@
                     </msIdentifier>
                     <msContents>
                         <!-- describe the intellectual content of an inscription -->
-                        <summary>This grant records the donation of an entire maṭam, with its land and people, to the Tiruvāvaṭutuṟai ātīṉam.</summary>
+                        <summary>This grant records the donation of an entire <foreign>maṭam</foreign>, with its land and people, to the Tiruvāvaṭutuṟai Ātīṉam.</summary>
                         <!-- offers the possibility to give a summary of the inscription's content -->
                     </msContents>
                     <physDesc>
@@ -83,88 +83,50 @@
         
         <body>
             
-            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">		
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">	
                 
-                
-                <pb n="1r"/>
                 <p>
-                    [...]
+                    <pb n="1r"/>
+                    <lb n="1r1=1"/>[...]
+                    
+                    <pb n="1v"/>
+                    <lb n="1v18=58"/>[...] cācaṉa-p-paṭṭaiyam
                 </p>
                 
-                <pb n="1v"/>
-                
                 <p>
-                    <lb n="1v19=59"/>yintat taṟmattukku yātāmoruttar vikā
+                    <lb n="1v19=59"/>y-inta-t taṟmattukku yātām oruttar vikā
                     <lb n="1v20=60" break="no"/>tañ ceyta pērkaḷ keṅkai-k karaiyilē
-                    <lb n="1v21=61"/>kō-v-atti paṇṇiṉa pāvattai yaṭaivārā 
-                    <lb n="1v22=62" break="no"/>kavum yinta-t taṟmattai-p paripāla<supplied reason="omitted">ṉa</supplied>ñ ceyta 
-                    <lb n="1v23=63"/>pērkaḷ kāci <hi rend="grantha">kṣē</hi><supplied reason="omitted">ttira</supplied>ttil kō-tāṉam pūtāṉam A
+                    <lb n="1v21=61"/>kō-v-atti paṇṇiṉa pāvattai yaṭaivār ā 
+                    <lb n="1v22=62" break="no"/>kavum
+                </p>
+                <p>                    
+                    y-inta-t taṟmattai-p paripāla<supplied reason="omitted">ṉa</supplied>ñ ceyta 
+                    <lb n="1v23=63"/>pērkaḷ kāci-<hi rend="grantha">ṣe</hi><supplied reason="omitted">ttira</supplied>ttil kō-tāṉam pū-tāṉam A
                     <lb n="1v24=64" break="no"/>ṉṉa-tāṉam coṟṉa-tāṉam cōṭaca-makā-tāna 
-                    <lb n="1v25=65" break="no"/>m ceya ta puṇṇiyattai yaṭaiyavār ākavum 
+                    <lb n="1v25=65" break="no"/>m ceyta puṇṇiyattai y-aṭaiyavār ākavum 
                 </p>
                 
                 <lg n="1" xml:lang="san-Latn" rendition="class:tamil maturity:vernacular"> 
-                    <l n="a"><lb n="1v26=66"/>cutattāti kuṇam puṇṇiyam</l>
-                    <l n="b">paratattāṉupāla</l> 
-                    <l n="c"><lb n="1v27=67"/>paratattāpakārēṇā</l>
-                    <l n="d">cutattam ni<hi rend="grantha">ṣ</hi>palam
-                    <lb n="1v28=68"/>pavēttu <g type="ddanda">.</g></l> 
+                    <l n="a"><lb n="1v26=66"/>cu-tattā<supplied reason="omitted">t</supplied> ti-kuṇam puṇṇiyam</l>
+                    <l n="b">para-tattāṉupāla<lb n="1v27=67" break="no"/>ṉam</l> 
+                    <l n="c">para-tattāpakārēṇ<choice><sic>ā</sic><corr>a</corr></choice></l>
+                    <l n="d">cu-tattam ni<hi rend="grantha">ṣ</hi>palam
+                        <lb n="1v28=68"/>pavēttu <g type="danda">.</g><g type="dash">.</g><g type="danda">.</g></l> 
                 </lg>
                 
                 <p>
-                    y-inta-t taṟma-cācaṉam tirā<choice><orig>va</orig><reg>vi</reg></choice>ṭa
-                   <lb n="1v29=69"/>Aṭcarattil tāmpara-cācaṉattil eḻuti
-                   <lb n="1v30=70" break="no"/>ṉavaṉ tāṉappa mutaliyār kumāraṉ nīla
-                   <lb n="1v31=71" break="no"/>kaṇṭam [...]
+                    y-inta-t taṟma-cācaṉam tirāv<choice><orig>a</orig><reg>i</reg></choice>ṭa
+                    <lb n="1v29=69" break="no"/>-Aṭcarattil tāmpara-cācaṉattil Eḻuti
+                    <lb n="1v30=70" break="no"/>ṉavaṉ tāṉappa-mutaliyār kumāraṉ nīla
+                    <lb n="1v31=71" break="no"/>kaṇṭam
                 </p>
                 
-                
-                
-                
-                <!--  
-                    
-                    <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">svadattād dviguṇam· puṇyam·</l> 
-                    <l n="b">paradattānupālanam· <g type="danda">.</g></l> 
-                    <l n="c">paradattāpahārēṇa</l> 
-                    <l n="d">svadattam niṣphalam· bhavēt·<g type="ddanda">.</g></l> 
-                    </lg> 
-                  
-                    
-                    <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">dānapālanayōr mmaddhyē</l> 
-                    <l n="b">dānāc chreyo ’nupālanam· <g type="danda">.</g></l>
-                    <l n="c">dānāt svargam avāpnōti</l> 
-                    <l n="d">pālanād acyutam· padam· <g type="ddanda">.</g> <g type="pc"/></l>
-                    </lg> 
-                    
-                    <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">Ekaiva bhaginī loke</l> 
-                    <l n="b">sarvveṣām eva bhūbhujām· <g type="danda">.</g></l> 
-                    <l n="c">nā bhōjyā na karagrāhyā</l> 
-                    <l n="d">vipradattā vasundharā<g type="ddanda">.</g></l><g type="pc"></g>
-                    </lg>
-                    
-                    
-                    <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">svadattām· paradattāṁ vā</l> 
-                    <l n="b">yo hareta vasundharām <g type="danda">.</g></l> 
-                    <l n="c">ṣaṣṭi-varṣa-sahasrāṇi</l> 
-                    <l n="d">viṣṭhāyāñ jāyate kṛmiḥ <g type="ddanda">.</g></l> 
-                    </lg>
-                    
-                    
-                    
-                    <lg n="5" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">sā<lb n="1v15=28"/>māṉyo yan dharmma-setu<unclear>r</unclear> nṛpāṇāṁ</l>
-                    <l n="b">kāle kāle pālanīyo bhavat·bhi<supplied reason="omitted">ḥ</supplied> <g type="danda">.</g></l>
-                    <l n="c">sarvān etā<unclear>nn</unclear> <pb n="2r"/><lb n="2r1=29"/>bhāvinaḥ pā<supplied reason="omitted">r</supplied>tthivendr<choice><sic>a</sic><corr>ā</corr></choice>n ·</l>
-                    <l n="d">bhūyo bhūyo yācate rām acandraḥ <g type="ddanda">.</g></l>
-                    </lg>-->
+                <p>
+                    y-inta Aṭcaram koṭṭiṉavaṉ [...]
+                </p>
                 
             </div>
-            
-            
+                        
             <!--<div type="apparatus">
                 <!-\-apparatus encoded as per EGD §9.1, basic elements for apparatus below-\->
                 
@@ -181,11 +143,9 @@
             
             <div type="translation" resp="part:matr">
                 
-                <p n="1-2">....</p>
-                
+                <p n="1-">...</p>                
                 
                 <!--specify the lines inside the <p> tag, as <p n="1">...</p>  ; when it's the translation of a stanza, <p rend="stanza" n="1"> </p> and the number is in this second type of translation tag is taken from the <lg> number-->
-                
                 
             </div>
             
@@ -194,12 +154,11 @@
             
             <div type="bibliography">
                 
-             <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/52).</p>  
+                <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/52).</p>  
                 
                 <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 75). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
                 
-                <p>This edition is by Margherita Trento (2025), based on EFEO photographs (2015).
-                </p>
+                <p>This edition is by Margherita Trento (2025), based on EFEO photographs (2015).</p>
                 
                 <listBibl type="primary">
                     
@@ -209,14 +168,13 @@
                         <citedRange unit="item">75</citedRange>
                     </bibl>
                     
-                </listBibl>
+                </listBibl>                
                 
-               
-            <listBibl type="secondary">
+                <listBibl type="secondary">
                     <bibl>
-                    <ptr target="bib:ARIE1986-1987"/>
-                    <citedRange unit="page">25</citedRange>
-                    <citedRange unit="item">52</citedRange>
+                        <ptr target="bib:ARIE1986-1987"/>
+                        <citedRange unit="page">25</citedRange>
+                        <citedRange unit="item">52</citedRange>
                     </bibl> 
                 </listBibl> 
                 
