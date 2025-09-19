@@ -5,213 +5,213 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of Kulottuṅga Cōḻa, year 41</title>
-				<respStmt>
-					<resp>EpiDoc Encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Aubervilliers</pubPlace>
-				<idno type="filename">DHARMA_INSTiruvavatuturai20001</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-					    <summary>Land donation, that is, remission of taxes by provision of gold for tax payment obtained from Caṇḍeśvara, by the members of the assembly of Apaiyā<hi rend="grantha">śra</hi>ya-c-catu<hi rend="grantha">rvve</hi>ti-maṅkalam as <foreign>maṭappuṟam</foreign> for the <foreign>maṭha</foreign> named Nāṟppatteṇṇāyiram.</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p/>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-10-14">Creation of the file.</change>
-		</revisionDesc>
-	</teiHeader>
-
-	<text xml:space="preserve">
-
-	<body>
-		
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-            	
-<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-    <lb n="1"/><g type="pc"/> <g type="ddanda"/> svasti śrī
-</ab>
-			
-    <p>
-        kulōttuṅka-cōḻa-tēva<supplied reason="lost">rkku</supplied> yāṇṭu <num value="41">4 <g type="numeral">10</g> 1</num>-Āvatu I<hi rend="grantha">ṣa</hi>pa-nāya<supplied reason="lost">ṟṟu</supplied> <hi rend="grantha">pūrvva</hi>-pa<hi rend="grantha">kṣa</hi>ttu catuṟ<hi rend="grantha">da</hi>ciyum puta<choice><orig>n</orig><reg>ṉ</reg></choice>-kiḻa<supplied reason="lost">mai</supplied>yum peṟṟa pu<supplied reason="lost">ṉar</supplied>pūcatti<reg>ṉ</reg> nāṉṟu
-    </p>
-    <p>
-        Uy<supplied reason="lost">ya-k</supplied>-koṇṭ<unclear>ār</unclear>-vaḷanāṭṭu t<unclear>i</unclear><supplied reason="lost">r</supplied>ai<supplied reason="lost">m<choice><orig>u</orig><reg>ū</reg></choice></supplied>-nāṭṭu Apaiyā<hi rend="grantha">śr<choice><sic>i</sic><corr>a</corr></choice></hi>ya-<supplied reason="lost">c-ca</supplied>tu<hi rend="grantha"><reg>r</reg>vve</hi>ti-maṅkalattu peruṅ-kuṟi-<hi rend="grantha">mahā-sabhai</hi><unclear>y</unclear>ō<unclear>mu</unclear>
-        <gap reason="lost" quantity="10" unit="character" precision="low"/>
-        <unclear>kōyili</unclear>l<unclear>ē</unclear>-k kūṭ<unclear>ṭa</unclear>m kuṟai v-aṟa-<unclear>k</unclear> [ku]<unclear>ṭi</unclear> y-irun=tu Uṭaiyār tiru-<supplied reason="lost">v</supplied>-ā<supplied reason="lost">va</supplied><unclear>ṭu</unclear>tuṟ<unclear>ai</unclear>
-        <gap reason="lost" quantity="4" unit="character" precision="low"/>
-        <supplied reason="lost">mū</supplied>
-        <lb n="2" break="no"/><supplied reason="lost">la</supplied><hi rend="grantha">bhṛtya</hi>r-ākiya Āti-caṇṭē<hi rend="grantha">śva</hi>ra-tēvarkk<choice><orig>i</orig><reg>u</reg></choice> nāṅka<supplied reason="lost">ḷ</supplied>
-        ...
-        <lb n="3"/>...
-        <lb n="4"/>...
-        <lb n="5"/>...
-    </p>
-    <p>
-        ...
-        nāṟppatt-eṇṇāyira-<supplied reason="lost">maṭa</supplied>ttukku maṭa-p-puṟam āka
-        can=tirātittavaṟ Iṟai-y-ili y-āka-k
-        <unclear>ka</unclear>llilum cempilum veṭṭi-k koḷḷa-p peṟuvar āka<unclear>vu</unclear><supplied reason="lost">m</supplied>
-    </p>
     
-    <p>
-        <supplied reason="lost">I</supplied>ṟai-y-ili ceytu kuṭuttōm Uṭaiyār t<supplied reason="lost">iru</supplied>-v-ā<supplied reason="lost">vaṭu-tuṟai</supplied>
-        <lb n="6"/><supplied reason="lost">U</supplied>ṭaiyār m<choice><orig>u</orig><reg>ū</reg></choice>la-bhṛtyar-ākiya Āti-caṇṭēśvara-<unclear>tēvaṟ</unclear>kku <gap reason="lost" quantity="15" unit="character" precision="low"/>
-    </p>
-
-</div>
-	    
-<!--<div type="apparatus">			
-			<listApp>
-				<app loc="line">
-					<lem></lem>
-					<rdg></rdg>
-					<note></note>
-				</app>
-			</listApp>
-</div>-->
-				
-<div type="translation" resp="part:emfr">
-		
-
-    <p n="1">
-        Prosperity! Fortune!
-    </p>
-			
-    <p n="1">
-        41st year of the king Kulottuṅga Cōḻa, day of Puṉarpūcam, which coincides with Wednesday, 14th day, first forthnight, month of Ṛṣabha.
-    </p>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of Kulottuṅga Cōḻa, year 41</title>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Aubervilliers</pubPlace>
+                <idno type="filename">DHARMA_INSTiruvavatuturai20001</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Land donation, that is, remission of taxes by provision of gold for tax payment obtained from Caṇḍeśvara, by the members of the assembly of Apaiyā<hi rend="grantha">śra</hi>ya-c-catu<hi rend="grantha">rvve</hi>ti-maṅkalam as <foreign>maṭappuṟam</foreign> for the <foreign>maṭha</foreign> named Nāṟppatteṇṇāyiram.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-10-14">Creation of the file.</change>
+        </revisionDesc>
+    </teiHeader>
     
-    <p n="1-2">
-        We, the members of the great assembly of Abhaiyāśrayacaturvedimaṅgala, in the Tiraimūrnāṭu, in the Uyyakkoṇṭārvaḷanātu, 
-        sitting in assembly, 
-        ...,
-        in the temple
-        ...,
-        for the god Āti-caṇṭēśvara<note>Sanskrit Ādi-caṇḍeśvara.</note>,
-    	we ... 
-    </p>
-    
-    <p n="2-3">
-    	Whereas <supplied reason="subaudible">the boundaries</supplied> for the land 
-    	...
-    	that we gave are <supplied reason="subaudible">as follows</supplied>:
-    	
-    	<list>			
-            <item>
-                the eastern boundary is to the west of the land ...;
-            </item>
+    <text xml:space="preserve">
+        
+        <body>
             
-            <item>
-                the southern boundary is to the north of the land ...;
-            </item>
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <lb n="1"/><g type="pc"/> <g type="ddanda"/> <hi rend="grantha">svasti śrī</hi>
+                </ab>
+                
+                <p>
+                    kulōttuṅka-cōḻa-tēva<supplied reason="lost">rkku</supplied> yāṇṭu <num value="41">4 <g type="numeral">10</g> 1</num>-Āvatu I<hi rend="grantha">ṣa</hi>pa-nāya<supplied reason="lost">ṟṟu</supplied> <hi rend="grantha">pūrvva</hi>-pa<hi rend="grantha">kṣa</hi>ttu catuṟ<hi rend="grantha">da</hi>ciyum puta<choice><orig>n</orig><reg>ṉ</reg></choice>-kiḻa<supplied reason="lost">mai</supplied>yum peṟṟa pu<supplied reason="lost">ṉar</supplied>pūcatti<reg>ṉ</reg> nāṉṟu
+                </p>
+                <p>
+                    Uy<supplied reason="lost">ya-k</supplied>-koṇṭ<unclear>ār</unclear>-vaḷanāṭṭu t<unclear>i</unclear><supplied reason="lost">r</supplied>ai<supplied reason="lost">m<choice><orig>u</orig><reg>ū</reg></choice></supplied>-nāṭṭu Apaiyā<hi rend="grantha">śr<choice><sic>i</sic><corr>a</corr></choice></hi>ya-<supplied reason="lost">c-ca</supplied>tu<hi rend="grantha"><reg>r</reg>vve</hi>ti-maṅkalattu peruṅ-kuṟi-<hi rend="grantha">mahā-sabhai</hi><unclear>y</unclear>ō<unclear>mu</unclear>
+                    <gap reason="lost" quantity="10" unit="character" precision="low"/>
+                    <unclear>kōyili</unclear>l<unclear>ē</unclear>-k kūṭ<unclear>ṭa</unclear>m kuṟai v-aṟa-<unclear>k</unclear> [ku]<unclear>ṭi</unclear> y-irun=tu Uṭaiyār tiru-<supplied reason="lost">v</supplied>-ā<supplied reason="lost">va</supplied><unclear>ṭu</unclear>tuṟ<unclear>ai</unclear>
+                    <gap reason="lost" quantity="4" unit="character" precision="low"/>
+                    <supplied reason="lost">mū</supplied>
+                    <lb n="2" break="no"/><supplied reason="lost">la</supplied><hi rend="grantha">bhṛtya</hi>r-ākiya Āti-caṇṭē<hi rend="grantha">śva</hi>ra-tēvarkk<choice><orig>i</orig><reg>u</reg></choice> nāṅka<supplied reason="lost">ḷ</supplied>
+                    ...
+                    <lb n="3"/>...
+                    <lb n="4"/>...
+                    <lb n="5"/>...
+                </p>
+                <p>
+                    ...
+                    nāṟppatt-eṇṇāyira-<supplied reason="lost">maṭa</supplied>ttukku maṭa-p-puṟam āka
+                    can=tirātittavaṟ Iṟai-y-ili y-āka-k
+                    <unclear>ka</unclear>llilum cempilum veṭṭi-k koḷḷa-p peṟuvar āka<unclear>vu</unclear><supplied reason="lost">m</supplied>
+                </p>
+                
+                <p>
+                    <supplied reason="lost">I</supplied>ṟai-y-ili ceytu kuṭuttōm Uṭaiyār t<supplied reason="lost">iru</supplied>-v-ā<supplied reason="lost">vaṭu-tuṟai</supplied>
+                    <lb n="6"/><supplied reason="lost">U</supplied>ṭaiyār m<choice><orig>u</orig><reg>ū</reg></choice>la-bhṛtyar-ākiya Āti-caṇṭēśvara-<unclear>tēvaṟ</unclear>kku <gap reason="lost" quantity="15" unit="character" precision="low"/>
+                </p>
+                
+            </div>
             
-            <item>
-                the western boundary is to the east of the land ...;
-            </item>
+            <!--<div type="apparatus">			
+                <listApp>
+                <app loc="line">
+                <lem></lem>
+                <rdg></rdg>
+                <note></note>
+                </app>
+                </listApp>
+                </div>-->
             
-            <item>
-                the northern boundary is to the south of the land ...;
-            </item>
-    	</list>
-    	
-    	the land comprised within these four great boundaries described as such <supplied reason="subaudible">is</supplied> one hundred <foreign>kuḻi</foreign>s.
-    	
-    </p>
-	
-	<p n="3-5">...</p>
-    
-    <p n="5">
-        So that there be a <foreign>maṭappuṟam</foreign> for the <foreign>maṭha</foreign> <supplied reason="subaudible">named</supplied> Nāṟppatteṇṇāyiram<note>See <bibl><ptr target="bib:Karashima+al2010_01"/></bibl> (p. 228): <quote>In Tiruvaduturai and Tiruvisalur inscriptions [fn. 96: ARE 1925–150: Tj, 1112; SII, xxiii–47: Tj, 1200] <foreign>maṭha</foreign>s are named after the 48,000 people, indicating that they were established by the Veḷḷāḷas. In a Tiruvilimilalai inscription [fn. 97: ARE 1908–411: Tj, 1284.] a person, perhaps the <foreign>maṭhapati</foreign>, is called <foreign>nārppateṇṇāyira</foreign> (48,000) <foreign>piḷḷai</foreign>.</quote><!--On the Nāṟppatteṇṇāyiram lineage of <foreign>ācārya</fo>s, see Swamy 1972, p. 118 + probably Swamy 1975, Golaki School--></note> and so that it be tax-free as long as the moon and the sun, they should obtain to engrave <supplied reason="subaudible">this agreement</supplied> on stone and copper.       
-    </p>
-	
-	<p n="5-6">...</p>
-</div>
-				
-<!--<div type="commentary">
-    
-</div>-->
-		
-<div type="bibliography">
-			
-	<p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/150).</p>
-	<p>This edition by Emmanuel Francis (2024), based on photos (EFEO, 2006) and autopsy.</p>	
-	<p>ASI transcript and estampage, if any, yet to be consulted.</p>    
-		
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1924-1925"/>
-			<citedRange unit="page">29</citedRange>
-			<citedRange unit="appendix">B/1925</citedRange>
-			<citedRange unit="item">150</citedRange>
-		</bibl>
-		
-		<bibl>
-			<ptr target="bib:Karashima+al2010_01"/>
-			<citedRange unit="page">228</citedRange>
-		</bibl> 
-		
-	</listBibl>
-</div>
-	</body>
-</text>
+            <div type="translation" resp="part:emfr">
+                
+                
+                <p n="1">
+                    Prosperity! Fortune!
+                </p>
+                
+                <p n="1">
+                    41st year of the king Kulottuṅga Cōḻa, day of Puṉarpūcam, which coincides with Wednesday, 14th day, first forthnight, month of Ṛṣabha.
+                </p>
+                
+                <p n="1-2">
+                    We, the members of the great assembly of Abhaiyāśrayacaturvedimaṅgala, in the Tiraimūrnāṭu, in the Uyyakkoṇṭārvaḷanātu, 
+                    sitting in assembly, 
+                    ...,
+                    in the temple
+                    ...,
+                    for the god Āti-caṇṭēśvara<note>Sanskrit Ādi-caṇḍeśvara.</note>,
+                    we ... 
+                </p>
+                
+                <p n="2-3">
+                    Whereas <supplied reason="subaudible">the boundaries</supplied> for the land 
+                    ...
+                    that we gave are <supplied reason="subaudible">as follows</supplied>:
+                    
+                    <list>			
+                        <item>
+                            the eastern boundary is to the west of the land ...;
+                        </item>
+                        
+                        <item>
+                            the southern boundary is to the north of the land ...;
+                        </item>
+                        
+                        <item>
+                            the western boundary is to the east of the land ...;
+                        </item>
+                        
+                        <item>
+                            the northern boundary is to the south of the land ...;
+                        </item>
+                    </list>
+                    
+                    the land comprised within these four great boundaries described as such <supplied reason="subaudible">is</supplied> one hundred <foreign>kuḻi</foreign>s.
+                    
+                </p>
+                
+                <p n="3-5">...</p>
+                
+                <p n="5">
+                    So that there be a <foreign>maṭappuṟam</foreign> for the <foreign>maṭha</foreign> <supplied reason="subaudible">named</supplied> Nāṟppatteṇṇāyiram<note>See <bibl><ptr target="bib:Karashima+al2010_01"/></bibl> (p. 228): <quote>In Tiruvaduturai and Tiruvisalur inscriptions [fn. 96: ARE 1925–150: Tj, 1112; SII, xxiii–47: Tj, 1200] <foreign>maṭha</foreign>s are named after the 48,000 people, indicating that they were established by the Veḷḷāḷas. In a Tiruvilimilalai inscription [fn. 97: ARE 1908–411: Tj, 1284.] a person, perhaps the <foreign>maṭhapati</foreign>, is called <foreign>nārppateṇṇāyira</foreign> (48,000) <foreign>piḷḷai</foreign>.</quote><!--On the Nāṟppatteṇṇāyiram lineage of <foreign>ācārya</fo>s, see Swamy 1972, p. 118 + probably Swamy 1975, Golaki School--></note> and so that it be tax-free as long as the moon and the sun, they should obtain to engrave <supplied reason="subaudible">this agreement</supplied> on stone and copper.       
+                </p>
+                
+                <p n="5-6">...</p>
+            </div>
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/150).</p>
+                <p>This edition by Emmanuel Francis (2024), based on photos (EFEO, 2006) and autopsy.</p>	
+                <p>ASI transcript and estampage, if any, yet to be consulted.</p>    
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1924-1925"/>
+                        <citedRange unit="page">29</citedRange>
+                        <citedRange unit="appendix">B/1925</citedRange>
+                        <citedRange unit="item">150</citedRange>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:Karashima+al2010_01"/>
+                        <citedRange unit="page">228</citedRange>
+                    </bibl> 
+                    
+                </listBibl>
+            </div>
+        </body>
+    </text>
 </TEI>

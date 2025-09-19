@@ -5,224 +5,224 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of <gap reason="lost"/>, year <gap reason="lost"/></title>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>					
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>EpiDoc Encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Aubervilliers</pubPlace>
-				<idno type="filename">DHARMA_INSTiruvavatuturai10020</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2026 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary></summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
-								nor between <foreign>o</foreign> and <foreign>ō</foreign>. </p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union's Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<!-- UPDATE the link once the release is made official -->
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-10-21">Creation of the file.</change>
-		</revisionDesc>
-	</teiHeader>
-
-	<text xml:space="preserve">
-
-<body>
-
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-     
-    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-        <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">Moulding</label>
-        <lb n="A1=1"/><lb n="1"/><supplied reason="lost">svasti śrī</supplied>
-    </ab>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of <gap reason="lost"/>, year <gap reason="lost"/></title>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>					
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Aubervilliers</pubPlace>
+                <idno type="filename">DHARMA_INSTiruvavatuturai10020</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2026 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary></summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+                                nor between <foreign>o</foreign> and <foreign>ō</foreign>. </p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-10-21">Creation of the file.</change>
+        </revisionDesc>
+    </teiHeader>
     
-    <lg n="1" met="āciriyappā">
-        <l n="1"><supplied reason="lost">tirumaṉṉi vaḷara irunila maṭantaiyum</supplied></l>
-        <l n="2"><supplied reason="lost">pōṟ-ce</supplied>ya-p pāvaiyuñ c<choice><orig>i</orig><reg>ī</reg></choice>r-t taṉi-c celv<unclear>i</unclear>yun=</l>
-        <l n="3">taṉ perun tēv<unclear>i</unclear>yar āki Iṉpuṟa</l>
-        <l n="4">neṭitiyal ūḻ<unclear>i</unclear>yu<unclear>ḷ</unclear> <supplied reason="lost">iṭatuṟai nāṭum</supplied></l>
-        <l n="5"><supplied reason="lost">tuṭarvaṉa vēlip paṭar vaṉavāciyum</supplied></l>
-        <l n="6"><supplied reason="lost">cuḷḷi-c cūḻmatil koḷḷi-p-pākkaiyum</supplied></l>
-        <l n="7"><supplied reason="lost">naṇṇaṟku arumaraṇ maṇṇaik kaṭakka</supplied>mum</l>
-        <l n="8">poru-kaṭal <choice><orig>i</orig><reg>ī</reg></choice>ḻatt’ araiyar ta muṭiyum</l>
-        <l n="9">Āṅkavar tēviyar Ōṅk' eḻil muṭiyum</l>
-        <l n="10">muṉṉavar <unclear>p</unclear>akkal teṉṉavar vaitta</l>
-        <l n="11">cun=taraṉ muṭiyum In=t<choice><sic>ā</sic><corr>i</corr></choice>raṉ āramum</l>
-        <l n="12">teṇ<unclear>t</unclear>irai īḻa maṇṭala<reg>m</reg> mu<lb n="A2=2"/><supplied reason="lost">ḻuvatum</supplied></l>
-        <l n="13"><supplied reason="lost">eṟipaṭai-k kēraḷar muṟaimaiyiṟ cūṭum</supplied></l>
-        <l n="14"><supplied reason="lost">kulataṉam āki</supplied>ya palarpu<unclear>ka</unclear>ḻ muṭiyum</l>
-        <l n="15">ceṅkatir mālaiyum caṅk<choice><sic>e</sic><corr>a</corr></choice>tir v<choice><sic>ai</sic><corr>ē</corr></choice>lai-t</l>
-        <l n="16">tol peruṅkāval pal<unclear>paḻa</unclear>n t<choice><orig>i</orig><reg>ī</reg></choice><supplied reason="lost">vum</supplied></l> 
-    </lg>    
-    
-    <p>
-        <gap reason="lost" extent="unknown" unit="character"/> 
-    </p>
-    
-    <p>
-        <gap reason="lost" extent="unknown" unit="character"/>
-        -<unclear>va</unclear>ḷa<surplus>ku</surplus>ṉāṭṭu-p pērāvūr-ṉā<surplus>ā</surplus>ṭṭ<del rend="strikeout">ār</del><add place="overstrike">u</add> <hi rend="grantha">brahmade</hi>yam pērāvūr sabhaiyōm viṟṟu-k kuṭutta nila-vilai-y-āvaṇam In-nāṭṭu-t tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu tiru-v-āvaṭu-tuṟai Uṭaiyār m<choice><orig>u</orig><reg>ū</reg></choice>la-<hi rend="grantha">bhṛ</hi><surplus>t</surplus><hi rend="grantha">tya</hi>ṉ-āṉa <hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>aṇḍe</hi>
-        <lb n="A3=3" break="no"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">vi</supplied>ṟṟu-k kuṭutta nilattukku
-        <list>
-            <item>
-                k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pāṟk’ ellai kō-nilattukkum Iruṅ-kaṇṭa-nārāyaṇa-daśa-viriya-piṭṭaṉ nilattukku mēṟku<supplied reason="lost">m</supplied>
-            </item>
-            <item><gap reason="lost" extent="unknown" unit="character"/> <lb n="A4=4" break="no"/>kum</item>
-        </list>        
-        Āka
-        Ivv-icaitta peru-nāṅk’ ellaiyuḷum naṭuvupaṭṭa nilam Ulak-aḷan=t-aruḷiṉa paṭi nilam 1 <g type="vēli"/>
-    </p>
-    <p>        
-        In-nilam vēliyum viṟṟu-k kuṭuttu-k koṇṭa vilai-p-poruḷ kācu <num value="40">4 <g type="numeral">10</g></num>
-    </p>
-    <p>
-        Ik-kācu nārpatum In-nilattukku Irai-kāvalukku
-        <lb n="A4=4" break="no"/><gap reason="lost" extent="unknown" unit="character"/> ...
-        Iṟai-y-ili y-āvaṇam āvat’ ākavum
-    </p>
-    <p>
-        Ip-paricu In-nilam vēlikkum Ik-kācu ṉūṟṟu mu-p-patuṅ koṇṭu In-nilam vēlikku Iṟaiyum Eccōṟum veṭṭi vētiṉaiyum...
-        <lb n="A5=5" break="no"/><gap reason="lost" extent="unknown" unit="character"/> ...
-        kuṭuttōm
-        <hi rend="grantha"><choice><orig>ś</orig><reg>c</reg></choice>aṇḍeśva</hi>ra-<hi rend="grantha">de</hi>varkku-p pērāv<choice><orig>u</orig><reg>ū</reg></choice>r <hi rend="grantha">sabhai</hi>yōm
-    </p>
-    <p>
-        ...        
-        <lb n="A6=6" break="no"/><gap reason="lost" extent="unknown" unit="character"/> ...        
-    </p>
-    
-    <p>
-        <gap reason="lost" extent="unknown" unit="character"/>
-        <unclear>nūṟ</unclear>ṟuvapaṭṭaṉē Ivai y-e<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> eḻuttu
-    </p>
-    
-    <p>
-        <list>
-            <item>Ippaṭi Aṟivēṉ pāratāyaṉ caṅkara-nārāyaṇaṉ kaṇavati pitāraṉē</item>
-            <item>Ippaṭi Aṟivēṉ … kaṇavati-y-ēṉ</item>
-            <item>Ippaṭi Aṟivēṉ pāratāyaṉ kaṇavatiyē</item>
-            <item><unclear>Ippaṭi</unclear>
-            <milestone type="pagelike" n="B" unit="zone"/><label xml:lang="eng">Moulding</label>
-            <lb n="B1=7"/><gap reason="lost" extent="unknown" unit="character"/>
-            <unclear>t=ta</unclear><choice><orig>n</orig><reg>ṉ</reg></choice>ē<choice><orig>n</orig><reg>ṉ</reg></choice></item>
-            <item>Ippaṭi Āṟivēṉ <hi rend="grantha">vyāghra</hi>pa<hi rend="grantha"><unclear>da</unclear></hi>-nārāyaṇa<choice><orig>n</orig><reg>ṉ</reg></choice> tatta<choice><orig>n</orig><reg>ṉ</reg></choice>-ēṉ</item>
-            <item>Ippaṭi <gap reason="lost" extent="unknown" unit="character"/></item>
-        </list>
-    </p>    
-    
-</div>	
-	
-<!--<div type="apparatus">
-	
-	<listApp>
-		<app loc="0">
-			<lem></lem>
-			<rdg source="bib:..."></rdg>
-			<note></note>
-		</app>
-				
-	</listApp>
-</div>-->
-	
-<!--<div type="translation" resp="part:emfr">
-	    
-</div>-->	
-	
-<div type="commentary">	
-	
-    <p><bibl><ptr target="bib:ARIE1924-1925"/></bibl> states that this inscription is dated to the 6th year of Parakesarivarman alias Rājēndra-Cōḷa-deva, but the date phrase is not found. However the other details mentioned in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> appears to confirm that this inscription is ARIE/1924-1925/B/1925/109.</p>
-    
-</div>
-	
-<div type="bibliography">
-				
-    <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> as part of ARIE/1924-1925/B/1925/109.</p>	
-    <p>Edited here by Emmanuel Francis, based on photos (E. Francis, 2024).</p>
-    <p>ASI transcript and estampage, if any, yet to be consulted.</p>    
-	
-	<!--<listBibl type="primary">
-		
-		<bibl n="...">
-			<ptr target="bib:..."/>
-			<citedRange unit="page">...</citedRange>
-			<citedRange unit="item">...</citedRange>
-		</bibl>
-		
-	</listBibl>-->
-	
-	<listBibl type="secondary">
-		
-		<bibl n="ARIE">
-			<ptr target="bib:ARIE1924-1925"/>
-			<citedRange unit="page">24</citedRange>
-			<citedRange unit="appendix">B/1925</citedRange>
-			<citedRange unit="item">109</citedRange>
-		</bibl>     		
-		
-	</listBibl>
-</div>
-</body>
-  </text>
+    <text xml:space="preserve">
+        
+        <body>
+            
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">Moulding</label>
+                    <lb n="A1=1"/><lb n="1"/><hi rend="grantha"><supplied reason="lost">svasti śrī</supplied></hi>
+                </ab>
+                
+                <lg n="1" met="āciriyappā">
+                    <l n="1"><supplied reason="lost">tirumaṉṉi vaḷara irunila maṭantaiyum</supplied></l>
+                    <l n="2"><supplied reason="lost">pōṟ-ce</supplied>ya-p pāvaiyuñ c<choice><orig>i</orig><reg>ī</reg></choice>r-t taṉi-c celv<unclear>i</unclear>yun=</l>
+                    <l n="3">taṉ perun tēv<unclear>i</unclear>yar āki Iṉpuṟa</l>
+                    <l n="4">neṭitiyal ūḻ<unclear>i</unclear>yu<unclear>ḷ</unclear> <supplied reason="lost">iṭatuṟai nāṭum</supplied></l>
+                    <l n="5"><supplied reason="lost">tuṭarvaṉa vēlip paṭar vaṉavāciyum</supplied></l>
+                    <l n="6"><supplied reason="lost">cuḷḷi-c cūḻmatil koḷḷi-p-pākkaiyum</supplied></l>
+                    <l n="7"><supplied reason="lost">naṇṇaṟku arumaraṇ maṇṇaik kaṭakka</supplied>mum</l>
+                    <l n="8">poru-kaṭal <choice><orig>i</orig><reg>ī</reg></choice>ḻatt’ araiyar ta muṭiyum</l>
+                    <l n="9">Āṅkavar tēviyar Ōṅk' eḻil muṭiyum</l>
+                    <l n="10">muṉṉavar <unclear>p</unclear>akkal teṉṉavar vaitta</l>
+                    <l n="11">cun=taraṉ muṭiyum In=t<choice><sic>ā</sic><corr>i</corr></choice>raṉ āramum</l>
+                    <l n="12">teṇ<unclear>t</unclear>irai īḻa maṇṭala<reg>m</reg> mu<lb n="A2=2"/><supplied reason="lost">ḻuvatum</supplied></l>
+                    <l n="13"><supplied reason="lost">eṟipaṭai-k kēraḷar muṟaimaiyiṟ cūṭum</supplied></l>
+                    <l n="14"><supplied reason="lost">kulataṉam āki</supplied>ya palarpu<unclear>ka</unclear>ḻ muṭiyum</l>
+                    <l n="15">ceṅkatir mālaiyum caṅk<choice><sic>e</sic><corr>a</corr></choice>tir v<choice><sic>ai</sic><corr>ē</corr></choice>lai-t</l>
+                    <l n="16">tol peruṅkāval pal<unclear>paḻa</unclear>n t<choice><orig>i</orig><reg>ī</reg></choice><supplied reason="lost">vum</supplied></l> 
+                </lg>    
+                
+                <p>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+                </p>
+                
+                <p>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    -<unclear>va</unclear>ḷa<surplus>ku</surplus>ṉāṭṭu-p pērāvūr-ṉā<surplus>ā</surplus>ṭṭ<del rend="strikeout">ār</del><add place="overstrike">u</add> <hi rend="grantha">brahmade</hi>yam pērāvūr sabhaiyōm viṟṟu-k kuṭutta nila-vilai-y-āvaṇam In-nāṭṭu-t tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu tiru-v-āvaṭu-tuṟai Uṭaiyār m<choice><orig>u</orig><reg>ū</reg></choice>la-<hi rend="grantha">bhṛ</hi><surplus>t</surplus><hi rend="grantha">tya</hi>ṉ-āṉa <hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>aṇḍe</hi>
+                    <lb n="A3=3" break="no"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">vi</supplied>ṟṟu-k kuṭutta nilattukku
+                    <list>
+                        <item>
+                            k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pāṟk’ ellai kō-nilattukkum Iruṅ-kaṇṭa-nārāyaṇa-daśa-viriya-piṭṭaṉ nilattukku mēṟku<supplied reason="lost">m</supplied>
+                        </item>
+                        <item><gap reason="lost" extent="unknown" unit="character"/> <lb n="A4=4" break="no"/>kum</item>
+                    </list>        
+                    Āka
+                    Ivv-icaitta peru-nāṅk’ ellaiyuḷum naṭuvupaṭṭa nilam Ulak-aḷan=t-aruḷiṉa paṭi nilam 1 <g type="vēli"/>
+                </p>
+                <p>        
+                    In-nilam vēliyum viṟṟu-k kuṭuttu-k koṇṭa vilai-p-poruḷ kācu <num value="40">4 <g type="numeral">10</g></num>
+                </p>
+                <p>
+                    Ik-kācu nārpatum In-nilattukku Irai-kāvalukku
+                    <lb n="A4=4" break="no"/><gap reason="lost" extent="unknown" unit="character"/> ...
+                    Iṟai-y-ili y-āvaṇam āvat’ ākavum
+                </p>
+                <p>
+                    Ip-paricu In-nilam vēlikkum Ik-kācu ṉūṟṟu mu-p-patuṅ koṇṭu In-nilam vēlikku Iṟaiyum Eccōṟum veṭṭi vētiṉaiyum...
+                    <lb n="A5=5" break="no"/><gap reason="lost" extent="unknown" unit="character"/> ...
+                    kuṭuttōm
+                    <hi rend="grantha"><choice><orig>ś</orig><reg>c</reg></choice>aṇḍeśva</hi>ra-<hi rend="grantha">de</hi>varkku-p pērāv<choice><orig>u</orig><reg>ū</reg></choice>r <hi rend="grantha">sabhai</hi>yōm
+                </p>
+                <p>
+                    ...        
+                    <lb n="A6=6" break="no"/><gap reason="lost" extent="unknown" unit="character"/> ...        
+                </p>
+                
+                <p>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <unclear>nūṟ</unclear>ṟuvapaṭṭaṉē Ivai y-e<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> eḻuttu
+                </p>
+                
+                <p>
+                    <list>
+                        <item>Ippaṭi Aṟivēṉ pāratāyaṉ caṅkara-nārāyaṇaṉ kaṇavati pitāraṉē</item>
+                        <item>Ippaṭi Aṟivēṉ … kaṇavati-y-ēṉ</item>
+                        <item>Ippaṭi Aṟivēṉ pāratāyaṉ kaṇavatiyē</item>
+                        <item><unclear>Ippaṭi</unclear>
+                            <milestone type="pagelike" n="B" unit="zone"/><label xml:lang="eng">Moulding</label>
+                            <lb n="B1=7"/><gap reason="lost" extent="unknown" unit="character"/>
+                            <unclear>t=ta</unclear><choice><orig>n</orig><reg>ṉ</reg></choice>ē<choice><orig>n</orig><reg>ṉ</reg></choice></item>
+                        <item>Ippaṭi Āṟivēṉ <hi rend="grantha">vyāghra</hi>pa<hi rend="grantha"><unclear>da</unclear></hi>-nārāyaṇa<choice><orig>n</orig><reg>ṉ</reg></choice> tatta<choice><orig>n</orig><reg>ṉ</reg></choice>-ēṉ</item>
+                        <item>Ippaṭi <gap reason="lost" extent="unknown" unit="character"/></item>
+                    </list>
+                </p>    
+                
+            </div>	
+            
+            <!--<div type="apparatus">
+                
+                <listApp>
+                <app loc="0">
+                <lem></lem>
+                <rdg source="bib:..."></rdg>
+                <note></note>
+                </app>
+                
+                </listApp>
+                </div>-->
+            
+            <!--<div type="translation" resp="part:emfr">
+                
+                </div>-->	
+            
+            <div type="commentary">	
+                
+                <p><bibl><ptr target="bib:ARIE1924-1925"/></bibl> states that this inscription is dated to the 6th year of Parakesarivarman alias Rājēndra-Cōḷa-deva, but the date phrase is not found. However the other details mentioned in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> appears to confirm that this inscription is ARIE/1924-1925/B/1925/109.</p>
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> as part of ARIE/1924-1925/B/1925/109.</p>	
+                <p>Edited here by Emmanuel Francis, based on photos (E. Francis, 2024).</p>
+                <p>ASI transcript and estampage, if any, yet to be consulted.</p>    
+                
+                <!--<listBibl type="primary">
+                    
+                    <bibl n="...">
+                    <ptr target="bib:..."/>
+                    <citedRange unit="page">...</citedRange>
+                    <citedRange unit="item">...</citedRange>
+                    </bibl>
+                    
+                    </listBibl>-->
+                
+                <listBibl type="secondary">
+                    
+                    <bibl n="ARIE">
+                        <ptr target="bib:ARIE1924-1925"/>
+                        <citedRange unit="page">24</citedRange>
+                        <citedRange unit="appendix">B/1925</citedRange>
+                        <citedRange unit="item">109</citedRange>
+                    </bibl>     		
+                    
+                </listBibl>
+            </div>
+        </body>
+    </text>
 </TEI>

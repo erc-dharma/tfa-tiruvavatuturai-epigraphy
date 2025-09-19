@@ -5,237 +5,237 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-			    <title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of Parakesarivarman Rājendra Cōḻa, year 6</title>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>					
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>EpiDoc Encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Aubervilliers</pubPlace>
-				<idno type="filename">DHARMA_INSTiruvavatuturai10012</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2026 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary></summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
-								nor between <foreign>o</foreign> and <foreign>ō</foreign>. Dental <foreign>n</foreign> regularly found instead of expected alveolar <foreign>ṉ</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union's Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<!-- UPDATE the link once the release is made official -->
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-10-18">Creation of the file.</change>
-		</revisionDesc>
-	</teiHeader>
-
-	<text xml:space="preserve">
-
-<body>
-
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-     
-    <div type="textpart" xml:lang="tam-Latn" rendition="class:tamil maturity:83215" n="A">
-        <head xml:lang="eng">First Part: year 6 of Rājendra</head>
-        <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-        <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">Moulding</label>
-        <lb n="A1=1"/><g type="gomūtra"/> svasti śrī
-    </ab>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of Parakesarivarman Rājendra Cōḻa, year 6</title>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>					
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Aubervilliers</pubPlace>
+                <idno type="filename">DHARMA_INSTiruvavatuturai10012</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2026 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary></summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+                                nor between <foreign>o</foreign> and <foreign>ō</foreign>. Dental <foreign>n</foreign> regularly found instead of expected alveolar <foreign>ṉ</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-10-18">Creation of the file.</change>
+        </revisionDesc>
+    </teiHeader>
     
-    <lg n="1" met="āciriyappā">
-	<l n="1">tiru maṉṉi vaḷara Iru-nila-maṭan=taiyum</l>
-	<l n="2">pōr-c-ceya-p-pāvaiyum c<choice><orig>i</orig><reg>ī</reg></choice><space type="feature"></space>r-t taṉi-c celviyun=</l>
-	<l n="3">taṉ perun tēviyar āki y-iṉpuṟa</l>
-	<l n="4">neṭutiyal ūḻiyuḷ Iṭaituṟai-nāṭun=</l>
-	<l n="5">tuṭarvaṉa vēli-p paṭar vaṉavā<hi rend="grantha">si</hi>yuñ</l>
-    	<l n="6">cuḷḷi-c cūḻ-mati-ṭ koḷḷi-p-pā<unclear>k</unclear>kaiyu<reg>m</reg></l>
-    	<l n="7">naṇṇaṟk’ arumaraṇ maṇṇai-k kaṭakkamum</l>
-    	<l n="8">poru-kaṭal <choice><orig>i</orig><reg>ī</reg></choice>ḻatt’ ariya<supplied reason="omitted">r</supplied> tam muṭiyum</l>
-    	<l n="9">Āṅkavar tēviyar Ōṅkeḻil muṭiyum</l>
-    	<l n="10">mu<choice><orig>n</orig><reg>ṉ</reg></choice>ṉavar pakkaṟ ṟeṉṉavar vaiytta</l>
-    	<l n="11">cun=taraṉ muṭiyum In=tiraṉ āramun</l>
-    	<l n="12">teṇtirai Īḻa-maṇṭala-muḻu<supplied reason="omitted">va</supplied>tum</l>
-    	<l n="13">Eṟipaṭai-k <lb n="A2=2"/> kēralaṉ muṟaimaiyiṟ cūṭuṅ</l>
-    	<l n="14">...</l>
-    	<l n="15">...</l>
-    	<l n="16">...</l>
-    	<l n="17">mā-p-poru taṇṭāṟ koṇṭa</l>
-    </lg>
-    	
-    	<p>
-    		kō-p-parakē<hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">nma</hi>r-āṉa <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jendra</hi>-cōḻa-<hi rend="grantha">de</hi>varkku yāṇṭu 6-Āvatu
-    	</p>
-    	
-    	<p>
-    		Uyya-k-ko<supplied reason="omitted">ṇ</supplied>ṭār-vaḷanāṭṭu-t
-    		...
-    		<lb n="A3=3"/>...
-    		
-    		<milestone type="pagelike" n="B" unit="zone"/><label xml:lang="eng">Moulding</label>
-    		<lb n="B1=4"/>...
-    		<lb n="B2=5"/>...
-    		<lb n="B3=6"/>...
-    		<milestone type="pagelike" n="C" unit="zone"/><label xml:lang="eng">Moulding</label>
-    		<lb n="C1=7"/>...
-    		<lb n="C2=8"/>...
-    		kuppaiyēṉ <g type="gomūtra">.</g>
-    </p>
-    </div>
-    
-    <div type="textpart" xml:lang="tam-Latn" rendition="class:tamil maturity:83215" n="B">
-		<head xml:lang="eng">Second Part: year 5 of ...</head>
-        <p>
-            <gap reason="illegible"/>
-        	<hi rend="grantha">de</hi>varkkē yāṇṭu 5-Āvatu Uyya-k-koṇṭār-vaḷanāṭṭu-t tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu
-        	<lb n="C3=9"/>...
-            <lb n="C4=10"/>...
-            <lb n="C5=11"/>...
-            <list>
-                <item><lb n="C6=12"/><unclear>I</unclear>ppaṭi Āṟivēṉ niṉṟāṉ muvāyiravēṉ</item>
-                <item>Ippaṭi Āṟivēṉ kāṟaṉūr ki<lb n="C7=13" break="no"/>ḻava<choice><orig>n</orig><reg>ṉ</reg></choice> ...</item></list></p>
-        <p>
-            Itu pa<hi rend="grantha">nmaheśva</hi>ra-ra<hi rend="grantha">kṣai</hi>
-        </p>
-    </div>
-    
-		
-</div>	
-	
-<!--<div type="apparatus">
-	
-	<listApp>
-		<app loc="0">
-			<lem></lem>
-			<rdg source="bib:..."></rdg>
-			<note></note>
-		</app>
-				
-	</listApp>
-</div>-->
-	
-<div type="translation" resp="part:emfr">
-    
-    <div type="textpart" n="A">      
-        <head xml:lang="eng">First Part: year 6 of Rājendra</head>
+    <text xml:space="preserve">
         
-        <p n="1">Prosperity! Fortune!</p>
-        
-        <p n="2">
-            6th year of the glorious king Rājendra Cōḻa alias the king Parakesarivarman
-        </p>
-        
-        <p n="1-2">
-            who took ... [<foreign>meykkīrtti</foreign> of Rājendra I Cōḻa].
-        </p>
-        
-        <p>...</p>
-        
-    </div>
-    
-    <div type="textpart" n="B">      
-        <head xml:lang="eng">Second Part: year 5 of ...</head>
-        
-        <p n="8">
-            5th year of the  king ...
-        </p>
+        <body>
+            
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <div type="textpart" xml:lang="tam-Latn" rendition="class:tamil maturity:83215" n="A">
+                    <head xml:lang="eng">First Part: year 6 of Rājendra</head>
+                    <ab>
+                        <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">Moulding</label>
+                        <lb n="A1=1"/><g type="gomūtra"/> <hi rend="grantha">svasti śrī</hi>
+                    </ab>
+                    
+                    <lg n="1" met="āciriyappā">
+                        <l n="1">tiru maṉṉi vaḷara Iru-nila-maṭan=taiyum</l>
+                        <l n="2">pōr-c-ceya-p-pāvaiyum c<choice><orig>i</orig><reg>ī</reg></choice><space type="feature"></space>r-t taṉi-c celviyun=</l>
+                        <l n="3">taṉ perun tēviyar āki y-iṉpuṟa</l>
+                        <l n="4">neṭutiyal ūḻiyuḷ Iṭaituṟai-nāṭun=</l>
+                        <l n="5">tuṭarvaṉa vēli-p paṭar vaṉavā<hi rend="grantha">si</hi>yuñ</l>
+                        <l n="6">cuḷḷi-c cūḻ-mati-ṭ koḷḷi-p-pā<unclear>k</unclear>kaiyu<reg>m</reg></l>
+                        <l n="7">naṇṇaṟk’ arumaraṇ maṇṇai-k kaṭakkamum</l>
+                        <l n="8">poru-kaṭal <choice><orig>i</orig><reg>ī</reg></choice>ḻatt’ ariya<supplied reason="omitted">r</supplied> tam muṭiyum</l>
+                        <l n="9">Āṅkavar tēviyar Ōṅkeḻil muṭiyum</l>
+                        <l n="10">mu<choice><orig>n</orig><reg>ṉ</reg></choice>ṉavar pakkaṟ ṟeṉṉavar vaiytta</l>
+                        <l n="11">cun=taraṉ muṭiyum In=tiraṉ āramun</l>
+                        <l n="12">teṇtirai Īḻa-maṇṭala-muḻu<supplied reason="omitted">va</supplied>tum</l>
+                        <l n="13">Eṟipaṭai-k <lb n="A2=2"/> kēralaṉ muṟaimaiyiṟ cūṭuṅ</l>
+                        <l n="14">...</l>
+                        <l n="15">...</l>
+                        <l n="16">...</l>
+                        <l n="17">mā-p-poru taṇṭāṟ koṇṭa</l>
+                    </lg>
+                    
+                    <p>
+                        kō-p-parakē<hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">nma</hi>r-āṉa <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jendra</hi>-cōḻa-<hi rend="grantha">de</hi>varkku yāṇṭu 6-Āvatu
+                    </p>
+                    
+                    <p>
+                        Uyya-k-ko<supplied reason="omitted">ṇ</supplied>ṭār-vaḷanāṭṭu-t
+                        ...
+                        <lb n="A3=3"/>...
                         
-        <p>...</p>
-        
-        <p n="13">This <supplied reason="subaudible">is under</supplied> the protection of the many great devotees of Īśvara.<note>That is, Śiva.</note></p>
-        
-    </div>
-    
-</div>	
-	
-<!--<div type="commentary">	
-	
-</div>-->
-	
-<div type="bibliography">
-				
-    <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/102).</p>	
-    <p>Edited here by Emmanuel Francis, based on photos (E. Francis, 2024).</p>
-    <p>ASI transcript and estampage, if any, yet to be consulted.</p>    
-	
-	<!--<listBibl type="primary">
-		
-		<bibl n="...">
-			<ptr target="bib:..."/>
-			<citedRange unit="page">...</citedRange>
-			<citedRange unit="item">...</citedRange>
-		</bibl>
-		
-	</listBibl>-->
-	
-	<listBibl type="secondary">
-		
-		<bibl n="ARIE">
-			<ptr target="bib:ARIE1924-1925"/>
-			<citedRange unit="page">23</citedRange>
-			<citedRange unit="appendix">B/1925</citedRange>
-			<citedRange unit="item">102</citedRange>
-		</bibl>     		
-		
-	</listBibl>
-</div>
-</body>
-  </text>
+                        <milestone type="pagelike" n="B" unit="zone"/><label xml:lang="eng">Moulding</label>
+                        <lb n="B1=4"/>...
+                        <lb n="B2=5"/>...
+                        <lb n="B3=6"/>...
+                        <milestone type="pagelike" n="C" unit="zone"/><label xml:lang="eng">Moulding</label>
+                        <lb n="C1=7"/>...
+                        <lb n="C2=8"/>...
+                        kuppaiyēṉ <g type="gomūtra">.</g>
+                    </p>
+                </div>
+                
+                <div type="textpart" xml:lang="tam-Latn" rendition="class:tamil maturity:83215" n="B">
+                    <head xml:lang="eng">Second Part: year 5 of ...</head>
+                    <p>
+                        <gap reason="illegible"/>
+                        <hi rend="grantha">de</hi>varkkē yāṇṭu 5-Āvatu Uyya-k-koṇṭār-vaḷanāṭṭu-t tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu
+                        <lb n="C3=9"/>...
+                        <lb n="C4=10"/>...
+                        <lb n="C5=11"/>...
+                        <list>
+                            <item><lb n="C6=12"/><unclear>I</unclear>ppaṭi Āṟivēṉ niṉṟāṉ muvāyiravēṉ</item>
+                            <item>Ippaṭi Āṟivēṉ kāṟaṉūr ki<lb n="C7=13" break="no"/>ḻava<choice><orig>n</orig><reg>ṉ</reg></choice> ...</item></list></p>
+                    <p>
+                        Itu pa<hi rend="grantha">nmaheśva</hi>ra-ra<hi rend="grantha">kṣai</hi>
+                    </p>
+                </div>
+                
+                
+            </div>	
+            
+            <!--<div type="apparatus">
+                
+                <listApp>
+                <app loc="0">
+                <lem></lem>
+                <rdg source="bib:..."></rdg>
+                <note></note>
+                </app>
+                
+                </listApp>
+                </div>-->
+            
+            <div type="translation" resp="part:emfr">
+                
+                <div type="textpart" n="A">      
+                    <head xml:lang="eng">First Part: year 6 of Rājendra</head>
+                    
+                    <p n="1">Prosperity! Fortune!</p>
+                    
+                    <p n="2">
+                        6th year of the glorious king Rājendra Cōḻa alias the king Parakesarivarman
+                    </p>
+                    
+                    <p n="1-2">
+                        who took ... [<foreign>meykkīrtti</foreign> of Rājendra I Cōḻa].
+                    </p>
+                    
+                    <p>...</p>
+                    
+                </div>
+                
+                <div type="textpart" n="B">      
+                    <head xml:lang="eng">Second Part: year 5 of ...</head>
+                    
+                    <p n="8">
+                        5th year of the  king ...
+                    </p>
+                    
+                    <p>...</p>
+                    
+                    <p n="13">This <supplied reason="subaudible">is under</supplied> the protection of the many great devotees of Īśvara.<note>That is, Śiva.</note></p>
+                    
+                </div>
+                
+            </div>	
+            
+            <!--<div type="commentary">	
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/102).</p>	
+                <p>Edited here by Emmanuel Francis, based on photos (E. Francis, 2024).</p>
+                <p>ASI transcript and estampage, if any, yet to be consulted.</p>    
+                
+                <!--<listBibl type="primary">
+                    
+                    <bibl n="...">
+                    <ptr target="bib:..."/>
+                    <citedRange unit="page">...</citedRange>
+                    <citedRange unit="item">...</citedRange>
+                    </bibl>
+                    
+                    </listBibl>-->
+                
+                <listBibl type="secondary">
+                    
+                    <bibl n="ARIE">
+                        <ptr target="bib:ARIE1924-1925"/>
+                        <citedRange unit="page">23</citedRange>
+                        <citedRange unit="appendix">B/1925</citedRange>
+                        <citedRange unit="item">102</citedRange>
+                    </bibl>     		
+                    
+                </listBibl>
+            </div>
+        </body>
+    </text>
 </TEI>

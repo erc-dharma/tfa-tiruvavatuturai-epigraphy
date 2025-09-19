@@ -5,208 +5,208 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Tiruvāvaṭutuṟai, Gomuktīśvara, Caṇḍeśa shrine, time of <gap reason="lost"/>, year <gap reason="lost"/></title>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>					
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>EpiDoc Encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Aubervilliers</pubPlace>
-				<idno type="filename">DHARMA_INSTiruvavatuturai10005</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2026 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-					    <summary>Land donation, that is, remission of taxes by provision of gold for tax payment, by Kaṅkai Koṇṭa Cōḻa Anantapālar <hi rend="italic">alias</hi> Caṅkaraṉ Civa-lōka-nāyakaṉ, as <foreign>maṭappuṟam</foreign>, for feeding devotees who come worshipping, during Puraṭṭāṭi festival time, in the <foreign>matḥa</foreign> named after Civa-lōka-nāyakaṉ. Approved by the members of the great assembly of Ākōmallaṉai-iru-muṭi-meṉ-koṇṭa-cōḻa-c-caruppēti-maṅkalam.</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
-								nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union's Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<!-- UPDATE the link once the release is made official -->
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-10-06">Creation of the file.</change>
-		</revisionDesc>
-	</teiHeader>
-
-	<text xml:space="preserve">
-
-<body>
-
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-            	
-    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-        <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">First Wall Portion</label>
-        <lb n="A1=1"/><unclear><g type="pc"/> <g type="danda"/></unclear> svasti śrī
-    </ab>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tiruvāvaṭutuṟai, Gomuktīśvara, Caṇḍeśa shrine, time of <gap reason="lost"/>, year <gap reason="lost"/></title>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>					
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Aubervilliers</pubPlace>
+                <idno type="filename">DHARMA_INSTiruvavatuturai10005</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2026 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Land donation, that is, remission of taxes by provision of gold for tax payment, by Kaṅkai Koṇṭa Cōḻa Anantapālar <hi rend="italic">alias</hi> Caṅkaraṉ Civa-lōka-nāyakaṉ, as <foreign>maṭappuṟam</foreign>, for feeding devotees who come worshipping, during Puraṭṭāṭi festival time, in the <foreign>matḥa</foreign> named after Civa-lōka-nāyakaṉ. Approved by the members of the great assembly of Ākōmallaṉai-iru-muṭi-meṉ-koṇṭa-cōḻa-c-caruppēti-maṅkalam.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+                                nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-10-06">Creation of the file.</change>
+        </revisionDesc>
+    </teiHeader>
     
-    <lg n="1" met="āciriyappā">
-        <l n="1">pū-<lb n="A2=2" break="no"/>mālai miṭain=t<unclear>u</unclear> <lb n="A3=3"/>poṉ-mālai tika<lb n="A4=4" break="no"/>ḻ <supplied reason="omitted">tara</supplied>-p</l>
-        <l n="2">pā-mālai ma<supplied reason="lost">li</supplied><lb n="A5=5" break="no"/>n=ta paru-maṇi-t tiraḷ-pu<unclear>ya</unclear><choice><orig>ṟṟ</orig><reg>tt</reg></choice>’</l>
-        <l n="3">iru<lb n="A6=6" break="no"/>-ni<supplied reason="lost">la</supplied>-<unclear>ma</unclear>ṭan=taiyoṭu jaya-ma<lb n="A7=7" break="no"/><unclear>kaḷ i</unclear>ru<unclear>ppa</unclear></l>
+    <text xml:space="preserve">
         
-        <l n="4">... <lb n="A8-27=8-27"/> ...</l>
-        
-        <l n="75"><lb n="A28=28"/>...</l>
-    </lg>
-    
-    <p>
-        <milestone type="pagelike" n="B" unit="zone"/><label xml:lang="eng">Second Wall Portion</label>
-        <lb n="B1=29"/><unclear>maka</unclear>ra-nā<choice><orig>yy</orig><reg>y</reg></choice>aṟṟu Apa<unclear>ra</unclear>
-        <lb n="B2=30" break="no"/><hi rend="grantha"><unclear>pakṣa</unclear></hi>ttu <supplied reason="lost"><hi rend="grantha">dv</hi></supplied><hi rend="grantha">āda</hi>ciyum p<supplied reason="lost">u</supplied>
-        <lb n="B3=31" break="no"/>taṉ-kiḻamaiyum pe
-        <lb n="B4=32" break="no"/><unclear>ṟṟa</unclear> U<supplied reason="lost">t</supplied>tiraṭṭā<unclear>ti nāḷ viru</unclear>
-        <lb n="B5=33" break="no"/>ta-<hi rend="grantha">rā</hi><hi rend="grantha"><unclear>ja-bha</unclear></hi><unclear>ya</unclear>ṅkara-vaḷanāṭṭu ...
-        <lb n="B6=34"/>...
-        <lb n="B7=35"/>...
-        <lb n="B8=36"/>cōḻa-c-caruppētimaṅkalattu <supplied reason="lost">ma</supplied><hi rend="grantha">hā</hi>
-        <lb n="B9=37" break="no"/><hi rend="grantha"><supplied reason="omitted">sa</supplied>bhai</hi>yōm ...
-        <lb n="B10-26=10-26"/>
-        <lb n="B27=55"/>...
-        
-        <milestone type="pagelike" n="C" unit="zone"/><label xml:lang="eng">Third Wall Portion</label>
-        <lb n="C1=56"/>...
-        <lb n="C2-25=57-80"/>...
-        <lb n="C26=81"/>... koṇṭa
-        
-        <milestone type="pagelike" n="D" unit="zone"/><label xml:lang="eng">Fourth Wall Portion</label>
-        <lb n="D1=82"/>cōḻa-Aṉan=ta-pālar
-        <lb n="D2=83"/><supplied reason="lost">U</supplied>ṭaiyār tiruvāva<supplied reason="lost">ṭu</supplied>
-        <lb n="D3=84" break="no"/>tuṟai Uṭaiyār tiru
-        <lb n="D4=85" break="no"/>-matai-viḷākattu ce
-        <lb n="D5=86" break="no"/>yvikkiṟa civa-lō<supplied reason="lost">ka</supplied>-<unclear>n</unclear>
-        <lb n="D6=87" break="no"/><supplied reason="lost">ā</supplied>yakaṉ maṭattukku ...
-        <lb n="D7-26=88-108"/>
-        
-        <milestone type="pagelike" n="E" unit="zone"/><label xml:lang="eng">Fifth Wall Portion</label>
-        <lb n="E1=109"/>...
-        <lb n="E2-21=110-129"/>...
-        <lb n="E22=130"/><gap reason="lost" quantity="15" unit="character" precision="low"/> Ippaṭ<unclear>i</unclear> <gap reason="lost" unit="character" extent="unknown"/>
-    </p>
-		
-</div>	
-	
-<!--<div type="apparatus">
-	
-	<listApp>
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:ARIE1924-1925">...</rdg>
-			<note><ptr target="bib:ARIE1924-1925"/>...</note>
-		</app>
-	</listApp>
-</div>-->
-	
-	
-<div type="translation" resp="part:emfr">
-	
-    <p n="1">Prosperity! Fortune!</p>
-    
-    <p n="29">On the day of <foreign>Uttiraṭṭāti</foreign>,<note>That is, the 26th <foreign>nakṣatra</foreign>.</note> which coincides with a Wednesday, twelfth day, second forthnight, month of Makaram, ...</p>
-	
-	<p n="33">We, the members of the great assembly of ... cōḻa-c-caruppēti-maṅkalam alias Mēṟkiḷimaṅkalam, in ..., in Virutarājabhayaṅkaravaḷanāṭu, ...</p>
-	<p>...</p>
-    
-    <p n="81-85">
-        ...
-        for the <foreign>maṭha</foreign> <supplied reason="subaudible">named after</supplied> Civalōkanāyakaṉ, that <supplied reason="lost">Kaṅkai</supplied> Koṇṭa Cōḻa Ananta Pālar <hi rend="italic">alias</hi> Civalōkanāyakaṉ had made in the  premises of the glorious temple <supplied reason="explanation"><foreign>tiru-maṭai-viḷākam</foreign></supplied> of the Lord, the Lord of Tiruvāṭuturai ...
-    </p>
-	
-	<p>...</p>
-	
-</div>
-	
-	
-<!--<div type="commentary">	
-	
-</div>-->
-	
-<div type="bibliography">
-				
-    <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/149).</p>	
-    <p>Edited here by Emmanuel Francis, based on photos (<ref target="https://didomena.ehess.fr/concern/data_sets/2514nv93h">E. Francis, 2024</ref>).</p>
-    <p>ASI transcript and estampage, if any, yet to be consulted.</p>
-    
-	
-	<!--<listBibl type="primary">
-		
-		<bibl n="...">
-			<ptr target="bib:..."/>
-			<citedRange unit="page">...</citedRange>
-			<citedRange unit="item">...</citedRange>
-		</bibl>
-		
-	</listBibl>-->
-	
-	<listBibl type="secondary">
-		
-		<bibl n="ARIE">
-			<ptr target="bib:ARIE1924-1925"/>
-			<citedRange unit="page">29</citedRange>
-			<citedRange unit="appendix">B/1925</citedRange>
-			<citedRange unit="item">149</citedRange>
-		</bibl>     		
-		
-	</listBibl>
-</div>
-</body>
-  </text>
+        <body>
+            
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">First Wall Portion</label>
+                    <lb n="A1=1"/><unclear><g type="pc"/> <g type="danda"/></unclear> <hi rend="grantha">svasti śrī</hi>
+                </ab>
+                
+                <lg n="1" met="āciriyappā">
+                    <l n="1">pū-<lb n="A2=2" break="no"/>mālai miṭain=t<unclear>u</unclear> <lb n="A3=3"/>poṉ-mālai tika<lb n="A4=4" break="no"/>ḻ <supplied reason="omitted">tara</supplied>-p</l>
+                    <l n="2">pā-mālai ma<supplied reason="lost">li</supplied><lb n="A5=5" break="no"/>n=ta paru-maṇi-t tiraḷ-pu<unclear>ya</unclear><choice><orig>ṟṟ</orig><reg>tt</reg></choice>’</l>
+                    <l n="3">iru<lb n="A6=6" break="no"/>-ni<supplied reason="lost">la</supplied>-<unclear>ma</unclear>ṭan=taiyoṭu jaya-ma<lb n="A7=7" break="no"/><unclear>kaḷ i</unclear>ru<unclear>ppa</unclear></l>
+                    
+                    <l n="4">... <lb n="A8-27=8-27"/> ...</l>
+                    
+                    <l n="75"><lb n="A28=28"/>...</l>
+                </lg>
+                
+                <p>
+                    <milestone type="pagelike" n="B" unit="zone"/><label xml:lang="eng">Second Wall Portion</label>
+                    <lb n="B1=29"/><unclear>maka</unclear>ra-nā<choice><orig>yy</orig><reg>y</reg></choice>aṟṟu Apa<unclear>ra</unclear>
+                    <lb n="B2=30" break="no"/><hi rend="grantha"><unclear>pakṣa</unclear></hi>ttu <supplied reason="lost"><hi rend="grantha">dv</hi></supplied><hi rend="grantha">āda</hi>ciyum p<supplied reason="lost">u</supplied>
+                    <lb n="B3=31" break="no"/>taṉ-kiḻamaiyum pe
+                    <lb n="B4=32" break="no"/><unclear>ṟṟa</unclear> U<supplied reason="lost">t</supplied>tiraṭṭā<unclear>ti nāḷ viru</unclear>
+                    <lb n="B5=33" break="no"/>ta-<hi rend="grantha">rā</hi><hi rend="grantha"><unclear>ja-bha</unclear></hi><unclear>ya</unclear>ṅkara-vaḷanāṭṭu ...
+                    <lb n="B6=34"/>...
+                    <lb n="B7=35"/>...
+                    <lb n="B8=36"/>cōḻa-c-caruppētimaṅkalattu <supplied reason="lost">ma</supplied><hi rend="grantha">hā</hi>
+                    <lb n="B9=37" break="no"/><hi rend="grantha"><supplied reason="omitted">sa</supplied>bhai</hi>yōm ...
+                    <lb n="B10-26=10-26"/>
+                    <lb n="B27=55"/>...
+                    
+                    <milestone type="pagelike" n="C" unit="zone"/><label xml:lang="eng">Third Wall Portion</label>
+                    <lb n="C1=56"/>...
+                    <lb n="C2-25=57-80"/>...
+                    <lb n="C26=81"/>... koṇṭa
+                    
+                    <milestone type="pagelike" n="D" unit="zone"/><label xml:lang="eng">Fourth Wall Portion</label>
+                    <lb n="D1=82"/>cōḻa-Aṉan=ta-pālar
+                    <lb n="D2=83"/><supplied reason="lost">U</supplied>ṭaiyār tiruvāva<supplied reason="lost">ṭu</supplied>
+                    <lb n="D3=84" break="no"/>tuṟai Uṭaiyār tiru
+                    <lb n="D4=85" break="no"/>-matai-viḷākattu ce
+                    <lb n="D5=86" break="no"/>yvikkiṟa civa-lō<supplied reason="lost">ka</supplied>-<unclear>n</unclear>
+                    <lb n="D6=87" break="no"/><supplied reason="lost">ā</supplied>yakaṉ maṭattukku ...
+                    <lb n="D7-26=88-108"/>
+                    
+                    <milestone type="pagelike" n="E" unit="zone"/><label xml:lang="eng">Fifth Wall Portion</label>
+                    <lb n="E1=109"/>...
+                    <lb n="E2-21=110-129"/>...
+                    <lb n="E22=130"/><gap reason="lost" quantity="15" unit="character" precision="low"/> Ippaṭ<unclear>i</unclear> <gap reason="lost" unit="character" extent="unknown"/>
+                </p>
+                
+            </div>	
+            
+            <!--<div type="apparatus">
+                
+                <listApp>
+                <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:ARIE1924-1925">...</rdg>
+                <note><ptr target="bib:ARIE1924-1925"/>...</note>
+                </app>
+                </listApp>
+                </div>-->
+            
+            
+            <div type="translation" resp="part:emfr">
+                
+                <p n="1">Prosperity! Fortune!</p>
+                
+                <p n="29">On the day of <foreign>Uttiraṭṭāti</foreign>,<note>That is, the 26th <foreign>nakṣatra</foreign>.</note> which coincides with a Wednesday, twelfth day, second forthnight, month of Makaram, ...</p>
+                
+                <p n="33">We, the members of the great assembly of ... cōḻa-c-caruppēti-maṅkalam alias Mēṟkiḷimaṅkalam, in ..., in Virutarājabhayaṅkaravaḷanāṭu, ...</p>
+                <p>...</p>
+                
+                <p n="81-85">
+                    ...
+                    for the <foreign>maṭha</foreign> <supplied reason="subaudible">named after</supplied> Civalōkanāyakaṉ, that <supplied reason="lost">Kaṅkai</supplied> Koṇṭa Cōḻa Ananta Pālar <hi rend="italic">alias</hi> Civalōkanāyakaṉ had made in the  premises of the glorious temple <supplied reason="explanation"><foreign>tiru-maṭai-viḷākam</foreign></supplied> of the Lord, the Lord of Tiruvāṭuturai ...
+                </p>
+                
+                <p>...</p>
+                
+            </div>
+            
+            
+            <!--<div type="commentary">	
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/149).</p>	
+                <p>Edited here by Emmanuel Francis, based on photos (<ref target="https://didomena.ehess.fr/concern/data_sets/2514nv93h">E. Francis, 2024</ref>).</p>
+                <p>ASI transcript and estampage, if any, yet to be consulted.</p>
+                
+                
+                <!--<listBibl type="primary">
+                    
+                    <bibl n="...">
+                    <ptr target="bib:..."/>
+                    <citedRange unit="page">...</citedRange>
+                    <citedRange unit="item">...</citedRange>
+                    </bibl>
+                    
+                    </listBibl>-->
+                
+                <listBibl type="secondary">
+                    
+                    <bibl n="ARIE">
+                        <ptr target="bib:ARIE1924-1925"/>
+                        <citedRange unit="page">29</citedRange>
+                        <citedRange unit="appendix">B/1925</citedRange>
+                        <citedRange unit="item">149</citedRange>
+                    </bibl>     		
+                    
+                </listBibl>
+            </div>
+        </body>
+    </text>
 </TEI>
