@@ -8,21 +8,21 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of Parāntaka I, year 7</title>
+                <title>Tiruvāvaṭutuṟai, Gomuktīṡvara, time of Parāntaka I, year 2</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
                     </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_INSTiruvavatuturai10022</idno>
+                <idno type="filename">DHARMA_INSTiruvavatuturai10023</idno>
                 <availability>
-                    <licence target="https://creativec/ommons.org/licenses/by/4.0/">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
                             Licence. To view a copy of the licence, visit
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
@@ -41,7 +41,7 @@
                     </msIdentifier>
                     <msContents>
                         <summary>
-                            Sale of two <foreign>mā</foreign>s and odd for 15 <foreign>kācu</foreign> made by the <foreign>sabhai</foreign> of Cattaṉūr to Omāci Oṟṟiyūraṉ Kūttaṉ. 
+                            Sale of 4 <foreign>mā</foreign> of tax-free land <supplied reason="explanation"><foreign>iṟaiyiḻi</foreign></supplied> by the <foreign>sabhai</foreign> of Cāttaṉūr for the maintenance of a coconut garden <supplied reason="explanation"><foreign>teṅku-nantavāṉam</foreign></supplied> and a flower garden <supplied reason="explanation"><foreign>pū-nandavāṉam</foreign></supplied> to the Māhadeva at Tiruvāvaṭutuṟai.
                         </summary>
                     </msContents>
                     <physDesc>
@@ -86,30 +86,27 @@
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 
+                <p>
+                    kō-p-parakē<hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">ṉma</hi>ṟku 2 yāṇṭu Āvatu</p>
                 
                 <p>
-                    <gap reason="lost" quantity="3" unit="character"/> kō-p-parakē<hi rend="grantha">sa</hi>ri-<hi rend="grantha">panma</hi>ṟku yāṇṭu <hi rend="grantha">7</hi>-Āvatu
+                    teṉkarai-t tiraim<choice><sic>u</sic><corr>ū</corr></choice>r-nāṭṭu <hi rend="grantha">brahma</hi>tēyam cāttuṉūr <hi rend="grantha">sabhai</hi>yōm
                 </p>
+                
                 <p>
-                    teṉkarai-t tiraim<choice><sic>u</sic><corr>ū</corr></choice>r-nāṭṭu <hi rend="grantha">brahma-de</hi>yañ cāttūr <hi rend="grantha">sabhai</hi>yōm 
+                    tiruvāvaṭutuṟai <hi rend="grantha">mahāde</hi>vaṟku Āyiravaṉāḷ teṅku-nan=tavāṉañ ceyta Ātittapa<hi rend="grantha">ṉma</hi>-t-terin=ta kaikkōḷaril caṅkayaṉoṟṟikku
+                    <lb n="2"/>Eṅkaḷ<choice><sic>u</sic><corr>ū</corr></choice>r miṟṟalaṅkuṭi eṅkaḷ potunilam-āṉa nālmā-c ce<supplied reason="omitted">y</supplied>yum <hi rend="grantha">cantrā</hi>tittavaṟ ni<supplied reason="lost">ṟ</supplied>kka iṟaiyiḻicci viṟṟu-k-kuṭutta nilattukk' ellai Uṭciṟuvāykkālukku me<supplied reason="lost">ṟ</supplied>kkum kāmakkāṇi kumaraṉaṅki nilattukku <unclear>vaṭa</unclear> <gap reason="lost" quantity="6" unit="character"/>
+                    <lb n="3" break="no"/>m pāratāyaṉ nāraṇanaṅki nilattukku teṟkum Iv-v-icaitta I-ṉ-ṉāṉkellaiyilum akap<supplied reason="lost">pa</supplied>ṭṭa nila<supplied reason="lost">m</supplied> nantavāṉappuṟam āka viṟṟukkuṭuttōm <hi rend="grantha">sabhai</hi>yōm 
                 </p>
+                
                 <p>
-                    Ivvūr <hi rend="grantha">śrī</hi>-tiruvāvaṭutuṟai <hi rend="grantha">mahāde</hi>var<hi rend="grantha">kk</hi>u <hi rend="grantha">utta</hi>rā<unclear>ya</unclear>na-<hi rend="grantha">saṅkrānti</hi>kku <hi rend="grantha">snapa</hi>nañ ceyya mūṉṟu kācu {unknown} nūṟṟ-eṭṭu-k kalacattukku-k kiḷiyūr-nāṭṭu <hi rend="grantha">deva-dā</hi>ṉa <hi rend="grantha">brahmade</hi>yam tiruvāṉaikkāvil Omāci Oṟṟiyūraṉ kūttaṉ Āḷvārkku-k kuṭutta kācu <num value="15">1 <g type="numeral">10</g> 5</num> patiṉ aiñcuṅ koṇṭu <hi rend="grantha">candrāditya</hi>vat viṟṟu-k-kuṭuttōm 
+                    teṅk-āyiramum kāccaṉ nūṟu nūṟu teṅkiṉ pōkaṅ koṇṭu O <gap reason="lost" quantity="8" unit="character"/>
+                    <lb n="4"/>piṉ<unclear>pic</unclear>cey Uṇṭu  -na<hi rend="grantha">nda</hi>vāṉañ ceyyavum 
                 </p>
+                
                 <p>
-                    viṟṟu-k-kuṭutta nilam Iv-vūr-p-pāl kiṭakkum<gap reason="lost" quantity="10" unit="character"/>
+                    v<supplied reason="lost">ai</supplied>ccatu pa<hi rend="grantha">nmāheśvara-rakṣai</hi> <g type="gomutraFinal">.</g> 
                     
-                    <lb n="2"/>llai vāykku<supplied reason="lost">r</supplied>aiykku vaṭakkum melpāṟkellai kaviṇiyaṉ caṅkaraṉ māṟaṉ nilattukku-k kiḻakkum vaṭapāṟkellai <hi rend="grantha">jalaśa</hi>yaṉattu <hi rend="grantha">de</hi>var nilattukkut teṟkum In-nāḻkellaiyilum akappaṭṭa ni<supplied reason="lost">la</supplied>m {unknown number} kuḻi {unknown number}
-                </p>
-                <p>
-                    In-nilam kālē y-araikkāṇi arai mun=tirikai-k k<choice><sic>i</sic><corr>ī</corr></choice>ṉ oṉpatu mākkāṇi<unclear>yi</unclear>l kiḻakkaṭaiya Ivv-āḷvārkku tirunan=tavāṉa-p-puṟam <supplied reason="lost">āka</supplied>
-                </p>
-                <p>
-                    muṉṟumā n<choice><sic>i</sic><corr>ī</corr></choice>kki iraṇṭu mā mukkāṇi araimun=tirikai-k k<choice><sic>i</sic><corr>ī</corr></choice>ḻ oṉpatu mākkāṇi nilamum viṟṟu-k-kuṭutta
-                    vilaip poruḷum iṟai kāvalukkum āka Ip-patiṉaintuñcuṅ koṇṭu viṟṟu-k-kuṭuttōm
-                </p>
-                <p>
-                    <hi rend="grantha">candrāditya</hi>vaṟ <hi rend="grantha">śrī</hi>koyil vāriyañ ceyvā<gap reason="lost" quantity="5" unit="character"/>
                 </p>
                 
             </div>	
@@ -128,6 +125,12 @@
             <div type="translation" resp="part:reda">
                 
                 <p n="1">Prosperity! Fortune!</p>
+                <p n="1"> This is the second year of king Parakēsari-paṉma.</p>
+                <p n="1">We are the assembly <supplied reason="explanation"><foreign>sabhaiyōm</foreign></supplied> of Cattaṉūr, a <foreign>brahmadeya</foreign> on the south bank of Tiraimūr-nāṭu.</p>
+                <p n="1-3">After the land for the Mahādeva of Tiruvāvaṭutuṟai was sold as tax-free land <supplied reason="explanation"><foreign>iṟaiyiḻicci viṟṟu-k-kuṭutta</foreign></supplied> to Caṅkayaṉ Oṟṟi –a member of the Ātittapaṉma-terinta army <supplied reason="explanation"><foreign>kaikkōḷar</foreign></supplied> and who was endowed <supplied reason="explanation"><foreign>ceyta</foreign></supplied> with a coconut garden of a thousand trees <supplied reason="explanation"><foreign>āyiravaṉāḷ</foreign></supplied>–, four <foreign>mā</foreign>s of our general land <supplied reason="explanation"><foreign>potunilam</foreign></supplied> in our village, Miṟṟalan-kuṭi, were stipulated <supplied reason="explanation"><foreign>ceyyum</foreign></supplied> as long as the sun and the moon last.</p>
+                <p n="3-4">The boundaries of the land are to the west of the Uṭciṟu channel <supplied reason="explanation"><foreign>vāykkāl</foreign></supplied>, to the north of the Kāmakkāṇi Kumaraṉaṅki land <gap extent="unknown" reason="lost"></gap>, and to the south of the Pāratāyaṉ Nāraṇanaṅki land. These are the four contiguous boundaries of the land that we, the assembly <supplied reason="subaudible">of Cattaṉūr</supplied>, have sold as land for the flower garden of the temple <supplied reason="explanation"><foreign>nantavāṉappuṟam</foreign></supplied>.</p>
+                <p n="4">The protector <supplied reason="explanation"><foreign>kāccaṉ</foreign></supplied> <supplied reason="subaudible">i.e., Caṅkayaṉ Oṟṟi</supplied> of the thousand coconut trees <supplied reason="explanation"><foreign>teṅk' āyiramum</foreign></supplied> took the produce <supplied reason="explanation"><foreign>pōkam</foreign></supplied> of hundreds <supplied reason="explanation"><foreign>nūṟu nūṟu</foreign></supplied> of coconut trees and built <supplied reason="explanation"><foreign>ceyyavum vaiccu</foreign></supplied> the existing flower-garden, which was previously this field <supplied reason="explanation"><foreign>piṉp-ic-cey</foreign></supplied> <gap reason="undefined" extent="unknown"></gap>.</p>
+                <p n="4">That is under the protection of the <foreign>panmāheśvara</foreign>s.</p>
                 
                 
             </div>	
@@ -139,15 +142,15 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/135).</p>
-                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (<ref target="DHARMA_INSSIIv19p0i0190">SII 19.190</ref>).</p>
-                <p>This revised edition by Emmanuel Francis.</p>
+                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (<ref target="DHARMA_INSSIIv19p0i0025">SII 19.25</ref>).</p>
+                <p>This revised edition by Renato Dávalos (2024).</p>
                 
                 <listBibl type="primary">
                     
                     <bibl n="SII">
                         <ptr target="bib:SrinivasaRao1967_01"/>
-                        <citedRange unit="page">97</citedRange>
-                        <citedRange unit="item">190</citedRange>
+                        <citedRange unit="page">11-12</citedRange>
+                        <citedRange unit="item">25</citedRange>
                     </bibl>
                     
                 </listBibl>           
