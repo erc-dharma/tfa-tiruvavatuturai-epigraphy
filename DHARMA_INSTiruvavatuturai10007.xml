@@ -11,7 +11,7 @@
             <titleStmt>
                 <title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of Parakesarivarman, year 3</title>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>
@@ -21,12 +21,6 @@
                     </persName>					
                     <persName ref="part:rama">
                         <name>N. Ramaswamy</name>
-                    </persName>
-                </respStmt><respStmt>
-                    <resp>EpiDoc Encoding</resp>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
                     </persName>
                 </respStmt>
             </titleStmt>
@@ -119,7 +113,7 @@
                         <item>   
                             Itaṉ te
                             <lb n="10" break="no"/>ṟk’ aṭaiya-k kāṟ cey tiru
-                            <lb n="11" break="no"/>-mañcaṉam aṭṭuvārkku kālu 
+                            <lb n="11" break="no"/>-mañcaṉam aṭṭuv<supplied reason="lost">ā</supplied>rkku kālu 
                             <lb n="12" break="no"/>m
                         </item>
                         <item>   
@@ -150,6 +144,16 @@
                         <lem>°ka<unclear>r</unclear>ak°</lem>
                         <rdg source="bib:SrinivasaRao1967_01">°kaṟak°</rdg>
                     </app>
+                    
+                    <app loc="11">
+                        <lem>aṭṭuv<supplied reason="lost">ā</supplied>rkku</lem>
+                        <rdg source="bib:SrinivasaRao1967_01">aṭṭuvārkku</rdg>
+                    </app>
+                    
+                    <!--<app loc="11">
+                        <lem></lem>
+                        <rdg source="bib:SrinivasaRao1967_01">tāraṇi</rdg>
+                    </app>-->
                     
                     <app loc="14">
                         <lem>kālu<choice><orig>mm</orig><reg>m</reg></choice></lem>
@@ -199,7 +203,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/139).</p>
-                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.69).</p>    
+                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (<ref target="DHARMA_INSSIIv19p0i0069">SII 19.69</ref>).</p>    
                 <p>This edition by Renato Davalos, Emmanuel Francis, and Babu N. Ramaswamy (2024), based on photos (EFEO, 2006; E. Francis, 2024).</p>
                 <p>ASI transcript and estampage, if any, yet to be consulted.</p>
                 
