@@ -8,9 +8,13 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of Parāntaka I, year 7</title>
+                <title>Tiruvāvaṭutuṟai, Gomuktīśvara temple, time of Parakesarivarman, year 7</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
@@ -41,12 +45,12 @@
                     </msIdentifier>
                     <msContents>
                         <summary>
-                            Sale of two <foreign>mā</foreign>s and odd for 15 <foreign>kācu</foreign> made by the <foreign>sabhai</foreign> of Cattaṉūr to Omāci Oṟṟiyūraṉ Kūttaṉ. 
+                            Sale of two <foreign>mā</foreign>s and odd for 15 <foreign>kācu</foreign> made by the <foreign>sabhai</foreign> of Cāttaṉūr to Omāci Oṟṟiyūraṉ Kūttaṉ. 
                         </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p>Tamil ṉ an ḷ not clearly distinct.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -86,49 +90,111 @@
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 
-                
                 <p>
-                    <gap reason="lost" quantity="3" unit="character"/> kō-p-parakē<hi rend="grantha">sa</hi>ri-<hi rend="grantha">panma</hi>ṟku yāṇṭu <hi rend="grantha">7</hi>-Āvatu
+                    kō-p-parakē<hi rend="grantha">sa</hi>ri-<hi rend="grantha">varmma</hi>ṟku yāṇṭu 7-Āvatu
                 </p>
                 <p>
-                    teṉkarai-t tiraim<choice><sic>u</sic><corr>ū</corr></choice>r-nāṭṭu <hi rend="grantha">brahma-de</hi>yañ cāttūr <hi rend="grantha">sabhai</hi>yōm 
+                    teṉkarai-t tiraim<choice><sic>u</sic><corr>ū</corr></choice>r-nāṭṭu <hi rend="grantha">brahma-de</hi>yañ cātta<choice><orig>n</orig><reg>ṉ</reg></choice>ūr <hi rend="grantha">sabhai</hi>yōm 
                 </p>
                 <p>
-                    Ivvūr <hi rend="grantha">śrī</hi>-tiruvāvaṭutuṟai <hi rend="grantha">mahāde</hi>var<hi rend="grantha">kk</hi>u <hi rend="grantha">utta</hi>rā<unclear>ya</unclear>na-<hi rend="grantha">saṅkrānti</hi>kku <hi rend="grantha">snapa</hi>nañ ceyya mūṉṟu kācu {unknown} nūṟṟ-eṭṭu-k kalacattukku-k kiḷiyūr-nāṭṭu <hi rend="grantha">deva-dā</hi>ṉa <hi rend="grantha">brahmade</hi>yam tiruvāṉaikkāvil Omāci Oṟṟiyūraṉ kūttaṉ Āḷvārkku-k kuṭutta kācu <num value="15">1 <g type="numeral">10</g> 5</num> patiṉ aiñcuṅ koṇṭu <hi rend="grantha">candrāditya</hi>vat viṟṟu-k-kuṭuttōm 
+                    Ivv-ūr <hi rend="grantha">śrī</hi>-tiru-vāvaṭutuṟai <hi rend="grantha">mahā-de</hi>vark=ku Ut=ta<hi rend="grantha">r<choice><sic>ama</sic><corr>ā</corr></choice></hi>yana-<hi rend="grantha">saṃkrā</hi>n=tikku <hi rend="grantha">snapa</hi>na<unclear>ñ</unclear> ceyya mūṉṟu kācu <surplus>no</surplus> nūṟṟ' eṭṭu-k kalacattukku-k kiḷiyūr-nāṭṭu <hi rend="grantha">deva-</hi>tāṉa-<hi rend="grantha">brahma-de</hi>yam tiruvāṉaikkāvil Omāci Oṟṟiyūraṉ kūttaṉ Āḷvārkku-k kuṭutta kācu <num value="15"><g type="numeral">10</g> 5</num> patiṉ aiñcuṅ koṇṭu <hi rend="grantha">candrāditya</hi>vat· viṟṟu-k-kuṭuttōm 
                 </p>
                 <p>
-                    viṟṟu-k-kuṭutta nilam Iv-vūr-p-pāl kiṭakkum<gap reason="lost" quantity="10" unit="character"/>
+                    viṟṟu-k-kuṭutta nilam Ivv-ūr-p-pāl k<choice><sic>ī</sic><corr>i</corr></choice>ṭakkum ā <gap reason="lost" quantity="6" unit="character"/> lat <gap reason="lost" extent="unknown" unit="character"/> 
                     
-                    <lb n="2"/>llai vāykku<supplied reason="lost">r</supplied>aiykku vaṭakkum melpāṟkellai kaviṇiyaṉ caṅkaraṉ māṟaṉ nilattukku-k kiḻakkum vaṭapāṟkellai <hi rend="grantha">jalaśa</hi>yaṉattu <hi rend="grantha">de</hi>var nilattukkut teṟkum In-nāḻkellaiyilum akappaṭṭa ni<supplied reason="lost">la</supplied>m {unknown number} kuḻi {unknown number}
+                    <list>
+                        
+                        <item>
+                            <supplied reason="lost">kīḻ-pārk' ellai</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+                        </item>
+                        
+                        <item>
+                            <supplied reason="lost">teṉ-pārk' e</supplied>
+                            <lb n="2" break="no"/>llai vāykkur<choice><sic>ay</sic><corr>ai</corr></choice>kku vaṭakkum
+                        </item>
+                        
+                        <item>
+                            mēl-pāṟk' ellai kavi<choice><orig>ṉ</orig><reg>ṇ</reg></choice>iyaṉ caṅkaraṉ māṟaṉ nilattukku-k kiḻakkum
+                        </item> 
+                        
+                        <item>
+                            vaṭa-pāṟk' ellai <hi rend="grantha">jalaśa</hi>yaṉattu <hi rend="grantha">de</hi>var nilattukku-t teṟkum
+                        </item>
+                        
+                    </list> 
+                    
+                    In-nāṉk' ellaiyilum akappaṭṭa ni<supplied reason="omitted">la</supplied>m 1/4 <seg rend="check">3/80</seg> 1/2 1/320 kuḻi <seg rend="check">1/4 3/16</seg>
                 </p>
                 <p>
-                    In-nilam kālē y-araikkāṇi arai mun=tirikai-k k<choice><sic>i</sic><corr>ī</corr></choice>ṉ oṉpatu mākkāṇi<unclear>yi</unclear>l kiḻakkaṭaiya Ivv-āḷvārkku tirunan=tavāṉa-p-puṟam <supplied reason="lost">āka</supplied>
+                    In-nilam kālē mukkāṇi Arai mun=tirikai-k kuḻi Oṉpatu mākkāṇiyil kiḻakk' aṭaiya Ivv-āḷvārkku tirunan=tavāṉa-p-puṟam 
+               
+                    muṉṟu mā nīkki Iraṇṭu mā mukkāṇi Arai mun=tirikai-k kuḻi Oṉpatu mākkāṇi nilamum viṟṟu-k-kuṭutta
+                    vilai-p-poruḷum Iṟai-kāvalukkum āka Ip-patiṉ aiñcuṅ koṇṭu viṟṟu-k-kuṭuttōm
                 </p>
                 <p>
-                    muṉṟumā n<choice><sic>i</sic><corr>ī</corr></choice>kki iraṇṭu mā mukkāṇi araimun=tirikai-k k<choice><sic>i</sic><corr>ī</corr></choice>ḻ oṉpatu mākkāṇi nilamum viṟṟu-k-kuṭutta
-                    vilaip poruḷum iṟai kāvalukkum āka Ip-patiṉaintuñcuṅ koṇṭu viṟṟu-k-kuṭuttōm
-                </p>
-                <p>
-                    <hi rend="grantha">candrāditya</hi>vaṟ <hi rend="grantha">śrī</hi>koyil vāriyañ ceyvā<gap reason="lost" quantity="5" unit="character"/>
+                    <hi rend="grantha">candrāditya</hi>vat· <hi rend="grantha">śrī</hi>koyil <unclear>vāriyañ ceyvā</unclear> <gap reason="lost" extent="unknown" unit="character"/>
                 </p>
                 
             </div>	
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
+                
+                <!--Complete apparatus-->
                 
                 <listApp>
-                <app loc="1">
-                <lem>...</lem>
-                <rdg source="bib:SrinivasaRao1967_01">...</rdg>
-                </app>
+                    <!--<app loc="1">
+                        <lem>...</lem>
+                        <rdg source="bib:SrinivasaRao1967_01">...</rdg>
+                        </app>-->
+                    <app loc="1">
+                        <lem>°<hi rend="grantha">varmma</hi>ṟku</lem>
+                        <rdg source="bib:SrinivasaRao1967_01">°<hi rend="grantha">panma</hi>ṟku</rdg>
+                    </app>
+                    <app loc="1">
+                        <lem>cāttanūr</lem>
+                        <rdg source="bib:SrinivasaRao1967_01">cāttūr</rdg>
+                    </app>
+                    <app loc="1">
+                        <lem><hi rend="grantha">mahā-de</hi>vark=ku</lem>
+                        <rdg source="bib:SrinivasaRao1967_01"><hi rend="grantha">mahā-de</hi>var<hi rend="grantha">kku</hi></rdg>
+                    </app>
+                    <app loc="1">
+                        <lem>kācu <surplus>no</surplus></lem>
+                        <rdg source="bib:SrinivasaRao1967_01">kācu ra</rdg>
+                    </app>
+                    
+                    <app loc="1">
+                        <lem><hi rend="grantha">deva-</hi>tāṉa°</lem>
+                        <rdg source="bib:SrinivasaRao1967_01"><hi rend="grantha">devadā</hi>ṉa°</rdg>
+                    </app>
+                    
+                    <app loc="2">
+                        <lem>kavi<choice><orig>ṉ</orig><reg>ṇ</reg></choice>iyaṉ</lem>
+                        <rdg source="bib:SrinivasaRao1967_01">kaviṇiyaṉ</rdg>
+                    </app>
+                    <app loc="2">
+                        <lem>kālēy mukkāṇi</lem>
+                        <rdg source="bib:SrinivasaRao1967_01">kālē yaraikkāṇi</rdg>
+                    </app>
+                    <app loc="2">
+                        <lem>kuḻi Oṉpatu</lem>
+                        <rdg source="bib:SrinivasaRao1967_01">kiḻ Oṉpatu</rdg>
+                        <note>In both occurrences in the line.</note>
+                    </app>
+                    <app loc="2">
+                        <lem><unclear>vāriyañ ceyvā</unclear> <gap reason="lost" extent="unknown" unit="character"/></lem>
+                        <rdg source="bib:SrinivasaRao1967_01">vāriyañ ceyvā <gap reason="lost" quantity="5" unit="character"/></rdg>
+                        </app>
+                    
                 </listApp>
                 
-                </div>-->
+            </div>
             
             <div type="translation" resp="part:reda">
                 
                 <p n="1">Prosperity! Fortune!</p>
                 
+                <p>...</p>
                 
             </div>	
             
@@ -140,7 +206,7 @@
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/135).</p>
                 <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (<ref target="DHARMA_INSSIIv19p0i0190">SII 19.190</ref>).</p>
-                <p>This revised edition by Emmanuel Francis.</p>
+                <p>This revised edition by Renato Dávalos and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     
