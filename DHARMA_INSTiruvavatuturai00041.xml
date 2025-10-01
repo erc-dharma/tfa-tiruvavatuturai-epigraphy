@@ -83,120 +83,67 @@
         
         <body>
             
-            <div type="edition" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:83215">		
-                
+            <div type="edition" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:vernacular">	
                 
                 <pb n="1r"/>
-                <p>
-                 
-                   <lb n="1r35=35"/>[…] Ācanti 
-                   <lb n="1r36=36" break="no"/>rāṟka<hi rend="grantha">st</hi>ākiyāka mayēcurapūcai Aṉṉa-tāṉa-mutali
-                   <lb n="1r37=37" break="no"/>ya taṟmattai paripālaṉam paṇṇi-k koṇṭu
-                   <lb n="1r38=38"/>varuvārkaḷ ākavu<supplied reason="omitted">m</supplied> yinta-p paṭikku-c camma
-                   <lb n="1r39=39" break="no"/>tittu makamai paṇṇi-k kuṭuttōm tiru
-                   <lb n="1r40=40" break="no"/>vārūr-c cīmai nākappaṭṭaṇam paṟkkaṇāy u 
-                   <lb n="1r41=41" break="no"/>Ḷpaṭa Acē<hi rend="grantha">ṣa</hi> vittu makā-caṉaṅkaḷum nā
-                   <lb n="1r42=42"/>ṭṭār kuṭiyāṉapeyar Uḷḷiṭṭārōm
-                   <lb n="1r43=43"/>yinta-t taṟmattai yātām orutar paripāla
+                
+                <p>                    
+                    <lb n="1r1=1"/>… 
+                    <lb n="1r35=35"/>… vāṅki-k koṇṭu
                 </p>
-                
-                <pb n="1v"/>
-                
-                <p>
-                   <lb n="1v1=44" break="no"/>ṉam paṇṇi-k koṇṭu varuvārkaḷō A
-                   <lb n="1v2=45" break="no"/>varkaḷ kāciyilē Aṉēka kōṭi kō-tā
-                   <lb n="1v3=46" break="no"/>ṉa pū-tāṉa kaṉṉikā-tāṉa palattaiyum
-                   <lb n="1v4=47"/>Aṉēkañ civaliṅka-p piṟatiṭṭa<gap reason="illegible" unit="character" quantity="1"></gap> palattaiyu 
-                   <lb n="1v5=48" break="no"/>m peṟṟu-c cukamē yiruppārkaḷ yint a-t
-                   <lb n="1v6=49"/>taṟmattukku Akitam niṉaitta pērkaḷ ke 
-                   <lb n="1v7=50"/>ṅkai-k karaiyilē kō-katti piṟamatti pa 
-                   <lb n="1v8=51"/>ṇṇiṉa tō<hi rend="grantha">ṣa</hi>ttilē pōka kaṭavōr ākavum
+                <p>                    
+                    Ācanti 
+                    <lb n="1r36=36" break="no"/>rāṟka<hi rend="grantha">st</hi>ākiyāka mayēcura-pūcai Aṉṉa-tāṉa-mutali
+                    <lb n="1r37=37" break="no"/>ya taṟmattai paripālaṉam paṇṇi-k koṇṭu
+                    <lb n="1r38=38"/>varuvārkaḷ ākavu<supplied reason="omitted">m</supplied>
                 </p>
-                
-                
-                
-                
-                
-                
-                
-                <!--  
-                    
-                    <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">svada<lb n="1v25=44"/>ttād dviguṇam· puṇyam·</l> 
-                    <l n="b">paradattā<choice><sic>ra</sic><corr>nu</corr></choice>pālanam· <g type="danda">.</g></l> 
-                    <l n="c">paradattāpahārēṇa</l> 
-                    <l n="d">svadatt<choice><sic>ā</sic><corr>am</corr></choice> niṣphalam· bhavēt·<g type="ddanda">.</g></l> 
-                    </lg> 
-                    
-                    <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">dānapālanayōr mmaddhyē</l> 
-                    <l n="b">dānāc chreyo ’nupālanam· <g type="danda">.</g></l>
-                    <l n="c">dānāt svarga<lb n="1v24=55"/>m avāpnōti</l> 
-                    <l n="d">pālanād acyutam· padam· <g type="ddanda">.</g> <g type="pc"/></l>
-                    </lg> 
-                    
-                    <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">Ekaika bhaginī lok<lb n="1v25=56"/>e</l> 
-                    <l n="b">sarvveṣām <choice><sic>i</sic><corr>e</corr></choice>va bhūbhujām· <g type="danda">.</g></l> 
-                    <l n="c">nā bhōjyā na <choice><sic>ka</sic>k<corr>a</corr></choice>ragrāhyā</l> 
-                    <l n="d">vipradattā va<lb n="1v26=57"/>sundharā<g type="ddanda">.</g></l><g type="pc"></g>
-                    </lg>
-                    
-                    
-                    <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">svadattām· paradattāṁ vā</l> 
-                    <l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas<choice><sic>va</sic><corr>u</corr></choice>n <lb n="1v13=26" break="no"/>dharām <g type="danda">.</g></l> 
-                    <l n="c">ṣaṣṭi<surplus>r</surplus>-varṣa-sahasrāṇi</l> 
-                    <l n="d"> viṣṭhāyāñ jāyate kṛmiḥ <g type="ddanda">.</g></l> 
-                    </lg>
-                    
-                    
-                    
-                    <lg n="5" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">sā<lb n="1v15=28"/>māṉyo yan dharmma-setu<unclear>r</unclear> nṛpāṇāṁ</l>
-                    <l n="b">kāle kāle pālanīyo bhavat·bhi<supplied reason="omitted">ḥ</supplied> <g type="danda">.</g></l>
-                    <l n="c">sarvān etā<unclear>nn</unclear> <pb n="2r"/><lb n="2r1=29"/>bhāvinaḥ pā<supplied reason="omitted">r</supplied>tthivendr<choice><sic>a</sic><corr>ā</corr></choice>n ·</l>
-                    <l n="d">bhūyo bhūyo yācate rām acandraḥ <g type="ddanda">.</g></l>
-                    </lg>-->
+                <p>
+                    y-inta-p paṭikku-c camma
+                    <lb n="1r39=39" break="no"/>tittu makamai paṇṇi-k kuṭuttōm tiru
+                    <lb n="1r40=40" break="no"/>vārūr-c-c<choice><orig>i</orig><reg>ī</reg></choice>mai nākappaṭṭaṇam paṟkkaṇāy u 
+                    <lb n="1r41=41" break="no"/>ḷpaṭa Acē<hi rend="grantha">ṣa</hi> vittu makā-caṉaṅkaḷum nā
+                    <lb n="1r42=42" break="no"/>ṭṭār kuṭiyāṉa peyar Uḷḷiṭṭārōm
+                </p>
+                <p>                    
+                    <lb n="1r43=43"/>y-inta-t taṟmattai yātām orutar paripāla
+                    <pb n="1v" break="no"/><lb n="1v1=44" break="no"/>ṉam paṇṇi-k koṇṭu varuvārkaḷō A
+                    <lb n="1v2=45" break="no"/>varkaḷ kāciyilē Aṉēka-kōṭi-kō-tā
+                    <lb n="1v3=46" break="no"/>ṉa-pū-tāṉa-kaṉṉikā-tāṉa-palattaiyum
+                    <lb n="1v4=47"/>Aṉēkañ civa-liṅka-p-piṟatiṭṭ<unclear>ā</unclear>-palattaiyu 
+                    <lb n="1v5=48" break="no"/>m peṟṟu-c cukamē y-iruppārkaḷ
+                </p>
+                <p>
+                    y-inta-t
+                    <lb n="1v6=49"/>taṟmattukku Akitam niṉaitta pērkaḷ ke 
+                    <lb n="1v7=50" break="no"/>ṅkai-k-karaiyilē kō-katti-piṟamatti pa 
+                    <lb n="1v8=51" break="no"/>ṇṇiṉa tō<hi rend="grantha">ṣa</hi>ttilē pōka kaṭavōr ākavum
+                </p>
                 
             </div>
             
             
-            <!--<div type="apparatus">
-                <!-\-apparatus encoded as per EGD §9.1, basic elements for apparatus below-\->
+            <div type="apparatus">
                 
-                <listApp><!-\- one <app> for each apparatus entry -\->
-                
-                <app loc="line"><!-\- update the value of @loc. (this always refers to line beginning)-\->
-                <lem><!-\- fill in a lemma here (as I read it)-\-></lem>
-                <rdg source="bib:Kirusnamurtti2000_01"><!-\- update the @source value, fill in variant reading here -\-></rdg>
-                <note>...</note>
-                </app>
-                
-                </listApp>
-                </div>-->
+            </div>
             
             <div type="translation" resp="part:matr">
                 
-                <p n="1-2">....</p>
+                <p n="1">...</p>                
                 
-                
-                <!--specify the lines inside the <p> tag, as <p n="1">...</p>  ; when it's the translation of a stanza, <p rend="stanza" n="1"> </p> and the number is in this second type of translation tag is taken from the <lg> number-->
-                
+                <!--specify the lines inside the <p> tag, as <p n="1">...</p>  ; when it's the translation of a stanza, <p rend="stanza" n="1"> </p> and the number is in this second type of translation tag is taken from the <lg> number-->                
                 
             </div>
             
-            <!--<div type="commentary">
-                </div>-->
+            <div type="commentary">
+            </div>
             
             <div type="bibliography">
                 
-             <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/46).</p>  
+                <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/46).</p>  
                 
                 <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 49). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
                 
-                <p>This edition is by Margherita Trento (2025), based on EFEO photographs (2015).
-                </p>
+                <p>This edition is by Margherita Trento, based on EFEO photographs (2015). Reviewed by Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     
@@ -208,12 +155,12 @@
                     
                 </listBibl>
                 
-               
-            <listBibl type="secondary">
+                
+                <listBibl type="secondary">
                     <bibl>
-                    <ptr target="bib:ARIE1986-1987"/>
-                    <citedRange unit="page">24</citedRange>
-                    <citedRange unit="item">46</citedRange>
+                        <ptr target="bib:ARIE1986-1987"/>
+                        <citedRange unit="page">24</citedRange>
+                        <citedRange unit="item">46</citedRange>
                     </bibl> 
                 </listBibl> 
                 
