@@ -336,11 +336,20 @@
                     <head xml:lang="eng">Grant no. 4: Śaka year 1448</head>
                     
                     <p>
-                        <lb n="3v2=78=1"/><choice><orig>s</orig><reg>ś</reg></choice>akā <choice><orig>p</orig><reg>b</reg></choice>tam<supplied reason="omitted">·</supplied> <num value="1448"><g type="numeral">1000</g> 4 <g type="numera">100</g> 4 <g type="numeral">10</g> 8</num> ṉ mēl‌-c cellā niṉṟa v<choice><orig>e</orig><reg>i</reg></choice>ya-saṁ
-                        <lb n="3v3=79=2" break="no"/>vat·sarat=tu d<choice><orig>e</orig><reg>a</reg></choice>kṣiṇ<choice><orig>a</orig><reg>i</reg></choice>yaṉat=tu kaṉṉi-nā<supplied reason="omitted">ya</supplied>ṟṟu pūrvva-pakṣat=tu pau
-                       <lb n="3v=80=3" break="no"/><supplied reason="omitted">r</supplied>ṉaiyum‌ b<choice><orig>ra</orig><reg>ṛ</reg></choice>haspati-vĀRAmu<supplied reason="omitted">m</supplied>‌ peṟṟa pūraṭṭāti nāḷ‌ 
-                        
+                        <lb n="3v2=78=1"/><hi rend="grantha"><choice><orig>s</orig><reg>ś</reg></choice>akā <choice><orig>p</orig><reg>b</reg></choice>tam<supplied reason="omitted">·</supplied></hi> <num value="1448"><g type="numeral">1000</g> 4 <g type="numera">100</g> 4 <g type="numeral">10</g> 8</num> ṉ mēl‌-c cellā niṉṟa v<choice><orig>e</orig><reg>i</reg></choice>ya-<hi rend="grantha">saṁ</hi>
+                        <lb n="3v3=79=2" break="no"/>va<hi rend="grantha">t·sarattu d<choice><orig>e</orig><reg>a</reg></choice>kṣi</hi>ṇāyaṉat=tu kaṉṉi-nā<supplied reason="omitted">ya</supplied>ṟṟu <hi rend="grantha">pūrvva-pakṣa</hi>t=tu <hi rend="grantha">pau</hi>
+                        <lb n="3v=80=3" break="no"/><supplied reason="omitted">r</supplied><hi rend="grantha">ṉai</hi>yum ‌<hi rend="grantha">b<choice><orig>ra</orig><reg>ṛ</reg></choice>haspa</hi>ti-vĀRAmu<supplied reason="omitted">m</supplied>‌ peṟṟa pūraṭṭāti nāḷ‌ 
                     </p>
+                    <p>miḻalai-k‌-kūṟṟa
+                        <lb n="3v5=81=4" break="no"/>t=tu naṭuviṟ-kūṟṟu <hi rend="grantha">brahmadeyam‌</hi> taṉiyūr‌ tiru-p-peruntuṟai-y-āṉa pavi<hi rend="grantha">tra
+</hi>                        <lb n="3v6=82=5"/>-māṇikka-<hi rend="grantha">ca</hi>tu<hi rend="grantha">rvve</hi>ti-maṅkalat=tu nāyaṉṉār‌ Āḷuṭaiya parama<hi rend="grantha">svāmi</hi>kaḷuk
+                        <lb n="3v7=83=6" break="no"/>ku Iṉ-ṉāṭṭu mutalikaḷ Aṉaivarumōm‌ kāṇi-vilai-<hi rend="grantha">pramā</hi>ṇam paṇṇi
+                        <lb n="3v8=84=7" break="no"/>k kuṭut=ta paṭi y-iṉ-ṉāṭṭu Eṅkaḷ‌ ṉāṭṭu-p‌ potuvāṉa paruvūr‌ vilāṉū                        
+                        <lb n="3v9==85=8" break="no"/>rum‌ kuṟ<choice><orig>u</orig><reg>i</reg></choice>ccikaḷukkum‌ peru-ṉāṉ‌k’ ellai y-āvaṉa 
+                    </p>
+                    
+                    
+                    
                     
                 </div>
                 
