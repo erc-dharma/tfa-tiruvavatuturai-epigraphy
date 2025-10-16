@@ -15,7 +15,7 @@
                     <persName ref="part:matr">
                         <forename>Margherita</forename>
                         <surname>Trento</surname>
-                    </persName>
+                <!--    </persName>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>
@@ -23,7 +23,7 @@
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
-                    </persName>
+                    </persName> -->
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -455,7 +455,18 @@
                     <head xml:lang="eng">Grant no. 8: Śaka year 1427</head>
                     
                     <p>
-                        <lb n="5r14=**=1"/>...		
+                        <lb n="5r14=145=1"/>cupamastu svasti śrī cakāptam 1427 Il mēc cell(ā) niṉṟa krōti samvatsarattu Utrāyaṉattu 
+                        <lb n="5r15=146=2"/>mēṣa nā(yi)ṟṟu pūrvapakṣattu saptamiyum cukravāramum peṟṟa pūcattu nāḷ miḻalaik kūṟṟattu naṭuviṟkūṟṟam
+                        <lb n="5r16=147=3"/>pirammatēcam taṉiyūr tirupperuntuṟaiyāṉa pavittira māṇikka caturvēti maṅkalattu nāyaṉār Āḷuṭaiya para
+                        <lb n="5r17=148=4"/>masvamikku vaṭa veḷḷāṟāṉa cuntirapāṇṭiya vaḷanāṭṭu koṅkaraiya nāṭṭu kō
+                        <lb n="5r18=149=5"/>ṭi kāvalaṉ vēṇāṭikku mīṇṭāṉ naṭuvahr veṭṭi pāṇṭiyaṉ muṭikāttāṉ kūṭalai
+                        <lb n="5r19=150=6"/>kkōṭṭai aracu Āṇṭa piḷḷaiyār parākkirama pāṇṭiya maḻavarāyar Uḷḷiṭṭārōm
+                        <lb n="5r20=151=7"/>Āḷuṭaiya tampirāṉāṟku mahāpūciay tiruppaṇikku śrīpaṇṭārattil tirunāmattuk kāṇiyā
+                        <lb n="5r21=152=8"/>Āṉa vaḷantūril nām vāṅki kuṭutta nilattukku tirunāmattuk kāṇiyāka parivarttaṉai paṇṇi
+                        <lb n="5r22=153=9"/>(tanta) kuṭikkāṭāṉa parākkiramapāṇṭiya maḻavarāya nallūrukku perunāṉkellai āvatu kīḻ
+                        <lb n="5r23=154=10"/>pāṟkellai puṉavācal Ellaikkum nilai Ūr ellaikkum vaṭakku mēlpāhrkellai poy
+                        <lb n="5r24=155=11"/>kai Ellaikku kiḻakku vaṭapāṟkellai ouṉavācal Kuḷattukku teṟkum Āka yicanta pe
+                        <lb n="5r25=156=12"/>
                     </p>
                     
                 </div>
@@ -539,7 +550,7 @@
                 </listApp>
                 </div>-->
             
-            <div type="translation" resp="part:reda part:emfr part:matr">
+            <div type="translation" resp="part:matr">
                 
                 <div type="textpart" n="1">
                     <head xml:lang="eng">Grant no. 1: Śaka year 1448</head>
