@@ -483,7 +483,7 @@
                     
                     <p>
                         yinta <hi rend="grantha">gr</hi>āmattukku <hi rend="grantha">Ahi</hi>ta<hi rend="grantha">m·</hi> <hi rend="grantha">pa</hi>ṇṇiṉavarkaḷ <hi rend="grantha">gaṁgai karai</hi>yi
-                        <lb n="5r10=140=10" break="no"/>ṟ kapilaium kĀRĀm pacuvaiyum <hi rend="grantha">guru</hi>vaiyum <hi rend="grantha">brāhmaṇarai</hi>yum mātāvaiyum pitāvaiyum ko
+                        <lb n="5r10=140=10" break="no"/>ṟ kapilaiyum kĀRĀm pacuvaiyum <hi rend="grantha">guru</hi>vaiyum <hi rend="grantha">brāhmaṇarai</hi>yum mātāvaiyum pitāvaiyum ko
                         <lb n="5r11=141=11" break="no"/>ṉṟa pāvattilē pōka kaṭaivaRĀkavum 
                     </p>   
                     <p>
@@ -497,11 +497,14 @@
                     <head xml:lang="eng">Grant no. 8: Śaka year 1427</head>
                     
                     <p>
-                        <lb n="5r14=144=1"/><hi rend="grantha">subhamastu</hi> <g type="ddanda"></g> <hi rend="grantha">svasti śrī śahābdam</hi> <num value="1427"> <g type="numeral">1000</g> 4 <g type="numeral">100</g> 2 <g type="numeral">10</g> 7 </num> <choice><orig>lmē</orig><reg>mēl</reg></choice> cell<choice><orig>a</orig><reg>ā</reg></choice> niṉṟa krōti samvatsarattu Utrāyaṉattu 
-                        <lb n="5r15=145=2"/>mēṣa nā(yi)ṟṟu pūrvapakṣattu saptamiyum cukravāramum peṟṟa pūcattu nāḷ miḻalaik kūṟṟattu naṭuviṟkūṟṟam
-                        <lb n="5r16=146=3"/>pirammatēcam taṉiyūr tirupperuntuṟaiyāṉa pavittira māṇikka caturvēti maṅkalattu nāyaṉār Āḷuṭaiya para
-                        <lb n="5r17=147=4"/>masvamikku vaṭa veḷḷāṟāṉa cuntirapāṇṭiya vaḷanāṭṭu koṅkaraiya nāṭṭu kō
-                        <lb n="5v1=148=5"/>ṭi kāvalaṉ vēṇāṭikku mīṇṭāṉ naṭuvahr veṭṭi pāṇṭiyaṉ muṭikāttāṉ kūṭalai
+                        <lb n="5r14=144=1"/><hi rend="grantha">subhamastu</hi> <g type="ddanda"></g> <hi rend="grantha">svasti śrī śahābdam</hi> <num value="1427"> <g type="numeral">1000</g> 4 <g type="numeral">100</g> 2 <g type="numeral">10</g> 7 </num> <choice><orig>lmē</orig><reg>mēl</reg></choice> cell<choice><orig>a</orig><reg>ā</reg></choice> niṉṟa <hi rend="grantha">krō</hi>ti <hi rend="grantha">saṁvat·sara</hi>ttu <hi rend="grantha">Uttarā</hi>yaṉat=tu 
+                        <lb n="5r15=145=2"/><hi rend="grantha">mēṣa</hi> nā<supplied reason="omitted">yi</supplied>ṟṟu <hi rend="grantha">ppūrvapakṣattu saptami</hi>yum <hi rend="grantha">śukra</hi>vĀRAmum peṟṟa pūcat=tu nāḷ 
+                    </p>
+                    <p>
+                        miḻalai-k kūṟṟat=tu naṭuviṟ kūṟṟam
+                        <lb n="5r16=146=3"/><hi rend="grantha">brahmade</hi>cam taṉiyūr tirupperuntuṟaiyā<choice><orig>na</orig><reg>ṉa</reg></choice> pavittira māṇikka catu<hi rend="grantha">rve</hi>ti maṅkalat=tu nāyaṉār Āḷuṭaiya pa<supplied reason="omitted">ra</supplied>
+                        <lb n="5r17=147=4" break="no"/>ma<hi rend="grantha">svā</hi>mikku vaṭa veḷḷāṟāṉa cun<supplied reason="lost">ti</supplied>rapāṇṭiya vaḷanāṭṭu koṅkaraiya nāṭṭu kō
+                        <lb n="5v1=148=5" break="no"/>ṭi kāvalaṉ vēṇāṭikku mīṇṭāṉ naṭuvahr veṭṭi pāṇṭiyaṉ muṭikāttāṉ kūṭalai
                         <lb n="5v2=149=6"/>kkōṭṭai aracu Āṇṭa piḷḷaiyār parākkirama pāṇṭiya maḻavarāyar Uḷḷiṭṭārōm
                         <lb n="5v3=150=7"/>Āḷuṭaiya tampirāṉāṟku mahāpūciay tiruppaṇikku śrīpaṇṭārattil tirunāmattuk kāṇiyā
                         <lb n="5v4=151=8"/>Āṉa vaḷantūril nām vāṅki kuṭutta nilattukku tirunāmattuk kāṇiyāka parivarttaṉai paṇṇi
