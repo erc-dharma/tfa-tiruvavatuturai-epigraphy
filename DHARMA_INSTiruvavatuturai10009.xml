@@ -5,444 +5,436 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-			    <title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of Rājādhirāja, no year</title>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>					
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>EpiDoc Encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Aubervilliers</pubPlace>
-				<idno type="filename">DHARMA_INSTiruvavatuturai10009</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2026 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-					    <summary>List of gold and silver items donated to the Lord of Tiruvāvaṭutuṟai.</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
-								nor between <foreign>o</foreign> and <foreign>ō</foreign>. Dental <foreign>n</foreign> regularly found instead of expected alveolar <foreign>ṉ</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union's Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<!-- UPDATE the link once the release is made official -->
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-10-13">Creation of the file.</change>
-		</revisionDesc>
-	</teiHeader>
-
-	<text xml:space="preserve">
-
-<body>
-
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-            	
-    <p>
-        <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">Wall</label>
-        <lb n="A1=1"/>Uṭaiyār <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-cōḻa-tēvar nam
-        <lb n="A2=2"/>pirāṭṭiyār <hi rend="grantha">trai</hi>lōkkiya-mā-tēviyār ta
-        <lb n="A3=3" break="no"/>ṅkaḷ ācciyār Irāma<choice><orig>n</orig><reg>ṉ</reg></choice> Apimā<choice><orig>n</orig><reg>ṉ</reg></choice>a-toṅkiyār tiru-v-ā
-        <lb n="A4=4" break="no"/>vaṭu-tuṟai Uṭaiyārkku Amutu ceyt-aruḷa ve<unclear>ḷḷi</unclear>
-        <lb n="A5=5" break="no"/>-t-taḷikai <unclear>1</unclear>		
-        nāl
-        kuṭiñai-k-kallāl ni<add place="below">ṟai</add> ... kaḻañcum
-    </p>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of Rājādhirāja, no year</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>					
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>                
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Aubervilliers</pubPlace>
+                <idno type="filename">DHARMA_INSTiruvavatuturai10009</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2026 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>List of gold and silver items donated to the Lord of Tiruvāvaṭutuṟai.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+                                nor between <foreign>o</foreign> and <foreign>ō</foreign>. Dental <foreign>n</foreign> regularly found instead of expected alveolar <foreign>ṉ</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-10-13">Creation of the file.</change>
+        </revisionDesc>
+    </teiHeader>
     
-    <p>
-        mēṟ<milestone type="pagelike" n="B" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
-        <lb n="B1=6" break="no"/>-p-pa<unclear>ṭi</unclear>yāḷē-y Uṭaiyārkku ...
-        <lb n="B2=7"/><unclear>po</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> koḷkai 1
-        nāl kuṭiñai-k-kkallāl
-        <lb n="B3=8"/><surplus>n</surplus>niṟai cempon nā-nūṟṟu Oru		
-        <milestone type="pagelike" n="C" unit="zone" break="no"/><label xml:lang="eng">Wall</label>
-        <lb n="C1=9" break="no"/>pattu mu
-        <lb n="C2=10" break="no"/>-k-kaḻañ<surplus>c</surplus>c’ arai		
-    </p>	
-    
-    <p>
-        <lb n="C3=11"/>Ip-poṟ-k ko
-        <lb n="C4=12" break="no"/>ḷkai nā-nūṟṟu I
-        <lb n="C5=13" break="no"/>rupattu mu-k-kaḻañ
-        <lb n="C6=14" break="no"/>c’ araiyum
-    </p>
-    
-    <p>		
-        Uṭaiyār <hi rend="grantha">śrī</hi>
-        <lb n="C7=15" break="no"/>-rāj<hi rend="grantha">ādhi</hi>rā<hi rend="grantha">jade</hi>var kuru-<hi rend="grantha">d</hi>evar I
-        <lb n="C8=16" break="no"/>ṭṭa poṉ Irupatt’ aṟu kaḻañcu
-        <lb n="C9=17" break="no"/>-p
-    </p>
-    <p>		
-        periya-vēḷattu Arai		
-        <lb n="C10=18" break="no"/>yaṉ Aṇukki Iṭṭa
-        <lb n="C11=19"/>poṉ ṉūṟṟu muppa
-        <lb n="C12=20" break="no"/>tt’ eṇ kaḻañc’ arai
-        <lb n="C13=21" break="no"/>yum
-    </p>
-    
-    <p>		
-        mēṟpa<surplus>ṭ</surplus>ṭi vēḷa
-        <lb n="C14=22" break="no"/>ttu-t tūtuvaṉ arumo
-        <lb n="C15=23" break="no"/>ḻi Iṭṭa po<choice><orig>n</orig><reg>ṉ</reg></choice> muppat
-        <lb n="C16=24" break="no"/>t’ aṟu kaḻañc’ ēḻu-k kālu
-        <lb n="C17=25" break="no"/>m 
-    </p>
-    
-    <p>
-        Uḷpaṭa c<choice><orig>e</orig><reg>ey</reg></choice>ta
-        <list>
-            <item>                
-                po
-                <lb n="C18=26" break="no"/>ṟpū Irupatt’ ēḻum
-            </item>
-            <item>
-                ce
-                <lb n="C19=27" break="no"/>ṅkaḻunīr pū mu-p-pa
-                <lb n="C20=28" break="no"/>tt’ āṟum
-            </item>
-            <item>
-                māntaḷir O                
-                <milestone type="pagelike" n="D" unit="zone" break="no"/><label xml:lang="eng">Wall</label>
-                <lb n="D1=29" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>ṟum             
-            </item>
-            <item>
-                picca-tēvar
-                <lb n="D2=30"/>kaṇṭa-k-kāṟai O<choice><orig>n</orig><reg>ṉ</reg></choice>
-                <lb n="D3=31" break="no"/>ṟum
-            </item>
-            <item>
-                poṟ-kai Īc
-                <lb n="D4=32" break="no"/>-cōppi O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟum</item>
-        </list>
+    <text xml:space="preserve">
         
-        mu
-        <lb n="D5=33" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>pu kaḷveṭṭiṉa ⌈
-        <lb n="D6=34"/>koḷkaiyilum
-        Āka
-        <lb n="D7=35"/>It-tēvar aṭiya<choice><orig>n</orig><reg>ṉ</reg></choice> tiru-nā
-        <lb n="D8=36" break="no"/>vukkaraiya<choice><orig>n</orig><reg>ṉ</reg></choice> piccaiyāl va
-        <lb n="D9=37" break="no"/>nta kuṭiñai-k-kallāl mā⌈
-        <lb n="D10=38" break="no"/>ṭai po<choice><orig>n</orig><reg>ṉ</reg></choice> Aṟu ṉūṟṟu E
-        <lb n="D11=39" break="no"/>ṉpati<choice><orig>n</orig><reg>ṉ</reg></choice> kaḻañc’ ēḻu-k
-        <lb n="D12=40" break="no"/>kālē mu<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu mañcāṭi
-        <lb n="D13=41" break="no"/>yum		
-    </p>
-    
-    <p>
-        mu<choice><orig>n</orig><reg>ṉ</reg></choice>p’ uḷla po<choice><orig>n</orig><reg>ṉ</reg></choice>
-        
-        <list>
-            <item>
-                <lb n="D14=42"/>Uṭaiyār cārttum
-                <lb n="D15=43"/>tiru-k-k<unclear>o</unclear>cakamu <gap reason="illegible" quantity="3" unit="character" precision="low"></gap>-k ⌈
-                <lb n="D16=44"/>koṭukkum paṭṭam O<choice><orig>n</orig><reg>ṉ</reg></choice>
-                <lb n="D17=45" break="no"/>ṟum
-            </item>
-            <item>
-                poṟpū nālum
-            </item>
-            <item>
-                Āṭa
-                <lb n="D18=46" break="no"/><supplied reason="omitted">val</supplied>llār cā<reg>r</reg>ttum poṟpū Iru-pat
-                <lb n="D19=47" break="no"/>tt’ o<choice><orig>n</orig><reg>ṉ</reg></choice>ṟum
-            </item>
-            <item>
-                Ivarē cā<reg>r</reg>ttu mut
-                <lb n="D20=48" break="no"/>tu-c ... po<choice><orig>n</orig><reg>ṉ</reg></choice>ṉum can
-                <lb n="D21=49" break="no"/>tira-cēkara-tēvar tiru-v-a<hi rend="grantha">bhiṣe</hi>kam O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟ<unclear>u</unclear>
-                <lb n="D22=50" break="no"/>m
-            </item>
-        </list>
-        
-        tiruvaṭi-nilai Iraṇṭināl ...
-        <lb n="D23=51"/>po<choice><orig>n</orig><reg>ṉ</reg></choice>ṉum Uḷḷiṭṭu tiru-mē<choice><orig>n</orig><reg>ṉ</reg></choice>ika
-        <lb n="D24=52" break="no"/>ḷ cā<reg>r</reg>ttum tiru-v-āparaṇaṅkaḷā
-        <lb n="D25=53" break="no"/>lum poṟ-kai Ī-c-cōppiyālu
-        <lb n="D26=54" break="no"/>m 
-        Āka
-        
-        kuṭiñai-k-kallāl rā<hi rend="grantha">ja</hi>
-        <lb n="D27=55" break="no"/>rā<hi rend="grantha">ja</hi><choice><orig>n</orig><reg>ṉ</reg></choice> māṭai-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ O<choice><orig>n</orig><reg>ṉ</reg></choice>patu māṟi
-        <lb n="D28=56"/>po<choice><orig>n</orig><reg>ṉ</reg></choice> nā-ṉūṟṟu Aṟu<unclear>ppa</unclear>t’ o
-        <lb n="D29=57" break="no"/>ru-k kaḻañcē O<choice><orig>n</orig><reg>ṉ</reg></choice>patu mañcāṭiyu
-        <lb n="D30=58" break="no"/>m
-        Āka-p 
-        
-        po<choice><orig>n</orig><reg>ṉ</reg></choice> Āyiratt’ oru <choice><orig>n</orig><reg>ṉ</reg></choice>ū
-        <lb n="D31=59" break="no"/>ṟṟu nāṟpatt’ iru kaḷañcē Ēḻu mañ
-        <lb n="D32=60" break="no"/>cāṭi
-    </p>
-    
-    <p>
-        veḷḷi mutal kuṭiñai-k
-        <lb n="D33=61" break="no"/>kallāl Āyirattu mu-p-pati<choice><orig>n</orig><reg>ṉ</reg></choice> kaḻa
-        <lb n="D32=60" break="no"/>ñci<choice><orig>n</orig><reg>ṉ</reg></choice>āl tavas<unclear>i</unclear> tiru-nāvukkaraiyaṉu
-        <lb n="D35=63" break="no"/>m caṇṭēcuvara-cōkiyum Eḻunt-aruḷu
-        
-        <milestone type="pagelike" n="E" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
-        <lb n="E1=64" break="no"/><unclear>vi</unclear>tta ve<unclear>ḷḷi</unclear>-t tiru-mē<choice><orig>n</orig><reg>ṉ</reg></choice>-p<choice><orig>i</orig><reg>ī</reg></choice>ṭamum pira 
-        <lb n="E2=65" break="no"/><unclear>vai</unclear>yum uṭpaṭa <hi rend="grantha">śrī</hi>-pali Eḻunt-aruḷun tiru-mē<choice><orig>n</orig><reg>ṉ</reg></choice>i Oruvar <unclear>veḷ</unclear>
-        <lb n="E3=66" break="no"/>ḷi-p parikalam uṭpaṭa ... <unclear>ta</unclear>
-        <lb n="E4=67" break="no"/>ḷikai O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟum
-        Āka
-        
-        Uruppati nāl kuṭiñai-k-kallāl veḷḷi Ā
-        <milestone type="pagelike" n="F" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
-        <lb n="F1=68" break="no"/>yiratt’ iru-ṉūṟṟu Ēḻupattu
-        <lb n="F2=69"/>nāṟ kaḻañcē mu-k-kālē
-    </p>
-    <p>        
-        Iraṇ
-        <lb n="F3=70" break="no"/>ṭum
-        ... 
-        <list>
-            <item>
-                veḷḷi
-                <milestone type="pagelike" n="E" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
-                <lb n="G1=71" break="no"/>-maṇṭai
-            </item>
-            <item>
-                Oṉṟum vaṭṭil Oṉṟum
-            </item>
-        </list>
-        Āka
-        
-        nūṟṟu mu-p-patt’ aṟu kaḻañcē mu-k-kāl
-    </p>
-    <p>
-        mēṟpaṭi poṟpū
-        ...        
-        <lb n="G2=72" break="no"/>...
-        <list>
-            <item>
-                pu<hi rend="grantha">ṣpa</hi>m Onṟum
-            </item>
-            <item>
-                ceṅkaḻ<choice><sic>a</sic><corr>u</corr></choice>nīr-pū mu-p-patum
-            </item>
-        </list>
-        Āka
-        ...
-        kaḻañcu        
-    </p>
-		
-</div>	
-	
-<!--<div type="apparatus">
-	
-	<listApp>
-		<app loc="0">
-			<lem></lem>
-			<rdg source="bib:..."></rdg>
-			<note></note>
-		</app>
-				
-	</listApp>
-</div>-->
-	
-<div type="translation" resp="part:emfr">
-	
-    <p n="1-5">
-        <supplied reason="subaudible">From</supplied> our Lady of the lord, the glorious king Rājendra Cōḷa,
-        Trailōkkiya-mā-tēviyār,<note>Sanskrit Trailokya Mahādevi.</note>
-        his mother,
-        <supplied reason="subaudible">and from</supplied> Irāmaṉ Apimāṉa Toṅkiyār,
-        <supplied reason="subaudible">for</supplied> four silver eating plates <supplied reason="explanation"><foreign>taḷikai</foreign></supplied>,
-        for the Lord <supplied reason="subaudible">of</supplied> Tiruvāvaṭutuṟai, so that he graciously eats <supplied reason="explanation"><foreign>amutu ceyt-aruḷa</foreign></supplied>,
-        ... <foreign>kaḻañcu</foreign>s <supplied reason="subaudible">of</supplied> a weight <supplied reason="explanation"><foreign>niṟai</foreign></supplied> <supplied reason="subaudible">assessed by the standard measure</supplied> <foreign>kuṭiñai-k-kal</foreign>
-        <supplied reason="subaudible">are provisioned</supplied>.
-    </p>
-    
-    <p n="5-10">
-        For the above-mentioned Lord, <supplied reason="subaudible">for</supplied> 1 golden <foreign>koḷkai</foreign> ...
-        four hundred thirteen and a half <foreign>kaḻañcu</foreign>s of refined gold <supplied reason="subaudible">of</supplied> a weight <supplied reason="explanation"><foreign>niṟai</foreign></supplied> <supplied reason="subaudible">assessed by the standard measure</supplied> <foreign>kuṭiñai-k-kal</foreign>
-        <supplied reason="subaudible">are provisioned</supplied>.
-    </p>
-	
-    <p n="11-14">
-        <supplied reason="subaudible">For</supplied> this golden <foreign>koḷkai</foreign>
-        four hundred twenty-three and a half <foreign>kaḻañcu</foreign>s
-        <supplied reason="subaudible">are provisioned</supplied>.
-    </p>
-    
-    <p n="14-17">
-        The gold that
-        the royal <foreign>guru</foreign> of the glorious lord, the king Rājādhirāja, gave
-        <supplied reason="subaudible">amounts to</supplied>
-        twenty-six <foreign>kaḻañcu</foreign>s.
-    </p>
-    
-    <p n="17-21">
-        The gold that
-        Araiyaṉ Aṇukki of the great palace
-        gave
-        <supplied reason="subaudible">amounts to</supplied>
-        one hundred thirty-eight <foreign>kaḻañcu</foreign>s.
-    </p>
-    
-    <p n="21-25">
-        The gold that
-        Tūtuvaṉ Arumoḻi of the above-mentioned palace.
-        gave
-        <supplied reason="subaudible">amounts to</supplied>
-        thirty-six <foreign>kaḻañcu</foreign>s and seven quarters.
-    </p>
-    
-    <p n="24-41">
-        So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 34</supplied>
-        ...
-        <list>
-            <item>twenty-seven golden flowers,</item>
-            <item>thirty-six water-lily flowers,</item>
-            <item>one mango leaf <supplied reason="explanation"><foreign>māntaḷir</foreign></supplied>,</item>
-            <item>one necklace <supplied reason="explanation"><foreign>kaṇṭa-k-kāṟai</foreign><note>Literally, “a necklet <supplied reason="explanation"><foreign>kāṟai</foreign></supplied> for throat <supplied reason="explanation"><foreign>kaṇṭam</foreign></supplied>”.</note></supplied> <supplied reason="subaudible">for</supplied> Piccatēvar,<note>That is, Śiva as Bhikṣāṭanamūrti.</note></item>
-            <item>one flapper <supplied reason="explanation"><foreign>cōppi</foreign></supplied> with a golden handle,</item>
-        </list>
-        ...
-        the gold ...
-        <supplied reason="subaudible">assessed by the standard measure</supplied> <foreign>kuṭiñai-k-kal</foreign>,
-        that comes through ...
-        <supplied reason="subaudible">of</supplied> Tirunāvukkaraiyaṉ, a servant/devotee of this god,
-        <supplied reason="subaudible">amounts to</supplied>
-        six hundred eighty <foreign>kaḻañcu</foreign>s and seven quarters, and three <foreign>mañcāṭi</foreign>s.
-    </p>   
-        
-    <p n="41-60">
-        So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 54</supplied>
-        <list>
-            <item>one ...,</item>
-            <item>four golden flowers,</item>
-            <item>twenty-one golden flowers,</item>
-            <item>gold ...,</item>
-            <item>one glorious anointement ...,</item>
-            <item>gold ...,</item>
-            <item>...,</item>
-        </list>
-        <supplied reason="subaudible">and</supplied> so that there be <supplied reason="explanation"><foreign>āka</foreign>, line 58</supplied>
-        ...
-        four hundred sixty-one <foreign>kaḻañcu</foreign>s and eleven <foreign>mañcāṭi</foreign>s,
-        one thousand one hundred fourty-two <foreign>kalañcu</foreign>s and seven <foreign>mañcāṭi</foreign>s.
-        <supplied reason="subaudible">are provisioned</supplied>.
-    </p>
-    
-    <p n="60-70">
-        So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 67</supplied>
-        one ...
-        one thousand two hundred seventy-four <foreign>kalañcu</foreign>s and three quarters
-        <supplied reason="subaudible">are provisioned</supplied>.
-    </p>
-    
-    <p n="70-71">
-        So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 71</supplied>
-         <list>
-            <item>one silver begging bowl <supplied reason="explanation"><foreign>maṇṭai</foreign><note>Literally, “skull,” used as begging bowl.</note></supplied>,</item>
-            <item>one plate <supplied reason="explanation"><foreign>vaṭṭil</foreign></supplied>,</item>
-        </list> 
-        ...
-        one hundred thirty-six <foreign>kalañcu</foreign>s and three quarters
-        <supplied reason="subaudible">are provisioned</supplied>.
-    </p>   
-    
-    <p n="71-72">
-        So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 72</supplied>
-        <list>
-            <item>one flower <supplied reason="explanation"><foreign>puṣpa</foreign></supplied>,</item>
-            <item>thirty water-lilies,</item>
-        </list>
-        ...
-        <foreign>kalañcu</foreign>s
-        <supplied reason="subaudible">are provisioned</supplied>.
-    </p>  
-	
-</div>	
-	
-<div type="commentary">	
-	<p>The present inscription <ref target="DHARMA_INSTiruvavatuturai10009.xml">Tiruvāvaṭutuṟai 10009</ref> contains no date at its beginning and starts in the same line where inscription <ref target="DHARMA_INSTiruvavatuturai10008.xml">Tiruvāvaṭutuṟai 10008</ref> ends with a <foreign>daṇḍa</foreign>. It refers to contents of <ref target="DHARMA_INSTiruvavatuturai10008.xml">Tiruvāvaṭutuṟai 10008</ref> (see <foreign>mēṟpaṭi</foreign>, “above”) and is thus connected with it, as a kind of continuation.</p>
-</div>
-	
-<div type="bibliography">
-				
-    <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/104).</p>	
-    <p>Edited here by Emmanuel Francis, based on photos (E. Francis, 2024).</p>
-    <p>ASI transcript and estampage, if any, yet to be consulted.</p>    
-	
-	<!--<listBibl type="primary">
-		
-		<bibl n="...">
-			<ptr target="bib:..."/>
-			<citedRange unit="page">...</citedRange>
-			<citedRange unit="item">...</citedRange>
-		</bibl>
-		
-	</listBibl>-->
-	
-	<listBibl type="secondary">
-		
-		<bibl n="ARIE">
-			<ptr target="bib:ARIE1924-1925"/>
-			<citedRange unit="page">24</citedRange>
-			<citedRange unit="appendix">B/1925</citedRange>
-			<citedRange unit="item">104</citedRange>
-		</bibl>     		
-		
-	</listBibl>
-</div>
-</body>
-  </text>
+        <body>
+            
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <p>
+                    <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">Wall</label>
+                    <lb n="A1=1"/>Uṭaiyār <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-cōḻa-tēvar nam
+                    <lb n="A2=2"/>pirāṭṭiyār <hi rend="grantha">trai</hi>lōkkiya-mā-tēviyār ta
+                    <lb n="A3=3" break="no"/>ṅkaḷ ācciyār Irāma<choice><orig>n</orig><reg>ṉ</reg></choice> Apimā<choice><orig>n</orig><reg>ṉ</reg></choice>a-toṅkiyār tiru-v-ā
+                    <lb n="A4=4" break="no"/>vaṭu-tuṟai Uṭaiyārkku Amutu ceyt-aruḷa ve<unclear>ḷḷi</unclear>
+                    <lb n="A5=5" break="no"/>-t-taḷikai <unclear>1</unclear>		
+                    nāl
+                    kuṭiñai-k-kallāl ni<add place="below">ṟai</add> ... kaḻañcum
+                </p>
+                
+                <p>
+                    mēṟ<milestone type="pagelike" n="B" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
+                    <lb n="B1=6" break="no"/>-p-pa<unclear>ṭi</unclear>yāḷē-y Uṭaiyārkku ...
+                    <lb n="B2=7"/><unclear>po</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> koḷkai 1
+                    nāl kuṭiñai-k-kkallāl
+                    <lb n="B3=8"/><surplus>n</surplus>niṟai cempon nā-nūṟṟu Oru		
+                    <milestone type="pagelike" n="C" unit="zone" break="no"/><label xml:lang="eng">Wall</label>
+                    <lb n="C1=9" break="no"/>pattu mu
+                    <lb n="C2=10" break="no"/>-k-kaḻañ<surplus>c</surplus>c’ arai		
+                </p>	
+                
+                <p>
+                    <lb n="C3=11"/>Ip-poṟ-k ko
+                    <lb n="C4=12" break="no"/>ḷkai nā-nūṟṟu I
+                    <lb n="C5=13" break="no"/>rupattu mu-k-kaḻañ
+                    <lb n="C6=14" break="no"/>c’ araiyum
+                </p>
+                
+                <p>		
+                    Uṭaiyār <hi rend="grantha">śrī</hi>
+                    <lb n="C7=15" break="no"/>-rāj<hi rend="grantha">ādhi</hi>rā<hi rend="grantha">jade</hi>var kuru-<hi rend="grantha">d</hi>evar I
+                    <lb n="C8=16" break="no"/>ṭṭa poṉ Irupatt’ aṟu kaḻañcu
+                    <lb n="C9=17" break="no"/>-p
+                </p>
+                <p>		
+                    periya-vēḷattu Arai		
+                    <lb n="C10=18" break="no"/>yaṉ Aṇukki Iṭṭa
+                    <lb n="C11=19"/>poṉ ṉūṟṟu muppa
+                    <lb n="C12=20" break="no"/>tt’ eṇ kaḻañc’ arai
+                    <lb n="C13=21" break="no"/>yum
+                </p>
+                
+                <p>		
+                    mēṟpa<surplus>ṭ</surplus>ṭi vēḷa
+                    <lb n="C14=22" break="no"/>ttu-t tūtuvaṉ arumo
+                    <lb n="C15=23" break="no"/>ḻi Iṭṭa po<choice><orig>n</orig><reg>ṉ</reg></choice> muppat
+                    <lb n="C16=24" break="no"/>t’ aṟu kaḻañc’ ēḻu-k kālu
+                    <lb n="C17=25" break="no"/>m 
+                </p>
+                
+                <p>
+                    Uḷpaṭa c<choice><orig>e</orig><reg>ey</reg></choice>ta
+                    <list>
+                        <item>                
+                            po
+                            <lb n="C18=26" break="no"/>ṟpū Irupatt’ ēḻum
+                        </item>
+                        <item>
+                            ce
+                            <lb n="C19=27" break="no"/>ṅkaḻunīr pū mu-p-pa
+                            <lb n="C20=28" break="no"/>tt’ āṟum
+                        </item>
+                        <item>
+                            māntaḷir O                
+                            <milestone type="pagelike" n="D" unit="zone" break="no"/><label xml:lang="eng">Wall</label>
+                            <lb n="D1=29" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>ṟum             
+                        </item>
+                        <item>
+                            picca-tēvar
+                            <lb n="D2=30"/>kaṇṭa-k-kāṟai O<choice><orig>n</orig><reg>ṉ</reg></choice>
+                            <lb n="D3=31" break="no"/>ṟum
+                        </item>
+                        <item>
+                            poṟ-kai Īc
+                            <lb n="D4=32" break="no"/>-cōppi O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟum</item>
+                    </list>
+                    
+                    mu
+                    <lb n="D5=33" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>pu kaḷveṭṭiṉa ⌈
+                    <lb n="D6=34"/>koḷkaiyilum
+                    Āka
+                    <lb n="D7=35"/>It-tēvar aṭiya<choice><orig>n</orig><reg>ṉ</reg></choice> tiru-nā
+                    <lb n="D8=36" break="no"/>vukkaraiya<choice><orig>n</orig><reg>ṉ</reg></choice> piccaiyāl va
+                    <lb n="D9=37" break="no"/>nta kuṭiñai-k-kallāl mā⌈
+                    <lb n="D10=38" break="no"/>ṭai po<choice><orig>n</orig><reg>ṉ</reg></choice> Aṟu ṉūṟṟu E
+                    <lb n="D11=39" break="no"/>ṉpati<choice><orig>n</orig><reg>ṉ</reg></choice> kaḻañc’ ēḻu-k
+                    <lb n="D12=40" break="no"/>kālē mu<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu mañcāṭi
+                    <lb n="D13=41" break="no"/>yum		
+                </p>
+                
+                <p>
+                    mu<choice><orig>n</orig><reg>ṉ</reg></choice>p’ uḷla po<choice><orig>n</orig><reg>ṉ</reg></choice>
+                    
+                    <list>
+                        <item>
+                            <lb n="D14=42"/>Uṭaiyār cārttum
+                            <lb n="D15=43"/>tiru-k-k<unclear>o</unclear>cakamu <gap reason="illegible" quantity="3" unit="character" precision="low"></gap>-k ⌈
+                            <lb n="D16=44"/>koṭukkum paṭṭam O<choice><orig>n</orig><reg>ṉ</reg></choice>
+                            <lb n="D17=45" break="no"/>ṟum
+                        </item>
+                        <item>
+                            poṟpū nālum
+                        </item>
+                        <item>
+                            Āṭa
+                            <lb n="D18=46" break="no"/><supplied reason="omitted">val</supplied>llār cā<reg>r</reg>ttum poṟpū Iru-pat
+                            <lb n="D19=47" break="no"/>tt’ o<choice><orig>n</orig><reg>ṉ</reg></choice>ṟum
+                        </item>
+                        <item>
+                            Ivarē cā<reg>r</reg>ttu mut
+                            <lb n="D20=48" break="no"/>tu-c ... po<choice><orig>n</orig><reg>ṉ</reg></choice>ṉum can
+                            <lb n="D21=49" break="no"/>tira-cēkara-tēvar tiru-v-a<hi rend="grantha">bhiṣe</hi>kam O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟ<unclear>u</unclear>
+                            <lb n="D22=50" break="no"/>m
+                        </item>
+                    </list>
+                    
+                    tiruvaṭi-nilai Iraṇṭināl ...
+                    <lb n="D23=51"/>po<choice><orig>n</orig><reg>ṉ</reg></choice>ṉum Uḷḷiṭṭu tiru-mē<choice><orig>n</orig><reg>ṉ</reg></choice>ika
+                    <lb n="D24=52" break="no"/>ḷ cā<reg>r</reg>ttum tiru-v-āparaṇaṅkaḷā
+                    <lb n="D25=53" break="no"/>lum poṟ-kai Ī-c-cōppiyālu
+                    <lb n="D26=54" break="no"/>m 
+                    Āka
+                    
+                    kuṭiñai-k-kallāl rā<hi rend="grantha">ja</hi>
+                    <lb n="D27=55" break="no"/>rā<hi rend="grantha">ja</hi><choice><orig>n</orig><reg>ṉ</reg></choice> māṭai-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ O<choice><orig>n</orig><reg>ṉ</reg></choice>patu māṟi
+                    <lb n="D28=56"/>po<choice><orig>n</orig><reg>ṉ</reg></choice> nā-ṉūṟṟu Aṟu<unclear>ppa</unclear>t’ o
+                    <lb n="D29=57" break="no"/>ru-k kaḻañcē O<choice><orig>n</orig><reg>ṉ</reg></choice>patu mañcāṭiyu
+                    <lb n="D30=58" break="no"/>m
+                    Āka-p 
+                    
+                    po<choice><orig>n</orig><reg>ṉ</reg></choice> Āyiratt’ oru <choice><orig>n</orig><reg>ṉ</reg></choice>ū
+                    <lb n="D31=59" break="no"/>ṟṟu nāṟpatt’ iru kaḷañcē Ēḻu mañ
+                    <lb n="D32=60" break="no"/>cāṭi
+                </p>
+                
+                <p>
+                    veḷḷi mutal kuṭiñai-k
+                    <lb n="D33=61" break="no"/>kallāl Āyirattu mu-p-pati<choice><orig>n</orig><reg>ṉ</reg></choice> kaḻa
+                    <lb n="D32=60" break="no"/>ñci<choice><orig>n</orig><reg>ṉ</reg></choice>āl tavas<unclear>i</unclear> tiru-nāvukkaraiyaṉu
+                    <lb n="D35=63" break="no"/>m caṇṭēcuvara-cōkiyum Eḻunt-aruḷu
+                    
+                    <milestone type="pagelike" n="E" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
+                    <lb n="E1=64" break="no"/><unclear>vi</unclear>tta ve<unclear>ḷḷi</unclear>-t tiru-mē<choice><orig>n</orig><reg>ṉ</reg></choice>-p<choice><orig>i</orig><reg>ī</reg></choice>ṭamum pira 
+                    <lb n="E2=65" break="no"/><unclear>vai</unclear>yum uṭpaṭa <hi rend="grantha">śrī</hi>-pali Eḻunt-aruḷun tiru-mē<choice><orig>n</orig><reg>ṉ</reg></choice>i Oruvar <unclear>veḷ</unclear>
+                    <lb n="E3=66" break="no"/>ḷi-p parikalam uṭpaṭa ... <unclear>ta</unclear>
+                    <lb n="E4=67" break="no"/>ḷikai O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟum
+                    Āka
+                    
+                    Uruppati nāl kuṭiñai-k-kallāl veḷḷi Ā
+                    <milestone type="pagelike" n="F" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
+                    <lb n="F1=68" break="no"/>yiratt’ iru-ṉūṟṟu Ēḻupattu
+                    <lb n="F2=69"/>nāṟ kaḻañcē mu-k-kālē
+                </p>
+                <p>        
+                    Iraṇ
+                    <lb n="F3=70" break="no"/>ṭum
+                    ... 
+                    <list>
+                        <item>
+                            veḷḷi
+                            <milestone type="pagelike" n="E" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
+                            <lb n="G1=71" break="no"/>-maṇṭai
+                        </item>
+                        <item>
+                            Oṉṟum vaṭṭil Oṉṟum
+                        </item>
+                    </list>
+                    Āka
+                    
+                    nūṟṟu mu-p-patt’ aṟu kaḻañcē mu-k-kāl
+                </p>
+                <p>
+                    mēṟpaṭi poṟpū
+                    ...        
+                    <lb n="G2=72" break="no"/>...
+                    <list>
+                        <item>
+                            pu<hi rend="grantha">ṣpa</hi>m Onṟum
+                        </item>
+                        <item>
+                            ceṅkaḻ<choice><sic>a</sic><corr>u</corr></choice>nīr-pū mu-p-patum
+                        </item>
+                    </list>
+                    Āka
+                    ...
+                    kaḻañcu        
+                </p>
+                
+            </div>	
+            
+            <!--<div type="apparatus">
+                
+                <listApp>
+                <app loc="0">
+                <lem></lem>
+                <rdg source="bib:..."></rdg>
+                <note></note>
+                </app>
+                
+                </listApp>
+                </div>-->
+            
+            <div type="translation" resp="part:emfr">
+                
+                <p n="1-5">
+                    <supplied reason="subaudible">From</supplied> our Lady of the lord, the glorious king Rājendra Cōḷa,
+                    Trailōkkiya-mā-tēviyār,<note>Sanskrit Trailokya Mahādevi.</note>
+                    his mother,
+                    <supplied reason="subaudible">and from</supplied> Irāmaṉ Apimāṉa Toṅkiyār,
+                    <supplied reason="subaudible">for</supplied> four silver eating plates <supplied reason="explanation"><foreign>taḷikai</foreign></supplied>,
+                    for the Lord <supplied reason="subaudible">of</supplied> Tiruvāvaṭutuṟai, so that he graciously eats <supplied reason="explanation"><foreign>amutu ceyt-aruḷa</foreign></supplied>,
+                    ... <foreign>kaḻañcu</foreign>s <supplied reason="subaudible">of</supplied> a weight <supplied reason="explanation"><foreign>niṟai</foreign></supplied> <supplied reason="subaudible">assessed by the standard measure</supplied> <foreign>kuṭiñai-k-kal</foreign>
+                    <supplied reason="subaudible">are provisioned</supplied>.
+                </p>
+                
+                <p n="5-10">
+                    For the above-mentioned Lord, <supplied reason="subaudible">for</supplied> 1 golden <foreign>koḷkai</foreign> ...
+                    four hundred thirteen and a half <foreign>kaḻañcu</foreign>s of refined gold <supplied reason="subaudible">of</supplied> a weight <supplied reason="explanation"><foreign>niṟai</foreign></supplied> <supplied reason="subaudible">assessed by the standard measure</supplied> <foreign>kuṭiñai-k-kal</foreign>
+                    <supplied reason="subaudible">are provisioned</supplied>.
+                </p>
+                
+                <p n="11-14">
+                    <supplied reason="subaudible">For</supplied> this golden <foreign>koḷkai</foreign>
+                    four hundred twenty-three and a half <foreign>kaḻañcu</foreign>s
+                    <supplied reason="subaudible">are provisioned</supplied>.
+                </p>
+                
+                <p n="14-17">
+                    The gold that
+                    the royal <foreign>guru</foreign> of the glorious lord, the king Rājādhirāja, gave
+                    <supplied reason="subaudible">amounts to</supplied>
+                    twenty-six <foreign>kaḻañcu</foreign>s.
+                </p>
+                
+                <p n="17-21">
+                    The gold that
+                    Araiyaṉ Aṇukki of the great palace
+                    gave
+                    <supplied reason="subaudible">amounts to</supplied>
+                    one hundred thirty-eight <foreign>kaḻañcu</foreign>s.
+                </p>
+                
+                <p n="21-25">
+                    The gold that
+                    Tūtuvaṉ Arumoḻi of the above-mentioned palace.
+                    gave
+                    <supplied reason="subaudible">amounts to</supplied>
+                    thirty-six <foreign>kaḻañcu</foreign>s and seven quarters.
+                </p>
+                
+                <p n="24-41">
+                    So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 34</supplied>
+                    ...
+                    <list>
+                        <item>twenty-seven golden flowers,</item>
+                        <item>thirty-six water-lily flowers,</item>
+                        <item>one mango leaf <supplied reason="explanation"><foreign>māntaḷir</foreign></supplied>,</item>
+                        <item>one necklace <supplied reason="explanation"><foreign>kaṇṭa-k-kāṟai</foreign><note>Literally, “a necklet <supplied reason="explanation"><foreign>kāṟai</foreign></supplied> for throat <supplied reason="explanation"><foreign>kaṇṭam</foreign></supplied>”.</note></supplied> <supplied reason="subaudible">for</supplied> Piccatēvar,<note>That is, Śiva as Bhikṣāṭanamūrti.</note></item>
+                        <item>one flapper <supplied reason="explanation"><foreign>cōppi</foreign></supplied> with a golden handle,</item>
+                    </list>
+                    ...
+                    the gold ...
+                    <supplied reason="subaudible">assessed by the standard measure</supplied> <foreign>kuṭiñai-k-kal</foreign>,
+                    that comes through ...
+                    <supplied reason="subaudible">of</supplied> Tirunāvukkaraiyaṉ, a servant/devotee of this god,
+                    <supplied reason="subaudible">amounts to</supplied>
+                    six hundred eighty <foreign>kaḻañcu</foreign>s and seven quarters, and three <foreign>mañcāṭi</foreign>s.
+                </p>   
+                
+                <p n="41-60">
+                    So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 54</supplied>
+                    <list>
+                        <item>one ...,</item>
+                        <item>four golden flowers,</item>
+                        <item>twenty-one golden flowers,</item>
+                        <item>gold ...,</item>
+                        <item>one glorious anointement ...,</item>
+                        <item>gold ...,</item>
+                        <item>...,</item>
+                    </list>
+                    <supplied reason="subaudible">and</supplied> so that there be <supplied reason="explanation"><foreign>āka</foreign>, line 58</supplied>
+                    ...
+                    four hundred sixty-one <foreign>kaḻañcu</foreign>s and eleven <foreign>mañcāṭi</foreign>s,
+                    one thousand one hundred fourty-two <foreign>kalañcu</foreign>s and seven <foreign>mañcāṭi</foreign>s.
+                    <supplied reason="subaudible">are provisioned</supplied>.
+                </p>
+                
+                <p n="60-70">
+                    So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 67</supplied>
+                    one ...
+                    one thousand two hundred seventy-four <foreign>kalañcu</foreign>s and three quarters
+                    <supplied reason="subaudible">are provisioned</supplied>.
+                </p>
+                
+                <p n="70-71">
+                    So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 71</supplied>
+                    <list>
+                        <item>one silver begging bowl <supplied reason="explanation"><foreign>maṇṭai</foreign><note>Literally, “skull,” used as begging bowl.</note></supplied>,</item>
+                        <item>one plate <supplied reason="explanation"><foreign>vaṭṭil</foreign></supplied>,</item>
+                    </list> 
+                    ...
+                    one hundred thirty-six <foreign>kalañcu</foreign>s and three quarters
+                    <supplied reason="subaudible">are provisioned</supplied>.
+                </p>   
+                
+                <p n="71-72">
+                    So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 72</supplied>
+                    <list>
+                        <item>one flower <supplied reason="explanation"><foreign>puṣpa</foreign></supplied>,</item>
+                        <item>thirty water-lilies,</item>
+                    </list>
+                    ...
+                    <foreign>kalañcu</foreign>s
+                    <supplied reason="subaudible">are provisioned</supplied>.
+                </p>  
+                
+            </div>	
+            
+            <div type="commentary">	
+                <p>The present inscription <ref target="DHARMA_INSTiruvavatuturai10009.xml">Tiruvāvaṭutuṟai 10009</ref> contains no date at its beginning and starts in the same line where inscription <ref target="DHARMA_INSTiruvavatuturai10008.xml">Tiruvāvaṭutuṟai 10008</ref> ends with a <foreign>daṇḍa</foreign>. It refers to contents of <ref target="DHARMA_INSTiruvavatuturai10008.xml">Tiruvāvaṭutuṟai 10008</ref> (see <foreign>mēṟpaṭi</foreign>, “above”) and is thus connected with it, as a kind of continuation.</p>
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/104).</p>	
+                <p>Edited here by Emmanuel Francis, based on photos (E. Francis, 2024).</p>
+                <p>ASI transcript and estampage, if any, yet to be consulted.</p>    
+                
+                <!--<listBibl type="primary">
+                    
+                    <bibl n="...">
+                    <ptr target="bib:..."/>
+                    <citedRange unit="page">...</citedRange>
+                    <citedRange unit="item">...</citedRange>
+                    </bibl>
+                    
+                    </listBibl>-->
+                
+                <listBibl type="secondary">
+                    
+                    <bibl n="ARIE">
+                        <ptr target="bib:ARIE1924-1925"/>
+                        <citedRange unit="page">24</citedRange>
+                        <citedRange unit="appendix">B/1925</citedRange>
+                        <citedRange unit="item">104</citedRange>
+                    </bibl>     		
+                    
+                </listBibl>
+            </div>
+        </body>
+    </text>
 </TEI>
