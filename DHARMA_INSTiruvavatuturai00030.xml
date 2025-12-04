@@ -44,7 +44,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><!--<foreign>ka</foreign> and <foreign>ta</foreign> are very similar.--></p>                            
+                            <p>Throughout the document, <foreign>va</foreign> and <foreign>pa</foreign> are used interchangeably. There is also consistently confusion between <foreign>ka</foreign> and <foreign>la</foreign>. These and other errors, as well as the material aspects and paleography of the plate, make one suspect that this is a late copy of an earlier grant, and that the scribe could not read some of the letters in the original document.</p>                            
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -86,54 +86,62 @@
                 </p>
                 <p>
                     
-                    <lb n="2r=2"/> svasti srī makā-maṇṭalēcuvaraṉ‌ Ari-kara-taḷa-vi- 
-                    <lb n="3r=3"/> pāṭaṉ‌, pācaikki tappuvarāta kaṇṭaṉ‌ ka- 
-                    <lb n="4r=4"/> ṇṭa nāṭu koṇṭu koṇṭa nāṭu kuṭātāṉ‌ rā- 
-                   <lb n="5r=5"/> cātirācaṉ‌ rāca-paramēcuvaraṉ‌ rāca-māṟttā- 
-                   <lb n="6r=6"/> ṇṭaṉ‌ raṇa-cutta-vīraṉ‌ kuṭaikki taṟuṇaṉ,‌ Aḻa- 
-                    <lb n="7r=7"/> kukku maṉmataṉ‌, Āṟiloru kaṭamai koṇṭa 
-                   <lb n="8r=8"/> cēra-cōḷa-pāṇṭiyaṉ‌ civapūcā-turantiraṉ‌, 
-                    <lb n="9r=9"/>civakāriya-turantiraṉ‌, vaṭaveḷḷāṟā[ṉa] cun 
-                    <lb n="10r=10"/> tara-pāṇṭiya-vaḷanāṭṭuḷ eṅkōḷa-nāṭṭu 
-                    <lb n="11r=11"/> Aṟantāṅki Aracu Āḷuṭaiya tampirāṉār‌ 
-                    <lb n="12r=12"/> srī-pāta-bhaktarāṉa srī Āḷuṭaiya rekunāta vaṇa- 
-                   <lb n="13r=13"/> ṅkā-muṭit‌-toṇ[ṟai>ṭai]māṉāravarkaḷ‌ 
+                    <lb n="2r=2"/><hi rend="grantha">svasti srī</hi> makā-maṇṭalēcuvaraṉ Ari-kara-taḷa-vi 
+                    <lb n="3r=3" break="no"/>pāṭaṉ pācaikki tappuvarāta kaṇṭaṉ ka 
+                    <lb n="4r=4" break="no"/>ṇṭa nāṭu koṇṭu koṇṭa nāṭu kuṭātāṉ rā
+                    <lb n="5r=5" break="no"/>cātirācaṉ rāca-paramēcuvaraṉ rāca-māṟttā
+                    <lb n="6r=6" break="no"/>ṇṭaṉ raṇa-cutta-vīraṉ kuṭaikki taṟuṇaṉ Aḻa 
+                    <lb n="7r=7" break="no"/>kukku maṉmataṉ Āṟiloru kaṭamai koṇṭa
+                    <lb n="8r=8"/>cēra-cōḷa-pāṇṭiyaṉ civapūcā-turantiraṉ 
+                    <lb n="9r=9"/>civakāriya-turantiraṉ vaṭaveḷḷā<choice><sic><hi rend="grantha">ma</hi> E</sic><corr>ṟāṉa</corr></choice> cun 
+                    <lb n="10r=10" break="no"/>tara-pāṇṭiya-vaḷanāṭṭuḷ eṅkōḷa-nāṭṭu
+                    <lb n="11r=11"/>Aṟantāṅki Aracu Āḷuṭaiya tampirāṉār
+                    <lb n="12r=12"/><hi rend="grantha">srī-pāta-bhakta</hi>rāṉa <hi rend="grantha">srī</hi> Āḷuṭaiya rekunāta vaṇa
+                    <lb n="13r=13" break="no"/>ṅkā-muṭi-t‌-toṇ<choice><orig>ṟ</orig><reg>ṭ</reg></choice>aimāṉāravarkaḷ
                     
                 </p>
                 
                 <p>tiru- 
-                    <lb n="14r=14"/> pperuntuṟai Āḷuṭaiya parama cuvāmiyā- 
-                    <lb n="15r=15"/> rukku tirumiḻalai nāṭaṉ‌ kaṭṭaḷaik‌ kālaca-
-                    <lb n="16r=16"/> nti-yiraṉ‌[ṭā]ṅ‌ kāla-pūcaikki </p>
+                    <lb n="14r=14"/>pperuntuṟai Āḷuṭaiya parama cuvāmiyā
+                    <lb n="15r=15" break="no"/>rukku tirumiḻalai nāṭaṉ kaṭṭaḷai-k kāla-ca
+                    <lb n="16r=16" break="no"/>ntiyiraṉ-<hi rend="grantha">‌śa</hi>ṅkāla-pūcaikki
+                </p>
                 
-                <p>Ampalattā- 
-                    <lb n="17r=17"/> ṭum‌ paṇṭāram‌ pāricamāka cakimuṟaṇi- 
-                    <lb n="18r=18"/> ya-utakatārā-pūṟuvamāka caṟuvāmā-  
-                    <lb n="19r=19"/>ṉiyamāka taṉmam‌ paṇṇi kuṭuttapaṭi […]</p>
+                <p>Ampalattā
+                    <lb n="17r=17" break="no"/>ṭum‌ paṇṭāram pāricamāka caki-muṟaṇi 
+                    <lb n="18r=18" break="no"/>ya-utaka-tārā-pūṟuvamāka caṟuvāmā
+                    <lb n="19r=19" break="no"/>ṉiyamāka taṉmam paṇṇi kuṭutta paṭi</p>
                 
                 <p>
-                    <lb n="20r=20"/> Aracar kuḷappaṟṟil kaḷakkuṭikki nāṉ 
-                    <lb n="21r=21"/> ṅkel[kai>lai] yāvaṉa kīḻpāṟkkel[kai>lai] 
-                    <lb n="22r=22"/> yāvatu kāraikkāṭṭukkum kīḻkkum 
-                    <lb n="23r=23"/> ?? Mēṟkku tēṉ[vā>pā]ṟkkelkaiyā 
-                    <lb n="24r=24"/> vatu āmāñcikkumāṉavanallūruk 
-                    <lb n="25r=25"/> ku pertukkāṭṭukkumalaṭakku mē 
-                    <lb n="26r=26"/> lvāṟkkelkai yāvatu aṟiyāmo 
-                    <lb n="27r=27"/> ḷikullārivayalukukku kiḻakku vaṭa 
-                    <lb n="28r=28"/> vāṟkkelkaiyāvatu cīṉamaṅkalat 
-                    <lb n="29r=29"/> tukku nākuṭikkukāraikkāṭakeku
-                    <lb n="30r=30"/> m tēṟkkuyinta?? Nāṅkelkaik 
+                    <lb n="20r=20"/>Aracar kuḷappaṟṟil kaḷakkuṭikki nāṉ
+                    <lb n="21r=21" break="no"/>ṅkel<choice><sic>k</sic><corr>l</corr></choice>ai yāvaṉa 
+                    
+                    kīḻpāṟkkel<choice><sic>k</sic><corr>l</corr></choice>ai
+                    <lb n="22r=22"/>yāvatu kāraikkāṭṭukkum kīḻakkum 
+                    <lb n="23r=23"/><surplus>kku=M</surplus> Mēṟkku 
+                    
+                    tēṉ<choice><sic>vā</sic><corr>pā</corr></choice>ṟkkel<choice><sic>k</sic><corr>l</corr></choice>ai yā 
+                    <lb n="24r=24" break="no"/>vatu āmāñcikku=M māṉava-nallūruk 
+                    <lb n="25r=25" break="no"/>ku=M potu-k-kāṭṭukku malaṭakku 
+                    
+                    mē 
+                    <lb n="26r=26" break="no"/>l<choice><sic>v</sic><corr>p</corr></choice>āṟkkel<choice><sic>k</sic><corr>l</corr></choice>ai yāvatu Aṟiyāmo 
+                    <lb n="27r=27" break="no"/>ḷik=kullāri vayaluk=ku=M kk<choice><sic>u</sic><corr>i</corr></choice><surplus>k<choice><sic>u</sic><corr>i</corr></choice></surplus>ḻakku vaṭa 
+                    <lb n="28r=28"/><choice><sic>v</sic><corr>p</corr></choice>āṟkkel<choice><sic>k</sic><corr>l</corr></choice>aiyāvatu cīṉamaṅkalat 
+                    <lb n="29r=29"/>tukku nākuṭikkukāraikkāṭakeku
+                    <lb n="30r=30"/>m tēṟkkuyinta?? Nāṅkelkaik 
                     
                     <pb n="1v"/>
                     
-                    <lb n="1v=31"/> Kuḷapaṭakaḷakkuṭiki?Mam caṟvamāṇiyam
-                    <lb n="2v=32"/> Īkatāṇam paṇṇi kuṭuttōm ācatirākka 
-                    <lb n="3v=33"/> Ttāyiyāka tāṉaṟu āṉupavittukkoḷu va 33=f.2L.4 Rārā laviyunta</p>
+                    <lb n="1v=31"/>Kuḷapaṭakaḷakkuṭiki?Mam caṟvamāṇiyam
+                    <lb n="2v=32"/>Īkatāṇam paṇṇi kuṭuttōm ācatirākka 
+                    <lb n="3v=33"/>Ttāyiyāka tāṉaṟu āṉupavittukkoḷu va 
+                    <lb n="1v4=34"/>Rārā laviyunta</p>
                 
                 
                 
                 <p> 
-                    <lb n="1v4=34"/>... yinta tammam paripālaṉam paṇṇi
+                    yinta tammam paripālaṉam paṇṇi
                     <lb n="1v5=35" break="no"/>ṉavarkaḷukku keṅkaikkaraiyilum Āti
                     <lb n="1v6=36" break="no"/>cētuvilum Āyiram civaliṅka-pi<choice><sic>e</sic><corr>ra</corr></choice>tiṭ
                     <lb n="1v7=37" break="no"/>ṭaiyum Āyiram kōtāṉam paṇṇiṉa pala
