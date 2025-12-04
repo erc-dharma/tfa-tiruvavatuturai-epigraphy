@@ -82,7 +82,7 @@
                 
                 <pb n="1r"/>
                 <p>
-                    <lb n="1r=1"/><unclear reason="eccentric_ductus"><g type="pc"></g></unclear>
+                    <lb n="1r=1"/><g type="pc"></g>
                 </p>
                 <p>
                     
@@ -116,27 +116,29 @@
                     <lb n="20r=20"/>Aracar kuḷappaṟṟil kaḷakkuṭikki nāṉ
                     <lb n="21r=21" break="no"/>ṅkel<choice><sic>k</sic><corr>l</corr></choice>ai yāvaṉa 
                     
-                    kīḻpāṟkkel<choice><sic>k</sic><corr>l</corr></choice>ai
-                    <lb n="22r=22"/>yāvatu kāraikkāṭṭukkum kīḻakkum 
-                    <lb n="23r=23"/><surplus>kku=M</surplus> Mēṟkku 
+                    <list><item>kīḻpāṟkkel<choice><sic>k</sic><corr>l</corr></choice>ai
+                            <lb n="22r=22"/>yāvatu kāraikkāṭṭukkum kīḻakkum 
+                            <lb n="23r=23"/><surplus>kku=M</surplus> mēṟkku</item> 
+                        
+                        <item>tēṉ<choice><sic>vā</sic><corr>pā</corr></choice>ṟkkel<choice><sic>k</sic><corr>l</corr></choice>ai yā 
+                            <lb n="24r=24" break="no"/>vatu āmāñcikku=M māṉava-nallūruk 
+                            <lb n="25r=25" break="no"/>ku=M potu-k-kāṭṭukku malaṭakku</item>
+                        
+                        <item>mē 
+                            <lb n="26r=26" break="no"/>l<choice><sic>v</sic><corr>p</corr></choice>āṟkkel<choice><sic>k</sic><corr>l</corr></choice>ai yāvatu Aṟiyāmo 
+                            <lb n="27r=27" break="no"/>ḷik=kullāri vayaluk=ku=M kk<choice><sic>u</sic><corr>i</corr></choice><surplus>k<choice><sic>u</sic><corr>i</corr></choice></surplus>ḻakku</item> 
+                        
+                        <item>vaṭa
+                        <lb n="28r=28"/><choice><sic>v</sic><corr>p</corr></choice>āṟkkel<choice><sic>k</sic><corr>l</corr></choice>aiyā<choice><sic>p</sic><corr>v</corr></choice>atu cīṉamaṅkalat 
+                        <lb n="29r=29" break="no"/>tukku=M nākuṭikku=M kāraikkāṭṭukku
+                        <lb n="30r=30" break="no"/>m tēṟkku</item></list>
                     
-                    tēṉ<choice><sic>vā</sic><corr>pā</corr></choice>ṟkkel<choice><sic>k</sic><corr>l</corr></choice>ai yā 
-                    <lb n="24r=24" break="no"/>vatu āmāñcikku=M māṉava-nallūruk 
-                    <lb n="25r=25" break="no"/>ku=M potu-k-kāṭṭukku malaṭakku 
-                    
-                    mē 
-                    <lb n="26r=26" break="no"/>l<choice><sic>v</sic><corr>p</corr></choice>āṟkkel<choice><sic>k</sic><corr>l</corr></choice>ai yāvatu Aṟiyāmo 
-                    <lb n="27r=27" break="no"/>ḷik=kullāri vayaluk=ku=M kk<choice><sic>u</sic><corr>i</corr></choice><surplus>k<choice><sic>u</sic><corr>i</corr></choice></surplus>ḻakku vaṭa 
-                    <lb n="28r=28"/><choice><sic>v</sic><corr>p</corr></choice>āṟkkel<choice><sic>k</sic><corr>l</corr></choice>aiyāvatu cīṉamaṅkalat 
-                    <lb n="29r=29"/>tukku nākuṭikkukāraikkāṭakeku
-                    <lb n="30r=30"/>m tēṟkkuyinta?? Nāṅkelkaik 
-                    
+                    yinta <sic>śe</sic>nāṅkel<choice><sic>k</sic><corr>l</corr></choice>aik
                     <pb n="1v"/>
-                    
-                    <lb n="1v=31"/>Kuḷapaṭakaḷakkuṭiki?Mam caṟvamāṇiyam
-                    <lb n="2v=32"/>Īkatāṇam paṇṇi kuṭuttōm ācatirākka 
-                    <lb n="3v=33"/>Ttāyiyāka tāṉaṟu āṉupavittukkoḷu va 
-                    <lb n="1v4=34"/>Rārā laviyunta</p>
+                    <lb n="1v=31"/>kuḷpaṭa kaḷakkuṭiki<hi rend="grantha">śa</hi>mam caṟvamāṇiyam
+                    <lb n="2v=32" break="no"/>āka tāṇam paṇṇi kuṭuttōm Ācantirākka 
+                    <lb n="3v=33" break="no"/>ttāyiyāka yāṉṟu Āṉupavittu kkoḷḷuv 
+                    <lb n="1v4=34"/>ĀR<surplus>R</surplus>Ākavu=M</p>
                 
                 
                 
