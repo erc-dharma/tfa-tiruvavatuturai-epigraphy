@@ -634,7 +634,7 @@
                     <head xml:lang="eng">Grant no. 11: Śaka year 1448</head>
                     
                     <p>
-                        <lb n="6v11=191=1"/><hi rend="grantha">sakābdaM</hi> <num value="1448"> <g type="numeral">1000</g> 4 <g type="numeral">100</g> 4 <g type="numeral">10</g> 8 </num> ṉ mēl cel
+                        <lb n="6v11=191=1"/><hi rend="grantha">sakābdaM</hi> <num value="1448"> 1 <g type="numeral">1000</g> 4 <g type="numeral">100</g> 4 <g type="numeral">10</g> 8 </num> ṉ mēl cel
                         <lb n="6v12=192=2" break="no"/>lā niṉṟa viya <hi rend="grantha">saṁvat·sara</hi>ttu <hi rend="grantha">dakṣiṇāyana</hi><seg type="aksara">t=tu</seg> kaṉṉināyaṟṟu <hi rend="grantha">A</hi>para<hi rend="grantha">pakṣa</hi>t=tu <hi rend="grantha">Aṣṭami</hi> cukkiṟa-v
                         <lb n="6v13=193=3" break="no"/>ĀRAmum peṟṟa puṇarpūca<seg type="aksara">t=tu</seg> nāḷ miḻalaikkūṟṟa<seg type="aksara">t=tu</seg> naṭuviṟ-k-kūṟṟam <hi rend="grantha">brahmadeśa</hi>m taṉi
                         <lb n="6v14=194=4" break="no"/>yūr tirupperuntuṟai Āṉa <hi rend="grantha">pavitra</hi>māṇikka <hi rend="grantha"><unclear>ca</unclear>turvedi</hi>-maṅkala<seg type="aksara">t=tu</seg> nāyaṉṉār Āḷuṭai
@@ -650,26 +650,33 @@
                         <item>mē
                         <lb n="7r4=199=9" break="no"/>lpāṟkellai varaṭṭāṟṟūr Ellaikkum tunatta <unclear>caṟu</unclear>kkum kiḻakku</item> 
                         <item>vaṭapāṟkellai velĀRṟa E
-                        <lb n="7r5=200=10" break="no"/>llaikkum Inayiṉṉār tēvamaṇṭala paṟṟup peruṅkāya Ūr Ellaikkum ceṉṉik karampai
+                        <lb n="7r5=200=10" break="no"/>llaikkum Inayiṉṉār tēvamaṇṭala paṟṟup peruṅkāya Ūr Ellaikkum ceṉṉi <seg type="aksara">k=k</seg>arampai
                         <lb n="7r6=201=11" break="no"/>kkum teṟku</item></list>
                         
-                        Āka Icaiynta perunāṉkellaikku Uḷpaṭṭa satusīmaikkum Ep
-                        <lb n="7r7=202=12" break="no"/>pēṟpaṭṭa samutāya prāptikaḷum sarvamum sarvamānyammā Upakṣaiya tārāpūrvammāka viṟpa
-                        <lb n="7r8=203=13"/>taṟkum Icantu vilainiccaiyotta cakkaram paṇam 1200 Ipaṇam Āyirattu irunūṟṟukkum
-                        <lb n="7r9=204=14"/>puttūrum kīḻkkuṭiyum vilaikkuṟa viṟṟup poruḷaṟa paṟṟi viṟṟu vilaippiramāṇam
-                        <lb n="7r10=205=15"/>paṇṇikkuṭutta puttūṟkkum kīḻkuṭikkum paṇam Āyirattu iru nūṟṟukkum Upakṣai
-                        <lb n="7r11=206=16"/>tārā pūrvammāka tirunāmattuk kāṇiyāka cantirātittavarṟ cella vilaippiramāṇam paṇṇi
-                        <lb n="7r12=207=17"/>k kuṭuttōm Āḷuṭaiya paramasvāmikaḷukku vaṭaveḷḷāṟṟu nāṭṭu mutalikaḷ
-                        <lb n="7r13=208=18"/>Aṉaivarumōm Ippaṭi cempilum kallilum veṭṭik koḷḷavum Inta tirunāmattu
-                        <lb n="7r14=209=19"/>kāṇikku Akitam paṇṇiṉavarkaḷ kaṅkai karaiyilē kapilaiyum kārām 
-                        <lb n="7r15=210=20"/>pacuvaiyum kuruvaiyum pirāmaṇaraiyum mātā pitāvaiyum koṉṟa pāvat
-                        <lb n="7r16=211=21"/>tile pōvārkaḷākavum Inta tirunāmattuk kā.ĩkkum nāṭṭu mutalikaḷ camaintu pa
+                        Āka Icaiynta perunāṟkellaikku Uḷpaṭṭa <hi rend="grantha"><choice><orig>s</orig><reg>c</reg></choice>atusī</hi>maikkum Ep
+                        <lb n="7r7=202=12" break="no"/>pēṟpaṭṭa <hi rend="grantha">samu<seg rend="check">dāya</seg>-prāpti</hi>kaḷum <hi rend="grantha">sarvamum sarvamānya</hi>mmā<supplied reason="omitted">ka</supplied> Upa<hi rend="grantha">kṣai</hi>ya <hi rend="grantha">dhĀRĀpūrvam</hi>māka viṟpa
+                        <lb n="7r8=203=13" break="no"/>takku Icaiyntu vilainiccaiyatta c-cakka<supplied reason="omitted">ra</supplied>m <g type="paṇam"></g> <num value="1200">1 <g type="numeral">1000</g> 2 <g type="numeral">100</g> </num> Ippaṇam Āyira<seg type="aksara">t=tu</seg> Iruṇṇūṟṟukkum
+                        <lb n="7r9=204=14"/>pu<seg type="aksara">t=tū</seg>rum kīḻkkuṭiyum vilaikkuṟa viṟṟup poruḷaṟa paṟṟi viṟṟu vilaippiṟamāṇam
+                        <lb n="7r10=205=15"/>paṇṇi k-kuṭutta pu<seg type="aksara">t=tū</seg>ṟkkum kīḻkuṭikkum paṇam Āyira<seg type="aksara">t=tu</seg> Iruṉūṟṟukkum U<hi rend="grantha">pakṣai</hi>
+                        <lb n="7r11=206=16"/><hi rend="grantha">dhārā-pūrvammāka</hi> tirunā<hi rend="grantha">ma</hi> k-kāṇiyāka <hi rend="grantha"><choice><orig>s</orig>c</choice>andrā</hi>ti<hi rend="grantha">tya</hi>vaṟ cella vilaippiṟamāṇam paṇṇi
+                        <lb n="7r12=207=17"/>k-kuṭuttōm Āḷuṭaiya para<hi rend="grantha">masvāmi</hi>kaḷu<hi rend="grantha">k=ku</hi> vaṭaveḷḷāṟṟu nāṭṭu mutalikaḷ
+                        <lb n="7r13=208=18"/>Aṉaivarumōm Ippaṭi cempilum kallilum veṭṭik koḷḷavum Inta tirunāma<seg type="aksara">t=tu</seg>
+                        <lb n="7r14=209=19"/>kāṇikku<unclear>m</unclear> <hi rend="grantha">Ahi</hi>ta <hi rend="grantha">pa</hi>ṇṇiṉavarkaḷ <hi rend="grantha">gaṁgai-k-karai</hi>yilē kapilaiyum kĀRĀm 
+                        <lb n="7r15=210=20"/>pacuvaiyum <hi rend="grantha">gu</hi>ruvaiyum <hi rend="grantha">brāhmaṇarai</hi>yum mātā pitāvaiyum koṉṟa pāvat
+                        <lb n="7r16=211=21" break="no"/>tile pōvārkaḷākavum Inta tirunāma<seg type="aksara">t=tu</seg>-k kāṇikku nāṭṭu mutalikaḷ camaintu 
+                        
+                        <list><item>pa
                         <!--this is the end of plate 7r (Copper plates_232.jpg), but I do not have photos of the recto, hence the following lines only come from Kriṣṇamūrtti -->
                         <pb n="7v"/>
-                        <lb n="7v1=212=22"/>ṉaiyūr Uṭaiyaāṉ paḷḷikoṇṭa perumāḷ eḻuttu mēṟpaṭi Āvuṭainayi 
-                        <lb n="7v2=213=23"/>ṉār Eḻuttu mēṟpaṭi Aṭaikkalaṅ kāttār Eḻuttu pēṟpaṭi kecavapperumāḷ Eḻu
-                        <lb n="7v3=214=24"/>ttu kūttūr Inaṅkal mīṭṭaperumāḷ Eḻuttu mēṟpaṭi coṉṉa vaṇṇam ceytār
-                        <lb n="7v4=215=25"/>Eṉakku nalla perumāḷ eḻuttu
+                        <lb n="7v1=212=22"/>ṉaiyūr Uṭaiyāṉ paḷḷikoṇṭa perumāḷ eḻuttu</item> 
+                        <item>mēṟpaṭi Āvuṭainayi 
+                        <lb n="7v2=213=23" break="no"/>ṉār Eḻuttu</item> 
+                       <item> mēṟpaṭi Aṭaikkalaṅ kāttār Eḻuttu</item> 
+                        <item>pēṟpaṭi kecavapperumāḷ Eḻu
+                        <lb n="7v3=214=24"/>ttu</item> 
+                        <item>kūttūr Inaṅkal mīṭṭaperumāḷ Eḻuttu</item> 
+                        <item>mēṟpaṭi coṉṉa vaṇṇam ceytār
+                        <lb n="7v4=215=25"/>Eṉakku nalla perumāḷ eḻuttu</item></list>
                     </p>
                     
                 </div>
