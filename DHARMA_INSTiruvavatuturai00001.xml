@@ -749,9 +749,9 @@
                     <head xml:lang="eng">Grant no. 13: Śaka year 1448</head>
                     
                     <p>
-                        <lb n="8r11=237=1"/>svastiśrī cakāptam 14
-                        <lb n="8r12=238=2"/>48 Itaṉ mēl cellā niṉṟa ceyacamvatcarattu tekṣaṇāyana
-                        <lb n="8r13=239=3"/>ttu tulāñāyaṟṟu pūrvapakṣattu cukkuṟavāramum cattamiyum peṟṟa Urōkiṇi nāḷ
+                        <lb n="8r11=237=1"/><hi rend="grantha">svasti śrī sakā</hi>ttam <num value="1448"> <g type="numeral">1000</g> 4 <g type="numeral">100</g>
+                        <lb n="8r12=238=2"/>4 <g type="numeral">10</g> 8</num> <g type="tēti"></g> Ataṉ mēl ce<choice><orig>l</orig><reg>ll</reg></choice>ā niṉṟa ceyacam <g type="varuṣam"></g><hi rend="grantha">ṣa</hi><seg type="aksara">t=tu</seg> tekṣaṇāyaṉa
+                        <lb n="8r13=239=3" break="no"/><seg type="aksara">ttu</seg> tulāñāyaṟṟu pūrvapakṣattu cukkuṟavāramum cattamiyum peṟṟa Urōkiṇi nāḷ
                         <lb n="8r14=240=4"/>miḻalaik kūṟṟattu naṭuviṟ kūṟṟattu pirammatēyam taṉiyūr tirpperuntuṟai Āṉa
                         <!--photo 234 --> <pb n="8v"/>
                         <lb n="8v1=241=5"/>pavittiramāṇikka caturvēti maṅkalattu nāyaṉār Āvuṭaiya paramacuvāmiyaḷuk 
