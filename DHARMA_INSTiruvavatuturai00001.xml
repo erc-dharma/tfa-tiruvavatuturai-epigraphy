@@ -719,25 +719,28 @@
                             <item>mē
                                 <!-- from line 12 of this inscription, we go back to the plate 8r, photo n. 233-->
                                 <pb n="8r"/>
-                                <lb n="8r1=227=13"/>lpāṟkellai tiruppaivayalukku kiḻakku</item> 
-                            <item>vaṭapāṟkellai kalaiyaṉ vaya
-                                <lb n="8r2=228=14" break="no"/>lukku tuttākkuṭi kuḷattiṟkum teṟkum </item>
+                                <lb n="8r1=227=13"/>lpāṟkellai tiruppai-vayalukku kiḻakku</item> 
+                            <item>vaṭapāṟkel<supplied reason="lost">lai</supplied> kalaiyaṉ vaya
+                                <lb n="8r2=228=14" break="no"/>lukkum tuttākkuṭi kuḷa<seg type="aksara">t=tu</seg>kkum teṟkum </item>
                         </list>                        
                         āka Icainta perunāṉke
-                        <lb n="8r3=229=15" break="no"/>llaikku yuṭpaṭṭa cakala camasta pirāptikaḷum carvamum carvamā
-                        <lb n="8r4=230=16" break="no"/>nyamāka tirunāmattuk kāṇiyāka cantirātittavaṟ cella Utaka pūrvam āka kuṭut
-                        <lb n="8r5=231=17" break="no"/>ttōm Āḷuṭaiya parama cuvāmikaḷukku cūriya tēvattoṇṭaimāṉārrōm 
+                        <lb n="8r3=229=15" break="no"/>llaikku yuṭpaṭṭa Epperpaṭṭa <hi rend="grantha">sakala samasta prāpti</hi>kaḷum <hi rend="grantha">sarvamum sarvamā
+                        <lb n="8r4=230=16" break="no"/>nya</hi>māka tirunāma<seg type="aksara">t=tu</seg> kāṇiyāka <hi rend="grantha"><choice><orig>sa</orig><reg>ca</reg></choice>ndrā</hi>ti<hi rend="grantha">tya</hi>var c-cella Udaka-pūrvam āka kuṭut
+                        <lb n="8r5=231=17" break="no"/>ttōm Āḷuṭaiya para<supplied reason="omitted">ma</supplied>-cuvāmikaḷukku cūriya tēvattoṇṭaimāṉārRŌ<supplied reason="omitted">m</supplied> 
                     </p> 
                     <p>
-                        <lb n="8r6=232=18"/>piḷḷai vayal sarvamāṉyamāka cantirātittavarc cella cempilum
-                        <lb n="8r7=233=19"/>kallilum ceṭṭik koḷḷavum Inta tirunāmattu kāṇikku
-                        <lb n="8r8=234=20"/>akitam paṇṇiṉavarkaḷ kaṅkaik karaiyilē kapilaiyum kārām pa
-                        <lb n="8r9=235=21"/>cuvaiyum kuruvaiyum pirāmaṇaraiyum mātā pitāvaiyum konṟa
-                        <lb n="8r10=236=22"/>pāvattiṟ pōvārkaḷākavum 
+                        <lb n="8r6=232=18"/>piḷḷai vayal <hi rend="grantha">sarvamānnyamāka <choice><orig>sa</orig><reg>ca</reg></choice>ndrāditya</hi>vaṟ-c cella cempilum
+                        <lb n="8r7=233=19"/>kallilum veṭṭi-k koḷḷavum 
                     </p>
                     <p>
-                        Inta tamma cācaṉa paṭṭaiyam cūriya 
-                        <lb n="8r11=237=23"/>tēvart toṇṭaimāṉār eḻuttu <g type="ddanda">.</g>
+                        Inta tirunāma<seg type="aksara">t=tu</seg> kāṇikku
+                        <lb n="8r8=234=20"/><hi rend="grantha">Ahi</hi>tam paṇṇiṉavarkaḷ <hi rend="grantha">gaṅgaik karai</hi>yilē kapilaiyum kĀRĀm pa
+                        <lb n="8r9=235=21" break="no"/>cuvaiyum <hi rend="grantha">gu</hi>ruvaiyum <hi rend="grantha">brāma</hi>ṇa<hi rend="grantha">rai</hi>yum mātā pitāvaiyum kon                        
+                        <lb n="8r10=236=22" break="no"/>ṟa pāvattiṟ pōvārkaḷākavum 
+                    </p>
+                    <p>
+                        Inta <hi rend="grantha">dhamma-śās<choice><orig>ā</orig><reg>a</reg></choice>na</hi>-paṭṭaiyam cūriya 
+                        <lb n="8r11=237=23"/>tēvar-t toṇṭaimāṉār Eḻu<seg type="aksara">t=tu</seg> <g type="ddanda">.</g>
                     </p>
                     
                 </div>
