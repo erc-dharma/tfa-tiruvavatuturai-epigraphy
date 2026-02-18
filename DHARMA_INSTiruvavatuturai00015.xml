@@ -85,13 +85,22 @@
                 <pb n="1r"/>
                 <p>
                     
-                    <lb n="1r=1"/>cakā<unclear>ṟ</unclear>ttam <num value="1575"> <g type="numeral">1000</g> 5 <g type="numeral">100</g> 7 <g type="numeral">10</g> 5 </num> Itaṉ mēl cellāniṉṟa ceya <g type="varuṣam"></g> Āṉi <g type="mācam"></g> <num value="17"> <g type="numeral">10</g> 7 </num> <g type="tēti"/> srīmatu tiru
+                    <lb n="1r=1"/>cakā<unclear>ṟ</unclear>ttam <num value="1575"> <g type="numeral">1000</g> 5 <g type="numeral">100</g> 7 <g type="numeral">10</g> 5 </num> Itaṉ mēl cellāniṉṟa ceya <g type="varuṣam"></g> Āṉi <g type="mācam"></g> <num value="17"> <g type="numeral">10</g> 7 </num> <g type="tēti"/> 
+                </p>
+                <p> 
+                    srīmatu tiru
                     <lb n="2r=2" break="no"/>malaic cētupati kātta tēvarkaḷ kāriyattu<seg type="aksara">k=ku</seg> kattarāṇa maṇalūril yirukkum aṭṭavaṇai
                     <lb n="3r=3"/>vēlappapiḷḷai makaṉ kumāra cuvāmikku Aṟantāṅkiyil irukkum piḷḷaippēril
                     <lb n="4r=4"/>kūṉkāri-t tēvaṉum cintāṉ puliyattēvaṉum Iruvakai pērum Eṅkaḷ kāṇiyāvatu
-                    <lb n="5r=5"/>kaṇṇakkaṉ vayal vilaippiṟamā<unclear>ṇa-p</unclear> paṇṇi-k kuṭu<seg type="aksara">t=ta</seg> paricā<choice><orig>vu</orig><reg>va</reg></choice>tu Ūḷatu puravu perunā
+                    <lb n="5r=5"/>kaṇṇakkaṉ vayal vilaippiṟamā<unclear>ṇa-p</unclear> paṇṇi-k kuṭu<seg type="aksara">t=ta</seg> paricā<choice><orig>vu</orig><reg>va</reg></choice>tu Ūḷatu
+                </p>
+                <p>
+                    puravu perunā
                     <lb n="6r=6" break="no"/>ṉṅkellai yēcamaṅkalakuḷa<seg type="aksara">t=tu</seg><seg type="aksara">k=ku</seg> mēṟku vaṭapāṟkkellai Āyi<seg type="aksara">t=ta</seg>ppaṭṭikku teṟku mēṟpāk
-                    <lb n="7r=7" break="no"/>kellai ṉāvilivayaluku kiḻaku teṉpākkellai neṭṭi Ēmpal karuṅkuḻi tāvuku vaṭaku Inta pe
+                    <lb n="7r=7" break="no"/>kellai ṉāvilivayaluku kiḻaku teṉpākkellai neṭṭi Ēmpal karuṅkuḻi tāvuku vaṭaku
+                </p>
+                <p>
+                    Inta pe
                     <lb n="8r=8" break="no"/>runāṉṅkellaikkuḷppaṭṭa nañcai nañcey puñcai Uḷpaṭa koḷvar ār uḷaRŌ koḷvār uḷaRŌ Eṉṟu
                     <lb n="9r=9"/>nāṉ muṟkkūṟa Avar piṟkkūṟa Eṉmoḻi kēṭṭu Etirmoḻi moḻintu viṟpatukk' icaintu
                     <lb n="10r=10"/>Aṟantāṅki nāṭṭār muṉpāka<seg type="aksara">vu=M</seg> tirupperuntuṟai pala naṭuvar muṉpāka<seg type="aksara">vu=M</seg> vilai niṭcam paṇ
@@ -101,15 +110,26 @@
                     <lb n="14r=14"/>paṭiyiṉālē yituvē <add place="below">vi</add>lai><seg type="aksara">yu=M</seg> ituvē cātaṉamāka Āṇṭum Aṉupavittu vi<seg type="aksara">t=tu</seg>m o<choice><orig><seg type="aksara">tti</seg></orig><reg>ṟṟi</reg></choice> vaiy
                     <lb n="15r=15" break="no"/>ttum cītaṉap piṟā<seg type="aksara">t=ti</seg> koṭu<seg type="aksara">t=tu</seg>m cantirātitta varaikkum Āṇṭu koḷḷak kaṭavarā
                     <lb n="16r=16" break="no"/>ka<seg type="aksara">vu=M</seg> Itāḷummiṭa<seg type="aksara">t=ti</seg>l taṭaiyiṭai vantāl nāṉē taṭai tī<seg type="aksara">t=tu</seg>k kuṭuppōm āka<seg type="aksara">vu=M</seg>
+                </p>
+                <p> 
                     <lb n="17r=17"/>intapaṭikku Āṭiyapāta paṇṭĀRAttiṉ kaṭṭaḷaikku kāriyaka<seg type="aksara">t=ta</seg>RĀṉa RĀvu<seg type="aksara">t=ta</seg> paṇṭĀRAa<seg type="aksara">t=ti</seg>ṉ
-                    <lb n="18r=18"/>pāricamāka tiruvaṉanta kaṭṭaḷaikku cē<seg type="aksara">t=tu</seg> kaṭṭaḷaiyiṭṭōm Inta paṭiku Aṭṭavaṉai vē
+                    <lb n="18r=18"/>pāricamāka tiruvaṉanta kaṭṭaḷaikku cē<seg type="aksara">t=tu</seg> kaṭṭaḷaiyiṭṭōm 
+                </p>
+                <p>
+                    Inta paṭiku Aṭṭavaṉai vē
                     <lb n="19r=19" break="no"/>lappiḷḷai makaṉ kumāracuvāmiyā piḷḷai<g type="kku"></g> kūṅaṅkārittēvaṉum cintāṉ puliyat
-                    <lb n="20r=20" break="no"/>tēvaṉum cammati<seg type="aksara">t=tu</seg> kiṟāmam cātaṉam paṇṇi kuṭuttēṉ Inta cātaṉam eḻutina
+                    <lb n="20r=20" break="no"/>tēvaṉum cammati<seg type="aksara">t=tu</seg> kiṟāmam cātaṉam paṇṇi kuṭuttēṉ 
+                </p>
+                <p>
+                    Inta cātaṉam eḻutina
                     <lb n="21r=21" break="no"/>tu vīrappappiḷḷai Āvāṉ eḻu<seg type="aksara">t=tu</seg> intapaṭi<g type="kku"/> cā<choice><orig><hi rend="grantha">ṣ</hi>c</orig><reg>ṭ</reg></choice>ci malaiyanta mutaliyār Aṟantā
                     <lb n="22r=22" break="no"/>ṅki yirukkum kāmāṭccit tēvaṉ Āvuṭaiyār kōvil cellap perumāḷ ayyaṉ
                     <lb n="23r=23"/>inta kiṟāma<seg type="aksara">t=tu</seg><g type="kku"/> yātām Orutar taṭai Iṭai paṇṇiṉāl tirumalai cētupati kā<seg type="aksara">t=ta</seg>tēvar
                     <lb n="24r=24" break="no"/>kāriya<seg type="aksara">t=tu</seg>ku ka<seg type="aksara">t=ta</seg>rāṉa Aṭṭavaṇai piḷḷaimārum rekuṉātat toṇṭaimāṉār avar
-                    <lb n="25r=25" break="no"/>kaḷ kāriyattu ka<seg type="aksara">t=ta</seg>RĀṉa pāṇṭitatēvĀR taṭaiti<seg type="aksara">t=tu</seg> kuṭu<seg type="aksara">k=ka</seg> kaṭavaRĀka<seg type="aksara">vu=M</seg> Inta taṉma
+                    <lb n="25r=25" break="no"/>kaḷ kāriyattu ka<seg type="aksara">t=ta</seg>RĀṉa pāṇṭitatēvĀR taṭaiti<seg type="aksara">t=tu</seg> kuṭu<seg type="aksara">k=ka</seg> kaṭavaRĀka<seg type="aksara">vu=M</seg>
+                </p>
+                <p>
+                    Inta taṉma
                     <lb n="26r=26"/>Āvuṭaiya paramacuvāmiyārkku tiruvaṉantal kaṭṭaḷaikku kaṭṭaḷaiyiṭṭōm
                 </p>	
                 
