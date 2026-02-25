@@ -122,22 +122,25 @@
                 <p>
                     murukappaṉ maṭa-taṟma
                     <lb n="1v5=32" break="no"/><seg type="aksara">t=tu</seg><seg type="aksara">k=ku</seg>m A<seg type="aksara">k=ki</seg>rakĀRA<seg type="aksara">t=tu</seg>kkum kaṭṭaḷaiyiṭṭa kiṟāmamāvatu 
-                    </p>
-                    <p>
+                </p>
+                <p>
                     tirup
                     <lb n="1v6=33" break="no"/>poṟkōṭṭai pakaiyaṉi piRĀntaṉi Inta <seg type="aksara">k=ki</seg>rāmaṅkaḷil
-                    <lb n="34"/>taṟmakkiṟāmam tiruppoṟkōṭṭaikku elkaiyāvatu - kīḷpāṟ
-                    <lb n="35"/>kellai valaiyaṉ cōḷiyaṉ kaṇmāykkum ēṟaṇikkōṭ
+                    <lb n="34"/>taṟma<seg type="aksara">k=ki</seg>ṟāmam tiruppoṟkōṭṭai<seg type="aksara">k=ku</seg> Ll<choice><orig>k</orig><reg>l</reg></choice>aiyāvatkīḷpāṟ
+                    <lb n="35" break="no"/>kellai valaiyaṉ cōḷiyaṉ kaṇmāykkum ēṟaṇikkōṭ
                     <lb n="36"/>ṭaik kaṇmāykkum mēṟku teṉpāṟ kellaiyāvatu ciṟukaikka
                     <lb n="37"/>ṇmāy vaṭakkīḻkkompu vaṭakku mēṟpāṟ kellaiyāvatu
                     <lb n="38"/>āmpaṭṭaṉ kōṭṭai, ceṭṭi ēntal, puḷiyāṇṭāṉ karicalukkuk kiḷa
-                    <lb n="39"/>kku. vaṭapāṟ kellaiyāvatu tukkākkuṭi āttukku teṟku piramatā
-                    <lb n="40"/>yak kiṟāmam. pakaiyeṉi pirāntiṉikku elkaiyāvatu. kīḷ
+                    <lb n="39"/>kku vaṭapāṟ kellaiyāvatu tukkākkuṭi āttukku teṟku piramatā
+                    <lb n="40"/>yak kiṟāmam pakaiyeṉi pirāntiṉikku elkaiyāvatu kīḷ
                     <lb n="41"/>pākkellai pāppāṉ kōṭṭai amaṉippuḷi yālakkaṇmāyaḷu
-                    <lb n="42"/>kku mēṟku. teṉpāṟkellai tiṭakkōṭṭai vaṭavayalukku va
-                    <lb n="43"/>ṭakku. mēṟpāṟkellai cāṇāṉēntal" koḷḷuṭaiyār taṉmattu
+                    <lb n="42"/>kku mēṟku teṉpāṟkellai tiṭakkōṭṭai vaṭavayalukku va
+                    <lb n="43"/>ṭakku mēṟpāṟkellai cāṇāṉēntal koḷḷuṭaiyār taṉmattu
                     <lb n="44"/>neymēṉikkum kiḷakku. vaṭapāṟkellai araiyēṉit teṉvaṭalnavatē
-                    <lb n="45"/>vatēvaṉ ūṟaṇikkum teṟku. iṉṉāṉkellaikkuḷpaṭṭa māvaṭai,
+                    <lb n="45"/>vatēvaṉ ūṟaṇikkum teṟku 
+                </p>
+                <p>
+                    iṉṉāṉkellaikkuḷpaṭṭa māvaṭai,
                     <lb n="46"/>maravaṭai, tiṭṭut tiṭal, pāmpāṭu, paṉai, vaṭali, āvirai koḻuñci, kīḷnōk
                     <lb n="47"/>kiya kiṇaṟu, niti, niṭcēpam cakalamum taṟmattukku akkirakārattukku caṟu
                     <lb n="48"/>vamāṉiyamāka kaṭṭaḷaiyiṭṭapaṭiyiṉālē 
