@@ -199,12 +199,19 @@
                 </p>		
                 
                 <p>
-                    <lb n="1v28=59=A01"/><hi rend="grantha">śrī-śaṁkaran·</hi> tuṇai
+                    <lb n="01"/><hi rend="grantha">śrī-śaṁkaran·</hi> tuṇai
                 </p>
             </div>
             
             
-            <div type="apparatus"/>
+            <div type="apparatus">
+                <listApp>
+                    <app loc="1v28=59=01">
+                        <lem><hi rend="grantha">śrī-śaṁkaran·</hi> tuṇai</lem>
+                        <note>This blessing is inscribed in a frame that interrupts lines 1v28=59 and 1v29=60.</note>
+                    </app>
+                </listApp>
+            </div>
                 
             
             <div type="translation" resp="part:matr">
