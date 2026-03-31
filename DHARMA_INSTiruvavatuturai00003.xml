@@ -127,7 +127,7 @@
                     <lb n="1r27=27"/>v<choice><orig>ayi</orig><reg>ai</reg></choice>kai vaḷaṉāṭaṉ ko<seg type="aksara">ṭ=ṭa</seg>m aṭakki v<choice><orig>ay</orig><reg>ai</reg></choice>yāḷi ṉā<hi rend="grantha"><unclear>rā</unclear></hi>
                     <lb n="1r28=28" break="no"/>yaṇaṉ Ivvuḷi pāvaṭi mītitt’ ēṟuvār kaṇ
                     <lb n="1r29=29" break="no"/>ṭaṉ vīra-ve<choice><orig>m</orig><reg>ṇ</reg></choice>pā-mālai taḷaciṅkam pakai-ma
-                    <lb n="1r30=30" break="no"/>ṉṉar ciṅka-mata-p-puli Aṭai<seg type="aksara">k=ka</seg><seg type="aksara">la=M</seg> kāttāṉ
+                    <lb n="1r30=30" break="no"/>ṉṉar ciṅka-mata-p-puli Aṭai<seg type="aksara">k=ka</seg>la=M kāttāṉ
                     <lb n="1r31=31"/>tāli<seg type="aksara">k=ku</seg> vēli cattuRĀtiyaḷ muṇṭaṉ
                     
                     <pb n="1v"/>	
@@ -148,7 +148,7 @@
                 </p>		
                 <p>
                     cē
-                    <lb n="1v15=46" break="no"/>tu-kāvalaṉ vara-p-piṟat<choice><orig>i</orig><reg>ī</reg></choice>pa-naṭaṉ <seg type="aksara">t=-tu</seg>kavūr-kūtta<seg type="aksara">t=tu</seg>
+                    <lb n="1v15=46" break="no"/>tu-kāvalaṉ vara-p-piṟat<choice><orig>i</orig><reg>ī</reg></choice>pa-naṭaṉ <seg type="aksara">t=-tu</seg>kavūr-kūtta<supplied reason="omitted">t</supplied>tu
                     <lb n="1v16=47"/>kāttūR-Āṉa kulō<seg type="aksara">t=tu</seg>ṅka-cōḻa-nallūr kīḻ-pā
                     <lb n="1v17=48" break="no"/>l viraiyāta kaṇṭaṉil irukkum <hi rend="grantha">śrī</hi>-yiraṇya
                     <lb n="1v18=49" break="no"/>keṟppāy āti-rekuṉāta-cētupati-kā<seg type="aksara">t=ta</seg>-tēvar avarka
@@ -170,46 +170,51 @@
                     <lb n="1v26=57" break="no"/> ya paRĀpara-niRĀmaya-niṟkuṇa-niRĀlampa-ni<hi rend="grantha">ra</hi>ti<hi rend="grantha">sa</hi>ya Ākaṇ 
                     <lb n="1v27=58" break="no"/>ṭākĀRA-ca<hi rend="grantha">ccidā</hi>na<hi rend="grantha">nda-svarūpa-<choice><sic>so</sic><corr>svayaṁ</corr></choice>-pra</hi>kāca-va<hi rend="grantha">stu</hi>-v-ākiya <hi rend="grantha">s</hi>
                     <lb n="1v28=59" break="no"/><hi rend="grantha">ā</hi>mi śrī-Ā<hi rend="grantha">tma</hi>ṉāta-cuvāmiyĀR can=nit
-                    <lb n="1v29=60" break="no"/>āṉa<seg type="aksara">t=tu</seg><seg type="aksara">k=ku=M</seg>
+                    <lb n="1v29=60" break="no"/>āṉa<seg type="aksara">t=tu</seg><seg type="aksara">k=ku</seg>=M
                 </p>
                 
                 <p>
                     civayōka-ṉāyaki A
-                    <lb n="1v30=61" break="no"/>mmaṉu<seg type="aksara">k=ku=M</seg> Aṭ<choice><orig>a</orig><reg>ai</reg></choice>p=pa-varicai Āparaṇa<seg type="aksara">t=tu=k=ku=M</seg><!--weird conjunct letter--> 
+                    <lb n="1v30=61" break="no"/>mmaṉu<seg type="aksara">k=ku</seg>=M Aṭ<choice><orig>a</orig><reg>ai</reg></choice>p=pa-varicai Āparaṇa<seg type="aksara">t=tu=k=ku</seg>=M
                 </p>
                 
                 <p>
-                    maṉṉār calāpa<choice><sic>t</sic><corr>tt</corr></choice>il ca<supplied reason="omitted">r</supplied>v
+                    maṉṉār calāpa<supplied reason="omitted">t</supplied>til ca<supplied reason="omitted">r</supplied>v
                     <lb n="1v31=62" break="no"/>va-māṉiyam-āka Oru tōṇi Añcu ka<seg type="aksara">l=lu</seg><!--kal=lu=M?--> nī<seg type="aksara">r=ta</seg><!--not clear this conjunct-->ṭāka<!--nin=taṭāka?-->-mu<seg type="aksara">t=tu</seg>-calāpaṅ ku 
-                    <lb n="1v32=63" break="no"/>ḷi<seg type="aksara">t=tu</seg>k koḷḷa-c co<seg type="aksara">l=li</seg> tāmpura-cātaṉa-<hi rend="grantha">pa</hi>ṭṭai<seg type="aksara">ya=M</seg> kuṭu<seg type="aksara">t=t</seg>ōm
+                    <lb n="1v32=63" break="no"/>ḷi<seg type="aksara">t=tu</seg>k koḷḷa-c co<seg type="aksara">l=li</seg> tāmpura-cātaṉa-<hi rend="grantha">pa</hi>ṭṭaiya=M kuṭu<seg type="aksara">t=t</seg>ōm
                 </p>
                 
                 <p>
                     can=ti
-                    <lb n="1v33=64" break="no"/><unclear>RĀ</unclear>ti<seg type="aksara">t=ta</seg>-varaik=ku=M Āṇṭ’ aṉupavi<choice><sic>t</sic><corr>tt</corr></choice>uk koḷḷa-<seg type="aksara">k=-ka</seg>ṭavaR Ākavum
+                    <lb n="1v33=64" break="no"/><unclear>RĀ</unclear>ti<seg type="aksara">t=ta</seg>-varaik=ku=M Āṇṭ’ aṉupavi<supplied reason="omitted">t</supplied>tuk koḷḷa-<seg type="aksara">k=-ka</seg>ṭavaR Ākavum
                 </p>
                 
                 <p>
                     In=ta
-                    <lb n="1v34=65"/> taṟma<seg type="aksara">t=t</seg>ai yāROruvar parip<choice><sic>a</sic><corr>ā</corr></choice>la<seg type="aksara">ṉa=M</seg> paṇṇiṉavarkaḷ keṅ
+                    <lb n="1v34=65"/> taṟma<seg type="aksara">t=t</seg>ai yāROruvar parip<choice><sic>a</sic><corr>ā</corr></choice>laṉa=M paṇṇiṉavarkaḷ keṅ
                     <lb n="1v35=66"/>kai-k=-karaiyil kōṭi-civaliṅka-piṟa<supplied reason="omitted">ti</supplied><hi rend="grantha">ṣṭ</hi><choice><orig><hi rend="grantha">e</hi></orig><reg><hi rend="grantha">ai</hi></reg></choice>yu<supplied reason="omitted">m</supplied> kōṭi
                     <lb n="1v36=67"/><hi rend="grantha">brahma-pra</hi>ti<hi rend="grantha">ṣṭ</hi><choice><orig><hi rend="grantha">e</hi></orig><reg><hi rend="grantha">ai</hi></reg></choice>yum paṉṉiṉa palaṉai AṭaivĀR
                     <lb n="1v37=68" break="no"/>kaḷ I<unclear>n=ta</unclear> taṟma<seg type="aksara">t=tu</seg><seg type="aksara">k=ku</seg> yāroruvar akitam pa<seg type="aksara">ṇ=ṇ</seg>i
                     
                     <lb n="1v38=69" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>avarkaḷ keṅk<choice><sic>e</sic><corr>ai</corr></choice>-<seg type="aksara">k=-ka</seg>raiyilum cētu-<seg type="aksara">k=-ka</seg>raiyi
-                    <lb n="1v39=70" break="no"/><unclear>lu</unclear><supplied reason="subaudible">m</supplied> mātā-pitā-kuruvai<seg type="aksara">yu=M</seg> pacuvai<seg type="aksara">yu=M</seg> vatai
+                    <lb n="1v39=70" break="no"/><unclear>lu</unclear><supplied reason="subaudible">m</supplied> mātā-pitā-kuruvaiyu=M pacuvaiyu=M vatai
                     <lb n="1v40=71"/>ceyta tō<hi rend="grantha">ṣa</hi><seg type="aksara">t=ti</seg><supplied reason="omitted">ṟ</supplied> pōka-<seg type="aksara">k=-ka</seg>ṭavaR Ākavum <g type="pc">.</g>
                 </p>		
                 
                 <ab>
-                    <lb n="01"/><hi rend="grantha">śrī-śaṁkaran·</hi> tuṇai <!--I read śamkaran= tuṇai, all in Grantha-->
+                    <lb n="1v01"/><hi rend="grantha">śrī-śaṁkaran·</hi> tuṇai <!--I read śamkaran= tuṇai, all in Grantha-->
                 </ab>
                 
             </div>
             
             
             <div type="apparatus">
-              
+              <listApp>
+                  <app loc="61">
+                      <lem>Āparaṇa<seg type="aksara">t=tu=k=ku</seg>=M</lem>
+                      <note>Note the unusual conjunct for <foreign>ttukkum</foreign>, distinct from the conjunct for <foreign>ttum</foreign> and <foreign>kkum</foreign></note>
+                  </app>
+              </listApp>
             </div>
                 
             
@@ -232,7 +237,7 @@
             </div>
             
             <div type="commentary">
-                <p n="01">The blessing <foreign><hi rend="grantha">śrī-śaṁkaran·</hi> tuṇai</foreign> is inscribed in a cartouche and interrupts lines 1v28-29 = lines 59-60.</p>
+                <p n="1v01">The blessing <foreign><hi rend="grantha">śrī-śaṁkaran·</hi> tuṇai</foreign> is inscribed in a cartouche and interrupts lines 1v28-29 = lines 59-60.</p>
             </div>
             
             <div type="bibliography">
