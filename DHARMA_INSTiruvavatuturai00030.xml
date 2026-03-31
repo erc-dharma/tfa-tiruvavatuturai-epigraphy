@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>This grant records donation made by the king of Arantaṅki, Rakunāta Vaṇaṅkāmuṭi Toṇṭaimāṉār Even though the grant is dated Śaka year 1525, the plate appear to be a later copy, based on the material aspects (double line on the contours of the grant) and the paleography.</summary>
+                        <summary>This grant records donation made by the king of Arantaṅki, Rakunāta Vaṇaṅkāmuṭi Toṇṭaimāṉār. Even though the grant is dated Śaka year 1525, the plate appear to be a later copy, based on the material aspects (double line on the contours of the grant) and the paleography.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -79,35 +79,40 @@
             
             <div type="edition" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:83215">		
                 
-                
                 <pb n="1r"/>
-                <p>
+                
+                <ab>
                     <lb n="1r=1"/><g type="pc"></g>
-                </p>
+                </ab>
+                
+                <ab>
+                    <lb n="2r=2"/><hi rend="grantha">svasti srī</hi>
+                </ab>
+                
                 <p>
-                    
-                    <lb n="2r=2"/><hi rend="grantha">svasti srī</hi> makā-maṇṭalēcuvaraṉ Ari-kara-taḷa-vi 
-                    <lb n="3r=3" break="no"/>pāṭaṉ pācaikki tappuvarāta kaṇṭaṉ ka 
-                    <lb n="4r=4" break="no"/>ṇṭa nāṭu koṇṭu koṇṭa nāṭu kuṭātāṉ rā
+                    makā-maṇṭalēcuvaraṉ Ari-kara-taḷa-vi 
+                    <lb n="3r=3" break="no"/>pāṭaṉ pācaikki tappuvarā<choice><sic>t</sic><corr>y</corr></choice>a kaṇṭaṉ ka 
+                    <lb n="4r=4" break="no"/>ṇṭa nāṭu koṇṭu koṇ<unclear>ṭa<!--ma?--></unclear> nāṭu kuṭātāṉ rā
                     <lb n="5r=5" break="no"/>cātirācaṉ rāca-paramēcuvaraṉ rāca-māṟttā
                     <lb n="6r=6" break="no"/>ṇṭaṉ raṇa-cutta-vīraṉ kuṭaikki taṟuṇaṉ Aḻa 
                     <lb n="7r=7" break="no"/>kukku maṉmataṉ Āṟiloru kaṭamai koṇṭa
-                    <lb n="8r=8"/>cēra-cōḷa-pāṇṭiyaṉ civapūcā-turantiraṉ 
+                    <lb n="8r=8"/>cēra-cō<choice><orig>ḷ</orig><reg>ḻ</reg></choice>a-pāṇṭiyaṉ civapūcā-turantiraṉ 
                     <lb n="9r=9"/>civakāriya-turantiraṉ vaṭaveḷḷā<choice><sic><hi rend="grantha">ma</hi> E</sic><corr>ṟāṉa</corr></choice> cun 
                     <lb n="10r=10" break="no"/>tara-pāṇṭiya-vaḷanāṭṭuḷ eṅkōḷa-nāṭṭu
-                    <lb n="11r=11"/>Aṟantāṅki Aracu Āḷuṭaiya tampirāṉār
-                    <lb n="12r=12"/><hi rend="grantha">srī-pāta-bhakta</hi>rāṉa <hi rend="grantha">srī</hi> Āḷuṭaiya rekunāta vaṇa
-                    <lb n="13r=13" break="no"/>ṅkā-muṭi-t-toṇ<choice><orig>ṟ</orig><reg>ṭ</reg></choice>aimāṉāravarkaḷ
-                    
+                    <lb n="11r=11"/>Aṟantāṅki<!--ku in fact?--> Aracu Āḷuṭaiya tampirāṉār
+                    <lb n="12r=12"/><hi rend="grantha">srī-pāda-bhakta</hi>r-āṉa <hi rend="grantha">srī</hi> Āḷuṭaiya rekunāta vaṇa
+                    <lb n="13r=13" break="no"/>ṅkā-muṭi-t-toṇ<choice><orig>ṟ</orig><reg>ṭ</reg></choice>aimāṉāravarkaḷ                    
                 </p>
-                
-                <p>tiru- 
-                    <lb n="14r=14"/>pperuntuṟai Āḷuṭaiya parama cuvāmiyā
+                                
+                <p>
+                    tiru- 
+                    <lb n="14r=14"/>pperuntuṟai Āḷuṭaiya parama-cuvāmiyā
                     <lb n="15r=15" break="no"/>rukku tirumiḻalai nāṭaṉ kaṭṭaḷai-k kāla-ca
                     <lb n="16r=16" break="no"/>ntiyiraṉ-<hi rend="grantha">śa</hi>ṅkāla-pūcaikki
                 </p>
                 
-                <p>Ampalattā
+                <p>
+                    Ampalattā
                     <lb n="17r=17" break="no"/>ṭum paṇṭāram pāricamāka caki-muṟaṇi 
                     <lb n="18r=18" break="no"/>ya-utaka-tārā-pūṟuvamāka caṟuvāmā
                     <lb n="19r=19" break="no"/>ṉiyamāka taṉmam paṇṇi kuṭutta paṭi</p>
@@ -116,7 +121,8 @@
                     <lb n="20r=20"/>Aracar kuḷappaṟṟil kaḷakkuṭikki nāṉ
                     <lb n="21r=21" break="no"/>ṅkel<choice><sic>k</sic><corr>l</corr></choice>ai yāvaṉa 
                     
-                    <list><item>kīḻpāṟkkel<choice><sic>k</sic><corr>l</corr></choice>ai
+                    <list>
+                        <item>kīḻpāṟkkel<choice><sic>k</sic><corr>l</corr></choice>ai
                             <lb n="22r=22"/>yāvatu kāraikkāṭṭukkum kīḻakkum 
                             <lb n="23r=23"/><surplus>kku=M</surplus> mēṟkku</item> 
                         
@@ -129,18 +135,18 @@
                             <lb n="27r=27" break="no"/>ḷik=kullāri vayaluk=ku=M kk<choice><sic>u</sic><corr>i</corr></choice><surplus>k<choice><sic>u</sic><corr>i</corr></choice></surplus>ḻakku</item> 
                         
                         <item>vaṭa
-                        <lb n="28r=28"/><choice><sic>v</sic><corr>p</corr></choice>āṟkkel<choice><sic>k</sic><corr>l</corr></choice>aiyā<choice><sic>p</sic><corr>v</corr></choice>atu cīṉamaṅkalat 
-                        <lb n="29r=29" break="no"/>tukku=M nākuṭikku=M kāraikkāṭṭukku
-                        <lb n="30r=30" break="no"/>m tēṟkku</item></list>
+                            <lb n="28r=28"/><choice><sic>v</sic><corr>p</corr></choice>āṟkkel<choice><sic>k</sic><corr>l</corr></choice>aiyā<choice><sic>p</sic><corr>v</corr></choice>atu cīṉamaṅkalat 
+                            <lb n="29r=29" break="no"/>tukku=M nākuṭikku=M kāraikkāṭṭukku
+                            <lb n="30r=30" break="no"/>m teṟkku</item>
+                    </list>
                     
-                    yinta <sic>śe</sic>nāṅkel<choice><sic>k</sic><corr>l</corr></choice>aik
+                    y-inta <sic>śe</sic><!--peru akwardly written-->nāṅkel<choice><orig>k</orig><reg>l</reg></choice>aik
                     <pb n="1v"/>
                     <lb n="1v1=31"/>kuḷpaṭa kaḷakkuṭiki<hi rend="grantha">śa</hi>mam caṟvamāṇiyam
-                    <lb n="1v2=32" break="no"/>āka tāṇam paṇṇi kuṭuttōm Ācantirākka 
+                    <lb n="1v2=32" break="no"/>-āka tāṇam paṇṇi kuṭuttōm Ācantirākka 
                     <lb n="1v3=33" break="no"/>ttāyiyāka yāṉṟu Āṉupavittu kkoḷḷuv 
-                    <lb n="1v4=34"/>ā=r<surplus>=ā r=</surplus>ākavu=M</p>
-                
-                
+                    <lb n="1v4=34"/>ā=r<surplus>=ā r=</surplus>ākavu=M
+                </p>   
                 
                 <p> 
                     y-inta tammam paripālaṉam paṇṇi
@@ -149,31 +155,27 @@
                     <lb n="1v7=37" break="no"/>ṭaiyum Āyiram kōtāṉam paṇṇiṉa pala
                     <lb n="1v8=38" break="no"/>ṉai Aṭaivār= ākavu=M y-inta taṟmattukku y
                     <lb n="1v9=39" break="no"/>ātāmoruvar Akutam niṉaittavarkaḷukku
-                    <lb n="1v10=40"/>keṅkai-k karaiyilum Āticētuvilum
-                    <lb n="1v11=41"/>Āyira kō-vataiyum śrīvataiyum ce
-                    <lb n="1v12=42" break="no"/>yita tōṣattil ppōkakaṭavō
+                    <lb n="1v10=40"/>keṅkai-k karaiyilum Āti-cētuvilum
+                    <lb n="1v11=41"/>Āyira kō-vataiyum śrī-vataiyum ce
+                    <lb n="1v12=42" break="no"/>yita tōṣattil-p pōka kaṭavō
                     <lb n="1v13=43"/>r=ākavu=M 
                 </p>
                 
                 <p>
                     cakāṟttam <num value="1525"> <g type="numeral">1000</g> 5 <g type="numeral">100</g> 2 <g type="numeral">10</g> 5 </num> k=ku <hi rend="grantha">śa
-                    <lb n="1v14=44" break="no"/>kam·</hi> mēl-c cellā niṉṟa pava-<hi rend="grantha">sam·</hi>
+                        <lb n="1v14=44" break="no"/>kam·</hi> mēl-c cellā niṉṟa pava-<hi rend="grantha">sam·</hi>
                     <lb n="1v15=45" break="no"/>vassarattu uttarāyaṇa <g type="varuṣam"/>
                 </p>
-                
-            
-                <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                                
+                <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                     <l n="a">svada<lb n="1v16=46" break="no"/>ttād dviguṇam· puṇyam·</l> 
                     <l n="b">paradattā<choice><sic>ra</sic><corr>nu</corr></choice>pāla<lb n="1v17=47"/>nam· <g type="danda">.</g></l> 
                     <l n="c">paradattāpahārēṇa</l> 
                     <l n="d">svadatt<lb n="1v18=48"/><choice><sic>ā</sic><corr>am</corr></choice> niṣphalam· bhavēt·<g type="ddanda">.</g></l> 
-                  </lg> 
-                  
-                
-                
+                </lg> 
+                                                
             </div>
-            
-            
+                        
             <!--<div type="apparatus">
                 <!-\-apparatus encoded as per EGD §9.1, basic elements for apparatus below-\->
                 
@@ -191,11 +193,9 @@
             <div type="translation" resp="part:matr">
                 
                 <p n="1-2">....</p>
-                
-                
+
                 <!--specify the lines inside the <p> tag, as <p n="1">...</p>  ; when it's the translation of a stanza, <p rend="stanza" n="1"> </p> and the number is in this second type of translation tag is taken from the <lg> number-->
-                
-                
+                                
             </div>
             
             <!--<div type="commentary">
@@ -203,7 +203,7 @@
             
             <div type="bibliography">
                 
-               <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/41).</p> 
+                <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/41).</p> 
                 
                 <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 36). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
                 
@@ -227,7 +227,7 @@
                         <citedRange unit="item">41</citedRange>
                     </bibl>
                 </listBibl>
-           	    
+                
                 
             </div>
         </body>
