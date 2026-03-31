@@ -551,7 +551,7 @@
                         <lb n="6r2=166=5" break="no"/>ku Aṟantāṅki Aracu poṉṉampala-t to<supplied reason="omitted">ṇ</supplied>ṭaimāṉāRŌm namuṭaiya <hi rend="grantha">deha</hi>ttilē vanta mā
                         <lb n="6r3=167=6" break="no"/>ṉa <hi rend="grantha">rōham· satya-dhrā<unclear rend="check">ñ</unclear></hi>māka <hi rend="grantha">Udakapūrva</hi>māka kuṭutta vaṭaveḷḷ<supplied reason="omitted">ā</supplied>ṟāṉa cuntirapāṇṭiya-va
                         <lb n="6r4=168=7" break="no"/>ḷanāṭṭu paṉaiṅkaya-nāṭṭu vattaṉṉūr=āṉa poṉṉampalanallŪR <choice><orig><hi rend="check">satusī</hi>r</orig><reg>catursī</reg></choice>maiyum <hi rend="grantha">mu</hi>
-                        <lb n="6r5=169=8"/>hiraṇṇiya <hi rend="grantha">Uda<choice><orig>ga</orig><reg>ka</reg></choice> dh</hi>ĀRrāpū<hi rend="grantha">rvvaṁ</hi>āka Ā<unclear rend="check">dha*ndrāṁti</unclear> Āka <hi rend="grantha">sarvamāṉyam·</hi>māka aṉupavit=tu koḷḷavu=M
+                        <lb n="6r5=169=8"/>hiraṇṇiya U<hi rend="grantha">da<choice><orig>ga</orig><reg>ka</reg></choice> dh</hi>ĀRrā<!--check-->pū<hi rend="grantha">rvva</hi>m-āka Ā<unclear rend="check">dha*ndrāṁti</unclear> Āka <hi rend="grantha">sarvamāṉyam·</hi>māka aṉupavit=tu koḷḷavu=M
                     </p>  
                     <p>    
                         <lb n="6r6=170=9"/>yivūrku yicainta peruṉā<choice><orig>ṟ</orig><reg>ṅ</reg></choice>kellai yāvaṉa
@@ -570,7 +570,7 @@
                         <lb n="6r10=174=13" break="no"/>m 
                     </p>    
                     <p>
-                        ni<hi rend="grantha">dhi</hi> ni<hi rend="grantha">kṣepa jala pāṣā</hi>ṇa <seg rend="check"><hi rend="grantha">kūpa</hi> ta<hi rend="grantha">ṭā kāmya aṣṭa-bho<supplied reason="omitted">ga</supplied>svāmyakaḷum· candrā</hi>ti<hi rend="grantha">tya</hi>varc</seg> ce
+                        ni<hi rend="grantha">dhi</hi> ni<hi rend="grantha">kṣepa jala pāṣā</hi>ṇa <seg rend="check"><hi rend="grantha">kūpa</hi> ta<hi rend="grantha">ṭā <seg rend="check">kāmya a</seg>ṣṭa-bho<supplied reason="omitted">ga</supplied>svāmyakaḷum· candrā</hi>ti<hi rend="grantha">tya</hi>varc</seg> ce
                         <lb n="6r11=175=14" break="no"/>lla<hi rend="grantha">sarvamum· sarvamāṉyam</hi>āka Aṉupavit=tuk koḷḷavum 
                     </p>   
                     <!-- the reference in the unclear passage above is clearly to the aṣṭabhoga-tejaḥsvāmya,
@@ -588,7 +588,7 @@
                     -->
                      <p>   
                         Inta <hi rend="grantha">dharmma</hi>kku <hi rend="grantha">Ah</hi>itam paṇṇiṉa
-                        <lb n="6r12=176=15" break="no"/>varkaḷ <hi rend="grantha">gaṅgai-karai</hi>yil kapilaiyum kĀRapacuvaiyum <hi rend="grantha">brāhmaṇarai</hi>yum <hi rend="grantha">guru</hi>vaiyum mātāpi
+                        <lb n="6r12=176=15" break="no"/>varkaḷ <hi rend="grantha">gaṃgai-karai</hi>yil kapilaiyum kā=ra<supplied reason="omitted">m</supplied>pacuvaiyum <hi rend="grantha">brāhmaṇarai</hi>yum <hi rend="grantha">guru</hi>vaiyum mātāpi
                         <lb n="6r13=177=16" break="no"/>tāvaiyum koṉṟa pāvat=tilē pōvārkaḷā<supplied reason="omitted">ka</supplied>vu=M <hi rend="grantha">śubham</hi> <g type="pc"></g> <g type="ddanda">.</g>
                         
                      </p>
@@ -624,8 +624,8 @@
                     <p>
                        <list><item>tu<hi rend="grantha">lliyam·</hi> vēṭṭai nallūr mātar=āya<supplied reason="omitted">ṉ</supplied> <lb n="6v10=190=14"/> Eḻut=tu</item> 
                         <item>cakkirapāṇi nallūr Ātaṉam Aḻakaṉāṉ viḻuppātarāyaṉ Eḻut=tu</item> 
-                        <item>Ippaṭikku Ivūr cippā Ā<lb n="6v11=191=15" break="no"/>cĀRi puvaṉēcuvīrācāri Āvuṭaiyāṉ mīṭṭāṉ Eḻut=tu</item></list>  
-                        <g type="pc"></g> <g type="ddanda">.</g>
+                        <item>Ippaṭikku Ivūr cippā Ā<lb n="6v11=191=15" break="no"/>cā=ri puvaṉēcuvīrācāri Āvuṭaiyāṉ mīṭṭāṉ Eḻut=tu</item></list>  
+                        <g type="pc">.</g> <g type="ddanda">.</g>
                    </p>
                     
                 </div>
@@ -653,7 +653,7 @@
                             <item>teṉpāṟkellai veḷḷāṟṟukku vaṭakku</item>
                             <item>mē
                         <lb n="7r4=199=9" break="no"/>lpāṟkellai varaṭṭāṟṟūr Ellaikkum tunatta <unclear>caṟu</unclear>kkum kiḻakku</item> 
-                        <item>vaṭapāṟkellai velĀRṟa E
+                        <item>vaṭapāṟkellai velā=rṟa E
                         <lb n="7r5=200=10" break="no"/>llaikkum Inayiṉṉār tēvamaṇṭala paṟṟup peruṅkāya Ūr Ellaikkum ceṉṉi <seg type="aksara">k=k</seg>arampai
                         <lb n="7r6=201=11" break="no"/>kkum teṟku</item></list>
                     </p>
