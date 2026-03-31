@@ -135,72 +135,41 @@
                     
                     yinta <sic>śe</sic>nāṅkel<choice><sic>k</sic><corr>l</corr></choice>aik
                     <pb n="1v"/>
-                    <lb n="1v=31"/>kuḷpaṭa kaḷakkuṭiki<hi rend="grantha">śa</hi>mam caṟvamāṇiyam
-                    <lb n="2v=32" break="no"/>āka tāṇam paṇṇi kuṭuttōm Ācantirākka 
-                    <lb n="3v=33" break="no"/>ttāyiyāka yāṉṟu Āṉupavittu kkoḷḷuv 
-                    <lb n="1v4=34"/>ĀR<surplus>R</surplus>Ākavu=M</p>
+                    <lb n="1v1=31"/>kuḷpaṭa kaḷakkuṭiki<hi rend="grantha">śa</hi>mam caṟvamāṇiyam
+                    <lb n="1v2=32" break="no"/>āka tāṇam paṇṇi kuṭuttōm Ācantirākka 
+                    <lb n="1v3=33" break="no"/>ttāyiyāka yāṉṟu Āṉupavittu kkoḷḷuv 
+                    <lb n="1v4=34"/>ā=r<surplus>=ā r=</surplus>ākavu=M</p>
                 
                 
                 
                 <p> 
-                    yinta tammam paripālaṉam paṇṇi
-                    <lb n="1v5=35" break="no"/>ṉavarkaḷukku keṅkaikkaraiyilum Āti
-                    <lb n="1v6=36" break="no"/>cētuvilum Āyiram civaliṅka-pi<choice><sic>e</sic><corr>ra</corr></choice>tiṭ
+                    y-inta tammam paripālaṉam paṇṇi
+                    <lb n="1v5=35" break="no"/>ṉavarkaḷukku keṅkai-k-karaiyilum Āti ⌈
+                    <lb n="1v6=36" break="no"/>cētuvilu=M Āyiram civaliṅka-pi<choice><sic>e</sic><corr>ra</corr></choice>tiṭ⌈
                     <lb n="1v7=37" break="no"/>ṭaiyum Āyiram kōtāṉam paṇṇiṉa pala
-                    <lb n="1v18=38" break="no"/>ṉai Aṭaivār Akutam niṉaittavarkaḷukku
-                    <lb n="1v19=39"/>keṅkai-k karaiyilum Āticētuvilum
-                    <lb n="1v20=40"/>Āyira kō-vataiyum śrīvataiyum ce
-                    <lb n="1v21=41" break="no"/>yita tōṣattil ppōkakaṭavō
-                    <lb n="1v22=42"/>r=ākavu=M 
+                    <lb n="1v8=38" break="no"/>ṉai Aṭaivār= ākavu=M y-inta taṟmattukku y
+                    <lb n="1v9=39" break="no"/>ātāmoruvar Akutam niṉaittavarkaḷukku
+                    <lb n="1v10=40"/>keṅkai-k karaiyilum Āticētuvilum
+                    <lb n="1v11=41"/>Āyira kō-vataiyum śrīvataiyum ce
+                    <lb n="1v12=42" break="no"/>yita tōṣattil ppōkakaṭavō
+                    <lb n="1v13=43"/>r=ākavu=M 
                 </p>
                 
                 <p>
                     cakāṟttam <num value="1525"> <g type="numeral">1000</g> 5 <g type="numeral">100</g> 2 <g type="numeral">10</g> 5 </num> k=ku <hi rend="grantha">śa
-                    <lb n="1v23=43" break="no"/>kam·</hi> mēl-c cellā niṉṟa pava-<hi rend="grantha">sam·</hi>
-                    <lb n="1v24=44" break="no"/>vassarattu uttarāyaṇa <g type="varuṣam"/>
+                    <lb n="1v14=44" break="no"/>kam·</hi> mēl-c cellā niṉṟa pava-<hi rend="grantha">sam·</hi>
+                    <lb n="1v15=45" break="no"/>vassarattu uttarāyaṇa <g type="varuṣam"/>
                 </p>
                 
             
                 <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">svada<lb n="1v25=45" break="no"/>ttād dviguṇam· puṇyam·</l> 
-                    <l n="b">paradattā<choice><sic>ra</sic><corr>nu</corr></choice>pāla<lb n="1v26=46"/>nam· <g type="danda">.</g></l> 
+                    <l n="a">svada<lb n="1v16=46" break="no"/>ttād dviguṇam· puṇyam·</l> 
+                    <l n="b">paradattā<choice><sic>ra</sic><corr>nu</corr></choice>pāla<lb n="1v17=47"/>nam· <g type="danda">.</g></l> 
                     <l n="c">paradattāpahārēṇa</l> 
-                    <l n="d">svadatt<lb n="1v27=47"/><choice><sic>ā</sic><corr>am</corr></choice> niṣphalam· bhavēt·<g type="ddanda">.</g></l> 
+                    <l n="d">svadatt<lb n="1v18=48"/><choice><sic>ā</sic><corr>am</corr></choice> niṣphalam· bhavēt·<g type="ddanda">.</g></l> 
                   </lg> 
                   
                 
-                <!--  
-               
-                <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">dānapālanayōr mmaddhyē</l> 
-                    <l n="b">dānāc chreyo ’nupālanam· <g type="danda">.</g></l>
-                    <l n="c">dānāt svarga<lb n="1v24=55"/>m avāpnōti</l> 
-                    <l n="d">pālanād acyutam· padam· <g type="ddanda">.</g> <g type="pc"/></l>
-                </lg> 
-                
-                <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">Ekaika bhaginī lok<lb n="1v25=56"/>e</l> 
-                    <l n="b">sarvveṣām <choice><sic>i</sic><corr>e</corr></choice>va bhūbhujām· <g type="danda">.</g></l> 
-                    <l n="c">nā bhōjyā na <choice><sic>ka</sic>k<corr>a</corr></choice>ragrāhyā</l> 
-                    <l n="d">vipradattā va<lb n="1v26=57"/>sundharā<g type="ddanda">.</g></l><g type="pc"></g>
-                </lg>
-                
-          
-                    <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">svadattām· paradattāṁ vā</l> 
-                    <l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas<choice><sic>va</sic><corr>u</corr></choice>n <lb n="1v13=26" break="no"/>dharām <g type="danda">.</g></l> 
-                    <l n="c">ṣaṣṭi<surplus>r</surplus>-varṣa-sahasrāṇi</l> 
-                    <l n="d"> viṣṭhāyāñ jāyate kṛmiḥ <g type="ddanda">.</g></l> 
-                    </lg>
-                    
-                   
-                    
-                    <lg n="5" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">sā<lb n="1v15=28"/>māṉyo yan dharmma-setu<unclear>r</unclear> nṛpāṇāṁ</l>
-                    <l n="b">kāle kāle pālanīyo bhavat·bhi<supplied reason="omitted">ḥ</supplied> <g type="danda">.</g></l>
-                    <l n="c">sarvān etā<unclear>nn</unclear> <pb n="2r"/><lb n="2r1=29"/>bhāvinaḥ pā<supplied reason="omitted">r</supplied>tthivendr<choice><sic>a</sic><corr>ā</corr></choice>n ·</l>
-                    <l n="d">bhūyo bhūyo yācate rām acandraḥ <g type="ddanda">.</g></l>
-                    </lg>-->
                 
             </div>
             
