@@ -69,6 +69,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:emfr" when="2026-03-30">Reviewing</change>
             <change who="part:matr" when="2024-03-21">Creation of the file</change>
         </revisionDesc>
     </teiHeader>
@@ -106,45 +107,45 @@
                                 
                 <p>
                     tiru- 
-                    <lb n="14r=14"/>pperuntuṟai Āḷuṭaiya parama-cuvāmiyā
+                    <lb n="14r=14"/>-p-peruntuṟai Āḷuṭaiya parama-cuvāmiyā
                     <lb n="15r=15" break="no"/>rukku tirumiḻalai nāṭaṉ kaṭṭaḷai-k kāla-ca
                     <lb n="16r=16" break="no"/>ntiyiraṉ-<hi rend="grantha">śa</hi>ṅkāla-pūcaikki
                 </p>
                 
                 <p>
-                    Ampalattā
-                    <lb n="17r=17" break="no"/>ṭum paṇṭāram pāricamāka caki-muṟaṇi 
-                    <lb n="18r=18" break="no"/>ya-utaka-tārā-pūṟuvamāka caṟuvāmā
-                    <lb n="19r=19" break="no"/>ṉiyamāka taṉmam paṇṇi kuṭutta paṭi</p>
+                    Ampalatt
+                    <lb n="17r=17" break="no"/>āṭum paṇṭāram pāricam-āka caki-muṟaṇi 
+                    <lb n="18r=18" break="no"/>ya-Utaka-tārā-pūṟuvam-āka caṟuvamā
+                    <lb n="19r=19" break="no"/>ṉiyam-āka taṉmam paṇṇi kuṭutta paṭi</p>
                 
                 <p>
                     <lb n="20r=20"/>Aracar kuḷappaṟṟil kaḷakkuṭikki nāṉ
-                    <lb n="21r=21" break="no"/>ṅkel<choice><sic>k</sic><corr>l</corr></choice>ai yāvaṉa 
+                    <lb n="21r=21" break="no"/>ṅkel<choice><orig>k</orig><reg>l</reg></choice>ai y-āvaṉa 
                     
                     <list>
-                        <item>kīḻpāṟkkel<choice><sic>k</sic><corr>l</corr></choice>ai
-                            <lb n="22r=22"/>yāvatu kāraikkāṭṭukkum kīḻakkum 
+                        <item>kīḻ-pāṟkk’ el⌈
+                            <lb n="22r=22"/><choice><orig>k</orig><reg>l</reg></choice>ai y-āvatu kāraikkāṭṭukkum kīḻakkum 
                             <lb n="23r=23"/><surplus>kku=M</surplus> mēṟkku</item> 
                         
-                        <item>tēṉ<choice><sic>vā</sic><corr>pā</corr></choice>ṟkkel<choice><sic>k</sic><corr>l</corr></choice>ai yā 
-                            <lb n="24r=24" break="no"/>vatu āmāñcikku=M māṉava-nallūruk 
+                        <item>tēṉ-<choice><sic>vā</sic><corr>pā</corr></choice>ṟkk’ el<choice><orig>k</orig><reg>l</reg></choice>ai y-ā 
+                            <lb n="24r=24" break="no"/>vatu Āmāñcikku=M māṉava-nallūruk 
                             <lb n="25r=25" break="no"/>ku=M potu-k-kāṭṭukku malaṭakku</item>
                         
                         <item>mē 
-                            <lb n="26r=26" break="no"/>l<choice><sic>v</sic><corr>p</corr></choice>āṟkkel<choice><sic>k</sic><corr>l</corr></choice>ai yāvatu Aṟiyāmo 
-                            <lb n="27r=27" break="no"/>ḷik=kullāri vayaluk=ku=M kk<choice><sic>u</sic><corr>i</corr></choice><surplus>k<choice><sic>u</sic><corr>i</corr></choice></surplus>ḻakku</item> 
+                            <lb n="26r=26" break="no"/>l-<choice><sic>v</sic><corr>p</corr></choice>āṟkk’ el<choice><orig>k</orig><reg>l</reg></choice>ai y-āvatu Aṟiyāmo 
+                            <lb n="27r=27" break="no"/>⌉ḷik=kullāri vayaluk=ku=M kk<choice><sic>u</sic><corr>i</corr></choice><surplus>k<choice><sic>u</sic><corr>i</corr></choice></surplus>ḻakku</item> 
                         
                         <item>vaṭa
-                            <lb n="28r=28"/><choice><sic>v</sic><corr>p</corr></choice>āṟkkel<choice><sic>k</sic><corr>l</corr></choice>aiyā<choice><sic>p</sic><corr>v</corr></choice>atu cīṉamaṅkalat 
+                            <lb n="28r=28" break ="no"/><choice><sic>v</sic><corr>p</corr></choice>āṟkk’ el<choice><orig>k</orig><reg>l</reg></choice>ai y-ā<choice><sic>p</sic><corr>v</corr></choice>atu cīṉamaṅkalat 
                             <lb n="29r=29" break="no"/>tukku=M nākuṭikku=M kāraikkāṭṭukku
                             <lb n="30r=30" break="no"/>m teṟkku</item>
                     </list>
                     
-                    y-inta <sic>śe</sic><!--peru akwardly written-->nāṅkel<choice><orig>k</orig><reg>l</reg></choice>aik
+                    y-inta <choice><sic>śe</sic><corr>peru</corr></choice> nāṅk’ el<choice><orig>k</orig><reg>l</reg></choice>aik
                     <pb n="1v"/>
-                    <lb n="1v1=31"/>kuḷpaṭa kaḷakkuṭiki<hi rend="grantha">śa</hi>mam caṟvamāṇiyam
-                    <lb n="1v2=32" break="no"/>-āka tāṇam paṇṇi kuṭuttōm Ācantirākka 
-                    <lb n="1v3=33" break="no"/>ttāyiyāka yāṉṟu Āṉupavittu kkoḷḷuv 
+                    <lb n="1v1=31"/>k’ uḷpaṭa kaḷakkuṭiki<hi rend="grantha">śa</hi>mam caṟvamāṇiyam
+                    <lb n="1v2=32" break="no"/>-āka tāṉam paṇṇi kuṭuttōm Ācantirākka 
+                    <lb n="1v3=33" break="no"/>t=tāyiyāka y-āṉṟu Āṉupavittu-k koḷḷuv 
                     <lb n="1v4=34"/>ā=r<surplus>=ā r=</surplus>ākavu=M
                 </p>   
                 
@@ -152,26 +153,29 @@
                     y-inta tammam paripālaṉam paṇṇi
                     <lb n="1v5=35" break="no"/>ṉavarkaḷukku keṅkai-k-karaiyilum Āti ⌈
                     <lb n="1v6=36" break="no"/>cētuvilu=M Āyiram civaliṅka-pi<choice><sic>e</sic><corr>ra</corr></choice>tiṭ⌈
-                    <lb n="1v7=37" break="no"/>ṭaiyum Āyiram kōtāṉam paṇṇiṉa pala
-                    <lb n="1v8=38" break="no"/>ṉai Aṭaivār= ākavu=M y-inta taṟmattukku y
+                    <lb n="1v7=37" break="no"/>ṭaiyum Āyiram kō-tāṉam paṇṇiṉa pala
+                    <lb n="1v8=38" break="no"/>ṉai Aṭaivār= ākavu=M
+                </p>
+                <p>
+                    y-inta taṟmattukku y
                     <lb n="1v9=39" break="no"/>ātāmoruvar Akutam niṉaittavarkaḷukku
-                    <lb n="1v10=40"/>keṅkai-k karaiyilum Āti-cētuvilum
-                    <lb n="1v11=41"/>Āyira kō-vataiyum śrī-vataiyum ce
+                    <lb n="1v10=40"/>keṅkai-k-karaiyilum Āti-cētuvilum
+                    <lb n="1v11=41"/>Āyiram kō-vataiyum śrī-vataiyum ce
                     <lb n="1v12=42" break="no"/>yita tōṣattil-p pōka kaṭavō
-                    <lb n="1v13=43"/>r=ākavu=M 
+                    <lb n="1v13=43"/>r= ākavu=M 
                 </p>
                 
                 <p>
-                    cakāṟttam <num value="1525"> <g type="numeral">1000</g> 5 <g type="numeral">100</g> 2 <g type="numeral">10</g> 5 </num> k=ku <hi rend="grantha">śa
-                        <lb n="1v14=44" break="no"/>kam·</hi> mēl-c cellā niṉṟa pava-<hi rend="grantha">sam·</hi>
-                    <lb n="1v15=45" break="no"/>vassarattu uttarāyaṇa <g type="varuṣam"/>
+                    cakāṟttam <num value="1525"> <g type="numeral">1000</g> 5 <g type="numeral">100</g> 2 <g type="numeral">10</g> 5 </num> k=ku <hi rend="grantha"><choice><sic>s</sic><corr>ś</corr></choice>a
+                        <lb n="1v14=44" break="no"/>ka<!--kya?-->m·</hi> mēl-c cellā niṉṟa pava-<hi rend="grantha">sam·</hi>
+                    <lb n="1v15=45" break="no"/>va<hi rend="grantha">ssara</hi>ttu Uttarāyaṇa <g type="varuṣam"/>
                 </p>
                                 
                 <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
-                    <l n="a">svada<lb n="1v16=46" break="no"/>ttād dviguṇam· puṇyam·</l> 
+                    <l n="a">svada<lb n="1v16=46" break="no"/>ttād dviguṇam· pu<choice><sic>s</sic><corr>ṇy</corr></choice>am·</l> 
                     <l n="b">paradattā<choice><sic>ra</sic><corr>nu</corr></choice>pāla<lb n="1v17=47"/>nam· <g type="danda">.</g></l> 
                     <l n="c">paradattāpahārēṇa</l> 
-                    <l n="d">svadatt<lb n="1v18=48"/><choice><sic>ā</sic><corr>am</corr></choice> niṣphalam· bhavēt·<g type="ddanda">.</g></l> 
+                    <l n="d">sva<choice><sic><seg rendition="class:tamil maturity:vernacular">ṟa</seg></sic><corr>da</corr></choice>tt<lb n="1v18=48"/><choice><sic>ā</sic><corr>am</corr></choice> niṣphalam· bhavēt·<g type="ddanda">.</g></l> 
                 </lg> 
                                                 
             </div>
@@ -207,8 +211,7 @@
                 
                 <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 36). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
                 
-                <p>This edition is by Margherita Trento, based on EFEO photographs (2015).
-                </p>
+               <p>This edition by Margherita Trento, based on EFEO photographs (2015). Reviewed by Emmanuel Francis.</p>  
                 
                 <listBibl type="primary">
                     
