@@ -87,76 +87,77 @@
                     <lb n="1r1=1"/> civamayam
                 </p>
                 <p>
-                    <lb n="1r2=2"/>svastiśrī cālivākaṉa cakāptam 1674-kku mēl cellā niṉṟa āṅkirasa 
-                    <lb n="1r3=3"/>ru mārkaḷi mī 20 uttarāyaṇattup pūruva paṭcamum cōmavā 
-                    4. ramum acupati naṭcettiramuṅ kūṭiṉa cupatiṉattilē tiruvāvaṭutu 
-                    5. ṟaip paṇṭāra caṉṉiti avarkaḷ ampalavāṇa cuvāmi pūai 
-                    6. ca mahēsvara pūcaikkit tēvai nakarātipaṉ, cētu mūlaraṭ 
-                    7. ya turantaraṉ, cuppiramaṇiya pātāravinta cēvikaṉ, pararāca ciṅka 
-                    8. cā turantaraṉ, irāmanāta cuvāmi paruvatavaṟtani ammai kāri 
-                    9. m, pararācakēkaraṉ, iravikula cēkaraṉ, corimut 
-                    10. tu vaṉṉiyaṉ, tuṭṭa rācar kaṇṭaṉ, cāṭikkāṟar kaṇṭaṉ, cā 
-                    11. mitturōkikaḷ muṇṭaṉ, antampara kaṇṭaṉ, aṭiyār vēḷai 
-                    12. kkāraṉ, aracarāvaṇa rāmaṉ, pañcattu varamāri paṉukkuvār ka 
-                    13. ṇṭaṉ, paṭṭamāṉaṅ kāttāṉ, paṭṭam parampaṭattāṉ, tālikku vēli 
-                    14. aivāyp puli iḷañciṅkan, taḷañciṅkam, vīraveṇpā mālai, 
-                    15. vaikai vaḷanāṭaṉ, parataḷa vipāṭaṉ, pañcavaṟṉa ṟāya ṟāvuttaṉ, puva 
-                    16. ṉēka vīraṉ, vētiyar kāvalaṉ, koṭṭamaṭakki vaiyyāḷi nāṟāyaṇa 
-                    17. ṉ, ivuḻi pāvaṭi mitittēṟuvār kaṇṭaṉ, pakaimaṉṉar ciṅkam 
-                    18. āṟṟiṟpācci, kaṭaliṟpācci, catturukkaḷ miṇṭaṉ, mēvalar 
-                    19. kōḷari vīrakempīraṉ, kīṟtip piṟatāpaṉ kapaṭa nāṭaka cūttirap piṟa 
-                    20. tāpaṉ, patti muttip piṟiyaṉ, aṣṭa leṭcumi vācaṉ, caṟpaṉ 
-                    21. ṉa pāṣā vīṭcaṇaṉ, cakala kuṇa campaṉṉaṉ, caṅkīta ca 
-                    22. āyittiya vittiyā viṉōtaṉ, vīṇāp piṟacaṅkaṉ, vīla 
-                    23. ra vaḷanāṭaṉ, toṇṭiyantuṟai kāvalaṉ, aṭaikka 
-                    24. laṅ kāttāṉ, vaṉṉiyarāṭṭan taviḻttāṉ, mūvarā 
-                    25. ya kaṇṭaṉ, cāmitturōki ceṇṭaya kāvala 
-                    26. ṉ, vīrataṇṭai cēmattalai viḷaṅkiya tāḷiṉāṉ, tu 
-                    27. rai rāyaṉ, ceyatuṅka rāyaṉ, vamiṣātipaṉāṉa tukavūr 
-                    28. kkūṟṟattuk kāttūrāṉa kulōttuṅka cōḷa nallū 
-                    29. rk kīḻppāl viraiyāta kaṇṭaṉilirukkum śrīmatu 
-                    30. iraṇiyakeṟpavāci ravikula rekunātac cētupati kā 
-                    31. t(ta)tēvaravarkaḷ vaṅkucōttārakarāṉa śrīmatu cellamuttu 
-                    32. vicaiya rekunāta cētupati kātta tēvaravarkaḷ eṅkaḷ
+                    <lb n="1r2=2"/><hi rend="grantha"><supplied reason="omitted">sva</supplied>sti śrī</hi> cālivākaṉa cakā<hi rend="grantha">ptam</hi> <num value="1674"> <g type="numeral">1000</g> 6 <g type="numeral">100</g> 7 <g type="numeral">10</g> 4 </num><seg type="aksara">kku</seg> mē<supplied reason="omitted">l</supplied> ce<supplied reason="omitted">l</supplied>lā niṉṟa Āṅki 
+                    <lb n="1r3=3" break="no"/><supplied reason="omitted">ra</supplied><hi rend="grantha">sa</hi><g type="varuṣam"/> mārkaḷi mārkaḷi <g type="mācam"/> <num value="22">2 <g type="numeral">10</g> 2</num> Uttarāyaṇattu-p pūruva paṭcamuñ cōmavā 
+                    <lb n="1r4=4" break="no"/>ramum Acupati naṭcettiramuṅ kūṭiṉa cupa-tiṉattilē tiruvāvaṭutu 
+                    <lb n="1r5=5" break="no"/>ṟaip paṇṭāra caṉṉiti Avarkaḷ Ampalavāṇa cuvāmi pūcai 
+                    <lb n="1r6=6"/>ma<hi rend="grantha">hēsva</hi>ra pūcaikki-t tēvai nakarātipaṉ - cētu mūlaraṭ 
+                    <lb n="1r7=7" break="no"/>cā turantaraṉ - Irāmanāta cuvāmi paruvatavaṟtani ammai kāri
+                    <lb n="1r8=8" break="no"/>ya turantaraṉ - cuppiramaṇiya pātāravinta cēvi<choice><orig>ta</orig><reg>ka</reg></choice>ṉ - parar=āca ciṅka
+                    <lb n="1r9=9" break="no"/>m - <choice><orig>va</orig><reg>pa</reg></choice>ra-r=āca-cūriyaṉ para-r=āca-cēkaraṉ Iravi-kula cēkaraṉ corimut 
+                    <lb n="1r10=10" break="no"/>tu vaṉṉiyaṉ tuṭṭa rā<choice><orig>sa</orig><reg>ca</reg></choice>r kaṇṭaṉ cāṭikkāṟar kaṇṭaṉ cā 
+                    <lb n="1r11=11" break="no"/>mi-t-turōkikaḷ muṇṭaṉ Antampara kaṇṭaṉ Aṭiyār vēḷai 
+                    <lb n="1r12=12" break="no"/>k=kāraṉ Araca-rāvaṇa-rāmaṉ pañcattu vara-māri <choice><orig>ya</orig><reg>pa</reg></choice>ṉukkuvarāta <!-- check, the formula seems jumbled up here ;in earlier grants it is pañcattu māri paṉukkuvār kaṇṭaṉ -->ka 
+                    <lb n="1r13=13" break="no"/>ṇṭaṉ paṭṭamāṉaṅ kā<add place="below">ttā</add>ṉ paṭ=ṭam parampaṭattāṉ tālikku vēli 
+                    <lb n="1r14=14"/>AIvāy-p puli Iḷañ-ciṅkan taḷañ-ciṅkam - vīraveṇpā mālai
+                    <lb n="1r15=15"/>vaikai vaḷanāṭaṉ - parataḷa vipāṭaṉ - pañcavaṟṉa r=āya r=āvut=taṉ puva 
+                    <lb n="1r16=16" break="no"/>ṉēka vīraṉ vētiyar kāvalaṉ koṭ=ṭamaṭakki vaiyyāḷi nār=āyaṇa 
+                    <lb n="1r17=17" break="no"/>ṉ Ivuḻi pāvaṭi mitittēṟuvār kaṇṭaṉ, pakaimaṉṉar ciṅkam 
+                    <lb n="1r18=18"/>āṟṟiṟpācci, kaṭaliṟpācci, catturukkaḷ miṇṭaṉ, mēvalar 
+                    <lb n="1r19=19"/>kōḷari vīrakempīraṉ, kīṟtip piṟatāpaṉ kapaṭa nāṭaka cūttirap piṟa 
+                    <lb n="1r20=20"/>tāpaṉ, patti muttip piṟiyaṉ, aṣṭa leṭcumi vācaṉ, caṟpaṉ 
+                    <lb n="1r21=21"/>ṉa pāṣā vīṭcaṇaṉ, cakala kuṇa campaṉṉaṉ, caṅkīta ca 
+                    <lb n="1r22=22"/>āyittiya vittiyā viṉōtaṉ, vīṇāp piṟacaṅkaṉ, vīla 
+                    <lb n="1r23=23"/>ra vaḷanāṭaṉ, toṇṭiyantuṟai kāvalaṉ, aṭaikka 
+                    <lb n="1r24=24"/>laṅ kāttāṉ, vaṉṉiyarāṭṭan taviḻttāṉ, mūvarā 
+                    <lb n="1r25=25"/>ya kaṇṭaṉ, cāmitturōki ceṇṭaya kāvala 
+                    <lb n="1r26=26"/>ṉ, vīrataṇṭai cēmattalai viḷaṅkiya tāḷiṉāṉ, tu 
+                    <lb n="1r27=27"/>rai rāyaṉ, ceyatuṅka rāyaṉ, vamiṣātipaṉāṉa tukavūr 
+                    <lb n="1r28=28"/>kkūṟṟattuk kāttūrāṉa kulōttuṅka cōḷa nallū 
+                    <lb n="1r29=29"/>rk kīḻppāl viraiyāta kaṇṭaṉilirukkum śrīmatu 
+                    <lb n="1r30=30"/>iraṇiyakeṟpavāci ravikula rekunātac cētupati kā 
+                    <lb n="1r31=31"/>t(ta)tēvaravarkaḷ vaṅkucōttārakarāṉa śrīmatu cellamuttu 
+                    <lb n="1r32=32"/>vicaiya rekunāta cētupati kātta tēvaravarkaḷ eṅkaḷ
                 </p>
                 
                 <pb n="1v"/>
-                <p>33. mātā pitāviṉuṭaiya vaṟkkattukkum puṇṇiyamākat taruma cā
-                    34. taṉap paṭṭayaṅ koṭuttapaṭi muṉ eṅkaḷ turaittaṉa paramparai
-                    35. yil cālivākaṉa cakāptam 1582-kku mēṟcellā
-                    36, cāṟuvari u māka māta puṇṇiya kālattilē tiruvāvaṭu
-                    37. tuṟai ātīṉam ampalavāṇa paṇṭāra caṉṉati avarkaḷukku
-                    38. śrīmatu tirumalaic cētupati renātat tēvaravarkaḷ taruma cāca
-                    39. ṉappaṭi kaṅkaṇi, kaṭṭi, ceriṉāñcivayal nāṇākkuṭi inta nāṉkil
-                    40. kaṅkaṇi, kaṭṭi ceriṉāñci vayalinta mūṉṟun tāṅkaḷaṉupavit
-                    41. tu varukiṟatuṉālē taṅkaḷ nāṇākkuṭikkup patilāy ēḻukō
-                    42. ṭṭai nāṭṭil orur vaṭṭakaiyil nāṭṭucēriyai taṅkaḷu
-                    43. kkuk kaṭṭaḷaiyiṭṭōm nāṭṭucēri ellaiyāvatu kiḻakku ā
-                    44. yāṅ kōṭṭaik kaṇvāy nīrppiṭikku mēṟkut teṟku
-                    45. taṉiccak kaṇavāy vaṭakālukku neṭṭēntaṟ kuḷakkālu
-                    46. kkum vaṭakku mēṟku ataṅkuṭik kīḻpuṟattellaikkuk kiḻak
-                    47. ku vaṭakku mēṟku tiruppoṟkōṭṭai nañcaimālukkut teṟku
-                    48. inta nāṉkellaikkuḷpaṭṭa tiṭṭut tiṭal māvaṭai māva
-                    49. ṭai mēlnōkkiya maram kīḻṉōkkiya kiṇaṟum āttukkā
-                    50. l ūttukkāl cila taru pāṣāṇa niti niṭcēpamum aṣṭṭa
-                    51. pōka tēca cuvāmiyaṅkaḷum viniyāti vikkiraiyaṅka
-                    52. ḷukku yōkkiyamāka cantirātittāḷ uḷḷavaraikkum
-                    53. ātīṉa paramparaiyāka tāṅkaḷē āṇṭaṉupavittukke
-                    54. āḷḷak kaṭavārkaḷākavum
-                    55. intat tarumattaip paripālaṉam paṇṇiṉavarkaḷ keṅkai
-                    56. k karaiyiluñ cētukkaraiyilu puṇṇiya stalaṅkaḷilē a
-                    57. ṉēka civaliṅkap piṟatiṭṭai maṭappiṟatiṭṭai akkirārap piṟatiṭ
-                    58. ṭai kaṉṉikā tāṉam paṇṇiṉa palaṉai aṭaivārkaḷ. intat
-                    59. tarumattukku yātoruttar ahitañ ceyta pērkaḷ keṅkai
-                    60. kkaraiyiluñ cētukkaraiyiluṅ kārāmpacuvaiyum pi
-                    61. rāmaṇaraiyuṅ kuruvaiyum mātā pitāvaiyuṅ koṉṟa
-                    62. tōṣattilēyum aṉēka civatalaṅkaḷilē civatturōka
-                    63. m paṇṇiṉa narakattilēyum pōkak kaṭavararākavum. ippaṭikku
-                    64. śrī cellamuttu vicaiya rekuṉātac cētupati kātta tēvaravar
-                    65. kaḷ tiruvāvaṭutuṟaip paṇṭārac caṉṉati avarkaḷ ampalavā
-                    66. ṇa cuvāmi pūcai mahēcuvara pūcaikkut tāmpiracātaṉaṅ
+                <p>
+                    <lb n="1v1=33"/>mātā pitāviṉuṭaiya vaṟkkattukkum puṇṇiyamākat taruma cā
+                    <lb n="1v2=34"/>taṉap paṭṭayaṅ koṭuttapaṭi muṉ eṅkaḷ turaittaṉa paramparai
+                    <lb n="1v3=35"/>yil cālivākaṉa cakāptam 1582-kku mēṟcellā
+                    <lb n="1v4=36"/>cāṟuvari u māka māta puṇṇiya kālattilē tiruvāvaṭu
+                    <lb n="1v5=37"/>tuṟai ātīṉam ampalavāṇa paṇṭāra caṉṉati avarkaḷukku
+                    <lb n="1v6=38"/>śrīmatu tirumalaic cētupati renātat tēvaravarkaḷ taruma cāca
+                    <lb n="1v7=39"/>ṉappaṭi kaṅkaṇi, kaṭṭi, ceriṉāñcivayal nāṇākkuṭi inta nāṉkil
+                    <lb n="1v8=40"/>kaṅkaṇi, kaṭṭi ceriṉāñci vayalinta mūṉṟun tāṅkaḷaṉupavit
+                    <lb n="1v9=41"/>tu varukiṟatuṉālē taṅkaḷ nāṇākkuṭikkup patilāy ēḻukō
+                    <lb n="1v10=42"/>ṭṭai nāṭṭil orur vaṭṭakaiyil nāṭṭucēriyai taṅkaḷu
+                    <lb n="1v11=43"/>kkuk kaṭṭaḷaiyiṭṭōm nāṭṭucēri ellaiyāvatu kiḻakku ā
+                    <lb n="1v12=44"/>yāṅ kōṭṭaik kaṇvāy nīrppiṭikku mēṟkut teṟku
+                    <lb n="1v13=45"/>taṉiccak kaṇavāy vaṭakālukku neṭṭēntaṟ kuḷakkālu
+                    <lb n="1v14=46"/>kkum vaṭakku mēṟku ataṅkuṭik kīḻpuṟattellaikkuk kiḻak
+                    <lb n="1v15=47"/>ku vaṭakku mēṟku tiruppoṟkōṭṭai nañcaimālukkut teṟku
+                    <lb n="1v16=48"/>inta nāṉkellaikkuḷpaṭṭa tiṭṭut tiṭal māvaṭai māva
+                    <lb n="1v17=49"/>ṭai mēlnōkkiya maram kīḻṉōkkiya kiṇaṟum āttukkā
+                    <lb n="1v18=50"/>l ūttukkāl cila taru pāṣāṇa niti niṭcēpamum aṣṭṭa
+                    <lb n="1v19=51"/>pōka tēca cuvāmiyaṅkaḷum viniyāti vikkiraiyaṅka
+                    <lb n="1v20=52"/>ḷukku yōkkiyamāka cantirātittāḷ uḷḷavaraikkum
+                    <lb n="1v21=53"/>ātīṉa paramparaiyāka tāṅkaḷē āṇṭaṉupavittukke
+                    <lb n="1v22=54"/>āḷḷak kaṭavārkaḷākavum
+                    <lb n="1v23=55"/>intat tarumattaip paripālaṉam paṇṇiṉavarkaḷ keṅkai
+                    <lb n="1v24=56"/>k karaiyiluñ cētukkaraiyilu puṇṇiya stalaṅkaḷilē a
+                    <lb n="1v25=57"/>ṉēka civaliṅkap piṟatiṭṭai maṭappiṟatiṭṭai akkirārap piṟatiṭ
+                    <lb n="1v26=58"/>ṭai kaṉṉikā tāṉam paṇṇiṉa palaṉai aṭaivārkaḷ. intat
+                    <lb n="1v27=59"/>tarumattukku yātoruttar ahitañ ceyta pērkaḷ keṅkai
+                    <lb n="1v28=60"/>kkaraiyiluñ cētukkaraiyiluṅ kārāmpacuvaiyum pi
+                    <lb n="1v29=61"/>rāmaṇaraiyuṅ kuruvaiyum mātā pitāvaiyuṅ koṉṟa
+                    <lb n="1v30=62"/>tōṣattilēyum aṉēka civatalaṅkaḷilē civatturōka
+                    <lb n="1v31=63"/>m paṇṇiṉa narakattilēyum pōkak kaṭavararākavum. ippaṭikku
+                    <lb n="1v32=64"/>śrī cellamuttu vicaiya rekuṉātac cētupati kātta tēvaravar
+                    <lb n="1v33=65"/>kaḷ tiruvāvaṭutuṟaip paṇṭārac caṉṉati avarkaḷ ampalavā
+                    <lb n="1v34=66"/>ṇa cuvāmi pūcai mahēcuvara pūcaikkut tāmpiracātaṉaṅ
                     koṭut
-                    76.tōm.u
+                   <lb n="1v35=67"/>tōm <g type="pc"></g>
                     cupramaṇiya pātāra vintam tuṇai.
                     
                     
