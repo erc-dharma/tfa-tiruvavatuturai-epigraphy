@@ -261,21 +261,21 @@
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl> (ARIE/1986-1987/A/1986-1987/27).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl> (ARIE/1986-1987/A/1986-1987/34).</p>
                 <p>
                     Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. <seg rend="check">TBC</seg>). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.
                 </p>
                 
                 <p>
-                    This edition by Renato Dávalos, Emmanuel Francis and Margherita Trento (2024), based on EFEO photographs (2015).
+                    This edition is by Margherita Trento (2026), based on EFEO photographs (2015).
                 </p>
                 
                 <listBibl type="primary">
                     
                     <bibl n="K">
                         <ptr target="bib:Kirusnamurtti2000_01"/>
-                        <citedRange unit="page">77-**</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="page">120-125</citedRange>
+                        <citedRange unit="item">28</citedRange>
                     </bibl>
                     
                 </listBibl>
@@ -283,8 +283,8 @@
                 <listBibl type="secondary">
                     <bibl>
                         <ptr target="bib:ARIE1986-1987"/>
-                        <citedRange unit="page">19</citedRange>
-                        <citedRange unit="item">27</citedRange>
+                        <citedRange unit="page">22</citedRange>
+                        <citedRange unit="item">34</citedRange>
                     </bibl>
                 </listBibl>
             </div>
