@@ -91,8 +91,8 @@
                 </p>
                 <p>
                     cālivākaṉa-cakāṟṟam <num value="1701"> <g type="numeral">1000</g> 7 <g type="numeral">100</g>  
-                        <lb n="3r=3"/>1</num> <seg type="aksara">k=ku</seg><!--EF: it seems there is no "1" and only "k=ka" for "k=ku"--> mēl cellā niṉṟa kollam <num value="955">9 <g type="numeral">100</g> 5 <g type="numeral">10</g> 5</num> <g type="varuṣam"></g>  
-                    <lb n="4r=4"/>vikāri <g type="varuṣam"></g> kārttikai <g type="mācam"></g> <num value="22"> 2 2 <g type="numeral">10</g> </num> <g type="tēti"></g> ticamiyuṅ kuru 
+                        <lb n="3r=3"/>1</num> <seg type="aksara">k=ku</seg><!--EF: it seems there is no "1" and only "k=ka" for "k=ku"--> mēl cellā niṉṟa kollam <num value="955">9 <g type="numeral">100</g> 5 <g type="numeral">10</g> 5</num> <g type="varuṣam"/>  
+                    <lb n="4r=4"/>vikāri <g type="varuṣam"/> kārttikai <g type="mācam"/> <num value="22"> 2 2 <g type="numeral">10</g> </num> <g type="tēti"/> ticamiyuṅ kuru 
                     <!-- I believe that there is a mistake: the scribe has written 2 2 10+ instead of 2 10+ 2; how to encode that? -->
                     <lb n="5r=5" break="no"/>vāramum Uttira-naṭcettiramum Āyu<hi rend="grantha">ṣ</hi>ṭṭiṇa-ṉāma-yō  
                     <lb n="6r=6" break="no"/>kamum keca-karaṇamum rācata-vēḷaiyum cukkiṟavō  
@@ -133,8 +133,8 @@
                     Āṟumuka nayiṉa  
                     <lb n="30r=30" break="no"/>r caṉṉitāṉat tirukōpura-t-tiruppaṇi-t taṟma  
                     <lb n="31r=31" break="no"/>m civapuṇṇiyattukku-t tāṉacātaṉa-p-paṭṭaiyam ā  
-                    <lb n="32r=31" break="no"/>vatu Eṅkaḷ cēkara vaṇitam mūṉṟukkum <g type="varuṣam"></g> 1 <seg type="aksara">k=ku</seg> kaṭ  
-                    <lb n="33r=33" break="no"/>ṭiṉa vīṭṭukku <g type="varuṣam"></g> 1 <seg type="aksara">k=ku</seg> āṟuṅkālppaṭikkuk kuṟu  
+                    <lb n="32r=31" break="no"/>vatu Eṅkaḷ cēkara vaṇitam mūṉṟukkum <g type="varuṣam"/> 1 <seg type="aksara">k=ku</seg> kaṭ  
+                    <lb n="33r=33" break="no"/>ṭiṉa vīṭṭukku <g type="varuṣam"/> 1 <seg type="aksara">k=ku</seg> āṟuṅkālppaṭikkuk kuṟu  
                     <lb n="34r=34" break="no"/>ṇi-t tavaca-vītam vīṭṭu-t 
                 </p>
                 
@@ -249,7 +249,7 @@
                     <lb n="50v=97"/>kāvalac civasamaṇiyam 
                 </p>
                 <p>
-                    <g type="pc"></g> yinta tāmpira cātaṉam Eḷu
+                    <g type="pc"/> yinta tāmpira cātaṉam Eḷu
                     <lb n="51v=98" break="no"/>ti nayiṉār caṉṉitāṉattukku vāṅkiṉēṉ kumāra
                     <lb n="52v=99"/>velu-p paṇṭāram 
                 </p>
@@ -258,7 +258,7 @@
                     <lb n="53v=100" break="no"/>ṉṉa Ayyamperumāṉ ācāri kumāraṉ puṉṉaiva<seg type="aksara">ṉ=aM</seg>
                 </p>
                 <p>
-                    <lb n="53v=101"/><g type="pc"></g> kūmaraṉ tuṇai <g type="pc"></g>
+                    <lb n="53v=101"/><g type="pc"/> kūmaraṉ tuṇai <g type="pc"/>
                 </p>
                 
             </div>

@@ -93,8 +93,8 @@
                 <p>
                     cālivākaṉa cakārttam <num value="1699"> <g type="numeral">1000</g> <g type="numeral">6</g> <g type="numeral">100</g> <g type="numeral">9</g> <g type="numeral">10</g> <g type="numeral">9</g> </num> 
                     <lb n="2r=2"/>kku mēl-c cellā niṉṟa kollam <num value="954"> <g type="numeral">9</g> <g type="numeral">100</g>
-                        <lb n="3r=3"/><g type="numeral">5</g> <g type="numeral">10</g> <g type="numeral">4</g> </num> <g type="varuṣam"></g> viḷampi <g type="varuṣam"></g> Aṟpaci <g type="mācam"></g> <num value="21">2 1</num> <g type="tēti"></g> putaṉ 
-                    <!-- in this line, after Aṟpaci, there two symbols; one resembling ṭṭa or <g "paṇam"></g>, but perhaps meaning "mācam"; and antoher one that might be a 2, even though it would mean that the number 21 is written wrongly without the symbol 10+-->
+                        <lb n="3r=3"/><g type="numeral">5</g> <g type="numeral">10</g> <g type="numeral">4</g> </num> <g type="varuṣam"/> viḷampi <g type="varuṣam"/> Aṟpaci <g type="mācam"/> <num value="21">2 1</num> <g type="tēti"/> putaṉ 
+                    <!-- in this line, after Aṟpaci, there two symbols; one resembling ṭṭa or <g "paṇam"/>, but perhaps meaning "mācam"; and antoher one that might be a 2, even though it would mean that the number 21 is written wrongly without the symbol 10+-->
                     <lb n="4r=4"/>vāramum a<choice><orig>m</orig><reg>p</reg></choice>ara paṭ<hi rend="grantha">ṣ</hi>attu-t ticamiyum pūca naṭce
                     <lb n="5r=5"/>ttiramum <abbr>tulā</abbr> lakkaṉamum kūṭiya cupatiṉat 
                     <lb n="6r=6"/>til 
@@ -132,7 +132,7 @@
                 <p>	
                     cuvāmi tēcikā mūrtti cāmiyaḷ Arumai 
                     <lb n="27r=27"/>t-tiruvākkāyt tirumukaṅ kaṭṭaḷaiyiṭṭ' aru 
-                    <lb n="28r=28"/>ḷiya paṭikku <g type="varuṣam"></g> 1 <seg type="aksara">k=ku</seg> talaikkaṭṭukku <unclear reason="eccentric_ductus"><g type="poṉ"/></unclear> ½ <expan><ex>paṇa</ex><abbr>m</abbr></expan> ye 
+                    <lb n="28r=28"/>ḷiya paṭikku <g type="varuṣam"/> 1 <seg type="aksara">k=ku</seg> talaikkaṭṭukku <unclear reason="eccentric_ductus"><g type="poṉ"/></unclear> ½ <expan><ex>paṇa</ex><abbr>m</abbr></expan> ye 
                     <!-- we must have a measure of money ; but the symbols are unclear-->
                     <lb n="29r=29"/>ṉṟu-c cakala caṉa cammatiyāy-t tāmpura-cā 
                     <lb n="30r=30"/>taṉa-p-paṭṭaiyam yeḷutik koṭuttōm 
@@ -183,13 +183,13 @@
                     vēlappa nā 
                     <lb n="25v=61"/>ṭāṉ Aḷaka nāṭāṉ cīṉap paṇikka nāṭā 
                     <lb n="26v=62"/>ṉ Ātīṉam aḷaki nāṭāṉ Avaṇa nāṭāṉ 
-                    <lb n="27v=63"/>vakuttakuṭṭi nāṭāṉ <g type="pc"></g> nayiṉār tiruppaṇi 
+                    <lb n="27v=63"/>vakuttakuṭṭi nāṭāṉ <g type="pc"/> nayiṉār tiruppaṇi 
                     <lb n="28v=64"/>kku-c civakāci nāṭākkaḷ tāmpura cātaṉa 
                     <lb n="29v=65"/>p-paṭṭaiyam 
                     
                 </p>
                 <p>
-                    nīṭuḷi vāḷka <g type="pc"></g> kumaraṉ tuṇai 
+                    nīṭuḷi vāḷka <g type="pc"/> kumaraṉ tuṇai 
                 </p>
                 
                 
