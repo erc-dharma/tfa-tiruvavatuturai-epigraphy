@@ -86,10 +86,52 @@
             <div type="edition" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:vernacular">	
                 
                 <pb n="1r"/>
-                
-                <p>                    
-                    <lb n="1r1=1"/>… 
-                    <lb n="1r35=35"/>… vāṅki-k koṇṭu
+                <ab>
+                    <lb n="1r1=1"/><g type="pc"/> Āṟumukañ cakāyam
+                </ab>
+                <p>  
+                    <lb n="1r2=2"/>cu<hi rend="grantha">sti śrī</hi>maṉ makāmaṇṭelēcuraṉ Ariya rāya vipāṭaṉ pā
+                    <lb n="1r3=3" break="no"/>ḻaikku-t tappu varāta kaṇṭaṉ kaṇṭa ṉāṭu koṇ
+                    <lb n="1r4=4" break="no"/>ṭu koṇṭa ṉāṭu kuṭātāṉ pūṟuva pacci<hi rend="grantha">ma</hi> te<hi rend="grantha">ṣṣa</hi>ṇa Utti
+                    <lb n="1r5=5" break="no"/>ra camuttirātipati Emmaṇṭalamuṅ koṇṭu yīḻantu 
+                    <lb n="1r6=6" break="no"/>ṟai koṇṭaruḷiya rācāti rācaṉ rāca paramēcuraṉ rāca mā
+                    <lb n="1r7=7" break="no"/>ttāṇṭaṉ rāca kempīraṉ rāca maṉōkaraṉ tulukkar
+                    <lb n="1r8=8"/>taḷa vipāṭaṉ tulukkar mōkan taviḻttāṉ Oṭṭiyar taḷa
+                    <lb n="1r9=9"/>vipāṭaṉ Oṭṭiyar mōkan taviḻttāṉ vaṉṉiyar vēṭaṉ,
+                    <lb n="1r10=10"/>Āṭum perumāṉ toṇṭa maṇṭala-t tāpaṉācāriyaṉ cō
+                    <lb n="1r11=11" break="no"/>ḻa maṇṭala-p piratiṭ=ṭāpaṉācariyaṉ pāṇṭi maṇṭala-p piṟa
+                    <lb n="1r12=12"/>tiṭ=ṭāpaṉācāriyaṉ <hi rend="grantha">śrī</hi>piṟavaṭa tēva makārāyar viruppā<hi rend="grantha">ṣi</hi> tē
+                    <lb n="1r13=13" break="no"/>va makārāyar mallikāṟcaṉa tēva makārāyar vēṅkiṭapati tēva ma
+                    <lb n="1r14=14" break="no"/>kārāyar Aṉaikunti vēṅkiṭapati tēva makārāyar ki<hi rend="grantha">ṣ</hi>ṇa tēva
+                    <lb n="1r15=15"/>makārāyar yitu mutalāṉavarukaḷukku-p piṟiti rācaṉākiya tañcai
+                    <lb n="1r16=16"/>nakarātipaṉ pōcala kulatīpaṉ rācāti rācaṉ, rācakula tila
+                    <lb n="1r17=17" break="no"/><choice><orig>ta</orig><reg>ka</reg></choice>ṉ yēkōci makārācā cāyepu Avarkaḷ cakaci ma
+                    <lb n="1r18=18" break="no"/>kārācā cāyepu Avarkaḷ carapōci makārācā cāyepu Avarka
+                    <lb n="1r19=19" break="no"/>ḷ yivarkaḷ piṟitivi rācciyam paṇṇi yaruḷā niṉṟa
+                </p>
+                <p>
+                     ka
+                    <lb n="1r20=20"/>liyattam <num value="4812"> 4 <g type="numeral">1000</g> 8 <g type="numeral">1000</g> <g type="numeral">10</g> 2</num> cakāṟtam <num value="1633"> <g type="numeral">1000</g> 6 <g type="numeral">100</g> 3 <g type="numeral">10</g> 3</num> yitiṉ mēl
+                    <lb n="1r21=21"/>cellāniṉṟa kara <g type="varuṣam"></g> tai <g type="mācam"></g> <num value="15"> <g type="numeral">10</g> 5</num> <g type="tēti"></g> <hi rend="grantha">śrī</hi>matu Ayyāvaiy
+                    <lb n="1r22=22" break="no"/>yaṉavarkaḷ cupaiyil 
+                </p>
+                <p>
+                    tiruvārūr-c cīmai nākappaṭ=ṭa
+                    <lb n="1r23=23" break="no"/>ṇam paṟkkaṇāyuḷ paṭa Acēṣa vittu makācaṉaṅkaḷum n
+                    <lb n="1r24=24" break="no"/>āṭṭār kuṭiyāṉa peyar cakalaruṅ kūṭi tiruvāvaṭutuṟai maṭa
+                    <lb n="1r25=25" break="no"/>m paṇṭāra-c caṉṉati yavarkaḷukku makamai-c cātaṉa-p pa
+                    <lb n="1r26=26" break="no"/>ṭṭaiyam Eḻutik koṭuttapaṭi yittaṉāḷ tiruvārūrc cī
+                    <lb n="1r27=27" break="no"/>mai nākappaṭṭaṇam paṟkkaṇāyuḷ paṭa mākāṇam kiṟāma
+                    <lb n="1r28=28"/>vaḻiyuḷ paṭa kaṭappuk kār-c campāp picāṉañ cittiraik ka
+                    <lb n="1r29=29" break="no"/>ṭappu vuḷpaṭa-k kaṇṭu mutalukku caṟukkārukkuṅ kuṭi
+                    <lb n="1r30=30" break="no"/>kkum potuvil kalanellukku yuri Āka kōṭṭai
+                    <lb n="1r31=31"/>1 <seg type="aksara">k=ku</seg> ṉāḻi nel vītam koṭuttu varukiṟōm eṉṟu
+                </p>
+                <p> 
+                    <lb n="1r32=32"/>ṉāṅkaḷ Aṇaivaruñ cammatittu-p paṭṭayam paṇ
+                    <lb n="1r33=33" break="no"/>ṇik koṭuttapaṭiyiṉālē Antappaṭik kō
+                    <lb n="1r34=34" break="no"/>ṭṭaikku ṉāḻinel vītam yuḷḷa nellu varu
+                    <lb n="1r35=35"/><hi rend="grantha">ṣ</hi>ā-varuṣam vantu vāṅki-k koṇṭu
                 </p>
                 <p>                    
                     Ācanti 
