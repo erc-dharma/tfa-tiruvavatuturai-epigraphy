@@ -92,7 +92,7 @@
                 <p>
                     cālivākaṉa-cakāṟṟam <num value="1701"> <g type="numeral">1000</g> 7 <g type="numeral">100</g>  
                         <lb n="3r=3"/>1</num> <seg type="aksara">k=ku</seg><!--EF: it seems there is no "1" and only "k=ka" for "k=ku"--> mēl cellā niṉṟa kollam <num value="955">9 <g type="numeral">100</g> 5 <g type="numeral">10</g> 5</num> <g type="varuṣam"/>  
-                    <lb n="4r=4"/>vikāri <g type="varuṣam"/> kārttikai <g type="mācam"/> <num value="22"> 2 2 <g type="numeral">10</g> </num> <g type="tēti"/> ticamiyuṅ kuru 
+                    <lb n="4r=4"/>vikāri <g type="varuṣam"/> kārttikai <g type="tam-matam"/> <num value="22"> 2 2 <g type="numeral">10</g> </num> <g type="tēti"/> ticamiyuṅ kuru 
                     <!-- I believe that there is a mistake: the scribe has written 2 2 10+ instead of 2 10+ 2; how to encode that? -->
                     <lb n="5r=5" break="no"/>vāramum Uttira-naṭcettiramum Āyu<hi rend="grantha">ṣ</hi>ṭṭiṇa-ṉāma-yō  
                     <lb n="6r=6" break="no"/>kamum keca-karaṇamum rācata-vēḷaiyum cukkiṟavō  
