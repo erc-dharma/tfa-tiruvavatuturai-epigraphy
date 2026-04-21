@@ -91,8 +91,8 @@
                 </p>
                 <p>
                     cālivākaṉa-cakāṟṟam <num value="1701"> <g type="numeral">1000</g> 7 <g type="numeral">100</g>  
-                        <lb n="3r=3"/>1</num> <seg type="aksara">k=ku</seg><!--EF: it seems there is no "1" and only "k=ka" for "k=ku"--> mēl cellā niṉṟa kollam <num value="955">9 <g type="numeral">100</g> 5 <g type="numeral">10</g> 5</num> <g type="varuṣam"/>  
-                    <lb n="4r=4"/>vikāri <g type="varuṣam"/> kārttikai <g type="tam-matam"/> <num value="22"> 2 2 <g type="numeral">10</g> </num> <g type="tēti"/> ticamiyuṅ kuru 
+                        <lb n="3r=3"/>1</num> <seg type="aksara">k=ku</seg><!--EF: it seems there is no "1" and only "k=ka" for "k=ku"--> mēl cellā niṉṟa kollam <num value="955">9 <g type="numeral">100</g> 5 <g type="numeral">10</g> 5</num> <g type="tam-varusam"/>  
+                    <lb n="4r=4"/>vikāri <g type="tam-varusam"/> kārttikai <g type="tam-matam"/> <num value="22"> 2 2 <g type="numeral">10</g> </num> <g type="tam-teti"/> ticamiyuṅ kuru 
                     <!-- I believe that there is a mistake: the scribe has written 2 2 10+ instead of 2 10+ 2; how to encode that? -->
                     <lb n="5r=5" break="no"/>vāramum Uttira-naṭcettiramum Āyu<hi rend="grantha">ṣ</hi>ṭṭiṇa-ṉāma-yō  
                     <lb n="6r=6" break="no"/>kamum keca-karaṇamum rācata-vēḷaiyum cukkiṟavō  
@@ -133,8 +133,8 @@
                     Āṟumuka nayiṉa  
                     <lb n="30r=30" break="no"/>r caṉṉitāṉat tirukōpura-t-tiruppaṇi-t taṟma  
                     <lb n="31r=31" break="no"/>m civapuṇṇiyattukku-t tāṉacātaṉa-p-paṭṭaiyam ā  
-                    <lb n="32r=31" break="no"/>vatu Eṅkaḷ cēkara vaṇitam mūṉṟukkum <g type="varuṣam"/> 1 <seg type="aksara">k=ku</seg> kaṭ  
-                    <lb n="33r=33" break="no"/>ṭiṉa vīṭṭukku <g type="varuṣam"/> 1 <seg type="aksara">k=ku</seg> āṟuṅkālppaṭikkuk kuṟu  
+                    <lb n="32r=31" break="no"/>vatu Eṅkaḷ cēkara vaṇitam mūṉṟukkum <g type="tam-varusam"/> 1 <seg type="aksara">k=ku</seg> kaṭ  
+                    <lb n="33r=33" break="no"/>ṭiṉa vīṭṭukku <g type="tam-varusam"/> 1 <seg type="aksara">k=ku</seg> āṟuṅkālppaṭikkuk kuṟu  
                     <lb n="34r=34" break="no"/>ṇi-t tavaca-vītam vīṭṭu-t 
                 </p>
                 
@@ -231,20 +231,20 @@
                     cā
                     <lb n="35v=82" break="no"/>ttūr vaṇita cēkaram mūṉṟukkum nāṭṭāṇmaikkāṟar
                     <lb n="36v=83"/>Oppam 
-                    <list><item>paṭantāl Ayya<g type="nāyaka"/>kar</item> <item>kaṇakkuc caṅkara mūrt=ti mutali</item>
+                    <list><item>paṭantāl Ayya<g type="tam-nayaka"/>kar</item> <item>kaṇakkuc caṅkara mūrt=ti mutali</item>
                         <item><lb n="37v=84"/>oṟṟaiyālc caṅkarappa ṉāyakkar</item><item> putūrk kumāru reṭṭi</item>
                         <item><lb n="38v=85"/>cāttūrk kaṇakkuc cāmi mutali</item><item> moṭṭamalaip perumāḷ
-                            <lb n="39v=86"/><g type="nāyaka"/>r</item> <item>r=ā liṅka <g type="nāyaka"/>r</item><item> kaṇakku vīrappa mutali</item> <item>ciṉṉakkāmaṉ</item>
-                        <item><lb n="40v=87"/>paṭṭip pōṭi <g type="nāyaka"/></item> <item>māyiṉāpuram rāmaya <g type="nāyaka"/></item> <item>mēṭṭuppaṭṭik ka
-                            <lb n="41v=88" break="no"/><choice><sic>ṅai</sic><corr>ṅ</corr></choice>kā <g type="nāyaka"/></item> <item>ciṟukkuḷam perumāḷ <g type="nāyaka"/></item> <item>tirumāl <g type="nāyaka"/></item> <item>ko<unclear>cu</unclear>
-                                <lb n="42v=89"/>kuṇṭuk kōṭāṅki <g type="nāyaka"/></item> <item>Appā <g type="nāyaka"/></item> <item>māvilippaṭṭi Ellappa <g type="nāyaka"/></item>
-                        <item><lb n="43v=90"/>nākalāpuram pōṭi <g type="nāyaka"/> </item><item>rācāppaṭṭi r=āya <g type="nāyaka"/></item> <item>tēcattāril
-                            <lb n="44v=91"/>varala kuruvaṉ ceṭṭi</item> <item>kayilācapuram ṉāṟaṇappa <g type="nāyaka"/></item> <item>vallak<unclear>ka</unclear>
-                                <lb n="45v=92"/>nattam veṅkiṭapati <g type="nāyaka"/></item> <item>karuppūr vīrappa <g type="nāyaka"/></item> <item>mācāripaṭṭi Aḷi
-                                    <lb n="46v=93" break="no"/>yāt tēvaṉ</item> <item>vaṭamalaipuram ṉāṟaṇappa <g type="nāyaka"/></item> <item>Accaṅkuḷam kiccaya <g type="nāyaka"/></item>
-                        <item><lb n="47v=94"/>muttilāpuram Aḷakiri <g type="nāyaka"/></item> <item>mēlkkāntaik kōpāla <g type="nāyaka"/>ar</item>
-                        <item><lb n="48v=95"/>vēmpūrt tammaṇak kavaṇṭaṉ</item> <item>Akkā <g type="nāyaka"/></item> <item>meṭṭi loṭṭi
-                            <lb n="49v=96" break="no"/>ppalu <g type="nāyaka"/></item> <item>cūrppa <g type="nāyaka"/></item> <item>karucakkuḷam caṅkarakkōṉ</item></list>
+                            <lb n="39v=86"/><g type="tam-nayaka"/>r</item> <item>r=ā liṅka <g type="tam-nayaka"/>r</item><item> kaṇakku vīrappa mutali</item> <item>ciṉṉakkāmaṉ</item>
+                        <item><lb n="40v=87"/>paṭṭip pōṭi <g type="tam-nayaka"/></item> <item>māyiṉāpuram rāmaya <g type="tam-nayaka"/></item> <item>mēṭṭuppaṭṭik ka
+                            <lb n="41v=88" break="no"/><choice><sic>ṅai</sic><corr>ṅ</corr></choice>kā <g type="tam-nayaka"/></item> <item>ciṟukkuḷam perumāḷ <g type="tam-nayaka"/></item> <item>tirumāl <g type="tam-nayaka"/></item> <item>ko<unclear>cu</unclear>
+                                <lb n="42v=89"/>kuṇṭuk kōṭāṅki <g type="tam-nayaka"/></item> <item>Appā <g type="tam-nayaka"/></item> <item>māvilippaṭṭi Ellappa <g type="tam-nayaka"/></item>
+                        <item><lb n="43v=90"/>nākalāpuram pōṭi <g type="tam-nayaka"/> </item><item>rācāppaṭṭi r=āya <g type="tam-nayaka"/></item> <item>tēcattāril
+                            <lb n="44v=91"/>varala kuruvaṉ ceṭṭi</item> <item>kayilācapuram ṉāṟaṇappa <g type="tam-nayaka"/></item> <item>vallak<unclear>ka</unclear>
+                                <lb n="45v=92"/>nattam veṅkiṭapati <g type="tam-nayaka"/></item> <item>karuppūr vīrappa <g type="tam-nayaka"/></item> <item>mācāripaṭṭi Aḷi
+                                    <lb n="46v=93" break="no"/>yāt tēvaṉ</item> <item>vaṭamalaipuram ṉāṟaṇappa <g type="tam-nayaka"/></item> <item>Accaṅkuḷam kiccaya <g type="tam-nayaka"/></item>
+                        <item><lb n="47v=94"/>muttilāpuram Aḷakiri <g type="tam-nayaka"/></item> <item>mēlkkāntaik kōpāla <g type="tam-nayaka"/>ar</item>
+                        <item><lb n="48v=95"/>vēmpūrt tammaṇak kavaṇṭaṉ</item> <item>Akkā <g type="tam-nayaka"/></item> <item>meṭṭi loṭṭi
+                            <lb n="49v=96" break="no"/>ppalu <g type="tam-nayaka"/></item> <item>cūrppa <g type="tam-nayaka"/></item> <item>karucakkuḷam caṅkarakkōṉ</item></list>
                     ticai
                     <lb n="50v=97"/>kāvalac civasamaṇiyam 
                 </p>
