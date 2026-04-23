@@ -60,16 +60,13 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -93,7 +90,7 @@
                 <p>
                     cālivākaṉa cakārttam <num value="1699"> <g type="numeral">1000</g> <g type="numeral">6</g> <g type="numeral">100</g> <g type="numeral">9</g> <g type="numeral">10</g> <g type="numeral">9</g> </num> 
                     <lb n="2r=2"/>kku mēl-c cellā niṉṟa kollam <num value="954"> <g type="numeral">9</g> <g type="numeral">100</g>
-                        <lb n="3r=3"/><g type="numeral">5</g> <g type="numeral">10</g> <g type="numeral">4</g> </num> <g type="tam-varusam"/> viḷampi <g type="tam-varusam"/> Aṟpaci <g type="tam-matam"/> <num value="21">2 1</num> <g type="tam-teti"/> putaṉ 
+                        <lb n="3r=3"/><g type="numeral">5</g> <g type="numeral">10</g> <g type="numeral">4</g> </num> <g ref="sym:tam-varusam"/> viḷampi <g ref="sym:tam-varusam"/> Aṟpaci <g ref="sym:tam-matam"/> <num value="21">2 1</num> <g ref="sym:tam-teti"/> putaṉ 
                     <!-- in this line, after Aṟpaci, there two symbols; one resembling ṭṭa or <g "paṇam"/>, but perhaps meaning "mācam"; and antoher one that might be a 2, even though it would mean that the number 21 is written wrongly without the symbol 10+-->
                     <lb n="4r=4"/>vāramum a<choice><orig>m</orig><reg>p</reg></choice>ara paṭ<hi rend="grantha">ṣ</hi>attu-t ticamiyum pūca naṭce
                     <lb n="5r=5"/>ttiramum <abbr>tulā</abbr> lakkaṉamum kūṭiya cupatiṉat 
@@ -132,7 +129,7 @@
                 <p>	
                     cuvāmi tēcikā mūrtti cāmiyaḷ Arumai 
                     <lb n="27r=27"/>t-tiruvākkāyt tirumukaṅ kaṭṭaḷaiyiṭṭ' aru 
-                    <lb n="28r=28"/>ḷiya paṭikku <g type="tam-varusam"/> 1 <seg type="aksara">k=ku</seg> talaikkaṭṭukku <unclear reason="eccentric_ductus"><g type="tam-poṉ"/></unclear> ½ <expan><ex>paṇa</ex><abbr>m</abbr></expan> ye 
+                    <lb n="28r=28"/>ḷiya paṭikku <g ref="sym:tam-varusam"/> 1 <seg type="aksara">k=ku</seg> talaikkaṭṭukku <unclear reason="eccentric_ductus"><g ref="sym:tam-poṉ"/></unclear> ½ <expan><ex>paṇa</ex><abbr>m</abbr></expan> ye 
                     <!-- we must have a measure of money ; but the symbols are unclear-->
                     <lb n="29r=29"/>ṉṟu-c cakala caṉa cammatiyāy-t tāmpura-cā 
                     <lb n="30r=30"/>taṉa-p-paṭṭaiyam yeḷutik koṭuttōm 
@@ -183,13 +180,13 @@
                     vēlappa nā 
                     <lb n="25v=61"/>ṭāṉ Aḷaka nāṭāṉ cīṉap paṇikka nāṭā 
                     <lb n="26v=62"/>ṉ Ātīṉam aḷaki nāṭāṉ Avaṇa nāṭāṉ 
-                    <lb n="27v=63"/>vakuttakuṭṭi nāṭāṉ <g type="pc"/> nayiṉār tiruppaṇi 
+                    <lb n="27v=63"/>vakuttakuṭṭi nāṭāṉ <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> nayiṉār tiruppaṇi 
                     <lb n="28v=64"/>kku-c civakāci nāṭākkaḷ tāmpura cātaṉa 
                     <lb n="29v=65"/>p-paṭṭaiyam 
                     
                 </p>
                 <p>
-                    nīṭuḷi vāḷka <g type="pc"/> kumaraṉ tuṇai 
+                    nīṭuḷi vāḷka <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> kumaraṉ tuṇai 
                 </p>
                 
                 
@@ -239,7 +236,7 @@
                 <listApp><!-- one <app> for each apparatus entry -->
                     
                     <app loc="28r=28">
-                        <lem><g type="tam-panam"/> <expan><abbr>Ima</abbr><ex>riyātai</ex></expan> </lem>
+                        <lem><g ref="sym:tam-panam"/> <expan><abbr>Ima</abbr><ex>riyātai</ex></expan> </lem>
                         <note>The symbol that I interpret as <foreign>paṇam</foreign> is difficult to decipher; it needs to express the amount of the donation, and it was likely a money donation. The interpretation of the abbreviation <foreign>Ima</foreign> as meaning <foreign>Imariyatāi</foreign>, literally "this honour", has been suggested to me in a personal conversation by prof. Vijayavenugopal (on 12/02/2025). </note>
                     </app>
                     

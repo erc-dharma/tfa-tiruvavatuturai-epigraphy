@@ -60,16 +60,13 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -90,12 +87,12 @@
                     <lb n="1"/>ēḻāyi
                     <lb n="2"/>ram paṇ
                     <lb n="3"/>ṇaip paṭ
-                    <lb n="4"/>ṭaiyam <g type="pc"/>
+                    <lb n="4"/>ṭaiyam <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"-->
                 </ab>
                 
                 <p>
                     
-                    <lb n="1r=1"/><g type="pc"/> cuvattiṟi <hi rend="grantha">śrī</hi>maṉ nārāyaṇamūrtti tirunāpiṟkkamala 
+                    <lb n="1r=1"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> cuvattiṟi <hi rend="grantha">śrī</hi>maṉ nārāyaṇamūrtti tirunāpiṟkkamala 
                     <lb n="2r=2" break="no"/>ttil-c ceṉitta pirammāvukkut taṟparai <num value="60"> 6 <g type="numeral">10</g> </num> koṇ 
                     <lb n="3r=3" break="no"/>ṭatu viṉāṭi viṉāṭi <num value="60"> 6 <g type="numeral">10</g> </num> koṇṭatu nāḷikai nāḷikai 
                     <lb n="4r=4"/><num value="60"> 6 <g type="numeral">10</g> </num> nāḷ nāḷ muppatu koṇṭatu mātam mātam 
@@ -120,7 +117,7 @@
                     <lb n="43r=43"/><num> <g type="numeral">1000</g> 7 <g type="numeral">100</g> 4 <g type="numeral">10</g> 9</num> cakārttam <num> <g type="numeral">1000</g> 7 <g type="numeral">100</g> 1 </num> kollam <num> 9 <g type="numeral">100</g> 5 <g type="numeral">10</g> 4</num> rāma  
                     <lb n="44r=44"/>tēvārttam <num>5 <g type="numeral">10</g> 6</num> piṟatāpa ruttirāttam<num> 4 <g type="numeral">100</g> 9 <g type="numeral">10</g> 1</num> kiṭṭiṉa  
                     <lb n="45r=45"/>rāyār ārttam <num> 2 <g type="numeral">100</g> 5 <g type="numeral">10</g> </num> <seg type="aksara">kku</seg> kaliyāti cutta ti<seg type="aksara">ṉam</seg> <num>7 <g type="numeral">100</g> <g type="numeral">1000</g> 8 <g type="numeral">10</g> 2 <g type="numeral">1000</g> 4 <g type="numeral">100</g> 
-                        <lb n="46r=46"/>6 <g type="numeral">10</g> </num> vikāri <g type="tam-varusam"/> cittirai <g type="tam-matam"/> 21 <g type="tam-teti"/> <unclear>cuk</unclear>kiravāramum ticamiyum <choice><orig>c</orig><reg>k</reg></choice>ārtti  
+                        <lb n="46r=46"/>6 <g type="numeral">10</g> </num> vikāri <g ref="sym:tam-varusam"/> cittirai <g ref="sym:tam-matam"/> 21 <g ref="sym:tam-teti"/> <unclear>cuk</unclear>kiravāramum ticamiyum <choice><orig>c</orig><reg>k</reg></choice>ārtti  
                     <lb n="47r=47" break="no"/>kai nāma yōkamum vaṇita karaṇamum tiruvōṇa naṭcettira  
                     <lb n="48r=48" break="no"/>muṅ kūṭiya cupa tiṉattil tulā lakkaṇamum irācatavēḷai  
                     <lb n="49r=49" break="no"/>yum putavōraiyuṅ kūṭiya cupa mukūrttattil-t 
@@ -204,14 +201,14 @@
                     <lb n="46v=106" break="no"/>yam cuvāmi cuppiramaṇiyak kaṭavuḷār caṉṉitāṉat tiruk  
                     <lb n="47v=107" break="no"/>kōpurat tiruppaṇi taṟmam civapuṇṇiyattukku tām  
                     <lb n="48v=108" break="no"/>pira-cātaṉam Eḷutit tāṉam paṇṇik kuṭuttēṉ kulacē  
-                    <lb n="49v=109" break="no"/>cara Āṇṭu koṇṭārōm <g type="pc"/> Intap paṭikku nāṭṭuk ka  
-                    <lb n="50v=110" break="no"/>ṇakkuc caṅkaraliṅka makālikitam <g type="pc"/> cuvāmi centil ā  
+                    <lb n="49v=109" break="no"/>cara Āṇṭu koṇṭārōm <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> Intap paṭikku nāṭṭuk ka  
+                    <lb n="50v=110" break="no"/>ṇakkuc caṅkaraliṅka makālikitam <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> cuvāmi centil ā  
                     <lb n="51v=111" break="no"/>tipati kiṟupākiṭāṭṣattiṉālē nayiṉār caṉṉitāṉat ti  
                     <lb n="52v=112" break="no"/>rukkōpurat tiruppaṇi tarmattukkut tāmpira-cātaṉa  
                     <lb n="53v=113" break="no"/>m Eḷuti vāṅkiṉēṉ Aruṇācalattampirāṉ Ippaṭi  
                     <lb n="54v=114" break="no"/>kku yinta-t tāṉacātaṉap paṭṭaiyattai tāmpira cātaṉa  
                     <lb n="55v=115"/>p-paṭṭaiyamāka Eḷutiṉēṉ Iṟācciya Ayya<unclear>pperu</unclear>māḷ  
-                    <lb n="54v=114"/>Ācāri kumāraṉ puṉṉaivaṉam <g type="pc"/> kumarakuruparaṉ muṉṉiṟkka <g type="pc"/>
+                    <lb n="54v=114"/>Ācāri kumāraṉ puṉṉaivaṉam <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> kumarakuruparaṉ muṉṉiṟkka <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"-->
                     
                 </p>
                 

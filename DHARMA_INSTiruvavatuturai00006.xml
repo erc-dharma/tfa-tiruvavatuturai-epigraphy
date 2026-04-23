@@ -44,7 +44,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -55,16 +55,13 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -84,7 +81,7 @@
                 
                 <p>	
                     <lb n="1r1=1"/>cālivākaṉa-cakāttam <num value="1647"><g type="numeral">1000</g> 6 <g type="numeral">100</g> 4 <g type="numeral">10</g> 7 </num> mēl cellā
-                    <lb n="1r2=2"/>niṉṟa vicuvāvacu <g type="tam-varusam"/> māci <g type="tam-matam"/> <num value="23"> 2 <g type="numeral">10</g> 3</num> <g type="tam-teti"/> 
+                    <lb n="1r2=2"/>niṉṟa vicuvāvacu <g ref="sym:tam-varusam"/> māci <g ref="sym:tam-matam"/> <num value="23"> 2 <g type="numeral">10</g> 3</num> <g ref="sym:tam-teti"/> 
                 </p>	
                 
                 <p>
@@ -150,7 +147,7 @@
                     <lb n="1v26=45" break="no"/>ṭṭiyār cuvāmiṉāta ceṭṭiyār nallata
                     <lb n="1v27=46" break="no"/>mpiyar piḷḷai vayittiyaṉātaṉ tiyākappa
                     <lb n="1v28=47" break="no"/>ṉ muttu cokkaṉātaṉ taviṭa piḷḷai makaṉ 
-                    <lb n="1v29=48" />vīrappaṉ muṟtiñcayaṉ Āṟumuka ceṭṭi
+                    <lb n="1v29=48"/>vīrappaṉ muṟtiñcayaṉ Āṟumuka ceṭṭi
                     <lb n="1v30=49"/>Oppilāmaṇi ceṭṭiyār tiruppaḷi nāya
                     <lb n="1v31=50" break="no"/>kkar tampi <hi rend="grantha">srī</hi> ceṭṭi kuḷḷa ceṭṭiyār ti 
                     <lb n="1v32=51" break="no"/>ru vēṅkiṭam caṭṭaiyappa paṇṭāram
@@ -160,7 +157,7 @@
                     <lb n="1r21=53"/>veṅkiṭēcaṉ vayittiyaṉāta piḷḷai
                     <lb n="1r22=54"/>vaḷḷal kuruliṅkam māriyappaṉ A
                     <lb n="1r23=55" break="no"/>mutaṉār yappuṉāyakkar muttukkaṟu
-                    <lb n="1r24=56" break="no"/>ppaṉ <g type="pc"/> 
+                    <lb n="1r24=56" break="no"/>ppaṉ <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> 
                 </p>
                 
             </div>

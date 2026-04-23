@@ -44,7 +44,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -55,16 +55,13 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -83,7 +80,7 @@
                 <pb n="1r"/>
                 
                 <ab> 	
-                    <lb n="1r1=1"/><g type="pc"/> cupam a<hi rend="grantha">s</hi>tu
+                    <lb n="1r1=1"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> cupam a<hi rend="grantha">s</hi>tu
                 </ab>
                 
                 <p> 
@@ -105,7 +102,7 @@
                 </p>
                 <p>
                     <lb n="1r16=16"/>cālivākaṉa-cakāttam <num value="1660"><g type="numeral">1000</g> 6 <g type="numeral">100</g> 6 <g type="numeral">10</g></num> ka<unclear>li</unclear> <num value="4836"> 4 <g type="numeral">1000</g> 8 <g type="numeral">100</g> 3 <g type="numeral">10</g> 6 </num> <unclear>yi</unclear>taṟku mēl kāla
-                    <lb n="1r17=17"/>yutti <g type="tam-varusam"/> Āṉi <g type="tam-matam"/> <g type="numeral">6</g> <g type="tam-teti"/> cōmavāramu<hi rend="grantha">m·</hi> caturteciyum rōka
+                    <lb n="1r17=17"/>yutti <g ref="sym:tam-varusam"/> Āṉi <g ref="sym:tam-matam"/> <g type="numeral">6</g> <g ref="sym:tam-teti"/> cōmavāramu<hi rend="grantha">m·</hi> caturteciyum rōka
                     <lb n="1r18=18" break="no"/>ṇi-naṭcet=tiramu<hi rend="grantha">m·</hi> cūla nāma yōkamu<hi rend="grantha">m·</hi> caturpāta yōkamu<unclear>mē</unclear>
                     <lb n="1r19=19"/>yinta cupatiṉattil
                 </p>
@@ -154,8 +151,8 @@
                 <p>
                     <lb n="1v30=52"/>y-itaṟku taṟkuṟimukavaṉūr Uṟaviṉ muṟaiyā=r kōmuṭṭi
                     <lb n="1v31=53"/>ceṭṭimār Aṉaivarum <unclear>Ā</unclear>yiravar Aṉaivaru<hi rend="grantha">m·</hi> kārkuṭi Uṟavi
-                    <lb n="1v32=54"/>ṉ muṟaiyar Ammaṉ pēṭṭaiyār Aṉaivarum <g type="pc"/> cā<choice><orig>ṣ</orig><reg>ṭ</reg></choice>ci
-                    <lb n="1v33=55"/>Ampalavāṇar <g type="pc">.</g>
+                    <lb n="1v32=54"/>ṉ muṟaiyar Ammaṉ pēṭṭaiyār Aṉaivarum <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> cā<choice><orig>ṣ</orig><reg>ṭ</reg></choice>ci
+                    <lb n="1v33=55"/>Ampalavāṇar <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
                 </p>
                 
                 

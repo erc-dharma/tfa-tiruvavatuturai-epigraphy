@@ -44,7 +44,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -55,16 +55,13 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -84,13 +81,13 @@
                 <pb n="1r"/>
                 
                 <ab>
-                    <lb n="1r1=1"/><g type="pc"/> muttu-cilā-p-paṭṭayam <g type="pc"/> civayōka-ṉāyaki tuṇai <g type="pc">.</g>
+                    <lb n="1r1=1"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> muttu-cilā-p-paṭṭayam <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> civayōka-ṉāyaki tuṇai <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
                 </ab>
                 
                 <p>	
                     <lb n="1r2=2"/><hi rend="grantha">svasti śrī śā</hi><choice><orig>vī</orig><reg>li</reg></choice>vā<hi rend="grantha">ha</hi>na-<hi rend="grantha">śakābdaṁ</hi> <num value="1461"><g type="numeral">1000</g> 4 <g type="numeral">100</g> 6 <g type="numeral">10</g> 1</num>  
                     <lb n="1r3=3"/>Āṇṭu viḷampi-ṉāma-<hi rend="grantha">saṃ</hi>va<hi rend="grantha">scara</hi>ttil Utta<hi rend="grantha">rā</hi>
-                    <lb n="1r4=4" break="no"/>yaṇattil <hi rend="grantha">śaśira-ṛ<choice><orig>kū</orig><reg>tu</reg></choice></hi>vil <hi rend="grantha">māgha-māsaṃ</hi> <num value="14"><g type="numeral">10</g> <g type="numeral">4</g></num> <g type="pc"/>  
+                    <lb n="1r4=4" break="no"/>yaṇattil <hi rend="grantha">śaśira-ṛ<choice><orig>kū</orig><reg>tu</reg></choice></hi>vil <hi rend="grantha">māgha-māsaṃ</hi> <num value="14"><g type="numeral">10</g> <g type="numeral">4</g></num> <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"-->  
                     <lb n="1r5=5"/><hi rend="grantha">kṛṣṇa</hi>-pa<hi rend="grantha">kṣa</hi>t=til <hi rend="grantha">śukra</hi>-vā<hi rend="grantha">ramuṃ</hi> <hi rend="grantha">tra</hi>yō<hi rend="grantha">daśi</hi>yu=m <hi rend="grantha">śa</hi>
                     <lb n="1r6=6" break="no"/><hi rend="grantha">ṣṭa</hi>-naṭcat=tiramum <hi rend="grantha">yu</hi>va-nā<hi rend="grantha">ma</hi>-yō<hi rend="grantha">gamuṃ</hi> nā<unclear>na</unclear>var-<hi rend="grantha">kara</hi>ṇa 
                     <lb n="1r7=7" break="no"/><hi rend="grantha">muṃ</hi> pe<choice><orig>t=t</orig><reg>ṟ=ṟ</reg></choice>a makā<hi rend="grantha">śi</hi>va<hi rend="grantha">rātri</hi>-<choice><orig>v</orig><reg>p</reg></choice>uṇya-<hi rend="grantha">kāla</hi>t=til
@@ -146,7 +143,7 @@
                     ṉām nintam āka tāṉam paṇṇik kuṭuttatu ma
                     <lb n="1v9=43" break="no"/>ṉṉār muttu-c-cilāpattil Oru tōṇiyum Añcu kallum
                     <lb n="1v10=44"/>tūttukkuṭi muttu-c-cilāpattil Oru tōṇiyum Añcu kal
-                    <lb n="1v11=45" break="no"/>lum caṟuva-māṉṉiyam āka māci <g type="tam-matam"/> <num value="24"> 2 4 </num> kū<hi rend="grantha">ddaśi</hi>yil makā-<hi rend="grantha">śi</hi>
+                    <lb n="1v11=45" break="no"/>lum caṟuva-māṉṉiyam āka māci <g ref="sym:tam-matam"/> <num value="24"> 2 4 </num> kū<hi rend="grantha">ddaśi</hi>yil makā-<hi rend="grantha">śi</hi>
                     <lb n="1v12=46" break="no"/>va-<hi rend="grantha">rātri-puṇya-kāla</hi>ttil <hi rend="grantha">miṉāṭci-sundarēśvasvāmi-sannidhi</hi>
                     <lb n="1v13=47" break="no"/>yil <hi rend="grantha">svarṇapuṣkar<choice><orig>i</orig><reg>a</reg></choice></hi>ṇi tīṟtakkaraiyil <hi rend="grantha">dā</hi>na-<hi rend="grantha">pūrva</hi>māka tāmpira
                     <lb n="1v14=48"/>cātana-p-paṭṭaiyam paṇṇi-k-kuṭutta paṭiyiṉālē 
@@ -177,7 +174,7 @@
                     <lb n="1v29=63" break="no"/>ṇakku kōṉēriyappa-piḷ=ḷai kamppaka maṭalil va
                     [<lb n="1v30=64" break="no"/>raintu kaṇṭa vācakattai-t tāmpira-p-paṭṭaya
                     <lb n="1v31=65" break="no"/>ttil veṭṭi varaintu Eḻutiṉēṉ maturai 
-                    <lb n="1v32=66"/>c-cōmacunta<choice><orig>r=ā</orig><reg>ra</reg></choice>m ācāri <g type="pc"/>
+                    <lb n="1v32=66"/>c-cōmacunta<choice><orig>r=ā</orig><reg>ra</reg></choice>m ācāri <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"-->
                 </p>
                 
                 <!--  <ab xml:lang="tel-Latn" rend="large">

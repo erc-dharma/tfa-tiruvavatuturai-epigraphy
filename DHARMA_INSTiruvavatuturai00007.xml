@@ -54,16 +54,13 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -85,7 +82,7 @@
                 </ab>
                 <p>
                     cālivākaṉa-cakāṟtam <num value="1677"> <g type="numeral">1000</g> 6 <g type="numeral">100</g> 7 <g type="numeral">10</g> 7 </num> Itaṉ mēl  
-                    <lb n="1r2=2" break="no"/>c-cellā niṉṟa kuṟōtaṉa <g type="tam-varusam"/> vaikāci <g type="tam-matam"/><hi rend="grantha">m</hi> <num value="15"><g type="numeral">10</g> 5</num> <g type="tam-teti"/> 
+                    <lb n="1r2=2" break="no"/>c-cellā niṉṟa kuṟōtaṉa <g ref="sym:tam-varusam"/> vaikāci <g ref="sym:tam-matam"/><hi rend="grantha">m</hi> <num value="15"><g type="numeral">10</g> 5</num> <g ref="sym:tam-teti"/> 
                 </p>
                 
                 <p>
@@ -97,9 +94,9 @@
                 </p>
                 <p>Āṉi-t-tiru-viḷā mā
                     <lb n="1r7=7" break="no"/>rkaḷi-t-tiru-viḷā Iraṇṭukkum Eṅkaḷ koṭiyēttu maṇ
-                    <lb n="1r8=8" break="no"/>ṭapa-p paṭikku <g type="tam-varusam"/> 1 kku maṇṭapapaṭi-c ciṟappakku nāṅkaḷ cakalaru 
+                    <lb n="1r8=8" break="no"/>ṭapa-p paṭikku <g ref="sym:tam-varusam"/> 1 kku maṇṭapapaṭi-c ciṟappakku nāṅkaḷ cakalaru 
                     <!-- here kku is represented with the symbol for aṟai -->
-                    <lb n="1r9=9" break="no"/>ṅ kūṭi-t tīrttu-p paṭṭaiyaṅ koṭuttatu <g type="tam-varusam"/> 1 kku talaikkaṭṭu O 
+                    <lb n="1r9=9" break="no"/>ṅ kūṭi-t tīrttu-p paṭṭaiyaṅ koṭuttatu <g ref="sym:tam-varusam"/> 1 kku talaikkaṭṭu O 
                     <!-- here kku is represented with the symbol for aṟai -->
                     <lb n="1r10=10" break="no"/>ṇṇukku mēṉ cilavukku Iraṇṭu paṇamum pāvāṭai-c cilavu
                     <lb n="1r11=11" break="no"/>kku patakku nellum nāṅkaḷ caṟuvattir pērum taṅkaḷuṭai 
@@ -108,7 +105,7 @@
                 </p>
                 
                 <p>Anta-p paṭikku maṉu<hi rend="bold">ṣa</hi>r aṉuppi-t talaikkaṭṭu Ō
-                    <lb n="1r14=14" break="no"/><unclear>ṉṟukku paṇam 2 mum <g type="tam-nel"/> <g type="tam-patakku"/>um</unclear> vītam vāṅki-k-koṇṭu koṭiyē
+                    <lb n="1r14=14" break="no"/><unclear>ṉṟukku paṇam 2 mum <g ref="sym:tam-nel"/> <g ref="sym:tam-patakku"/>um</unclear> vītam vāṅki-k-koṇṭu koṭiyē
                     <lb n="1r15=15" break="no"/>ṟṟu maṇṭapap<choice><orig>pi</orig><reg>pa</reg></choice>ṭik kaṭṭaḷaic ciṟappu naṭatti vikkiṟatu 
                     <lb n="1r16=16"/>Inta-p paṭi caṟuvattir pērum Ampalattāṭum paṇṭāram avar
                     <lb n="1r17=17" break="no"/>kaḷukku-p paṭṭaiyam koṭuttōm 

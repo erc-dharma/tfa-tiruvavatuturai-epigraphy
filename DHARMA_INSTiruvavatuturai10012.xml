@@ -48,7 +48,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary/>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -65,17 +65,14 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -97,12 +94,12 @@
                     <head xml:lang="eng">First Part: year 6 of Rājendra</head>
                     <ab>
                         <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">Moulding</label>
-                        <lb n="A1=1"/><g type="gomutra"/> <hi rend="grantha">svasti śrī</hi>
+                        <lb n="A1=1"/><g ref="sym:flourish-taperOut" type="symbol">*</g><!--CHECK SYMBOL encoding and content, was "gomutra"--> <hi rend="grantha">svasti śrī</hi>
                     </ab>
                     
                     <lg n="1" met="āciriyappā">
                         <l n="1">tiru maṉṉi vaḷara Iru-nila-maṭan=taiyum</l>
-                        <l n="2">pōr-c-ceya-p-pāvaiyum c<choice><orig>i</orig><reg>ī</reg></choice><space type="feature"></space>r-t taṉi-c celviyun=</l>
+                        <l n="2">pōr-c-ceya-p-pāvaiyum c<choice><orig>i</orig><reg>ī</reg></choice><space type="feature"/>r-t taṉi-c celviyun=</l>
                         <l n="3">taṉ perun tēviyar āki y-iṉpuṟa</l>
                         <l n="4">neṭutiyal ūḻiyuḷ Iṭaituṟai-nāṭun=</l>
                         <l n="5">tuṭarvaṉa vēli-p paṭar vaṉavā<hi rend="grantha">si</hi>yuñ</l>
@@ -136,7 +133,7 @@
                         <milestone type="pagelike" n="C" unit="zone"/><label xml:lang="eng">Moulding</label>
                         <lb n="C1=7"/>...
                         <lb n="C2=8"/>...
-                        kuppaiyēṉ <g type="gomutra">.</g>
+                        kuppaiyēṉ <g ref="sym:flourish-taperOut" type="punctuation">.</g><!--CHECK SYMBOL encoding and content, was "gomutra"-->
                     </p>
                 </div>
                 

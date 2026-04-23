@@ -60,16 +60,13 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -132,7 +129,7 @@
                 <p>
                     Ippaṭi cammatittu <hi rend="grantha">srī</hi> tirumalaiya cētupati <hi rend="grantha">raghu</hi>nā
                     <lb n="2r8=36" break="no"/><hi rend="grantha">tha</hi> tēvar Āvuṭaiya paramacuvāmiyārk=ku U<hi rend="grantha">ṣā</hi>kāla pūcaik kaṭṭaḷai naṭattum Ampalattāṭum paṇṭāram Ava
-                    <lb n="2r9=37" break="no"/>rkaḷukku <hi rend="grantha">dharmma śāsana</hi>-p paṭṭaiyam kuṭuttōm ippaṭikku <g type="pc"/>
+                    <lb n="2r9=37" break="no"/>rkaḷukku <hi rend="grantha">dharmma śāsana</hi>-p paṭṭaiyam kuṭuttōm ippaṭikku <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"-->
                 </p>
                 
                 
@@ -141,14 +138,14 @@
                 </ab>
                 
                 <p>
-                    <lb n="2r11=39"/><hi rend="grantha">svastir astu </hi><g type="pc"/>
+                    <lb n="2r11=39"/><hi rend="grantha">svastir astu </hi><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"-->
                 </p>
                                 
                 <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">dānapālanayōr mmaddhyē</l> 
-                    <l n="b">dā<choice><orig>t</orig><reg>n</reg></choice>āt cchreyo ’nupālanam· <g type="danda">.</g></l> 
+                    <l n="b">dā<choice><orig>t</orig><reg>n</reg></choice>āt cchreyo ’nupālanam· <g ref="sym:bar" type="punctuation">.</g></l> 
                     <l n="c">dānāt· svargam avā<lb n="2r12=40"/>pnōti</l> 
-                    <l n="d">pālanād acyutam· padam· <g type="ddanda">.</g> <g type="pc"/></l> 
+                    <l n="d">pālanād acyutam· padam· <g ref="sym:doubleBar" type="punctuation">.</g> <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--></l> 
                 </lg>
                 
                 

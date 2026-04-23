@@ -44,7 +44,7 @@
                     </msIdentifier>
                     <msContents>
                         <!-- describe the intellectual content of an inscription -->
-                        <summary></summary>
+                        <summary/>
                         <!-- offers the possibility to give a summary of the inscription's content -->
                     </msContents>
                     <physDesc>
@@ -60,16 +60,13 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -108,28 +105,28 @@
                 <p>
                     Inta taṟmmattuṟku Akitam pa
                   <lb n="1v39=78" break="no"/>ṇṇiṉa pērkaḷ keṅkai-k-karaiyilē kōṭi-kār-ām-pacuvai-k
-                  <lb n="1v40=79"/>koṉṟa tō<hi rend="grantha">ṣa</hi>ttilē pōvār ākavum <g type="danda">.</g>
+                  <lb n="1v40=79"/>koṉṟa tō<hi rend="grantha">ṣa</hi>ttilē pōvār ākavum <g ref="sym:bar" type="punctuation">.</g>
                </p>
                     
                     <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">dānapālanayōr mmaddhyē</l> 
-                    <l n="b">d<lb n="1v41=80" break="no"/>ānāc chreyo ’nupālanam· <g type="danda">.</g></l>
+                    <l n="b">d<lb n="1v41=80" break="no"/>ānāc chreyo ’nupālanam· <g ref="sym:bar" type="punctuation">.</g></l>
                     <l n="c">dānāt svargam avāpnōti</l> 
-                    <l n="d">pālanād acyutam· <lb n="1v42=81"/> padam· <g type="ddanda">.</g> <g type="pc"/></l>
+                    <l n="d">pālanād acyutam· <lb n="1v42=81"/> padam· <g ref="sym:doubleBar" type="punctuation">.</g> <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--></l>
                     </lg> 
                     
                     <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">Ekaiva bhaginī loke</l> 
-                    <l n="b">sarvveṣām eva bhūbhujām· <g type="danda">.</g></l> 
+                    <l n="b">sarvveṣām eva bhūbhujām· <g ref="sym:bar" type="punctuation">.</g></l> 
                     <l n="c">nā bhōjy<lb n="1v43=82" break="no"/>ā na karagrāhyā</l>
-                    <l n="d">vipradattā vasundharā<g type="ddanda">.</g><g type="pc">.</g></l>
+                    <l n="d">vipradattā vasundharā<g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--></l>
                     </lg>
                     
                     <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">svadattād dviguṇam· pu<lb n="1v44=83" break="no"/>ṇyam·</l> 
-                    <l n="b">paradattānupālanam· <g type="danda">.</g></l> 
+                    <l n="b">paradattānupālanam· <g ref="sym:bar" type="punctuation">.</g></l> 
                     <l n="c">paradattāpahārēṇa</l> 
-                    <l n="d">svadattaam· niṣpha<lb n="1v45=84" break="no"/>lam· bhavēt·<g type="ddanda">.</g></l> 
+                    <l n="d">svadattaam· niṣpha<lb n="1v45=84" break="no"/>lam· bhavēt·<g ref="sym:doubleBar" type="punctuation">.</g></l> 
                     </lg> 
                 
                 <p>

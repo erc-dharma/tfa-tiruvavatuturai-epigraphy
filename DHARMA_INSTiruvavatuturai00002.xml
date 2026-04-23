@@ -55,16 +55,13 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -88,7 +85,7 @@
                 </p>
                 <p>
                     <lb n="1r2=2"/><hi rend="grantha"><supplied reason="omitted">sva</supplied>sti śrī</hi> cālivākaṉa cakā<hi rend="grantha">ptam</hi> <num value="1674"> <g type="numeral">1000</g> 6 <g type="numeral">100</g> 7 <g type="numeral">10</g> 4 </num><seg type="aksara">kku</seg> mē<supplied reason="omitted">l</supplied> ce<supplied reason="omitted">l</supplied>lā niṉṟa Āṅki 
-                    <lb n="1r3=3" break="no"/><supplied reason="omitted">ra</supplied><hi rend="grantha">sa</hi><g type="tam-varusam"/> mārkaḷi mārkaḷi <g type="tam-matam"/> <num value="22">2 <g type="numeral">10</g> 2</num> Uttarāyaṇattu-p pūruva paṭcamuñ cōmavā 
+                    <lb n="1r3=3" break="no"/><supplied reason="omitted">ra</supplied><hi rend="grantha">sa</hi><g ref="sym:tam-varusam"/> mārkaḷi mārkaḷi <g ref="sym:tam-matam"/> <num value="22">2 <g type="numeral">10</g> 2</num> Uttarāyaṇattu-p pūruva paṭcamuñ cōmavā 
                     <lb n="1r4=4" break="no"/>ramum Acupati naṭcettiramuṅ kūṭiṉa cupa-tiṉattilē 
                     
                 </p>
@@ -133,7 +130,7 @@
                     <lb n="1v1=33"/>mātā-pitāviṉuṭaiya vaṟkkattukkum puṇṇiyamāka-t taruma-cā
                     <lb n="1v2=34" break="no"/>taṉa-p-paṭṭayaṅ koṭuttapaṭi muṉ Eṅkaḷ turaittaṉa paramparai
                     <lb n="1v3=35" break="no"/>yil - cālivākaṉa ca<hi rend="grantha">hāpt</hi>am <num value="1582"> <g type="numeral">1000</g> 5 <g type="numeral">100</g> 8 <g type="numeral">10</g> 2 </num><seg type="aksara">k=ku</seg> mēṟ cellā
-                    <lb n="1v4=36"/>niṉṟa cāṟuvari <g type="tam-varusam"/> māka māca puṇṇiya-kālat=tilē tiruvāvaṭu
+                    <lb n="1v4=36"/>niṉṟa cāṟuvari <g ref="sym:tam-varusam"/> māka māca puṇṇiya-kālat=tilē tiruvāvaṭu
                     <lb n="1v5=37" break="no"/>tuṟai Ātīṉam Ampalavāṇa paṇṭāra caṉṉati Avarkaḷuk=ku -
                     <lb n="1v6=38"/><hi rend="grantha">śrī</hi>matu tirumalai-c cētupati rekunāta-t tēvaravarkaḷ taruma-cā<supplied reason="omitted">ca</supplied>
                     <lb n="1v7=39" break="no"/>ṉa-p-paṭi kaṅkaṇi kaṭṭi ceriṉāñcivayal <add place="below">nā</add>ṇāk=kuṭi Inta nāṉkil
@@ -188,7 +185,7 @@
                     <lb n="1v35=66" break="no"/>kaḷ tiruvāvaṭutuṟai-p paṇṭāra-c caṉṉati Avarkaḷ Ampalavā
                     <lb n="1v36=67" break="no"/>ṇa cuvāmi pūcai ma<hi rend="grantha">hē</hi>cuvara pūcaikku-t tāmpira-cātaṉaṅ
                     koṭut
-                   <lb n="1v37=68" break="no"/>tōm <g type="gomutraFinal">.</g>
+                   <lb n="1v37=68" break="no"/>tōm <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                     
                 </p>  
                     

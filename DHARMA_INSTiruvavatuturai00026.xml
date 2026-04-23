@@ -60,16 +60,13 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -98,7 +95,7 @@
                 <p>
                     <lb n="1v17=50"/>caṟuvamāṉiyamāka c
                     <lb n="1v18=51" break="no"/>ntirāti<choice><orig>t</orig><reg>tt</reg></choice>ar Uḷḷavaraikkum parampa<choice><orig>ra</orig><reg>rai</reg></choice>yāka kaiyāṭi-k 
-                    <lb n="1v19="/>koṇṭu Aramaṉaik kaṭṭukku-t takaiyāka <g type="tam-varusam"/> kaṭukali <g type="pc"/> 5 
+                    <lb n="1v19="/>koṇṭu Aramaṉaik kaṭṭukku-t takaiyāka <g ref="sym:tam-varusam"/> kaṭukali <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> 5 
                     <lb n="1v20=53"/>--poṟuppukkuṭuttu caṟuvamāṉiyamāka-k kaiyāṭi-k 
                     <lb n="1v21=54"/>koṇṭu taṟmam paripālaṉam paṇṇi-k koṇṭ' i 
                     <lb n="1v22=55" break="no"/>ruppārkaḷ ākavu=M yinta taṟmmattai yātām oru 
@@ -109,7 +106,7 @@
                     <lb n="1v27=60" break="no"/>vu=M yinta taṟmattukku Ayitam paṇṇiṉa pēr 
                     <lb n="1v28=61"/>kāciyilēyu<hi rend="grantha">m·</hi> cētuvilēyu<hi rend="grantha">m·</hi> āyira<hi rend="grantha">m·</hi> kārāṉpacu 
                     <lb n="1v29=62"/>mātā kuru yivarkaḷai vatai paṇṇiṉa tōcatti 
-                    <lb n="1v30=63" break="no"/>lē pōvār<unclear reason="eccentric_ductus">ā</unclear>kavu<hi rend="grantha">m·</hi> <g type="pc"/>
+                    <lb n="1v30=63" break="no"/>lē pōvār<unclear reason="eccentric_ductus">ā</unclear>kavu<hi rend="grantha">m·</hi> <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"-->
                 </p>
                 
                <!--  <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">

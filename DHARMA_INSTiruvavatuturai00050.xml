@@ -60,16 +60,13 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -117,9 +114,9 @@
                         <lb n="1r26=26"/>ṉāḷaiyil 
                         </p>
                 <p>
-                            cālivākaṉa cakārttam <num value="1687"> <g type="numeral">1000</g> 6 <g type="numeral">100</g> 8 <g type="numeral">10</g> 7</num> <g type="cross"/>
+                            cālivākaṉa cakārttam <num value="1687"> <g type="numeral">1000</g> 6 <g type="numeral">100</g> 8 <g type="numeral">10</g> 7</num> <g ref="sym:cross" type="symbol">*</g>
                         <lb n="1r27=27"/>kaliyukam <num value="4866"> 4 <g type="numeral">1000</g> 8 <g type="numeral">100</g> 6 <g type="numeral">10</g> 1</num>ṟ mēl cellā niṉṟa pār
-                        <lb n="1r28=28" break="no"/>ttipa <hi rend="grantha">śrī</hi> mārkaḷi <g type="tam-matam"/> 3 <g type="cross"/> tītai caṉikkiḷamai Uttir
+                        <lb n="1r28=28" break="no"/>ttipa <hi rend="grantha">śrī</hi> mārkaḷi <g ref="sym:tam-matam"/> 3 <g ref="sym:cross" type="symbol">*</g> tītai caṉikkiḷamai Uttir
                         <lb n="1r29=29" break="no"/>āṭa naṭcettiram viratiṉām yōkamum kavulavāka
                         <lb n="1r30=30"/>raṇamum peṟṟa cupatiṉattil 
                 </p>
@@ -148,9 +145,9 @@
                     <lb n="1v4=44"/>Ēṟu cāttu yiṟaṅku cāttu pākku miḷaku mañcaḷ cala
                     <lb n="1v5=45"/>Arakku nīlam pūvattu pala carakku pukaiyilai cavaḻi
                     <lb n="1v6=46"/>nūl nei cīrakam cantanappoti kōcumpai mu
-                    <lb n="1v7=47" break="no"/>talāṉa nica poti 1 k=ku k-keṇṭīrāyaṉ <g type="tam-panam"/> 1/8 nava
+                    <lb n="1v7=47" break="no"/>talāṉa nica poti 1 k=ku k-keṇṭīrāyaṉ <g ref="sym:tam-panam"/> 1/8 nava
                     <lb n="1v8=48"/>tāṉiyam veṟṟilai vellam lavaṇam cēvu Oṉṟu
-                    <lb n="1v9=49"/>mutalāṉa kālnāṭai 1 k=ku k-keṇṭīrāyaṉ <g type="tam-panam"/> 1/16 yin
+                    <lb n="1v9=49"/>mutalāṉa kālnāṭai 1 k=ku k-keṇṭīrāyaṉ <g ref="sym:tam-panam"/> 1/16 yin
                     <lb n="1v10=50" break="no"/>tap paṭikki nica poti oṇṇukku kkeṇṭirāya
                     <lb n="1v11=51" break="no"/>ṉ Araikkāl p-paṇamum mūlai-p poti oṇṇukku
                     <lb n="1v12=52"/>mākāṇip paṇamum yinta makamai tīrnta tiraviya
@@ -184,7 +181,7 @@
                     <l n="b">para-tattāṉupāla<lb n="1v27=67" break="no"/>ṉam</l> 
                     <l n="c">para-tattāpakārēṇ<choice><sic>ā</sic><corr>a</corr></choice></l>
                     <l n="d">cu-tattam ni<hi rend="grantha">ṣ</hi>palam
-                        <lb n="1v28=68"/>pavēttu <g type="danda">.</g> - <g type="danda">.</g></l> 
+                        <lb n="1v28=68"/>pavēttu <g ref="sym:bar" type="punctuation">.</g> - <g ref="sym:bar" type="punctuation">.</g></l> 
                 </lg>
                 
                 <p>
@@ -196,15 +193,15 @@
                 <p>
                     y-inta Aṭcaram koṭṭiṉavaṉ kō
                     <lb n="1v32=72" break="no"/>ymputtūrul irukkum vicuva kaṟma vaṅki<hi rend="grantha">ṣa</hi>t
-                    <lb n="1v33=73" break="no"/>til vīrappa Ācāri makaṉ Ānantā Ācāri <g type="danda"/> <g type="gomutraFinal">§§</g>
+                    <lb n="1v33=73" break="no"/>til vīrappa Ācāri makaṉ Ānantā Ācāri <g ref="sym:bar" type="punctuation">.</g> <g ref="sym:flourish-taperOut" type="connector">§§</g><!--CHECK SYMBOL: iterate g elements with single § sign-->
                     <lb n="1v34=74"/>Añṉūṟu kuṭi-p pāṭṭattu-p palar paṭṭakkāṟar
-                    <lb n="1v35=75"/>Oppitam <g type="danda"/> iruvattu nālu maṉai teluṅka-c
-                    <lb n="1v36=76"/>ceṭṭiyaḷ Oppitam <g type="danda"/> paṉireṇṭu nakarattu-p pa
-                    <lb n="1v37=77" break="no"/>lar Oppitam <g type="danda"/> vēṭacentūr rāuttamār O
-                    <lb n="1v38=78" break="no"/>ppitam <g type="cross"/> kōmuṭṭiyaḷil kuppi ceṭṭi Oppita
-                    <lb n="1v39=79" break="no"/>m <g type="danda"/> Allittuṟai vaṟtikar Oppitam <g type="danda"/> tevar
-                   <lb n="1v40=80" break="no"/>ku ceṭṭiyaḷ Oppitam <g type="danda"/> caṅkārāka pēṭṭai
-                    <lb n="1v41=81"/>varttakar palar Oppitam <g type="gomutraFinal"/> <g type="cross"/> civamayam <g type="cross"/> <g type="gomutraFinal">§§</g> g type="cross"/>
+                    <lb n="1v35=75"/>Oppitam <g ref="sym:bar" type="punctuation">.</g> iruvattu nālu maṉai teluṅka-c
+                    <lb n="1v36=76"/>ceṭṭiyaḷ Oppitam <g ref="sym:bar" type="punctuation">.</g> paṉireṇṭu nakarattu-p pa
+                    <lb n="1v37=77" break="no"/>lar Oppitam <g ref="sym:bar" type="punctuation">.</g> vēṭacentūr rāuttamār O
+                    <lb n="1v38=78" break="no"/>ppitam <g ref="sym:cross" type="symbol">*</g> kōmuṭṭiyaḷil kuppi ceṭṭi Oppita
+                    <lb n="1v39=79" break="no"/>m <g ref="sym:bar" type="punctuation">.</g> Allittuṟai vaṟtikar Oppitam <g ref="sym:bar" type="punctuation">.</g> tevar
+                   <lb n="1v40=80" break="no"/>ku ceṭṭiyaḷ Oppitam <g ref="sym:bar" type="punctuation">.</g> caṅkārāka pēṭṭai
+                    <lb n="1v41=81"/>varttakar palar Oppitam <g ref="sym:flourish-taperOut" type="symbol">*</g> <g ref="sym:cross" type="symbol">*</g> civamayam <g ref="sym:cross" type="symbol">*</g> <g ref="sym:flourish-taperOut" type="connector">§§</g><!--CHECK SYMBOL: iterate g elements with single § sign--> g type="cross"/&gt;
                 </p>
                 
                 

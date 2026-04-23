@@ -55,16 +55,13 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -82,10 +79,10 @@
                 
                 <pb n="1r"/>
                 <p>                    
-                    <lb n="1r1=1"/><g type="pc"/> Ēḻu kiṟāmam taṭṭappāṟai vaṇitam paṭṭaiyam <g type="pc">.</g>
+                    <lb n="1r1=1"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> Ēḻu kiṟāmam taṭṭappāṟai vaṇitam paṭṭaiyam <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
                     <lb n="1r2=2"/><hi rend="grantha">śrī</hi>-cālivākaṉa-cakāṟṟam <num value="1701"> <g type="numeral">1000</g> 7 <g type="numeral">100</g> 1 </num> ṉ mēl c-ce
-                    <lb n="1r3=3" break="no"/>llā niṉṟa kollam <num value="955"> 9 <g type="numeral">100</g> 5 <g type="numeral">10</g> 5 </num> <g type="tam-varusam"/> vikāri <g type="tam-varusam"/> mā 
-                    <lb n="1r4=4" break="no"/>rkaḷi <g type="tam-matam"/> 2 <num value="21"> 2 <g type="numeral">10</g> 1</num> <g type="tam-teti"/> Ātitta-vāramum Ēkāteciyum vi
+                    <lb n="1r3=3" break="no"/>llā niṉṟa kollam <num value="955"> 9 <g type="numeral">100</g> 5 <g type="numeral">10</g> 5 </num> <g ref="sym:tam-varusam"/> vikāri <g ref="sym:tam-varusam"/> mā 
+                    <lb n="1r4=4" break="no"/>rkaḷi <g ref="sym:tam-matam"/> 2 <num value="21"> 2 <g type="numeral">10</g> 1</num> <g ref="sym:tam-teti"/> Ātitta-vāramum Ēkāteciyum vi
                     <lb n="1r5=5" break="no"/>cāka-naṭcettiramum cupa-yōka-cupa-karaṇamum peṟṟa 
                     <lb n="1r6=6"/>cupatiṉattil 				
                 </p>
@@ -97,7 +94,7 @@
                     <lb n="9r=9" break="no"/>ṇṭi maṇṭalattilt teṭ<hi rend="grantha">ṣ</hi>aṇattil Akattiya mā  
                     <lb n="10r=10" break="no"/>muṉikkuk kāṭci kuṭuttaruḷiya cuvāmi Aṉavarata nāya  
                     <lb n="11r=11" break="no"/>kar kāntimatiyammaṉ tiruvōlakkamāka yeḻuntaru  
-                    <lb n="12r=12" break="no"/>ḷi yirukkiṟa tiru<g type="tam-nel"/>vēlip paṭṭaṇam tāmpiṟavaṉṉi  
+                    <lb n="12r=12" break="no"/>ḷi yirukkiṟa tiru<g ref="sym:tam-nel"/>vēlip paṭṭaṇam tāmpiṟavaṉṉi  
                     <lb n="13r=13"/>cintu pūntuṟaikkuk kīḷ ticaiyākiya cuppiṟamaṇi  
                     <lb n="14r=14" break="no"/>yat talattukku mikkuḷḷa tāṉa cantaṉācalam vaḷa  
                     <lb n="15r=15" break="no"/>r tiruccentūrilt  
@@ -135,7 +132,7 @@
                     <lb n="36r=36" break="no"/>ṉār tirukkōpurat tiruppaṇikku tiruvuḷa cantō   
                     <lb n="37r=37" break="no"/><hi rend="grantha">ṣ</hi>amākat taṟma cātaṉap paṭṭayam eḷuti-k kuṭutta paṭi taṟma 
                     <lb n="38r=38"/>cātaṉam āvatu yeṅkaḷ vaṇita cēkarattukku-k kaṭṭi  
-                    <lb n="39r=39" break="no"/>ṉa vīṭṭukku vīṭoṉṟukku <g type="tam-varusam"/> 1 <seg type="aksara">k=ku</seg> kuṟuṇit tavaca  
+                    <lb n="39r=39" break="no"/>ṉa vīṭṭukku vīṭoṉṟukku <g ref="sym:tam-varusam"/> 1 <seg type="aksara">k=ku</seg> kuṟuṇit tavaca  
                     <lb n="40r=40" break="no"/>m vītattukku vīṭṭuvari ōlaippaṭikkuḷḷa tavacamum  
                     <lb n="41r=41" break="no"/>Araikkayttu nilamum caṉṉiyatāṉattu muttiri  
                     <lb n="42r=42"/>maṉuṭar vantavarkaḷukk’ ēṟka-p piṟavattañ ceyki  
@@ -151,7 +148,7 @@
                 </p>
                 
                 <pb n="1v"/>
-                <fw n="1v" place="top"><g type="pc"/> pūvāṇiccattiram mīṉayyaṉ oppam <g type="pc">.</g></fw>
+                <fw n="1v" place="top"><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> pūvāṇiccattiram mīṉayyaṉ oppam <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--></fw>
                 
                 <p>
                     <lb n="1v=49"/>picak' illāmal naṭantu koḷvōm ākavu
@@ -186,7 +183,7 @@
                     <lb n="23v=70"/>paṭikku yintat tāṉacācaṉap paṭṭaiyam Eḷu
                     <lb n="24v=71" break="no"/>tiṉēṉ taṭṭappāṟai vaṇitam nāṭṭukkaṇa
                     <lb n="25v=72" break="no"/>kkuc caṅkāṇāṟāyaṉ piḷḷai kumāraṉ kumāracu
-                    <lb n="26v=73" break="no"/>vāmi <g type="pc">.</g> 
+                    <lb n="26v=73" break="no"/>vāmi <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--> 
                 </p>
                 
                 <p>
@@ -213,57 +210,57 @@
                 
                 <p>	
                     intappaṭikkuk kāricēri
-                    <lb n="36v=82"/><list><item>nākama <g type="tam-nayaka"/>r</item> <item>tāttaya <g type="tam-nayaka"/>r</item></list> mutalākiya camucāriyaḷōm
+                    <lb n="36v=82"/><list><item>nākama <g ref="sym:tam-nayaka"/>r</item> <item>tāttaya <g ref="sym:tam-nayaka"/>r</item></list> mutalākiya camucāriyaḷōm
                     
                 </p>	
                 <p>	
-                    <lb n="37v=83"/>Intappaṭik=ku c-ciṅkattā kuṟicci <list><item>liṅkappa <g type="tam-nayaka"/>r</item> <item>nal
-                        <lb n="38v=84"/>la vāṭa <g type="tam-nayaka"/>r</item> <item>Akkappa <g type="tam-nayaka"/>r</item></list> mutalākiya camucāriyaḷō
+                    <lb n="37v=83"/>Intappaṭik=ku c-ciṅkattā kuṟicci <list><item>liṅkappa <g ref="sym:tam-nayaka"/>r</item> <item>nal
+                        <lb n="38v=84"/>la vāṭa <g ref="sym:tam-nayaka"/>r</item> <item>Akkappa <g ref="sym:tam-nayaka"/>r</item></list> mutalākiya camucāriyaḷō
                     <lb n="39v=85"/>m 
                 </p>
                 
                 <p>	
                     Inta paṭikku-p 
-                    <list><item>pūvāṇippoṟṟu <g type="tam-nayaka"/>r</item> <item>ṉārāyaṇa
-                        <lb n="40v=86"/><g type="tam-nayaka"/>r</item> <item>rāma<g type="tam-nayaka"/>r</item> <item>laṭcumaṇa <g type="tam-nayaka"/>r</item> <item>Āṇṭiyappiḷḷai</item></list>
+                    <list><item>pūvāṇippoṟṟu <g ref="sym:tam-nayaka"/>r</item> <item>ṉārāyaṇa
+                        <lb n="40v=86"/><g ref="sym:tam-nayaka"/>r</item> <item>rāma<g ref="sym:tam-nayaka"/>r</item> <item>laṭcumaṇa <g ref="sym:tam-nayaka"/>r</item> <item>Āṇṭiyappiḷḷai</item></list>
                     <lb n="41v=87"/>mutal-ākiya camucāriyaḷōm 
                 </p>	
                 
                 <p>	
                     Inta-p paṭikku-k
                     <list><item>ko
-                        <lb n="42v=88"/>mpāṭi-p pēraiya <g type="tam-nayaka"/>r</item> <item>pōṭi <g type="tam-nayaka"/>r </item></list>
+                        <lb n="42v=88"/>mpāṭi-p pēraiya <g ref="sym:tam-nayaka"/>r</item> <item>pōṭi <g ref="sym:tam-nayaka"/>r </item></list>
                     mutal-ākiya camu
                     <lb n="43v=89"/>cāriyaḷōm 
                 </p>		
                 
                 <p>
                     Inta-p paṭikku
-                    <list><item>murampaṉ cittama <g type="tam-nayaka"/>r</item>
-                        <item><lb n="44v=90"/>Ellappa <g type="tam-nayaka"/>r</item></list>
+                    <list><item>murampaṉ cittama <g ref="sym:tam-nayaka"/>r</item>
+                        <item><lb n="44v=90"/>Ellappa <g ref="sym:tam-nayaka"/>r</item></list>
                     mutal-ākiya camucāriyaḷōm 
                 </p>	
                 
                 <p>
                     Inta-p
                     <lb n="45v=91"/>paṭikku-c caṅkampaṭṭi
-                    <list><item>velappa <g type="tam-nayaka"/>r</item> <item>pōla <g type="tam-nayaka"/>
-                        <lb n="46v=92"/>r</item> <item>kuruvappa <g type="tam-nayaka"/>r</item></list>
+                    <list><item>velappa <g ref="sym:tam-nayaka"/>r</item> <item>pōla <g ref="sym:tam-nayaka"/>
+                        <lb n="46v=92"/>r</item> <item>kuruvappa <g ref="sym:tam-nayaka"/>r</item></list>
                     mutal-ākiya camucāriyaḷōm 
                 </p>
                 
                 <p>Inta
                     <lb n="47v=93" break="no"/>-p paṭikku Inta-p paṭṭaiyam nayiṉār caṉṉiya tāṉattuk
-                    <lb n="48v=94"/>ku vāṅkiṉēṉ kumāra-vēlu-p-paṇṭāram <g type="pc">.</g> 
+                    <lb n="48v=94"/>ku vāṅkiṉēṉ kumāra-vēlu-p-paṇṭāram <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--> 
                 </p>
                 
                 <p>
                     Inta-t
                     <lb n="49v=95"/>tāmpiṟa cātaṉa-p-paṭṭaiyam Eḻutiṉēṉ periya Ayya
-                    <lb n="50v=96"/>ṉ Ācāri kumāraṉ puṉṉaivaṉam <g type="pc">.</g>
-                    kumaraṉ tuṇai <g type="pc">.</g>
+                    <lb n="50v=96"/>ṉ Ācāri kumāraṉ puṉṉaivaṉam <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
+                    kumaraṉ tuṇai <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
                     <lb n="51v=97"/>cekkālai-k kuṭi-p paṇṇai-c caṅka-raliṅkam
-                    <lb n="52v=98"/>piḷḷai Oppam <g type="pc">.</g>
+                    <lb n="52v=98"/>piḷḷai Oppam <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
                 </p>
                 
             </div>

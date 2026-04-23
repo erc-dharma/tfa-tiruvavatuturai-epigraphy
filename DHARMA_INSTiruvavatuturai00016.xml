@@ -60,16 +60,13 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -152,14 +149,14 @@
                 </p>
                 <p>
                     Inta 
-                    <lb n="7v=38"/>taṟmattiṉ perumai <g type="cross">.</g> <g type="danda">.</g>
+                    <lb n="7v=38"/>taṟmattiṉ perumai <g ref="sym:cross" type="punctuation">.</g> <g ref="sym:bar" type="punctuation">.</g>
                 </p>
                 
                 <lg n="1" met="viruttam">
                     <l n="a">civañāṉa-c ceyaluṭaiyōr kaiyilt tāṉam tilam aḷavē ceyti<lb n="8v=39" break="no"/>ṭiṉum nilamalaipōṟ ṟi<add place="below">ka</add>ḻntu</l>
                     <l n="b">pavamāyak kaṭaliliḻun tātavakai yeṭuttup parapōkan tu<lb n="9v=40" break="no"/>yppittup pācattai yaṟuttut</l>
                     <l n="c">tavamārum piṟappoṉṟiṟ cārap paṇṇic caritai kiriy<lb n="10v=41" break="no"/>ā yōkan taṉṉil uñcārāmal</l>
-                    <l n="d">navamārum tattu<add place="below">va</add> ñāṉattai nalki nātaṉaṭik kamalaṅ<lb n="11v=42" break="no"/>kaḷ naṇukuvikkun tāṉē <g type="danda">.</g></l>
+                    <l n="d">navamārum tattu<add place="below">va</add> ñāṉattai nalki nātaṉaṭik kamalaṅ<lb n="11v=42" break="no"/>kaḷ naṇukuvikkun tāṉē <g ref="sym:bar" type="punctuation">.</g></l>
                 </lg>
                 
                 <p>
@@ -175,14 +172,14 @@
                 </p>
                 <p>
                     Ippaṭikku
-                    <lb n="16v=47"/>nāṇākkuṭikku-p patil nāṭṭicēriyai-k kaṭṭaḷaiyiṭṭōm <g type="pc">.</g>
+                    <lb n="16v=47"/>nāṇākkuṭikku-p patil nāṭṭicēriyai-k kaṭṭaḷaiyiṭṭōm <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
                 </p>
                 
                 <ab xml:lang="tel-Latn" rendition="class:telugu maturity:vernacular">
                     <lb n="17v=48"/>śrī-subhramaṇya-tirumalaiya-sētupati-raghunātha 
                 </ab>
                 <p>
-                    <lb n="18v=49"/><hi rend="grantha">svastir astu </hi><g type="danda">.</g>
+                    <lb n="18v=49"/><hi rend="grantha">svastir astu </hi><g ref="sym:bar" type="punctuation">.</g>
                 </p>
                 
                 
@@ -190,7 +187,7 @@
                     <l n="a">dāna-pālanayōr mmaddhyē</l> 
                     <l n="b">dā<choice><orig>t</orig><reg>n</reg></choice>āc chreyo ’nupālanaM </l> 
                     <l n="c">dānāT svargga<lb n="19v=50"/>m avāpnōti</l> 
-                    <l n="d">pālanād acyutaM padaM <g type="pc">.</g></l> 
+                    <l n="d">pālanād acyutaM padaM <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--></l> 
                 </lg>
                 
                 <ab>

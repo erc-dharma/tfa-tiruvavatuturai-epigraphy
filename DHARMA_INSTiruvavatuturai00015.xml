@@ -55,16 +55,13 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -85,7 +82,7 @@
                 <pb n="1r"/>
                 <p>
                     
-                    <lb n="1r=1"/>cakā<unclear>ṟ</unclear>ttam <num value="1575"> <g type="numeral">1000</g> 5 <g type="numeral">100</g> 7 <g type="numeral">10</g> 5 </num> Itaṉ mēl cellāniṉṟa ceya <g type="tam-varusam"/> Āṉi <g type="tam-matam"/> <num value="17"> <g type="numeral">10</g> 7 </num> <g type="tam-teti"/> 
+                    <lb n="1r=1"/>cakā<unclear>ṟ</unclear>ttam <num value="1575"> <g type="numeral">1000</g> 5 <g type="numeral">100</g> 7 <g type="numeral">10</g> 5 </num> Itaṉ mēl cellāniṉṟa ceya <g ref="sym:tam-varusam"/> Āṉi <g ref="sym:tam-matam"/> <num value="17"> <g type="numeral">10</g> 7 </num> <g ref="sym:tam-teti"/> 
                 </p>
                 <p> 
                     srīmatu tiru
@@ -104,8 +101,8 @@
                     <lb n="8r=8" break="no"/>runāṉṅkellaikkuḷppaṭṭa nañcai nañcey puñcai Uḷpaṭa koḷvar ār uḷar=ō koḷvār uḷar=ō Eṉṟu
                     <lb n="9r=9"/>nāṉ muṟkkūṟa Avar piṟkkūṟa Eṉmoḻi kēṭṭu Etirmoḻi moḻintu viṟpatukk' icaintu
                     <lb n="10r=10"/>Aṟantāṅki nāṭṭār muṉpākavu=M tirupperuntuṟai pala naṭuvar muṉpākavu=M vilai niṭcam paṇ
-                    <lb n="11r=11" break="no"/>ṇiṉa maturaimiṉal <g type="tam-poṉ"/> <num value="76">7 <g type="numeral">10</g> 6</num> Inta poṉ Eḻupattāṟu poṉṉum Ēkāmpara toṇṭaimāṉār
-                    <lb n="12r=12"/><add place="left"><seg type="aksara">k=ku</seg></add> vāṅki kuṭutta<seg type="aksara">t=u</seg> <g type="tam-poṉ"/> <num value="50">5 <g type="numeral">10</g> </num> kūṉkārittēvaṉum cintāṉpuliyanum vāṅkiṉatu <g type="tam-poṉ"/> <num value="26"> <g type="numeral">20</g> 6 </num> <g type="tam-aka"/> <g type="tam-poṉ"/>
+                    <lb n="11r=11" break="no"/>ṇiṉa maturaimiṉal <g ref="sym:tam-poṉ"/> <num value="76">7 <g type="numeral">10</g> 6</num> Inta poṉ Eḻupattāṟu poṉṉum Ēkāmpara toṇṭaimāṉār
+                    <lb n="12r=12"/><add place="left"><seg type="aksara">k=ku</seg></add> vāṅki kuṭutta<seg type="aksara">t=u</seg> <g ref="sym:tam-poṉ"/> <num value="50">5 <g type="numeral">10</g> </num> kūṉkārittēvaṉum cintāṉpuliyanum vāṅkiṉatu <g ref="sym:tam-poṉ"/> <num value="26"> <g type="numeral">20</g> 6 </num> <g ref="sym:tam-aka"/> <g ref="sym:tam-poṉ"/>
                     <lb n="13r=13"/><num value="76">7 <g type="numeral">10</g> 6</num> poṉum kāṭṭi Ē<choice><orig><seg type="aksara">t=ti</seg></orig><reg>ṟṟi</reg></choice> orumutalāka Eṉkaykiḷum Avar kay mēlākavum pa<choice><orig>tti</orig><reg>ṟṟi</reg></choice>k koṇṭa
                     <lb n="14r=14"/>paṭiyiṉālē yituvē <add place="below">vi</add>lai yu=M Ituvē cātaṉamāka Āṇṭum Aṉupavittu vi<seg type="aksara">t=tu</seg>m o<choice><orig><seg type="aksara">tti</seg></orig><reg>ṟṟi</reg></choice> vaiy
                     <lb n="15r=15" break="no"/>ttum cītaṉap piṟā<seg type="aksara">t=ti</seg> koṭu<seg type="aksara">t=tu</seg>m cantirātitta varaikkum Āṇṭu koḷḷak kaṭavarā
@@ -145,7 +142,7 @@
                 </p>
                 
                                
-                <p></p>	
+                <p/>	
                 
                 <!--<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">dānapālanayōr maddhyē</l> 

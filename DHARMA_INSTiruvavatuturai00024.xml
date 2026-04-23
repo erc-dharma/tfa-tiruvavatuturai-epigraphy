@@ -44,7 +44,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -55,16 +55,13 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -96,34 +93,34 @@
                    <lb n="1v17=47" break="no"/>ti<hi rend="grantha">ṣṭ</hi>ai kōṭi kaṉṉikā tāṉam kōṭi Akki<hi rend="grantha">rā</hi>kāra-piṟati<hi rend="grantha">ṣṭai</hi>ai paṇṇiṉa 
                    <lb n="1v18=48"/>palaṉaiyaṭaivārkaḷ Inta tarmattukku Akitam paṇṇiṉavarkaḷ ke 
                    <lb n="1v19=49" break="no"/>ṅkai-k karaiyi<add place="below">l</add> cētuvil mātā pitā-k kuruvai vatai paṇṇiṉa tō<hi rend="grantha">ṣa</hi> 
-                   <lb n="1v20=50"/>ttai yaṭaivārkaḷ <g type="pc"/>
+                   <lb n="1v20=50"/>ttai yaṭaivārkaḷ <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"-->
                 </p>
                 
               <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">svadattād dviguṇam· puṇyam·</l> 
-                    <l n="b">paradattānup<lb n="1v21=51" break="no"/>ālanam· <g type="danda">.</g></l> 
+                    <l n="b">paradattānup<lb n="1v21=51" break="no"/>ālanam· <g ref="sym:bar" type="punctuation">.</g></l> 
                     <l n="c">paradattāpahārēṇ<choice><sic>ā</sic><corr>a</corr></choice></l> 
-                    <l n="d">svadattam· niṣphalam· bhavēt·<g type="ddanda">.</g> <g type="pc">.</g></l>
+                    <l n="d">svadattam· niṣphalam· bhavēt·<g ref="sym:doubleBar" type="punctuation">.</g> <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--></l>
                     </lg>
                 
                 <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">Ekai<lb n="1v22=52" break="no"/><choice><sic>ka</sic><corr>va</corr></choice> bhaginī loke</l> 
-                    <l n="b">sarvveṣām <choice><orig>i</orig><reg>e</reg></choice>va bhūbhujām· <g type="danda">.</g></l> 
+                    <l n="b">sarvveṣām <choice><orig>i</orig><reg>e</reg></choice>va bhūbhujām· <g ref="sym:bar" type="punctuation">.</g></l> 
                     <l n="c">nā bhōjyā na <choice><sic>ga</sic><corr>ka</corr></choice>ragrāhy<lb n="1v23=53" break="no"/>ā</l> 
-                    <l n="d">vipradattā vasundharā<g type="ddanda">.</g> <g type="pc">.</g></l>
+                    <l n="d">vipradattā vasundharā<g ref="sym:doubleBar" type="punctuation">.</g> <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--></l>
                     </lg>
                 
                 <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">dānapālanayōr mmaddhyē</l> 
-                    <l n="b">dānā<lb n="24v=54" break="no"/>c chreyo ’nupālanam· <g type="danda">.</g></l>
+                    <l n="b">dānā<lb n="24v=54" break="no"/>c chreyo ’nupālanam· <g ref="sym:bar" type="punctuation">.</g></l>
                     <l n="c">dānāt svargam avāpnōti</l> 
-                    <l n="d">pālanād acyu<lb n="25v=55" break="no"/>tam· padam· <g type="ddanda">.</g> <g type="pc"/></l>
+                    <l n="d">pālanād acyu<lb n="25v=55" break="no"/>tam· padam· <g ref="sym:doubleBar" type="punctuation">.</g> <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--></l>
                     </lg> 
                
                 <p>
                    Inta-p paṭikku pokkica-k-kaṇakku Ātiṉā<hi rend="grantha">rā</hi>yaṇa piḷ
                    <lb n="26v=56" break="no"/>ḷai makaṉ taḷavāttāṉ kaiyeḻuttu-p paṭikku muttuppattar maka
-                   <lb n="27v=57" break="no"/>ṉ vēlāyutaṉ kaiyeḻuttu <g type="pc"/>
+                   <lb n="27v=57" break="no"/>ṉ vēlāyutaṉ kaiyeḻuttu <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"-->
                 </p>
                 
                 

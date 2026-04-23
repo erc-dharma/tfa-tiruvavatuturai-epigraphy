@@ -55,16 +55,13 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -90,8 +87,8 @@
                 <p>
                     <hi rend="grantha">śāl<choice><orig>ī</orig><reg>i</reg></choice></hi>vāka<hi rend="grantha">na-śakābdaṁ</hi> <num value="1651"><g type="numeral">1000</g> 6 <g type="numeral">100</g> 5 <g type="numeral">10</g> 1 </num> Iti
                     <lb n="1r2=2" break="no"/>ṉ mēl ce<seg type="aksara">l=l</seg>ā niṉṟa <hi rend="grantha">sau<!--kompu missing-->mya</hi>-nā<hi rend="grantha">ma-saṁ</hi>va<hi rend="grantha">T<!--we use now T, instead of t· when the consonant is modified. We use t· if th consonant is not modified and is simply supplemented by a puḷḷi/virāma-->sara</hi>tti	
-                    <lb n="1r3=3" break="no"/>l Ut=ta<hi rend="grantha">rā</hi>yaṇa<seg type="aksara">t=ti</seg>l va<hi rend="grantha">sa</hi>n=ta-<hi rend="grantha">ṛtu</hi>vil ci<seg type="aksara">t=ti</seg>rai <g type="tam-matam"/>
-                    <lb n="1r4=4"/><g type="numeral">10</g> 6 <g type="tam-teti"/> <hi rend="grantha">śukla-pakṣa</hi>ttil <hi rend="grantha">śukra</hi>vā<hi rend="grantha">ramuṁ saptami</hi>yu
+                    <lb n="1r3=3" break="no"/>l Ut=ta<hi rend="grantha">rā</hi>yaṇa<seg type="aksara">t=ti</seg>l va<hi rend="grantha">sa</hi>n=ta-<hi rend="grantha">ṛtu</hi>vil ci<seg type="aksara">t=ti</seg>rai <g ref="sym:tam-matam"/>
+                    <lb n="1r4=4"/><g type="numeral">10</g> 6 <g ref="sym:tam-teti"/> <hi rend="grantha">śukla-pakṣa</hi>ttil <hi rend="grantha">śukra</hi>vā<hi rend="grantha">ramuṁ saptami</hi>yu
                     <lb n="1r5=5" break="no"/><hi rend="grantha">ṁ A</hi>nu<!--is Tamil--><hi rend="grantha">ṣa</hi>-na<!--is Tamil--><hi rend="grantha">kṣatramuṁ brāhmi</hi>-nā<hi rend="grantha">ma</hi>-yō<hi rend="grantha">gamuṁ</hi> kūṭi
                     <lb n="1r6=6" break="no"/>ṉa cu<choice><sic>y</sic><corr>p</corr></choice>atiṉattil	
                 </p>
@@ -198,7 +195,7 @@
                     
                     <lb n="1v38=69" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>avarkaḷ keṅk<choice><sic>e</sic><corr>ai</corr></choice>-<seg type="aksara">k=-ka</seg>raiyilum cētu-<seg type="aksara">k=-ka</seg>raiyi
                     <lb n="1v39=70" break="no"/><unclear>lu</unclear><supplied reason="subaudible">m</supplied> mātā-pitā-kuruvaiyu=M pacuvaiyu=M vatai
-                    <lb n="1v40=71"/>ceyta tō<hi rend="grantha">ṣa</hi><seg type="aksara">t=ti</seg><supplied reason="omitted">ṟ</supplied> pōka-<seg type="aksara">k=-ka</seg>ṭavar= ākavum <g type="pc">.</g>
+                    <lb n="1v40=71"/>ceyta tō<hi rend="grantha">ṣa</hi><seg type="aksara">t=ti</seg><supplied reason="omitted">ṟ</supplied> pōka-<seg type="aksara">k=-ka</seg>ṭavar= ākavum <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
                 </p>		
                 
                 <ab>
