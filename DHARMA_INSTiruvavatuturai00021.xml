@@ -78,7 +78,7 @@
                 
                 <p>
                     <pb n="1r"/>
-                    <lb n="1r1=1"/> <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> <hi rend="grantha">svasti śrī ma</hi>kāmaṇṭalēcuparaṉ Ariyarāya taḷavipāṭaṉ pā<choice><orig>t</orig><reg>c</reg></choice>ai<seg type="aksara">k=ku</seg> <seg type="aksara">t=t</seg>appuvar=ā 
+                    <lb n="1r1=1"/> <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g> <hi rend="grantha">svasti śrī ma</hi>kāmaṇṭalēcuparaṉ Ariyarāya taḷavipāṭaṉ pā<choice><orig>t</orig><reg>c</reg></choice>ai<seg type="aksara">k=ku</seg> <seg type="aksara">t=t</seg>appuvar=ā 
                     <lb n="1r2=2"/>yira kaṇṭaṉ mūvar=āya kaṇṭaṉ kaṇṭa nāṭu koṇṭu koṇṭa ṉāṭu kuṭātā
                     <lb n="1r3=3" break="no"/>ṉ pāṇṭimaṇṭala <hi rend="grantha">stā</hi>paṉācāriyaṉ cōḻamaṇṭala piṟati<hi rend="grantha">ṣṭācāriyan</hi>
                     <lb n="1r4=4"/>toṇṭamaṇṭala-c caṇṭappiracaṇṭaṉ Īḻamum koṅkum yā<choice><orig>ṇ</orig><reg>ḻ</reg></choice>ppā 

@@ -80,7 +80,7 @@
                 <pb n="1r"/>
                 
                 <ab> 	
-                    <lb n="1r1=1"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> cupam a<hi rend="grantha">s</hi>tu
+                    <lb n="1r1=1"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g> cupam a<hi rend="grantha">s</hi>tu
                 </ab>
                 
                 <p> 
@@ -151,8 +151,8 @@
                 <p>
                     <lb n="1v30=52"/>y-itaṟku taṟkuṟimukavaṉūr Uṟaviṉ muṟaiyā=r kōmuṭṭi
                     <lb n="1v31=53"/>ceṭṭimār Aṉaivarum <unclear>Ā</unclear>yiravar Aṉaivaru<hi rend="grantha">m·</hi> kārkuṭi Uṟavi
-                    <lb n="1v32=54"/>ṉ muṟaiyar Ammaṉ pēṭṭaiyār Aṉaivarum <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> cā<choice><orig>ṣ</orig><reg>ṭ</reg></choice>ci
-                    <lb n="1v33=55"/>Ampalavāṇar <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
+                    <lb n="1v32=54"/>ṉ muṟaiyar Ammaṉ pēṭṭaiyār Aṉaivarum <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g> cā<choice><orig>ṣ</orig><reg>ṭ</reg></choice>ci
+                    <lb n="1v33=55"/>Ampalavāṇar <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
                 </p>
                 
                 

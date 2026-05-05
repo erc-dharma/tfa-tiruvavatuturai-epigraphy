@@ -80,8 +80,8 @@
                 <pb n="1r"/>
                 
                 <p>
-                    <lb n="1r=1"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> cāttūr neṉmēṉi vaṭamalaipuram cēkaram pa  
-                    <lb n="2r=2" break="no"/>ṭṭaiyam <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--> 
+                    <lb n="1r=1"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g> cāttūr neṉmēṉi vaṭamalaipuram cēkaram pa  
+                    <lb n="2r=2" break="no"/>ṭṭaiyam <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g> 
                 </p>
                 <p>
                     cuva<hi rend="grantha">ṣ</hi>tiṟi 
@@ -175,12 +175,12 @@
                     <lb n="11v=58" break="no"/>m Ace<hi rend="grantha">ṣ</hi>ṭa vi<choice><orig>ṟṟ</orig><reg>tt</reg></choice>uva makācaṉaṅkaḷ mutalākiya
                     <lb n="12v=59"/>Uḷāvarkaḷōm y-ippaṭikku y-intappaṭṭaiyam E
                     <lb n="13v=60" break="no"/>ḷutiṉēṉ piṟacaṉṉa varatayyaṉ kumāraṉ kiṟāma
-                    <lb n="14v=61" break="no"/>k-kaṇakku c-cītar rāmayyaṉ <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--> 
+                    <lb n="14v=61" break="no"/>k-kaṇakku c-cītar rāmayyaṉ <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g> 
                 </p>
                 
                 <p>
                     y-inta-p paṭikku c-cā
-                    <lb n="15v=62" break="no"/>ttūr makācaṉaṅkaḷ Oppam <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--> 
+                    <lb n="15v=62" break="no"/>ttūr makācaṉaṅkaḷ Oppam <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g> 
                     
                     cuppārāyar makā<lb n="16v=63"/>tēvayyaṉ mukāraṉ 
                     cuppārāyar teṉkarai makā<lb n="17v=64"/>rācāvayyaṉ 
@@ -246,7 +246,7 @@
                     <lb n="50v=97"/>kāvalac civasamaṇiyam 
                 </p>
                 <p>
-                    <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> yinta tāmpira cātaṉam Eḷu
+                    <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g> yinta tāmpira cātaṉam Eḷu
                     <lb n="51v=98" break="no"/>ti nayiṉār caṉṉitāṉattukku vāṅkiṉēṉ kumāra
                     <lb n="52v=99"/>velu-p paṇṭāram 
                 </p>
@@ -255,7 +255,7 @@
                     <lb n="53v=100" break="no"/>ṉṉa Ayyamperumāṉ ācāri kumāraṉ puṉṉaiva<seg type="aksara">ṉ=aM</seg>
                 </p>
                 <p>
-                    <lb n="53v=101"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> kūmaraṉ tuṇai <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"-->
+                    <lb n="53v=101"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g> kūmaraṉ tuṇai <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g>
                 </p>
                 
             </div>
