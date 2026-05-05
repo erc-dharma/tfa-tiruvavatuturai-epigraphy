@@ -125,7 +125,7 @@
                         <lb n="C3=5"/>...
                         <lb n="C4=6"/>...
                         <lb n="C5=7"/>...
-                        <lb n="C6=8"/>... <g ref="sym:flourish-taperOut" type="symbol">*</g><!--CHECK SYMBOL encoding and content, was "gomutra"-->
+                        <lb n="C6=8"/>... <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                     </p>
                 </div>
                 
@@ -136,7 +136,7 @@
                         <lb n="C7=9"/>...
                     </p>
                     
-                    <p>Ivai-y e<choice><orig>ṉn</orig><reg>ṉ</reg></choice> eḻuttu <g ref="sym:flourish-taperOut" type="punctuation">.</g><!--CHECK SYMBOL encoding and content, was "gomutra"-->
+                    <p>Ivai-y e<choice><orig>ṉn</orig><reg>ṉ</reg></choice> eḻuttu <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                     </p>
                 </div> 
                 
