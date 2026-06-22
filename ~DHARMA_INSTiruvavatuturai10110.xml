@@ -5,23 +5,22 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-    
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tiruvāvaṭutuṟai, Gomuktīśvara, no king, no year</title>
+                <title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of <gap reason="lost"/>, year 4</title>
                 <respStmt>
-                    <resp>author of digital edition</resp>
+                    <resp>author of digital edition</resp>					
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
                 </respStmt>
-            </titleStmt>
+                </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Aubervilliers</pubPlace>
-                <idno type="filename">DHARMA_INSTiruvavatuturai10010</idno>
+                <idno type="filename">DHARMA_INSTiruvavatuturai10110</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -29,7 +28,7 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                        <p>Copyright (c) 2019-2026 by Emmanuel Francis.</p>
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -45,7 +44,8 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p/>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+                                nor between <foreign>o</foreign> and <foreign>ō</foreign>. </p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -53,20 +53,25 @@
         </fileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
             </projectDesc>
             <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
                 <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
                 <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
-                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:emfr" when="2024-10-15">Creation of the file.</change>
+            <change who="part:emfr" when="2024-10-21">Creation of the file.</change>
         </revisionDesc>
     </teiHeader>
     
@@ -74,72 +79,84 @@
         
         <body>
             
+            
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
                 <p>
-                    <lb n="1"/>tirukkaḷ kāciyava<choice><orig>n</orig><reg>ṉ</reg></choice> Appi
-                    <lb n="2"/>veṅkaṭa<choice><orig>n</orig><reg>ṉ</reg></choice>ukku cōtaṇa
-                    <lb n="3" break="no"/>-kāṇi Āka v-iṭṭa nila<supplied reason="omitted">m</supplied> Āvatu 
+                    <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">Moulding</label>
+                    <lb n="A1=1"/><gap reason="lost" extent="unknown" unit="character"/>
+                    -t<supplied reason="lost">ē</supplied>va<unclear>ṟ</unclear><surplus><unclear>k</unclear></surplus>ku yāṇtu nāl-āvatu
                 </p>
+                <p>
+                    teṉ-karai tiru-vaḻuntūr-nāṭṭu
+                    ...
+                    <lb n="A2=2"/><gap reason="lost" extent="unknown" unit="character"/>...
+                    <lb n="A3=3"/><gap reason="lost" extent="unknown" unit="character"/>...
+                </p>        
                 
                 <p>
-                    I
-                    <lb n="4" break="no"/>n-nāṭṭu neṟkuppai mu
-                    <lb n="5" break="no"/>-vēliyi<choice><orig>n</orig><reg>ṉ</reg></choice> kiḻai-p-patti
-                    <lb n="6" break="no"/>l meṟk’ aṭaiya Eḻu mā
-                    <lb n="7" break="no"/>vum cantirāti<choice><sic>cc</sic><corr>tt</corr></choice>aval
-                    <lb n="8"/>cōtaṇa-kāṇi Āka c<choice><orig>e</orig><reg>ey</reg></choice>tu
-                    <lb n="9"/>kuṭuttōm Aruḷāḷ kuṭu
-                    <lb n="3" break="no"/>ttōm <hi rend="grantha"><unclear>d</unclear>e</hi><unclear>va-ka</unclear><hi rend="grantha"><unclear>nmi</unclear></hi><unclear>kaḷōm</unclear>
-                    
+                    <milestone type="pagelike" n="B" unit="zone"/><label xml:lang="eng">Moulding</label>
+                    <lb n="B1=4"/><gap reason="lost" extent="unknown" unit="character"/>...
+                    <lb n="B2=5"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    ...
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    veṭṭi-k= kuṭuttōm tiru-v-āvaṭu-tuṟai Āḷvār <hi rend="grantha">caṇḍeśva</hi>rak=ku tiru-vaḻun=tūr-nāṭṭu <hi rend="grantha">brahmade</hi>yam ciṟṟāṉaiccūr <hi rend="grantha">sabhai</hi>yōm
                 </p>
+                <p>
+                    Itu pa<hi rend="grantha">nmāheśvara-rakṣai</hi> 
+                </p>    
                 
-            </div>
+            </div>	
             
-            <!--<div type="apparatus">			
+            <!--<div type="apparatus">
+                
                 <listApp>
-                <app loc="line">
+                <app loc="0">
                 <lem></lem>
-                <rdg></rdg>
+                <rdg source="bib:..."></rdg>
                 <note></note>
                 </app>
+                
                 </listApp>
                 </div>-->
             
-            <div type="translation" resp="part:emfr">
+            <!--<div type="translation" resp="part:emfr">
                 
-                <p n="1-3">
-                    So that there be a <foreign>cōtaṇa-kāṇi</foreign>
-                    <supplied reason="subaudible">there is</supplied> a land that has been given.
-                </p>
-                
-                <p n="4-9">
-                    So that there be a <foreign>cōtaṇa-kāṇi</foreign>,
-                    we have given as long as the moon and the sun
-                    seven <foreign>mā</foreign>s
-                    ...
-                    we, the temple officers.
-                </p>
-            </div>
+                </div>-->	
             
-            <div type="commentary">
-                <p>This short inscription contains no date at its beginning. It is inscribed on the bottom part of the pilaster left of zone D of inscription <ref target="DHARMA_INSTiruvavatuturai10009.xml">Tiruvāvaṭutuṟai 10009</ref> (ARIE/1924-1925/B/1925/104) and appears, by its location, to be connected to this inscription <ref target="DHARMA_INSTiruvavatuturai10009.xml">Tiruvāvaṭutuṟai 10009</ref>.</p>
+            <div type="commentary">	
+                
+                <p n="1-5">...</p>
+                
+                <p n="5">This <supplied reason="subaudible">is under</supplied> the protection of the many great devotees of Īśvara.<note>That is, Śiva.</note></p>
+                
             </div>
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/114).</p>
-                <p>This edition by Emmanuel Francis (2024), based on photos (EFEO, 2006; E. Francis, 2024) and autopsy (2024).</p>	
+                <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> as part of ARIE/1924-1925/B/1925/110.</p>	
+                <p>Edited here by Emmanuel Francis, based on photos (E. Francis, 2024).</p>
                 <p>ASI transcript and estampage, if any, yet to be consulted.</p>    
+                
+                <!--<listBibl type="primary">
+                    
+                    <bibl n="...">
+                    <ptr target="bib:..."/>
+                    <citedRange unit="page">...</citedRange>
+                    <citedRange unit="item">...</citedRange>
+                    </bibl>
+                    
+                    </listBibl>-->
                 
                 <listBibl type="secondary">
                     
-                    <bibl>
+                    <bibl n="ARIE">
                         <ptr target="bib:ARIE1924-1925"/>
-                        <citedRange unit="page">25</citedRange>
+                        <citedRange unit="page">24</citedRange>
                         <citedRange unit="appendix">B/1925</citedRange>
-                        <citedRange unit="item">114</citedRange>
-                    </bibl>		
+                        <citedRange unit="item">110</citedRange>
+                    </bibl>     		
                     
                 </listBibl>
             </div>

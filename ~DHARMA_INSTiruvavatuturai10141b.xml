@@ -9,30 +9,19 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of <gap reason="lost"/>, year <gap reason="lost"/></title>
+                <title>Tiruvāvaṭutuṟai, Gomuktīśvara, label</title>
                 <respStmt>
-                    <resp>author of digital edition</resp>
-                    <persName ref="part:reda">
-                        <forename>Renato</forename>
-                        <surname>Dávalos</surname>
-                    </persName>
+                    <resp>author of digital edition</resp>                    
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
-                    </persName>					
-                    <persName ref="part:rama">
-                        <name>N. Ramaswamy</name>
                     </persName>
-                    <persName ref="part:matr">
-                        <forename>Margherita</forename>
-                        <surname>Trento</surname>
-                    </persName>	
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Aubervilliers</pubPlace>
-                <idno type="filename">DHARMA_INSTiruvavatuturai10014</idno>
+                <idno type="filename">DHARMA_INSTiruvavatuturai10141b</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -52,7 +41,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary/>
+                        <summary>Label inscription to the sculpture, which is immediately to the left of the inscription and represents a man worshipping a <foreign>liṅga</foreign>.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -77,7 +66,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:emfr" when="2024-10-20">Creation of the file.</change>
+            <change who="part:emfr" when="2024-01-25">Creation of the file.</change>
         </revisionDesc>
     </teiHeader>
     
@@ -92,22 +81,15 @@
                 </ab>
                 
                 <p>
-                    matirai koṇṭa kō-p-para-kēcari       
-                    <lb n="2" break="no"/><supplied reason="lost">pa<hi rend="grantha">nma</hi>kku</supplied> yāṇṭu <num value="38">3 <g type="numeral">10</g> 8</num> vatu
+                    tiru-naṟai
+                    <lb n="2" break="no"/>yūr-nāṭṭu ciṟṟāṭi-y-u
+                    <lb n="3" break="no"/>ṭaiyāṉ tāmaṉ A
+                    <lb n="4" break="no"/>malaṉ <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                 </p>
                 
-                <p>
-                    karai-nā	
-                    <lb n="3" break="no"/><unclear>ṭṭu</unclear> <supplied reason="lost">ti</supplied>raim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu <hi rend="grantha">brahmade</hi>yam cāttaṉūr	
-                    <lb n="4"/><hi rend="grantha">śrī</hi>-tiruvāvaṭutuṟai ... perumā<unclear>ḷ</unclear>
-                    <lb n="5"/>tiruv <gap reason="lost" quantity="4" unit="character" precision="low"/> toḻutu tiru-k-kaṟṟaḷi ceykiṉṟatu-k
-                    
-                    <lb n="6"/><supplied reason="lost">ko</supplied>ṇṭ-aruḷi<unclear>ṉan</unclear> ceyya U<hi rend="grantha">da</hi>ka-pū<hi rend="grantha"><unclear>r</unclear>vva</hi>ñ ceyya <gap reason="lost" quantity="2" unit="character" precision="low"/>
-                    <lb n="7"/>… kaḻañcu poṉ ...	
-                    <lb n="8"/>koṇṭu kuṭappaṭai <gap reason="lost" quantity="6" unit="character" precision="low"/> ṭattu ma <gap reason="lost" quantity="8" unit="character" precision="low"/>	
-                    <lb n="9"/>kiṉṟatu <hi rend="grantha">śrī</hi>-parāntaka-tēvar poṉṉāl cey        
-                    <lb n="10" break="no"/>kiṉṟa paṇi	
-                </p>		
+                <ab>
+                    na<hi rend="grantha">maś śi</hi>vāya
+                </ab>
                 
             </div>
             
@@ -127,24 +109,24 @@
                     Prosperity! Fortune!
                 </p>
                 
-                <p n="2-3">
-                    38th year of the king Parakesarivarman who took Maturai.
+                <p n="1-4">
+                    <supplied reason="subaudible">This<note>That is, the man worshipping a <foreign>liṅga</foreign> represented in the sculpture, which is immediately to the left of the inscription.</note> is</supplied> Tāmaṉ Amalaṉ, lord of Ciṟṟāṭi in Tirunaṟaiyūrnāṭu.
                 </p>
                 
-                <p n="3-10">
-                    ...
-                    <supplied reason="subaudible">is</supplied> the service that the glorious king Parāntaka does with gold.
+                <p n="4">
+                    Homage to Śiva.<note><hi rend="italic">Pace</hi> <bibl>
+                        <ptr target="bib:ARIE1924-1925"/></bibl>, followed by <bibl><ptr target="bib:Kaimal1999_01"/></bibl>, this appears not to be an alias of Tāmaṉ Amalaṉ, but a concluding blessing.</note>
                 </p>
             </div>
             
-            <!--<div type="commentary">
-                <p></p>
-                </div>-->
+            <div type="commentary">
+                <p>The labelled portrait is portrait 8 in <bibl><ptr target="bib:Kaimal1999_01"/></bibl> (p. 128 and fig. 9).</p>
+            </div>
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/143).</p>
-                <p>This edition by Renato Davalos, Emmanuel Francis, Babu N. Ramaswamy, and Margherita Trento, based on photos (M. Trento, 2024) and autopsy (2025).</p>	
+                <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/141).</p>
+                <p>This edition by Emmanuel Francis (2024), based on photos (EFEO, 2006; E. Francis, 2024) and autopsy (2024).</p>	
                 <p>ASI transcript and estampage, if any, yet to be consulted.</p>    
                 
                 <listBibl type="secondary">
@@ -153,8 +135,13 @@
                         <ptr target="bib:ARIE1924-1925"/>
                         <citedRange unit="page">28</citedRange>
                         <citedRange unit="appendix">B/1925</citedRange>
-                        <citedRange unit="item">143</citedRange>
+                        <citedRange unit="item">141</citedRange>
                     </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:Kaimal1999_01"/>
+                    </bibl> 
+                    
                 </listBibl>
             </div>
         </body>
