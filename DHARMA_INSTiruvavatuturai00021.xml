@@ -128,8 +128,8 @@
                     <lb n="1v9=36" break="no"/>ṭaik kaṇmāy<seg type="aksara">k=kuM</seg> mēṟku teṉpāṟkellai yāvatu ciṟu kaikka
                     <lb n="1v10=37" break="no"/>ṇmāy vaṭakkīṭkkompu vaṭakku mēṟpāṟkellai yāvatu
                     <lb n="1v11=38"/>Āmpaṭṭaṉ kōṭṭai ceṭṭi Ēntal puḷiyāṇṭāṉ karicalu<seg type="aksara">k=ku</seg> kiḷa
-                    <lb n="1v12=39" break="no"/><seg type="aksara">kku</seg> vaṭapāṟkellai yāvatu tu<seg rend="check"><seg type="aksara">t=tū/t=tā</seg></seg><seg type="aksara">k=ku</seg>ṭi ¯
-                    Āttu<seg rend="check">k=ku</seg> teṟku maramatā
+                    <lb n="1v12=39" break="no"/><seg type="aksara">kku</seg> vaṭapāṟkellai yāvatu tu<hi rend="check"><seg type="aksara">t=tū/t=tā</seg></hi><seg type="aksara">k=ku</seg>ṭi ¯
+                    Āttu<hi rend="check">k=ku</hi> teṟku maramatā
                     <lb n="1v13=40" break="no"/>ya kiṟāmam pakaiyeṉi pirāntiṉikku Al<choice><orig>k</orig><reg>l</reg></choice>ai yāvatu kīḷ
                     <lb n="1v14=41"/>pārkellai pāppāṉ kōṭṭai Amaṉippuḷi yāla<seg type="aksara">k=ka</seg>ṇmāyaḷu
                     <lb n="1v15=42" break="no"/><seg type="aksara">k=ku</seg> mēṟku teṉpāṟkellai tiṭakkōṭṭai vaṭavayalu<seg type="aksara">k=ku</seg> va
@@ -139,7 +139,7 @@
                 </p>
                 <p>
                     Iṉṉāṉkel<choice><orig>k</orig><reg>l</reg></choice>ai<seg type="aksara">k=ku</seg>ḷ paṭṭa māvaṭai
-                    <lb n="1v19=46"/>maravaṭai <seg rend="check"><seg type="aksara">tiṭ</seg>ṭut <seg type="aksara">tiṭa</seg>l</seg> pāmpāṭu paṉai vaṭali Āvirai koḻuñci kīḷnō
+                    <lb n="1v19=46"/>maravaṭai <hi rend="check"><seg type="aksara">tiṭ</seg>ṭut <seg type="aksara">tiṭa</seg>l</hi> pāmpāṭu paṉai vaṭali Āvirai koḻuñci kīḷnō
                     <lb n="1v20=47" break="no"/><seg type="aksara"><unclear>k=ki</unclear></seg>ya <add place="below">mēl nōkkiyamām <g ref="sym:cross" type="symbol">*</g></add> kiṇaṟu niti niṭcēpam cakalamum taṟma<seg type="aksara">t=tu</seg><seg type="aksara">k=ku</seg> A<seg type="aksara">kki</seg>rakā=ra<seg type="aksara">t=tu</seg><seg type="aksara">k=kuM</seg> caṟu
                     <lb n="1v21=48" break="no"/>vamāṉiyamāka <seg type="aksara">k=k</seg>aṭṭaḷaiyiṭṭapaṭiyiṉālē 
                 </p>
@@ -161,7 +161,7 @@
                 </p>
                 
                 <ab xml:lang="san-Latn" rendition="class:nāgarī maturity:vernacular">
-                    <lb n="049"/>raghunātha-kā<seg rend="check">ge<unclear reason="eccentric_ductus">ṇye</unclear></seg>
+                    <lb n="049"/>raghunātha-kā<hi rend="check">ge<unclear reason="eccentric_ductus">ṇye</unclear></hi>
                 </ab>
                 
             </div>

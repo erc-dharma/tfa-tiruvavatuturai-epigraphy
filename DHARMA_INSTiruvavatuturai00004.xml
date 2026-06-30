@@ -93,7 +93,7 @@
                     <lb n="1r3=3"/>Āṇṭu viḷampi-ṉāma-<hi rend="grantha">saṃ</hi>va<hi rend="grantha">scara</hi>ttil Ut=ta<hi rend="grantha">rā</hi>
                     <lb n="1r4=4" break="no"/>yaṇattil <hi rend="grantha">śaśira-ṛtu</hi>vil <hi rend="grantha">māgha-māsaṃ</hi> <num value="14"><g type="numeral">10</g> <g type="numeral">4</g></num> <g ref="sym:tam-teti" type="ideogram">@</g>  
                     <lb n="1r5=5"/><hi rend="grantha">kṛṣṇa-pakṣa</hi>t=til <hi rend="grantha">śukra</hi>-vā<hi rend="grantha">ramuṃ</hi> <hi rend="grantha">tra</hi>yō<hi rend="grantha">daśi</hi>yu=M <hi rend="grantha">śa</hi>
-                    <lb n="1r6=6" break="no"/><hi rend="grantha">ṣṭa</hi>-naṭcat=tiramum <hi rend="grantha">yu</hi>va-nā<hi rend="grantha">ma</hi>-yō<hi rend="grantha">gamuṃ</hi> <seg rend="check">nā<unclear reason="eccentric_ductus">na</unclear>var<!--nākava?--></seg>-<hi rend="grantha">kara</hi>ṇa 
+                    <lb n="1r6=6" break="no"/><hi rend="grantha">ṣṭa</hi>-naṭcat=tiramum <hi rend="grantha">yu</hi>va-nā<hi rend="grantha">ma</hi>-yō<hi rend="grantha">gamuṃ</hi> <hi rend="check">nā<unclear reason="eccentric_ductus">na</unclear>var<!--nākava?--></hi>-<hi rend="grantha">kara</hi>ṇa 
                     <lb n="1r7=7" break="no"/><hi rend="grantha">muṃ</hi> pe<choice><orig>t=t</orig><reg>ṟ=ṟ</reg></choice>a makā<hi rend="grantha">śi</hi>va<hi rend="grantha">rātri-pu</hi>ṇya-<hi rend="grantha">kāla</hi>t=til
                 </p>
                 
@@ -185,9 +185,9 @@
                 </p>
                 
                 <ab xml:lang="tel-Latn" rendition="class:telugu maturity:undetermined" rend="large">
-                    <seg rend="check"><lb n="1v33=67"/>cārraliṁgga tirumalanā
+                    <hi rend="check"><lb n="1v33=67"/>cārraliṁgga tirumalanā
                         <lb n="1v34=68"/>larunayasanāru
-                        <lb n="1v35=69"/>śrī manā * sahāmala *<!--reading of Telugu script to be checked--></seg>
+                        <lb n="1v35=69"/>śrī manā * sahāmala *<!--reading of Telugu script to be checked--></hi>
                 </ab>
                 
                 <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
@@ -228,7 +228,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl> (ARIE/1986-1987/A/1986-1987/59).</p>
-                <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. <seg rend="check">34</seg>). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.
+                <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. <hi rend="check">34</hi>). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.
                 </p>
                 
                 <p>
