@@ -11,14 +11,14 @@
             <titleStmt>
                 <title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of Parakesarivarman, year 3</title>
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp key="contributor">EpiDoc Encoding</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp key="creator">intellectual authorship of edition</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>

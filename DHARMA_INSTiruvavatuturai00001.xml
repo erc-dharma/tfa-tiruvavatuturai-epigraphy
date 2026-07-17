@@ -11,7 +11,7 @@
             <titleStmt>
                 <title>Tiruvāvaṭutuṟai, recapitulative set of copper-plates</title>
                 <respStmt>
-                    <resp>author of digital edition</resp>
+                    <resp key="creator">author of digital edition</resp>
                     <persName ref="part:matr">
                         <forename>Margherita</forename>
                         <surname>Trento</surname>

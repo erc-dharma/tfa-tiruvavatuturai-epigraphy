@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Aḻuñci Ēntal grant, Śaka year 1663</title>
                 <respStmt>
-                    <resp>author of digital edition</resp>
+                    <resp key="creator">author of digital edition</resp>
                     <persName ref="part:matr">
                         <forename>Margherita</forename>
                         <surname>Trento</surname>
