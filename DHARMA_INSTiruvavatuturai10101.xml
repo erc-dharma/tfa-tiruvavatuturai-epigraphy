@@ -15,6 +15,10 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -62,37 +66,37 @@
                     
                     <ab>
                         <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">Moulding</label>
-                        <lb n="A1=1"/><hi rend="grantha"><unclear>svasti śrī</unclear></hi>
+                        <lb n="A1=1"/><hi rend="grantha">svasti śrī</hi>
                     </ab>
                     
                     <lg n="1" met="āciriyappā">                        
-                        <l n="1">tiru-makaḷ pōla peru-nila-c-celviyun=</l>
+                        <l n="1">tiru-makaḷ pōla-p peru-nila-c-celviyun=</l>
                         <l n="2">taṉakkē y-urimai pūṇṭamai maṉa-k koḷa</l>
-                        <l n="3">kān=ta<supplied reason="lost">l</supplied>ūr-c-cā<unclear>lai kalam aṟutt-aruḷi</unclear></l>
+                        <l n="3">kān=ta<unclear>l</unclear>ūr-c-cā<supplied reason="lost">lai</supplied> kalam aṟutt-aruḷi</l>
                         <l n="4">vēṅkai-nāṭuṅ kaṅka-pāṭiyun=</l>
                         <l n="5">taṭikai-pāṭiyum ṉuḷampa-pāṭi<unclear>yu</unclear>ṅ</l>
-                        <l n="6">kuṭa-malai-nāṭuṅ kollamuṇ kali<unclear>ṅkamum</unclear></l>
-                        <l n="7"><unclear>muraṭṭoḻil ciṅkaḷar īḻa</unclear>maṇṭalamum
-                        </l>
-                        <l n="8">Iraṭṭa-pāṭi Ēḻ’ arai Ilakkamun</l>
+                        <l n="6">kuṭa-malai-nāṭuṅ kollamuṇ kal<unclear>i</unclear>ṅka<supplied reason="lost">mum</supplied></l>
+                        <l n="7"><supplied reason="lost">Eṇ ṭi</supplied>c<unclear>ai</unclear> pukaḻ tara Īḻa-maṇṭalamum</l>
+                        <l n="8">Iraṭṭa-pā<supplied reason="omitted">ṭi</supplied> Ēḻ’ arai Ilakkamun</l>
                         <l n="9">tiṇtiṟal veṉṟi-t taṇṭāṟ koṇṭa ta<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice></l>
-                        <l n="10">eḻil <unclear>vaḷar ūḻiyuḷ el</unclear>lā yāṇṭu</l>
+                        <l n="10">eḻil <supplied reason="lost">vaḷar ū</supplied>ḻiyu<supplied reason="omitted">ḷ e</supplied>llā yāṇṭun=</l>
                         <l n="11">toḻutaka viḷaṅkum yāṇṭu</l>
-                        <l n="12">ceḻiyarai tēcu koḷ</l>
+                        <l n="12">ceḻiyarai-t tēcu koḷ</l>
                     </lg>
                     
                     <p>
-                        <hi rend="grantha">śrī</hi>-<unclear>kō-v-irā</unclear><hi rend="grantha"><unclear>ja</unclear></hi>-<unclear>kē</unclear><hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">nma</hi>r-āṉa <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja-de</hi>varkku yāṇṭu <num value="24">2 <g type="numeral">10</g> 4</num>-Āvatu
+                        <hi rend="grantha">śrī</hi>-<supplied reason="lost">k</supplied><unclear>ō</unclear>-<supplied reason="lost">v-i</supplied>rā<hi rend="grantha"><unclear>ja</unclear></hi>-<unclear>kē</unclear><hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">nma</hi>r-āṉa <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja-de</hi>varkku yāṇṭu <num value="24">2 <g type="numeral">10</g> 4</num>-Āvatu
                     </p>
-                    <p>
-                        
+                    
+                    <p>                        
                         <hi rend="grantha">śrī</hi>  
                         <milestone type="pagelike" n="B" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
-                        <lb n="B1=2" break="no"/>-rā<hi rend="grantha">je<supplied reason="omitted">ndra</supplied>-siṃha</hi>-vaḷanāṭṭu maṇṇi-nāṭṭu <hi rend="grantha">brah<unclear>ma</unclear>de</hi>yam Iḻicci-kuṭi-y-ākiya vikrama-ciṅka-c-catu<hi rend="grantha"><reg>r</reg>vvedi</hi>-maṅkalattu c<unclear>i</unclear>va-purattu nākiyaṇṇa-<hi rend="grantha">kra</hi>mavit=taṉum vātāvi Ā<hi rend="grantha">di</hi>t=ta-<hi rend="grantha">kra</hi>mavi<unclear>ttaṉu</unclear>m <gap reason="illegible" quantity="10" unit="character" precision="low"/>
-                        ya <hi rend="grantha">kra</hi>mavittaṉum vātāvi <hi rend="grantha">śrī-<supplied reason="omitted">kṛ</supplied>ṣṇa-kra</hi>mavittaṉūm <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="B1=2" break="no"/>-rā<hi rend="grantha">je<supplied reason="omitted">ndra</supplied>-siṃha</hi>-vaḷanāṭṭu maṇṇi-nāṭṭu <hi rend="grantha">brah<unclear>ma</unclear>de</hi>yam Ilacci-kuṭi-y-ākiya vikrama-ciṅka-c-catu<hi rend="grantha"><reg>r</reg>v<unclear reason="eccentric_ductus">v</unclear>edi</hi>-maṅkalattu c<unclear>i</unclear>va-purattu nākiyaṇṇa-<hi rend="grantha">kra</hi>mavit=taṉum vātāvi Ā<hi rend="grantha">di</hi>t=ta-<hi rend="grantha">kra</hi>mavittaṉum <unclear>Uḷḷuppāḻatēviya</unclear>-<hi rend="grantha">kra</hi>mavittaṉum vātāvi <hi rend="grantha">śrī-<supplied reason="omitted">kṛ</supplied>ṣṇa-kra</hi>mavittaṉūm Ivvaṉaivōm Uḷḷiṭṭa <hi rend="grantha">sa<supplied reason="lost">bh</supplied>ai</hi> <gap reason="lost" quantity="8" unit="character"/> <unclear>nāṭṭu-t tirai</unclear>m<choice><orig><unclear>u</unclear></orig><reg>u</reg></choice>r-nāṭṭ<unclear>u</unclear> <hi rend="grantha"><unclear reason="eccentric_ductus">bra</unclear>h<unclear>m</unclear>ade</hi>yam cāttāṉūr-t tiru-v-āvaṭu-tuṟai Uṭaiya <hi rend="grantha">parama-s<unclear>v</unclear>ā</hi>mikku Ā<hi rend="grantha"><unclear reason="eccentric_ductus">di</unclear>dāsa</hi>ṉ-ākiya <hi rend="grantha">tribhu</hi>vaṉa-<hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>aṇḍeśvara-de</hi>varkku Oṭṭi-k kai-t-t<choice><orig>i</orig><reg>ī</reg></choice>ṭṭu Oṭṭu-k kuṭutta paric’ āvatu</p>
+                    
+                    <p>
                         ...
-                        
                     </p>
+                    
                     <p>	    
                         <milestone type="pagelike" n="C" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
                         <lb n="C1=3"/>...
@@ -168,8 +172,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/101).</p>	
-                <p>Edited here by Emmanuel Francis, based on photos (E. Francis, 2024).</p>
-                <p>ASI transcript and estampage, if any, yet to be consulted.</p>    
+                <p>Edited here by Emmanuel Francis and Renato Dávalos, based on photos (E. Francis, 2024), and ASI transcript and estampage available on <ref target="https://www.bharatshri.org/index.aspx">BharatSHRI</ref> (accessed 2026-06-21).</p>    
                 
                 <!--<listBibl type="primary">
                     
