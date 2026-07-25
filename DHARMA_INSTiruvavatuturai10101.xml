@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of Rājakesarivarman Rājarāja, year 24 and 25</title>
+                <title>Tiruvāvaṭutuṟai, Gomuktīśvara temple, time of Rājakesarivarman Rājarāja, year 24 and 25</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>					
                     <persName ref="part:emfr">
@@ -35,7 +35,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary/>
+                        <summary><foreign>Vimāna</foreign>, northern base.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -47,8 +47,8 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
         <revisionDesc>
             <change who="part:emfr" when="2024-10-18">Creation of the file.</change>
         </revisionDesc>
@@ -65,7 +65,7 @@
                     <head xml:lang="eng">First Part: year 24 of Rājendra</head>
                     
                     <ab>
-                        <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">Moulding</label>
+                        <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">Kumuda</label>
                         <lb n="A1=1"/><hi rend="grantha">svasti śrī</hi>
                     </ab>
                     
@@ -90,16 +90,27 @@
                     
                     <p>                        
                         <hi rend="grantha">śrī</hi>  
-                        <milestone type="pagelike" n="B" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
-                        <lb n="B1=2" break="no"/>-rā<hi rend="grantha">je<supplied reason="omitted">ndra</supplied>-siṃha</hi>-vaḷanāṭṭu maṇṇi-nāṭṭu <hi rend="grantha">brah<unclear>ma</unclear>de</hi>yam Ilacci-kuṭi-y-ākiya vikrama-ciṅka-c-catu<hi rend="grantha"><reg>r</reg>v<unclear reason="eccentric_ductus">v</unclear>edi</hi>-maṅkalattu c<unclear>i</unclear>va-purattu nākiyaṇṇa-<hi rend="grantha">kra</hi>mavit=taṉum vātāvi Ā<hi rend="grantha">di</hi>t=ta-<hi rend="grantha">kra</hi>mavittaṉum <unclear>Uḷḷuppāḻatēviya</unclear>-<hi rend="grantha">kra</hi>mavittaṉum vātāvi <hi rend="grantha">śrī-<supplied reason="omitted">kṛ</supplied>ṣṇa-kra</hi>mavittaṉūm Ivvaṉaivōm Uḷḷiṭṭa <hi rend="grantha">sa<supplied reason="lost">bh</supplied>ai</hi> <gap reason="lost" quantity="8" unit="character"/> <unclear>nāṭṭu-t tirai</unclear>m<choice><orig><unclear>u</unclear></orig><reg>u</reg></choice>r-nāṭṭ<unclear>u</unclear> <hi rend="grantha"><unclear reason="eccentric_ductus">bra</unclear>h<unclear>m</unclear>ade</hi>yam cāttāṉūr-t tiru-v-āvaṭu-tuṟai Uṭaiya <hi rend="grantha">parama-s<unclear>v</unclear>ā</hi>mikku Ā<hi rend="grantha"><unclear reason="eccentric_ductus">di</unclear>dāsa</hi>ṉ-ākiya <hi rend="grantha">tribhu</hi>vaṉa-<hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>aṇḍeśvara-de</hi>varkku Oṭṭi-k kai-t-t<choice><orig>i</orig><reg>ī</reg></choice>ṭṭu Oṭṭu-k kuṭutta paric’ āvatu</p>
+                        <milestone type="pagelike" n="B" unit="zone" break="no"/><label xml:lang="eng">Āliṅga</label>
+                        <lb n="B1=2" break="no"/>-rā<hi rend="grantha">je<supplied reason="omitted">ndra</supplied>-siṃha</hi>-vaḷanāṭṭu maṇṇi-nāṭṭu <hi rend="grantha">brah<unclear>ma</unclear>de</hi>yam Ilacci-kuṭi-y-ākiya vikrama-ciṅka-c-catu<hi rend="grantha"><reg>r</reg>v<unclear reason="eccentric_ductus">v</unclear>edi</hi>-maṅkalattu c<unclear>i</unclear>va-purattu nākiyaṇṇa-<hi rend="grantha">kra</hi>mavit=taṉum vātāvi Ā<hi rend="grantha">di</hi>t=ta-<hi rend="grantha">kra</hi>mavittaṉum <unclear cert="low">Uḷḷuppāḻatēviya</unclear>-<hi rend="grantha">kra</hi>mavittaṉum vātāvi <hi rend="grantha">śrī-<supplied reason="omitted">kṛ</supplied>ṣṇa-kra</hi>mavittaṉūm Ivvaṉaivōm Uḷḷiṭṭa <hi rend="grantha">sa<supplied reason="lost">bh</supplied>ai</hi> <gap reason="lost" quantity="8" unit="character"/> <unclear>nāṭṭu-t tirai</unclear>m<choice><orig><unclear>u</unclear></orig><reg>u</reg></choice>r-nāṭṭ<unclear>u</unclear> <hi rend="grantha"><unclear reason="eccentric_ductus">bra</unclear>h<unclear>m</unclear>ade</hi>yam cāttāṉūr-t tiru-v-āvaṭu-tuṟai Uṭaiya <hi rend="grantha">parama-s<unclear>v</unclear>ā</hi>mikku Ā<hi rend="grantha"><unclear reason="eccentric_ductus">di</unclear>-dāsa</hi>ṉ-ākiya <hi rend="grantha">tribhu</hi>vaṉa-<hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>aṇḍeśvara-de</hi>varkku Oṭṭi-k kai-t-t<choice><orig>i</orig><reg>ī</reg></choice>ṭṭu Oṭṭu-k kuṭutta paric’ āvatu</p>
                     
                     <p>
-                        ...
+                        Eṅkaḷūr It-tiru-v-āvaṭu-tuṟai Uṭaiya ma<hi rend="grantha">hāde</hi>var paḻam paṭi Uṭaiya n<choice><orig>i</orig><reg>ī</reg></choice>r-nilam <g type="numeral">1/2</g>
                     </p>
                     
-                    <p>	    
-                        <milestone type="pagelike" n="C" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
-                        <lb n="C1=3"/>...
+                    <p>                    
+                        In-ni
+                        <milestone type="pagelike" n="C" unit="zone" break="no"/><label xml:lang="eng">Jagatī</label>
+                        <lb n="C1=3"/><surplus>ṉ</surplus>lam Araikkum
+                        <list>
+                            <item>k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pārk’ ellai <hi rend="grantha">sabhai</hi>-p potuvukku mēkkum</item>
+                            <item>teṉ-pāṟk’ ellai <hi rend="grantha">trai</hi>lō<hi rend="grantha">kkya</hi>-ma<hi rend="grantha">hā-de</hi>v<choice><orig><supplied reason="lost">i</supplied></orig><reg>ī</reg></choice><unclear>maṅ</unclear>kalattu-t tiru-p-pal<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">śva</hi>ram uṭaiya ma<hi rend="grantha">hāde</hi>var nilattukku vaṭakkum</item>
+                            <item>mēl-pāṟk’ ellai vaṭakkoṭiṇṇāṟṟukku kiḻakkum</item>
+                            <item>vaṭa-pāṟk’ ellai Ik-kaṇāṟṟukkē tērkum</item>
+                        </list>
+                        Ivv-icaitta peru-nāṉk’ ellai-Ilum Akapp<choice><sic>i</sic><corr>a</corr></choice>ṭa nilam Eṅkaḷ<choice><orig>u</orig><reg>ū</reg></choice>r <unclear>Ū</unclear><supplied reason="lost">r-a</supplied>ḷavu kōlāl <choice><orig>ṉ</orig><reg>n</reg></choice>ūṟu kuḻi koṇṭatu Oru mā-v āka van=ta nilaṉ <g type="numeral">1/2</g>
+                    </p>
+                    <p>
+                        ...
                         <lb n="C2=4"/>...
                         <lb n="C3=5"/>...
                         <lb n="C4=6"/>...
@@ -128,10 +139,12 @@
                         <lem/>
                         <note/>
                     </app>
-                    <app loc="1">
-                        <lem>cā<unclear>lai kalam arutt-aruḷi</unclear></lem>
-                        <note><foreign>cālai kalam arutt-aruḷi</foreign> in ASI transcript.</note>
+                    
+                    <app loc="2">
+                        <lem><hi rend="grantha">sa<supplied reason="lost">bh</supplied>ai</hi> <gap reason="lost" quantity="8" unit="character"/></lem>
+                        <note>The gap is due to the later insertion of the <foreign>praṇāla</foreign> (gutter, drain) for the libation waters from the <foreign>garbagṛha</foreign>.</note>
                     </app>
+                    
                     
                 </listApp>
             </div>
