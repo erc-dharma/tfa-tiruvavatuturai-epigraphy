@@ -119,15 +119,14 @@
                 
                 <p>
                     <gap reason="lost" extent="unknown" unit="character"/>
-                    <unclear>nūṟ</unclear>ṟuvapaṭṭaṉē Ivai y-e<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> eḻuttu
+                    <unclear>nūṟ</unclear>ṟuvapaṭṭaṉ-ē<supplied reason="omitted">ṉ</supplied> Ivai y-e<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> eḻuttu
                 </p>
                 
                 <p>
                     <list>
-                        <item>Ippaṭi Aṟivēṉ pāratāyaṉ caṅkara-nārāyaṇaṉ kaṇavati pitāraṉē</item>
-                        <item>Ippaṭi Aṟivēṉ … kaṇavati-y-ēṉ</item>
-                        <item>Ippaṭi Aṟivēṉ pāratāyaṉ kaṇavatiyē</item>
-                        <item><unclear>Ippaṭi</unclear>
+                        <item>Ippaṭi Aṟivēṉ pāratāyaṉ caṅkara-nārāyaṇaṉ kaṇavati pitāraṉē<supplied reason="omitted">ṉ</supplied></item>
+                        <item>Ippaṭi Aṟivēṉ <hi rend="grantha">vyāghrapāda</hi>-nakkaṉ kaṇavati-y-ēṉ</item>
+                        <item>Ippaṭi Aṟivēṉ pāratāyaṉ kaṇavatiyē yeccumaṇ
                             <milestone type="pagelike" n="B" unit="zone"/><label xml:lang="eng">Moulding</label>
                             <lb n="B1=7"/><gap reason="lost" extent="unknown" unit="character"/>
                             <unclear>t=ta</unclear><choice><orig>n</orig><reg>ṉ</reg></choice>ē<choice><orig>n</orig><reg>ṉ</reg></choice></item>
