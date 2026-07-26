@@ -43,8 +43,8 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
         <revisionDesc>
             <change who="part:emfr" when="2024-10-21">Creation of the file.</change>
         </revisionDesc>
@@ -62,13 +62,16 @@
                 </ab>
                 
                 <lg n="1" met="āciriyappā">
-                    <l n="1">tiru-makaḷ pōla peru-nila-c-celviyun</l>
-                    <l n="2"><unclear>ta</unclear><supplied reason="lost">ṉakkē urimai pūṇṭamai maṉa-k-koḷa-k</supplied></l>
-                    <l n="3"><supplied reason="lost">kuṭamalai nāṭuṅ</supplied> kollamuṅ kaliṅkamuṅ</l>
-                    <l n="4">tiṇ ṭiṟal veṉṟi taṇṭāṟ koṇṭu ta<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice></l>
-                    <l n="5">eḻil <unclear>va</unclear>ḷar <unclear>Ūḻiyuḷ y-e</unclear>llā yāṇṭum</l>
-                    <l n="6">toḻutakai viḷaṅkum yāṇṭē</l>
-                    <l n="7">ceḻi<lb n="2" break="no"/>yarai-t tēcu koḷ</l>
+                    <l n="1">tiru-makaḷ pōla-p peru-nila-c-celviyun</l>
+                    <l n="2">ta<supplied reason="lost">ṉakkē y-urimai pūṇṭamai maṉa-k-koḷa-k</supplied></l>
+                    <l n="3">kāntaḷūr-c cālai kalam a<supplied reason="lost">ṟu</supplied>tt’ aruḷi</l>
+                    <l n="4">vēṅkai-nāṭum kaṅka-pāṭiyu<supplied reason="subaudible">m</supplied></l>
+                    <l n="5">nuḷampa-pāṭiyum taṭikai vaḻiyuṅ</l>
+                    <l n="6"><supplied reason="lost">kuṭamalai nāṭuṅ</supplied> kollamuṅ kaliṅkamuṅ</l>
+                    <l n="7">tiṇ ṭiṟal veṉṟi taṇṭāṟ koṇṭu ta<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice></l>
+                    <l n="8">eḻil vaḷar Ūḻ<supplied reason="lost">iyuḷ y-e</supplied>llā yāṇṭum</l>
+                    <l n="9">toḻutaka viḷaṅkum yāṇṭē</l>
+                    <l n="10">ceḻi<lb n="2" break="no"/>yarai-t tēcu koḷ</l>
                 </lg>
                 
                 <p>
@@ -80,9 +83,11 @@
                 </p>
                 
                 <p>                    
-                    tiraimūr-nāṭṭu-p <hi rend="grantha">brahmade</hi>yaṅ cātta<choice><orig>n</orig><reg>ṉ</reg></choice>ūr tiruvāṭutuṟai <hi rend="grantha">mahāde</hi>vark=ku <hi rend="grantha">mūlabhṛtya</hi>ṉ-āṉa <hi rend="grantha">caṇḍeśv<choice><sic>ā</sic><corr>a</corr></choice></hi>ra-kaiyyāl <unclear>nā</unclear>ṅkaḷ koṇṭu 
-
-                    <lb n="3"/>...
+                    tiraimūr-nāṭṭu-p <hi rend="grantha">brahmade</hi>yaṅ cātta<choice><orig>n</orig><reg>ṉ</reg></choice>ūr tiruvāṭutuṟai <hi rend="grantha">mahāde</hi>vark=ku <hi rend="grantha">mūlabhṛtya</hi>ṉ-āṉa <hi rend="grantha">caṇḍeśv<choice><sic>ā</sic><corr>a</corr></choice></hi>ra-kaiyyāl <unclear reason="eccentric_ductus">nā</unclear>ṅkaḷ koṇṭu kaṭaviya poṉ kaḻaiñciṟ pēr{t]ttu kācuk=ku mu‡k=kālē muṉṟu mañcāṭi-y-āka koṇṭa poṉ <num value="27">2 <g type="numeral">10</g> 7</num> m <gap reason="illegible" quantity="3" unit="character"/><!--3 fractions-->
+                    <lb n="3"/>koṇṭu kaṭavōm Ip-poṉ koṇṭa paric-āvatu
+                </p>
+                <p>
+                    ...
                     <lb n="4"/>...
                     <lb n="5"/>...
                     <lb n="6"/>...
@@ -90,17 +95,21 @@
                 
             </div>	
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
                 <listApp>
-                <app loc="0">
-                <lem></lem>
-                <rdg source="bib:..."></rdg>
-                <note></note>
-                </app>
-                
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <note></note>
+                    </app>
+                    <app loc="1">
+                        <lem><unclear reason="eccentric_ductus">nā</unclear>ṅkaḷ</lem>
+                        <note>The ASI transcript reads: <foreign>yāṅkaḷ</foreign>.</note>
+                    </app>
+                    
                 </listApp>
-                </div>-->
+            </div>
             
             <div type="translation" resp="part:emfr">
                 
@@ -121,8 +130,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> as part of ARIE/1924-1925/B/1925/105.</p>	
-                <p>Edited here by Emmanuel Francis, based on photos (E. Francis, 2024) and ASI estampage “AR_B0105_1924-25” available on <ref target="https://www.bharatshri.org/index.aspx">BharatSHRI</ref> (accessed 2026-06-19).</p>
-                <p>ASI transcript and estampage, if any, yet to be consulted.</p>    
+                <p>Edited here by Emmanuel Francis<!-- and Renato Dávalos-->, based on photos (E. Francis, 2024), and ASI transcript and estampage available on <ref target="https://www.bharatshri.org/index.aspx">BharatSHRI</ref> (“AR_B0105_1924-25” accessed 2026-06-21).</p>
                 
                 <!--<listBibl type="primary">
                     
