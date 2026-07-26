@@ -107,6 +107,8 @@
                             <item>mēl-pāṟk’ ellai vaṭakkoṭiṇṇāṟṟukku kiḻakkum</item>
                             <item>vaṭa-pāṟk’ ellai Ik-kaṇāṟṟukkē tērkum</item>
                         </list>
+                    </p>
+                    <p>
                         Ivv-icaitta peru-nāṉk’ ellai-Ilum Akapp<choice><sic>i</sic><corr>a</corr></choice>ṭa nilam Eṅkaḷ<choice><orig>u</orig><reg>ū</reg></choice>r <unclear>Ū</unclear><supplied reason="lost">r-a</supplied>ḷavu kōlāl <choice><orig>ṉ</orig><reg>n</reg></choice>ūṟu kuḻi koṇṭatu Oru mā-v āka van=ta nilaṉ <g type="numeral">1/2</g>
                     </p>
                     <p>
@@ -168,8 +170,30 @@
                 <div type="textpart" xml:lang="tam-Latn" rendition="class:tamil maturity:83215" n="B">
                     <head xml:lang="eng">Second Part: year 25 of Rājendra</head>
                     <p>
-                        I<choice><orig>n</orig><reg>ṉ</reg></choice>ṟum It-tēvarkē yāṇṭu <num value="25">2 <g type="numeral">10</g> 5</num>-Āvatu ...
-                        <lb n="9"/>...
+                        I<choice><orig>n</orig><reg>ṉ</reg></choice>ṟum It-tēvarkē yāṇṭu <num value="25">2 <g type="numeral">10</g> 5</num>-Āvatu</p>
+                    <p>
+                        U<supplied reason="omitted">y</supplied>ya-k-koṇṭār-vaḷanāṭṭu-p pērāvūr-nāṭṭu Iḷaṅkāri-kuṭi Ūrōm In-nāṭṭu-t tiraim<choice><orig>u</orig><reg>ū</reg></choice><supplied reason="omitted">r</supplied>-nāṭṭu-t tiruvāva<supplied reason="omitted">ṭu</supplied>tuṟai ma<hi rend="grantha">hāde</hi>varkku nāṅkaḷ ca<hi rend="grantha">ndrādi</hi>t=tavaṟ tiru-non=tā-viḷakku 1 ṉukku Erippataṟku-k kuṭutta nila<choice><orig>n</orig><reg>ṉ</reg></choice> <g type="numeral">1/4</g></p>
+                    <p>
+                        In-nilam kālukkum 
+                        <list>
+                            <item>k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pārk’ ellai Ivv-ūr nilattukku mērkum</item>
+                            <item>teṉ-pārk’ ellai kiḷanallūr-vāykālukkum It-tēva-caṇṭai-paṅkuk=kum vaṭakkum</item>
+                            <item>m<unclear>ē</unclear>l-pāṟk’ ellai-y <hi rend="grantha">brahmade</hi>yam ciru-puliyūr nilattuk=ku kiḻakkum</item>
+                            <item>vaṭa-pā<surplus>pa</surplus>ṟk’ ellai Ivv-iḷaṅkāri-kuṭi nilattukku teṟkum</item>
+                        </list>
+                    </p>
+                    <p>
+                        Ivv-icaitta peru nāṉk’ ellaiyilum Akappaṭṭa nila<choice><orig>n</orig><reg>ṉ</reg></choice> kālum Uḷḷi <choice><sic>ṇ</sic><corr>n</corr></choice>i<lb n="9" break="no"/>lam oḻiv’ iṉṟi Iṟai-y-ili-y-āka-c ca<hi rend="grantha">ndrādi</hi>t=tavaṟ Iṟai-y-ili ceytu kuṭuttōm Ivv-iḷaṅkāriki Ūrōm
+                    </p>
+                    <p>
+                        In-nilaṅ kāluṅ koṇṭu It-tiru-vāvaṭutuṟai <hi rend="grantha">śrī</hi>-kōyil Uṭaiyār<unclear>k</unclear> <space quantity="15" unit="character" type="vacat"/>
+                        pparic’ oṭṭi In-nilam Iṟai-Ili-y-āka-c ceytu <supplied reason="omitted">ku</supplied>ṭuttōm tiru-vāvaṭuturai ma<hi rend="grantha">hāde</hi>varkku Iḷaṅkāri-kuṭi Ūrōm
+                    </p>
+                    <p>
+                        In-nilam kallilum cempilum veṭṭi-k koḷḷa-p peṟuvār ākavum
+                    </p>
+                    <p>
+                        Ip-paricu Ivv-ā<supplied reason="omitted">va</supplied>ṇam Eḻutiṉē<choice><orig>n</orig><reg>ṉ</reg></choice> Ivv-ūṟ-k karaṇattā<choice><orig>n</orig><reg>ṉ</reg></choice> vēḷ kōvaṉ kāṟaṉimpaṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice>-ē<choice><orig>n</orig><reg>ṉ</reg></choice> 
                     </p>
                     
                     <p>
@@ -183,43 +207,59 @@
                 
                 <div type="textpart" xml:lang="tam-Latn" rendition="class:tamil maturity:83215" n="A">
                     <head xml:lang="eng">First Part: year 24 of Rājendra</head><listApp>
-                    
-                    <app loc="0">
-                        <lem/>
-                        <note/>
-                    </app>
-                    
-                    <app loc="2">
-                        <lem><hi rend="grantha">sa<supplied reason="lost">bh</supplied>ai</hi> <gap reason="lost" quantity="8" unit="character"/></lem>
-                        <note>The gap is due to the later insertion of the <foreign>praṇāla</foreign> (gutter, drain) for the libation waters from the <foreign>garbagṛha</foreign>.</note>
-                    </app>
-                    
-                    <app loc="7">
-                        <lem><num value="40"><unclear reason="eccentric_ductus">5</unclear> <g type="numeral">100</g> 4 <g type="numeral">10</g></num> ti<supplied reason="omitted">ṟ</supplied>man kāṉṉēṉ</lem>
-                        <note>We follow here the reading of the ASI transcript.</note>
-                    </app>
-                    
-                    <app loc="7">
-                        <lem>nakkaṉ</lem>
-                        <note>The ASI transcript reads: <foreign>nākaṉ</foreign>.</note>
-                    </app>
-                    
-                    <app loc="7">
-                        <lem>marun=turākāṟi</lem>
-                        <note>The ASI transcript reads: <foreign>marun=turā<hi rend="grantha">kā</hi>ri</foreign>.</note>
-                    </app>
-                    
-                    <app loc="8">
-                        <lem>tinakkaḷarkkaraṇattā<choice><orig>n</orig><reg>ṉ</reg></choice></lem>
-                        <note>The ASI transcript reads: <foreign>tirukkaḷar-karaṇattān</foreign>.</note>
-                    </app>
-                    
-                    <app loc="8">
-                        <lem>Ī<hi rend="grantha">śvara</hi>-nak<unclear cert="low">ka</unclear>tāṭiyē<choice><orig>n</orig><reg>ṉ</reg></choice></lem>
-                        <note>The ASI transcript reads: <foreign>nakkattāṭiyēṉ</foreign>.</note>
-                    </app>
-                </listApp>
+                        
+                        <app loc="0">
+                            <lem/>
+                            <note/>
+                        </app>
+                        
+                        <app loc="2">
+                            <lem><hi rend="grantha">sa<supplied reason="lost">bh</supplied>ai</hi> <gap reason="lost" quantity="8" unit="character"/></lem>
+                            <note>The gap is due to the later insertion of the <foreign>praṇāla</foreign> (gutter, drain) for the libation waters from the <foreign>garbagṛha</foreign>.</note>
+                        </app>
+                        
+                        <app loc="7">
+                            <lem><num value="40"><unclear reason="eccentric_ductus">5</unclear> <g type="numeral">100</g> 4 <g type="numeral">10</g></num> ti<supplied reason="omitted">ṟ</supplied>man kāṉṉēṉ</lem>
+                            <note>We follow here the reading of the ASI transcript.</note>
+                        </app>
+                        
+                        <app loc="7">
+                            <lem>nakkaṉ</lem>
+                            <note>The ASI transcript reads: <foreign>nākaṉ</foreign>.</note>
+                        </app>
+                        
+                        <app loc="7">
+                            <lem>marun=turākāṟi</lem>
+                            <note>The ASI transcript reads: <foreign>marun=turā<hi rend="grantha">kā</hi>ri</foreign>.</note>
+                        </app>
+                        
+                        <app loc="8">
+                            <lem>tinakkaḷarkkaraṇattā<choice><orig>n</orig><reg>ṉ</reg></choice></lem>
+                            <note>The ASI transcript reads: <foreign>tirukkaḷar-karaṇattān</foreign>.</note>
+                        </app>
+                        
+                        <app loc="8">
+                            <lem>Ī<hi rend="grantha">śvara</hi>-nak<unclear cert="low">ka</unclear>tāṭiyē<choice><orig>n</orig><reg>ṉ</reg></choice></lem>
+                            <note>The ASI transcript reads: <foreign>nakkattāṭiyēṉ</foreign>.</note>
+                        </app>
+                    </listApp>
                 </div>
+                <div type="textpart" xml:lang="tam-Latn" rendition="class:tamil maturity:83215" n="B">
+                    <head xml:lang="eng">Second Part: year 25 of Rājendra</head>
+                    <listApp>
+                        <app loc="8">
+                            <lem>In-nilam kālukkum </lem>
+                            <note>The ASI transcript reads: <foreign>In-nila<supplied reason="omitted">m</supplied> kālukkum </foreign>.</note>
+                        </app>
+                        
+                        <app loc="9">
+                            <lem>Uṭaiyār<unclear>k</unclear> <space quantity="15" unit="character" type="vacat"/>
+                        pparic’ oṭṭi</lem>
+                            <note>This portion where text is expeted has not been engraved.</note>
+                        </app>
+                    </listApp>
+                </div>
+                
             </div>
             
             <div type="translation" resp="part:emfr">
