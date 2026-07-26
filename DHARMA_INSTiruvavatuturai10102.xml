@@ -8,22 +8,18 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tiruvāvaṭutuṟai, Gomuktīśvara, time of Parakesarivarman Rājendra Cōḻa, year 6</title>
+                <title>Tiruvāvaṭutuṟai, Gomuktīśvara temple, time of Parakesarivarman Rājendra Cōḻa, year 6</title>
                 <respStmt>
-                    <resp key="creator">intellectual authorship of edition</resp>					
+                    <resp key="creator">author of digital edition</resp>					
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-                </respStmt>
-                <respStmt>
-                    <resp key="contributor">EpiDoc Encoding</resp>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
                     </persName>
                 </respStmt>
-                
             </titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
@@ -39,7 +35,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary/>
+                        <summary><foreign>Vimāna</foreign>, northern base, middle part.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -184,8 +180,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/102).</p>	
-                <p>Edited here by Emmanuel Francis, based on photos (E. Francis, 2024).</p>
-                <p>ASI transcript and estampage, if any, yet to be consulted.</p>    
+                <p>Edited here by Emmanuel Francis and Renato Dávalos, based on photos (E. Francis, 2024), and ASI transcript and estampage available on <ref target="https://www.bharatshri.org/index.aspx">BharatSHRI</ref> (accessed 2026-06-21).</p>    
                 
                 <!--<listBibl type="primary">
                     

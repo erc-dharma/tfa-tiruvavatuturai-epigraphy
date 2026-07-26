@@ -35,7 +35,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><foreign>Vimāna</foreign>, northern base.</summary>
+                        <summary><foreign>Vimāna</foreign>, northern base, lowest part.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -65,7 +65,7 @@
                     <head xml:lang="eng">First Part: year 24 of Rājendra</head>
                     
                     <ab>
-                        <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">Kumuda</label>
+                        <milestone type="pagelike" n="A" unit="zone"/>
                         <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                     </ab>
                     
@@ -90,7 +90,7 @@
                     
                     <p>                        
                         <hi rend="grantha">śrī</hi>  
-                        <milestone type="pagelike" n="B" unit="zone" break="no"/><label xml:lang="eng">Āliṅga</label>
+                        <milestone type="pagelike" n="B" unit="zone" break="no"/>
                         <lb n="2" break="no"/>-rā<hi rend="grantha">je<supplied reason="omitted">ndra</supplied>-siṃha</hi>-vaḷanāṭṭu maṇṇi-nāṭṭu <hi rend="grantha">brah<unclear>ma</unclear>de</hi>yam Ilacci-kuṭi-y-ākiya vikrama-ciṅka-c-catu<hi rend="grantha"><reg>r</reg>v<unclear reason="eccentric_ductus">v</unclear>edi</hi>-maṅkalattu c<unclear>i</unclear>va-purattu nākiyaṇṇa-<hi rend="grantha">kra</hi>mavit=taṉum vātāvi Ā<hi rend="grantha">di</hi>t=ta-<hi rend="grantha">kra</hi>mavittaṉum <unclear cert="low">Uḷḷuppāḻatēviya</unclear>-<hi rend="grantha">kra</hi>mavittaṉum vātāvi <hi rend="grantha">śrī-<supplied reason="omitted">kṛ</supplied>ṣṇa-kra</hi>mavittaṉūm Ivvaṉaivōm Uḷḷiṭṭa <hi rend="grantha">sa<supplied reason="lost">bh</supplied>ai</hi> <gap reason="lost" quantity="8" unit="character"/> <unclear>nāṭṭu-t tirai</unclear>m<choice><orig><unclear>u</unclear></orig><reg>u</reg></choice>r-nāṭṭ<unclear>u</unclear> <hi rend="grantha"><unclear reason="eccentric_ductus">bra</unclear>h<unclear>m</unclear>ade</hi>yam cāttāṉūr-t tiru-v-āvaṭu-tuṟai Uṭaiya <hi rend="grantha">parama-s<unclear>v</unclear>ā</hi>mikku Ā<hi rend="grantha"><unclear reason="eccentric_ductus">di</unclear>-dāsa</hi>ṉ-ākiya <hi rend="grantha">tribhu</hi>vaṉa-<hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>aṇḍeśvara-de</hi>varkku Oṭṭi-k kai-t-t<choice><orig>i</orig><reg>ī</reg></choice>ṭṭu Oṭṭu-k kuṭutta paric’ āvatu</p>
                     
                     <p>
@@ -99,7 +99,7 @@
                     
                     <p>                    
                         In-ni
-                        <milestone type="pagelike" n="C" unit="zone" break="no"/><label xml:lang="eng">Jagatī</label>
+                        <milestone type="pagelike" n="C" unit="zone" break="no"/>
                         <lb n="3"/><surplus>ṉ</surplus>lam Araikkum
                         <list>
                             <item>k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pārk’ ellai <hi rend="grantha">sabhai</hi>-p potuvukku mēkkum</item>
@@ -252,7 +252,7 @@
                         <app loc="9">
                             <lem>Uṭaiyār<unclear>k</unclear> <space quantity="15" unit="character" type="vacat"/>
                                 pparic’ oṭṭi</lem>
-                            <note>This portion where text is expeted has not been engraved.</note>
+                            <note>This portion where text is expected has not been engraved.</note>
                         </app>
                     </listApp>
                 </div>
