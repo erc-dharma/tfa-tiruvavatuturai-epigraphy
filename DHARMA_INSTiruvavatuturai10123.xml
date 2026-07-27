@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tiruvāvaṭutuṟai, Gomuktīśvara temple, time of Parakesarivarman, year 36</title>
+                <respStmt>
+                    <resp key="creator">author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <pubPlace>Aubervilliers</pubPlace>
+                <idno type="filename">DHARMA_INSTiruvavatuturai10123.xml</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2026-07-27">Creation of the file.</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <p>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </p>
+                <p>
+                    matirai koṇṭa kō-p-para
+                    <lb n="2" break="no"/>-kēcari-pa<hi rend="grantha">nma</hi>k=ku yāṇṭu <num value="36">3 <g type="numeral">10</g> 6</num> Āva<supplied reason="omitted">tu</supplied>
+                </p>
+                <p>                    
+                    <lb n="3"/>teṉ-karai tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu <hi rend="grantha">brahma</hi>
+                    <lb n="4" break="no"/>tē<unclear>yam</unclear> cāttaṉūr <hi rend="grantha">śrī</hi>-tiruvāva
+                    <lb n="5" break="no"/>ṭutuṟai Āḷvārkku nampaṉ
+                    <lb n="6"/>v<choice><orig>i</orig><reg>ī</reg></choice>re<hi rend="grantha">śva</hi>raṉ Oru non=tā viḷak
+                    <lb n="7" break="no"/>kiṉukku ca<hi rend="grantha">n<choice><orig>t</orig><reg>d</reg></choice>r<surplus>i</surplus>ā</hi>tittavaṟ niṟa
+                    <lb n="8" break="no"/>pataṟkku vaicca Āṭu to<unclear cert="low">n=nū <g type="numeral">10</g></unclear>
+                </p>
+                <p>
+                    <lb n="9"/>Ivai <hi rend="grantha">panmāheśva</hi>
+                    <lb n="10" break="no"/><hi rend="grantha">ra-rakṣai</hi>
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">			
+                <listApp>
+                    <app loc="7">
+                        <lem>niṟa<lb n="8" break="no"/>pataṟkku</lem>
+                        <note><foreign>Erippataṟku</foreign> is expected here instead.</note>
+                    </app><app loc="8">
+                        <lem>to<unclear cert="low">n=nū <g type="numeral">10</g></unclear></lem>
+                        <note>This stands, in any case, for <foreign>toṇṇūṟu</foreign>.</note>
+                    </app>
+                </listApp>
+            </div>
+            
+            <div type="translation" resp="part:emfr">
+                
+                <!--<p n="1">
+                    ...
+                    </p>
+                    
+                    <p n="1-10">
+                    ...
+                    </p>-->
+                
+            </div>
+            
+            <div type="commentary">
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/123).</p>
+                <p>Edited here by Emmanuel Francis<!-- and Renato Dávalos-->, based on photos (E. Francis, 2024), and ASI estampage available on <ref target="https://www.bharatshri.org/index.aspx">BharatSHRI</ref> (accessed 2026-06-21).</p>    
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1924-1925"/>
+                        <citedRange unit="page">26</citedRange>
+                        <citedRange unit="appendix">B/1925</citedRange>
+                        <citedRange unit="item">123</citedRange>
+                    </bibl>		
+                    
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>
