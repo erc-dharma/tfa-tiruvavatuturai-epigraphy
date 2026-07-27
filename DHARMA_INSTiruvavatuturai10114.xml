@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tiruvāvaṭutuṟai, Gomuktīśvara, no king, no year</title>
+                <title>Tiruvāvaṭutuṟai, Gomuktīśvara temple, no king, no year</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -70,7 +70,7 @@
                     <lb n="7" break="no"/>vum cantirāti<choice><sic>cc</sic><corr>tt</corr></choice>aval
                     <lb n="8"/>cōtaṇa-kāṇi Āka c<choice><orig>e</orig><reg>ey</reg></choice>tu
                     <lb n="9"/>kuṭuttōm Aruḷāḷ kuṭu
-                    <lb n="10" break="no"/>ttōm <hi rend="grantha"><unclear>d</unclear>e</hi><unclear>va-ka</unclear><hi rend="grantha"><unclear>nmi</unclear></hi><unclear>kaḷōm</unclear>
+                    <lb n="10" break="no"/>ttōm <hi rend="grantha">de</hi>va-ka<hi rend="grantha">nmi</hi>kaḷōm
                     
                 </p>
                 
@@ -109,8 +109,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/114).</p>
-                <p>This edition by Emmanuel Francis (2024), based on photos (EFEO, 2006; E. Francis, 2024) and autopsy (2024).</p>	
-                <p>ASI transcript and estampage, if any, yet to be consulted.</p>    
+                <p>Edited here by Emmanuel Francis and Renato Dávalos, based on photos (E. Francis, 2024), and ASI transcript and estampage available on <ref target="https://www.bharatshri.org/index.aspx">BharatSHRI</ref> (accessed 2026-06-21).</p>    
                 
                 <listBibl type="secondary">
                     
