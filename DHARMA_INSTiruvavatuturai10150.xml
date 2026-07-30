@@ -11,14 +11,7 @@
             <titleStmt>
                 <title>Tiruvāvaṭutuṟai, Gomuktīśvara temple, time of Kulottuṅga Cōḻa, year 41</title>
                 <respStmt>
-                    <resp key="contributor">EpiDoc Encoding</resp>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp key="creator">intellectual authorship of edition</resp>
+                    <resp key="creator">EpiDoc Encoding</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
