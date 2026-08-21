@@ -47,8 +47,8 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
         <revisionDesc>
             <change who="part:emfr" when="2024-10-18">Creation of the file.</change>
         </revisionDesc>
@@ -100,11 +100,49 @@
                     </p>
                     
                     <p>
-                        ...
+                        Eṅkaḷ<choice><orig>u</orig><reg>ū</reg></choice>r vaṭa-piṭakai ciṟṟāṉaiccūr U<supplied reason="omitted">y</supplied>ya-k-koṇṭāṉ eṉṟu pēr-kuvappaṭṭa katampa<choice><orig>n</orig><reg>ṉ</reg></choice> vāykālukku vaṭakku <hi rend="grantha">sabhai</hi>-p potu-v-āṉa nilaṅkaḷ viṟṟu-k kuṭutta nilattukku-k
+                        <list>
+                            <item>k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pāṟk’ ellai It-tēvar nilaṅkaḷ paḷḷi-t tām avar vaikkum pāṭupaṅkukku mēṟkun=</item>
+                            <item>teṉ-pāṟk’ ellai Uyya-k koṇṭāṉ-āṉa kaṭampaṉ vāykkuṅ kaviṇ<unclear>i</unclear>yaṉ nār<choice><sic>a</sic><corr>ā</corr></choice>yaṇaṉ cēn=taṉ nilattukkuṅ kaviṇiya<choice><orig>n</orig><reg>ṉ</reg></choice> muttā<choice><orig>n</orig><reg>ṉ</reg></choice> paramēśvara<choice><orig>n</orig><reg>ṉ</reg></choice> nilattukkum vaṭakkum</item>
+                            <item>mēl-pāṟk’ ellai kavi<choice><orig>ṉ</orig><reg>ṇ</reg></choice>iyaṉ muttattaṉ cōmaṉum kaviṇiyaṉ nan=ti  nārāyaṇaṉum nilattukkum
+                            </item>
+                            <item><choice><sic>k<choice><orig>i</orig><reg>ī</reg></choice>ḻ</sic><corr>vaṭa</corr></choice>-pāṟk’ ellai It-tiru-v-āvaṭutuṟai y-uṭaiyār tiru-viḻā                        
+                                <milestone type="pagelike" n="B" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
+                                <lb n="B1=4" break="no"/>v-eḻun=taruḷum vaḻikku-t teṟkum</item>
+                        </list>
+                    </p>
+                    <p>
+                        In-nāṉk’ ellaiyuḷḷum Akappaṭṭa nilaṉ n<choice><orig>i</orig><reg>ī</reg></choice>r-nilamum puṉ-cey nilamum kuḷamum uṭpaṭa nilan 2 <g type="numeral">¼</g> <g type="numeral">3/20</g>
+                    </p>
+                    <p>
+                        In-nila<choice><orig>n</orig><reg>ṉ</reg></choice> Iraṇṭē y-eṭṭu mā<unclear>vu</unclear><hi rend="check"><supplied reason="lost">m</supplied></hi> nilam 2 <hi rend="check">¼</hi><unclear>m</unclear> pu<unclear cert="low">ṉ ce </unclear>y n<unclear>i</unclear>la<choice><orig>n</orig><reg>ṉ</reg></choice> <gap reason="lost" quantity="8" unit="character" precision="low"/> nilan 2 <g type="numeral">¼</g> <g type="numeral">3/20</g>
+                    </p>
+                    <p>                        
+                        In-nilaṉ Iraṇṭē y-eṭṭu māvum m<unclear>i</unclear>kuti-k kuṟaimai Uḷḷ aṭaṅka Uṇ-ṇ<unclear>i</unclear>lam oḻiv’ iṉṟi-k kuṭi-y-oṭu kuṭi peṟum vi<unclear>lai</unclear> v<unclear>i</unclear>ṟṟu-k kuṭutta paric’ āvatu
+                    </p>
+                    
+                    <p>                        
+                        In-nilattukku viḷai-p poruḷ kācu <g type="numeral">10</g>
+                    </p>                    
+                    <p>
+                        Ik-kācu pattum In-nilattukku-c ca<hi rend="grantha">ndrādi</hi>ttavaṟ <hi rend="grantha">sa<supplied reason="lost">bhai</supplied></hi>y<unclear>ō</unclear>mē Iṟai y-<unclear>i</unclear>ṟukka In-nilattukku Iṟai-kāvalukku <hi rend="grantha">sabhai</hi>yōm koṇṭa kācu <num value="190"><g type="numeral">100</g> 9 <g type="numeral">10</g></num> Āka-k kācu <num value="200">2 <g type="numeral">100</g></num> Ik-kācu Iru <choice><orig>n</orig><reg>ṉ</reg></choice>ūṟum kai-c cela-k koṇṭu In-nila<choice><orig>n</orig><reg>ṉ</reg></choice> ca<hi rend="grantha">ndrādi</hi>ttavaṟ
+                        <lb n="B2=5"/>Iṟai-Ili-y-āka viṟṟu-k kuṭuttōm <hi rend="grantha">sabhai</hi>yōm
+                    </p>
+                    <p>
+                        Ituvē vilai-y-āvaṇamum Iṟai-kāvaṟ <hi rend="grantha">pra</hi>māṇamum Āvat’ āka Oṭṭi-p pramāṇañ ceytu kuṭuttōm <hi rend="grantha">sabhai</hi>yōm
+                    </p>
+                    <p>
+                        Ip-paricu In-nilañ cuṭṭi van=ta Iṟaiyum Eccōṟum veṭṭi-vētiṉaiyum maṟṟum vācalil pōnta kuṭimai Eppērppaṭ<unclear cert="low">ṭ</unclear>atum kāṭṭa pēṟātōm āka Oṭṭi v<unclear>i</unclear>ṟṟu-k kuṭuttōm <hi rend="grantha">sabhai</hi>yōm
+                    </p>
+                    <p>
+                        In-nila<choice><orig>n</orig><reg>ṉ</reg></choice> Ip-paricu cempilum kallilum veṭṭi-k koḷ<supplied reason="omitted">ḷ</supplied>a-p peṟuvat’ ākavum
+                    </p>
+                    
+                    <p>
+                        Ip-paricu tiru-v-āvaṭu-tuṟaiyiṉ tirun=t-aruḷiya <hi rend="grantha">tribhu</hi>vaṉa-patikku m<choice><orig>u</orig><reg>ū</reg></choice>labhṛty<unclear>ar-ā</unclear>ṉa <hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>aṇḍeśvara-de</hi>varkku cāttaṉūr-ākiya <hi rend="grantha">Abhai</hi>yā<hi rend="grantha">śra</hi>ya-c-ca<hi rend="grantha">tu<ref>r</ref>vedi</hi>-maṅkalattu <hi rend="grantha">sabhai</hi>yōm
+                        I<unclear>p</unclear>-par<unclear>i</unclear>cu <hi rend="grantha">pra</hi>māṇañ ceytu kuṭukka v-eṉṟu paṇittār kāmak
                         
-                        <milestone type="pagelike" n="B" unit="zone"/><label xml:lang="eng">Moulding</label>
-                        <lb n="B1=4"/>...
-                        <lb n="B2=5"/>...
+                        ...
                         <lb n="B3=6"/>...
                         <milestone type="pagelike" n="C" unit="zone"/><label xml:lang="eng">Moulding</label>
                         <lb n="C1=7"/>...
