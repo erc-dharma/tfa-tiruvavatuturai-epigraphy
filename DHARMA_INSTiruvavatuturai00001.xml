@@ -771,7 +771,7 @@
                         <lb n="9r3=257=21" break="no"/>kkum vilaikkuṟa viṟṟu poru.--ṟap paṟṟiṉa kīḻkkarattūr sarvamum carva māṉyam
                         <lb n="9r4=258=22"/>Āka cempilum kallilim veṭṭi koḷḷavum Inta tiru nāmattuk kāṇikku Aki
                         <lb n="9r5=259=23"/>tam paṇṇiṉavarkaḷ kaṅkai karaiyilē kapilaiyaiyum kārām pacuvaiyum kuruvaiyu
-                        <lb n="9r6=260=24"/>m pirāmaṇaraiyum mātā pitāvaiyum koṉṟa pāvattilē pōvārākavum <g ref="sym:doubleBar" type="punctuation">.</g> <g type="symbol" ref="śubham"></g> <g ref="sym:doubleBar" type="punctuation">.</g>
+                        <lb n="9r6=260=24"/>m pirāmaṇaraiyum mātā pitāvaiyum koṉṟa pāvattilē pōvārākavum <g ref="sym:doubleBar" type="punctuation">.</g> <g type="symbol">śubham</g> <g ref="sym:doubleBar" type="punctuation">.</g>
                     </p>
 
                 </div>
@@ -791,7 +791,7 @@
                         <lb n="9r12=266=6"/>poṉṉampala-t toṇṭaimāṉā<surplus>r</surplus>rēṉ nāmuṉṉāḷ kōyiṟ paṇṭā=rattil <choice><sic>t</sic><corr>k</corr></choice>aṭaṉāka vāṅkiṉa po
                         <lb n="9r13=267=7" break="no"/>ṉ <num value="7000"> 7 <g type="numeral">1000</g> <g type="numeral">10</g> </num> poṉ <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g> kali-yuka r=āmaṉ-poṉ <num value="700">7 <g type="numeral">100</g> </num> Āka Inta vakaippaṭi poṉṉukku cukkila-varuṣa
                         <lb n="9r14=268=8"/>mutal nāḷ atu varaikku-p pala va<supplied reason="omitted">kai</supplied>yālum kōyiṟ paṇṭārattil-k kuṭutta poṉ <num value="2883">2 <g type="numeral">1000</g>
-                        <lb n="9r15=269=9"/>8 <g type="numeral">100</g> 8 <g type="numeral">10</g> 3</num> poṉṉum <g type="symbol" ref="sym:tam-paṉam"></g> 9 <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g> nīkkic cella vēṇṭum poṉ <num>4 <g type="numeral">1000</g> <g type="numeral">100</g> <g type="numeral">10</g> 6</num> poṉṉum
+                            <lb n="9r15=269=9"/>8 <g type="numeral">100</g> 8 <g type="numeral">10</g> 3</num> poṉṉum <g type="symbol" ref="sym:tam-paṉam"></g> 9 <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g> nīkkic cella vēṇṭum poṉ <num>4 <g type="numeral">1000</g> <g type="numeral">100</g> <g type="numeral">10</g> 6</num> poṉṉum
                         <lb n="9r16=270=10"/><g type="symbol" ref="sym:tam-paṉam"></g> 1 <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g> kaliyuka Ir=āmaṉ poṉ <num value="700">7 <g type="numeral">100</g> </num> Itukku yinnāḷ Ippoṉṉukku vilaippi<supplied reason="omitted">ra</supplied>māṉa
                         <lb n="9r17=271=11" break="no"/>m paṇṇi-k-kuṭutta yūr= āvatu
                     </p>
@@ -799,16 +799,16 @@
                         vaṭaveḻḷāṟṟu-nāṭṭu maiyyūṟku perunāṉ
                         <!-- photo 236 --> <pb n="9v"/>
                         <lb n="9v1=271=12" break="no"/>kellaiy āvatu <!-- untile here -->
-                        <item>kīḻ-pāṟk-ellai caṉāttaṉūr Allaikkum mēṟku</item> 
-                        <item>teṉ-pāṟk-ellai
-                        <lb n="9v2=272=13"/>vāṉava-nallūriṟ puravukku vaṭakku</item> 
-                        mēl-pāṟk-ellai vāhnava nallūr ellaikku
-                        <lb n="9v3=273=14"/>m Amañcākkavayalukkum kiḻakku 
-                        vaṭapāṟkellai teṉṉūr r vayalukku vaṭakku 
-                        Āka
-                        <lb n="9v4=274=15"/>Icaiynta perunāṉkellaikku Uṭpaṭṭatum 
-                        
-                        kaḷakkuṭikku perunāṉkellaikku
+                        <list><item>kīḻ-pāṟk-ellai caṉāttaṉūr Allaikkum mēṟku</item> 
+                            <item>teṉ-pāṟk-ellai
+                                <lb n="9v2=272=13"/>vāṉava-nallūriṟ puravukku vaṭakku</item> 
+                            <item>mēl-pāṟk-ellai vāṉava-nallūr ellaikku
+                                <lb n="9v3=273=14"/>m Amañcākka-vayalukkum kiḻakku</item> 
+                            <item>vaṭa-pāṟk-ellai teṉṉūr-vayalukku vaṭakku</item> </list>
+                        Āka <lb n="9v4=274=15"/>Icaiyinta peru-nāṉk-ellaikku Uṭpaṭṭatum
+                    </p>
+                    <p>                        
+                        kaḷakkuṭikku perunāṉk-ellaikku
                         <lb n="9v5=275=16"/>kīḻpāṟkellaiyāvaṉa teṉṉūrkkuḷattu veḷikkuṅ kīṭkuḷattu vayalu Ellaik
                         <lb n="9v6=276=17"/>kum mēṟku 
                         teṉpāṟkellai vāṉavanallūr Ellaikkum pākkattil Ellaikku karu
