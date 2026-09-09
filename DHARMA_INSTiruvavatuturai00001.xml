@@ -25,7 +25,7 @@
                         <surname>Francis</surname> -->
                     </persName>
                 </respStmt>
-            </titleStmt>
+            <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Aubervilliers</pubPlace>
@@ -433,7 +433,7 @@
                         vaṭaveḷḷāṟ-āṉa cuntira-pāṇṭiya-vaḻaṉāṭ
                         <lb n="4v15=126=10" break="no"/>ṭu nāṉ koṇṭu Aṉupavit=tu varukiṟa Ēyūr-maṅkalam
                         kār=<choice><sic>a</sic><corr>ā</corr></choice>ṇmai-y-āka kuṭutta v-ūril <hi rend="grantha"><choice><orig>sa</orig><reg>ca</reg></choice>tu-sī</hi><supplied reason="omitted">m</supplied>ai
-                        <lb n="4v16=127=11" break="no"/>y<choice><sic>a</sic><corr>i</corr></choice>l Eppēṟpaṭṭa <hi rend="grantha">sarvvamuM sarvva-mānya</hi>m-āka <hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>a<choice><orig>ntr</orig><reg>ndr</reg></choice>āti<hi rend="grantha"></hi>ty</hi>avar-c cella kallilum cempilum
+                        <lb n="4v16=127=11" break="no"/>y<choice><sic>a</sic><corr>i</corr></choice>l Eppēṟpaṭṭa <hi rend="grantha">sarvvamuM sarvva-mānya</hi>m-āka <hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>a<choice><orig>ntr</orig><reg>ndr</reg></choice>āti<hi rend="grantha"/>ty</hi>avar-c cella kallilum cempilum
                         <lb n="4v17=128=12"/>veṭṭik koḷḷavum
                     </p>
                     
@@ -791,8 +791,8 @@
                         <lb n="9r12=266=6"/>poṉṉampala-t toṇṭaimāṉā<surplus>r</surplus>rēṉ nāmuṉṉāḷ kōyiṟ paṇṭā=rattil <choice><sic>t</sic><corr>k</corr></choice>aṭaṉāka vāṅkiṉa po
                         <lb n="9r13=267=7" break="no"/>ṉ <num value="7000"> 7 <g type="numeral">1000</g> <g type="numeral">10</g> </num> poṉ <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g> kali-yuka r=āmaṉ-poṉ <num value="700">7 <g type="numeral">100</g> </num> Āka Inta vakaippaṭi poṉṉukku cukkila-varuṣa
                         <lb n="9r14=268=8"/>mutal nāḷ atu varaikku-p pala va<supplied reason="omitted">kai</supplied>yālum kōyiṟ paṇṭārattil-k kuṭutta poṉ <num value="2883">2 <g type="numeral">1000</g>
-                            <lb n="9r15=269=9"/>8 <g type="numeral">100</g> 8 <g type="numeral">10</g> 3</num> poṉṉum <g type="symbol" ref="sym:tam-paṉam"></g> 9 <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g> nīkkic cella vēṇṭum poṉ <num>4 <g type="numeral">1000</g> <g type="numeral">100</g> <g type="numeral">10</g> 6</num> poṉṉum
-                        <lb n="9r16=270=10"/><g type="symbol" ref="sym:tam-paṉam"></g> 1 <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g> kaliyuka Ir=āmaṉ poṉ <num value="700">7 <g type="numeral">100</g> </num> Itukku yinnāḷ Ippoṉṉukku vilaippi<supplied reason="omitted">ra</supplied>māṉa
+                            <lb n="9r15=269=9"/>8 <g type="numeral">100</g> 8 <g type="numeral">10</g> 3</num> poṉṉum <g type="symbol" ref="sym:tam-paṉam"/> 9 <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g> nīkkic cella vēṇṭum poṉ <num>4 <g type="numeral">1000</g> <g type="numeral">100</g> <g type="numeral">10</g> 6</num> poṉṉum
+                        <lb n="9r16=270=10"/><g type="symbol" ref="sym:tam-paṉam"/> 1 <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g> kaliyuka Ir=āmaṉ poṉ <num value="700">7 <g type="numeral">100</g> </num> Itukku yinnāḷ Ippoṉṉukku vilaippi<supplied reason="omitted">ra</supplied>māṉa
                         <lb n="9r17=271=11" break="no"/>m paṇṇi-k-kuṭutta yūr= āvatu
                     </p>
                     <p>
