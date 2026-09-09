@@ -845,7 +845,7 @@
                           </p>    
                     <p>
                          Inta vakaipaṭi poṉṉukku
-                        <lb n="10r6=291=32"/>Okkūr-p-puravil viniyōkam u<supplied reason="omitted">ṭ</supplied>paṭa <choice><orig>virā</orig><reg>varāka</reg></choice><!-- not sure about this connection but varāka is a common Vijayanagara coin -->-poṉ <g ref="sym:tam-pon"/> <num value="4116">4 <g type="numeral">1000</g> <g type="numeral">100</g> <g type="numeral">10</g> 6</num> m <g ref="sym:tam-paṇam"/> 1-kkum kaliyuka Ir=āmaṉ po
+                        <lb n="10r6=291=32"/>Okkūr-p-puravil <!-- check grant 5 which also metion one Okkūr --> viniyōkam u<supplied reason="omitted">ṭ</supplied>paṭa <choice><orig>virā</orig><reg>varāka</reg></choice><!-- not sure about this connection but varāka is a common Vijayanagara coin -->-poṉ <g ref="sym:tam-pon"/> <num value="4116">4 <g type="numeral">1000</g> <g type="numeral">100</g> <g type="numeral">10</g> 6</num> m <g ref="sym:tam-paṇam"/> 1-kkum kaliyuka Ir=āmaṉ po
                         <lb n="10r7=292=33" break="no"/>ṉ <num value="700">7 <g type="numeral">100</g> </num>kkum Inta Ūrkaḷum Okkūr vi<add place="below">ṉi</add>yōkamum Inta-p po<supplied reason="omitted">ṉ</supplied>ṉukku vilaiyāka <hi rend="grantha"><choice><orig>ś</orig><reg>c</reg></choice>andrāditya</hi>var-c
                         <lb n="10r8=293=34"/>cella tiru-nāmattu-k-kāṇiyāka <hi rend="grantha">saka</hi>la-<hi rend="grantha">samudā</hi>ya-<hi rend="grantha">prāpti</hi>kaḷum <hi rend="grantha">sarvamum sarvamāṉyammā</hi>ka <hi rend="grantha">sahi
                         <lb n="10r9=294=35"/><surplus><add place="left">y</add></surplus>raṇyod<choice><orig>ā</orig><reg>a</reg></choice>ka-dhāra-pūrvamā</hi>ka U<hi rend="grantha">dakam pa</hi>ṇṇi-k kuṭuttapaṭi <hi rend="grantha">sarvamum sarvamānnyamā</hi>ka <hi rend="grantha">candrā</hi>ti<hi rend="grantha">tya</hi>
@@ -857,31 +857,46 @@
                         <lb n="10r12=297=38"/><hi rend="grantha">gu</hi>ru<hi rend="grantha">vai</hi>yum <hi rend="grantha">brāhma</hi>ṇaraiyum mātā pitāvaiyum koṉhra pāvattilē pōvarka
                         <lb n="10r13=298=39" break="no"/>ḷākavum <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g>
                     </p>
-
+o
                 </div>
 
                 <div type="textpart" xml:lang="tam-Latn" n="15" rendition="class:tamil maturity:83215">
-                    <head xml:lang="eng">Grant no. 15: time of Kōmāṟapaṉmarāṉa Cīvallapa Tēvaṉ, year 13</head>
+                    <head xml:lang="eng">Grant no. 15: time of Kōmāṟapaṉmarāṉa Civallapa Tēvaṉ, year 13</head>
 
                     <p>
-                        <lb n="10r13=299=1"/>svastiśrī kōmāṟa paṉmarāṉa śrī cīvallavatēvaṟku yāṇṭu pattāvatin ṇe
-                        <lb n="10r14=300=2"/>tir mūṉṟāvatu pūrva pakṣattu (mēṣa ñāyiṟṟu) aṣṭamiyum peṟṟa rēvati nāḷ v<choice><orig>e</orig><reg>a</reg></choice>ṭa
-                        <lb n="10r15=301=3"/>veḷḷāṟāṉa cuntirapāṇṭiya vaḷanāṭṭu Aṟantāṅki Aracu meyniṉṟa
-                        <lb n="10r16=302=4"/>perumāḷ toṇṭaimāṉār kavirapperumāḷ miḻalaik kūṟṟattu ceyyāṉ
-                        <lb n="10r17=303=5"/>mutali vikkiramapāṇṭiya nallūr poṉpaṟṟi Uṭaiyarāṉa Ulakuṭai
-                        <lb n="10r18=304=6"/>yār piḷḷaiyārāṉa palla(va)rāyaṉēṉ paḻaṅkāṇi vilaippiramāṇam paṇṇi kuṭutta
+                        <lb n="10r13=299=1"/><hi rend="grantha">svasti śrī</hi> kōmāṟa paṉ<supplied reason="subaudible">ma</supplied>rāṉa <!-- is the little garbled sign on top of the ra a ma ? --> <hi rend="grantha">śrī</hi> ci<choice><sic>pa</sic><corr>va</corr></choice>lla<supplied reason="omitted">pa</supplied>-tēvaṟku yāṇṭu pattāvati<choice><sic>nṇ</sic><corr>ṉ</corr></choice> e
+                        <lb n="10r14=300=2" break="no"/>tir makānūṟṟu <hi rend="grantha">pūrva-pakṣa</hi>ttu cevvāy vā=ramum ṣaṣiyum peṟṟa rēpati nāḷ
+                    </p>
+                    <p>
+                        v<choice><orig>e</orig><reg>a</reg></choice>ṭa
+                        <lb n="10r15=301=3" break="no"/>veḷḷāṟāṉa cuntira-pāṇṭiya-vaḷa-nāṭṭu Aṟantāṅki Aracu meyniṉṟa
+                        <lb n="10r16=302=4"/>perumāḷ toṇṭaimāṉār cavara-p-perumāḷ miḻalai-k-kūṟṟattu ceyyāṉ
+                        <lb n="10r17=303=5" break="no"/>māṉ par=ākkirama-pāṇṭiya nallūr-p poṉ-paṟṟi Uṭaiyarāṉa Ulakuṭai r=ā
+                        <lb n="10r18=304=6" break="no"/>yār piḷḷaiyārāṉa palla<supplied reason="omitted">va</supplied>-r=āyaṉēṉ nama-kāṇi vilaippiramāṇam-p paṇṇi kuṭutta
                         <!-- photo 231 --><pb n="10"/>
-                        <lb n="10v1=305=7"/>paricāvatu Inṉāṭṭut taṉiyūr tirupperuntuṟaiyāṉa pavittiramāṇikka
-                        <lb n="10v2=306=8"/>caturvētimaṅkalattu kīḻpiṭākaiyān māvayalāṉa cuntira pāṇxtiya nallū
-                        <lb n="10v3=307=9"/>r viṟpataṟku Icaiyintuy perunāṉkellai pūṅkuṭi Ellai vaṭakku mēlpāṟkel
-                        <lb n="10v4=308=10"/>nīrnilaikku mēṟku teṉpāṟkellai pūṅkuṭi Ellai vaṭakku mēpāṟkel
-                        <lb n="10v5=309=11"/>lai kaṇṇaṉ tōṭṭattukkuk kiḻakku vaṭapāṟkellai veḷḷāṟṟukkut
-                        <lb n="10v6=310=12"/>teṟku Āka Icanta perunāṉkellaikku Uṭpaṭṭa nañcai muñcai kāṭu kuḷa
+                        <lb n="10v1=305=7"/>paric' āvatu 
+                    </p>
+                    <!-- UNTIL HERE -->
+                    <p>
+                        Inṉāṭṭut taṉiyūr tirupperuntuṟaiyāṉa pavittiramāṇikka
+                        <lb n="10v2=306=8"/>caturvētimaṅkalattu kīḻpiṭākaiyān māvayalāṉa cuntira pāṇṭiya nallū
+                        <lb n="10v3=307=9"/>r viṟpataṟku Icaiyintuy perunāṉkellai pūṅkuṭi Ellai vaṭakku 
+                        mēlpāṟkel
+                        <lb n="10v4=308=10"/>nīrnilaikku mēṟku 
+                        teṉpāṟkellai pūṅkuṭi Ellai vaṭakku 
+                        mēpāṟkel
+                        <lb n="10v5=309=11"/>lai kaṇṇaṉ tōṭṭattukkuk kiḻakku 
+                        vaṭapāṟkellai veḷḷāṟṟukkut
+                        <lb n="10v6=310=12"/>teṟku
+                        Āka Icanta perunāṉkellaikku Uṭpaṭṭa nañcai muñcai kāṭu kuḷa
                         <lb n="10v7=311=13"/>m nattam Ūraṇi kuḷavāyttalai cuṭukāṭu paṭutuṟai mēl nōkkiya maram kīḻ
                         <lb n="10v8=312=14"/>nōkkiya kiṉaṟum maṟṟum Eppē(r)paṭṭa sakala camutāya prāptikaḷum viṟ
                         <lb n="10v9=313=15"/>pataṟku Icantu vilai niccaiyitta Ākavarāmaṉ paṇam 100 Ippaṇam nūṟṟukkum viṟṟa
                         <lb n="10v10=314=16"/>māvayalukku sarvamum sarvamāṉṉiyamāka tirunāmattuk kāṇoyāka viṟṟu vi
-                        <lb n="10v11=315=17"/>laip piramāṇam paṇṇik kuṭuttōm Āḷuṭaiya tampirāṉārkku cakirrō
+                        <lb n="10v11=315=17"/>laip piramāṇam paṇṇik kuṭuttōm 
+                    </p>
+                    <p>
+                        Āḷuṭaiya tampirāṉārkku cakirrō
                         <lb n="10v12=316=18"/>ṇya Utaka tārāpūrvamāka nāṉ paṇṇik kuṭuttēṉ meyniṉṟa perumāḷ
                         <lb n="10v13=317=19"/>toṇṭaimāṉār kavirip perumāḷēn Ulakuṭaiyār piḷḷaiyār pallavarāyaren I
                         <lb n="10v14=318=20"/>ppaṭikku cempilum kallilum ceṭṭik koḷḷavum kavarip perumāḷ Āḷuṭaiya
