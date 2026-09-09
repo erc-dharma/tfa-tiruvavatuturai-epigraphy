@@ -833,16 +833,15 @@
                         <lb n="9v15=285=26"/>mēlai vi<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ai</seg><gap reason="lost" quantity="4" unit="character"/>tukku peru-nāṉk-ellaikku Uṭpaṭṭatukku Ip- <!-- in fact, these last two letters seem to point to a different beginning for the first line than what we find on folio 10r; but other elemenrs (including the type of oinage used, namely the pon and the kaliyika raman pon) that don't appear in other grants in this collection of plates make me think that what follows is indeed the continuation of the same inscription -->
                         <!-- photo 230 --><pb n="10r"/>
                         
-                        <lb n="10r1=286=27"/>mēlai vijayapurattukku peru-nāṉk-ellai y-āvaṉa 
-                        kīḻ-pāṟk-ellai ta
-                        
-                        <lb n="10r2=287=28" break="no"/>mpir=āṉār tirunāmattuk kāṇiyāṉa kīḻai vijayapurattukku mēṟku 
-                        teṉpāṟkellai kulaṅ
-                        <lb n="10r3=288=29"/>kātāṉ tōṭṭap puravukku vaṭakku 
-                        mēlpāṟkellai Araiyar kuḷappuravukku kiḻakku
-                        <lb n="10r4=289=30"/>vaṭapāṟkellai paḷḷikkāṭṭu Ellaikku teṟku 
-                        Āka Icainta perunāṉkellaikku Uṭpa
-                        <lb n="10r5=290=31"/>ṭṭa niti nikṣēpajala pāṣāṉa Akṣiṇiyākātmi sittasatyaṅkaḷum
+                        <lb n="10r1=286=27"/>mēlai vijayapurattukku peru-nāṉk-ellai y-āvaṉa
+                        <list><item>kīḻ-pāṟk-ellai ta
+                        <lb n="10r2=287=28" break="no"/>mpir=āṉār tirunāmattu kāṇiyāṉa kīḻai-vijayapurattukku mēṟku</item> 
+                        <item>teṉ-pāṟk-ellai kuluṅ
+                        <lb n="10r3=288=29" break="no"/>kācuraṉ-tōṭṭai-p-puravukku vaṭakku</item> 
+                        <item>mēl-pāṟk-ellai Araiyar-kuḷa-p-puravukku kiḻakku</item>
+                        <item><lb n="10r4=289=30"/>vaṭa-pāṟk-ellai paḷḷi-k-kāṭṭu Ellaikku teṟku</item></list>
+                        Āka Icainta peru-nāṉk-ellaikku Uṭpa
+                        <lb n="10r5=290=31" break="no"/>ṭṭa ni<hi rend="grantha">ti</hi>-ni<hi rend="grantha">kṣēpa-jala-pāṣā</hi>ṇa Akṣiṇiyākātmi sittasatyaṅkaḷum
                           </p>
                      <p>
                          Inta vakaipaṭi poṉṉukku
