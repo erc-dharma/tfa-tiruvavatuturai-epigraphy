@@ -35,7 +35,7 @@
                     </msIdentifier>
                     <msContents>
                         <!-- describe the intellectual content of an inscription -->
-                        <summary/>
+                        <summary>From ARE 1927, 60: Records an agreement between Iḷaiya-perumāḷ-piḷḷai, Sundarattōḷ-piḷḷai and the tānattār of Tiruchchendūr for the merit of the former as kōvilkaṭṭaḷai. The gifted land is said to have been purchased and given to the tāṉattār of the temple. Kaḷappirāṉ the nephew of Raṅganātha-piḷḷai, the nāṭṭūkkaṇakku, seems to have drafted the document.</summary>
                         <!-- offers the possibility to give a summary of the inscription's content -->
                     </msContents>
                     <physDesc>
@@ -61,20 +61,40 @@
             
             <div type="edition" xml:lang="tam-Latn" n="1" rendition="class:tamil maturity:83215">		
                 
-                
                 <pb n="1r"/>
                 <p>
-                    [...]
-                </p>
+                    <lb n="1r1=1"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g> Āṟumukaneripaṭṭaiyam cuvatti* cālivāka
+                    <lb n="1r2=2" break="no"/>ṉa cakāt=tam <num value="1619">1 <g type="numeral">1000</g> 6 <g type="numeral">100</g> <g type="numeral">10</g> 9</num> <g ref="sym:tam-kku">kku</g> <g ref="sym:tam-varuṣam"></g> cellā niṉra 
+                    <lb n="1r3=3"/>kollam <num value="872">8 <g type="numeral">100</g> 7 <g type="numeral">10</g> 2</num> <g ref="sym:tam-varuṣam"></g> yīcupā <g ref="sym:tam-varuṣam"></g> vaiyakāci <g ref="sym:tam-mātam"></g>
+                    <lb n="1r4=4"/> <num value="14"> <g type="numeral">10</g> 4</num> <g ref="sym:tam-tēti"></g><g ref="sym:tam-varuṣam"/> titi pūṟuva-paṭcat=til t=tiri-tikaiyu=M cikkiṟa-vāra 
+                    <lb n="1r5=5" break="no"/>mum cupa-yōkamum cupa-karaṇamum peṟṟa miṟika-cīraṣa
+                    <lb n="1r6=6" break="no"/>naṭccet=tirat=til nāl-c ceyata taṉma-cātaṉa-p-paṭ
+                    <lb n="1r7=7" break="no"/>ṭaiy<choice><sic>u=M</sic><corr>a</corr></choice>māvatu kuṭaṉāṭāṉ tiruccentūr centi
+                    <lb n="1r8=8"/>māṉakarattilirunkkum cuppira<expan><abbr>mī</abbr><ex>māṉya</ex></expan>ya<expan><abbr>c=vi</abbr><ex>cuvāmi</ex></expan> kōvi=L t=tala
+                    <lb n="1r9=9" break="no"/>t=tāril nārayaṇa pi=Lḷai Uṭaiyār pi=Lḷaiyeṉ kīḷ vem
+                    <lb n="1r10=10"/>
+                    <lb n="1r11=11"/>
+                    <lb n="1r12=12" break="no"/>
+                    <lb n="1r13=13"/>
+                    <lb n="1r14=14" break="no"/>
+                    <lb n="1r15=15" break="no"/>
+                    <lb n="1r16=16" break="no"/>
+                    <lb n="1r17=17"/>
+                    <lb n="1r18=18"/>
+                    <lb n="1r19=19"/>
+                    <lb n="1r20=20" break="no"/>
+                    <lb n="1r21=21"/>
+                    <lb n="1r22=22" break="no"/>
+                    <lb n="1r23=23"/>
+                    <lb n="1r24=24" break="no"/>
+                    <lb n="1r25=25" break="no"/>
+                    <lb n="1r26=26" break="no"/>
+                    <lb n="1r27=27"/>
+                    <lb n="1r28=28"/>
                 
-                <pb n="1v"/>
                 
-                <p>
-                  [...]
-               </p>
-                    
-                  
-                
+            </p>
+            
                 
                 
                 <!--  
