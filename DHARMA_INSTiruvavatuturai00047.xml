@@ -63,30 +63,38 @@
                 
                 <pb n="1r"/>
                 <p>
-                    <lb n="1r1=1"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g> Āṟumukaneripaṭṭaiyam cuvatti* cālivāka
+                    <lb n="1r1=1"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g> Āṟumukaneripaṭṭaiyam 
+                </p>
+                <p>
+                    cuvatti* cālivāka
                     <lb n="1r2=2" break="no"/>ṉa cakāt=tam <num value="1619">1 <g type="numeral">1000</g> 6 <g type="numeral">100</g> <g type="numeral">10</g> 9</num> <g ref="sym:tam-kku">kku</g> <g ref="sym:tam-varuṣam"></g> cellā niṉra 
                     <lb n="1r3=3"/>kollam <num value="872">8 <g type="numeral">100</g> 7 <g type="numeral">10</g> 2</num> <g ref="sym:tam-varuṣam"></g> yīcupā <g ref="sym:tam-varuṣam"></g> vaiyakāci <g ref="sym:tam-mātam"></g>
                     <lb n="1r4=4"/> <num value="14"> <g type="numeral">10</g> 4</num> <g ref="sym:tam-tēti"></g><g ref="sym:tam-varuṣam"/> titi pūṟuva-paṭcat=til t=tiri-tikaiyu=M cikkiṟa-vāra 
-                    <lb n="1r5=5" break="no"/>mum cupa-yōkamum cupa-karaṇamum peṟṟa miṟika-cīraṣa
-                    <lb n="1r6=6" break="no"/>naṭccet=tirat=til nāl-c ceyata taṉma-cātaṉa-p-paṭ
-                    <lb n="1r7=7" break="no"/>ṭaiy<choice><sic>u=M</sic><corr>a</corr></choice>māvatu kuṭaṉāṭāṉ tiruccentūr centi
+                    <lb n="1r5=5" break="no"/>mum cupa-yōkamum cupa-karaṇamum peṟ=ṟa miṟika-cīraṣa
+                    <lb n="1r6=6" break="no"/>naṭccet=tirat=til nāl-c ceyta taṉma-cātaṉa-p-paṭ
+                    <lb n="1r7=7" break="no"/>ṭaiya=Mmāvatu
+                </p>
+                <p>
+                    kuṭaṉāṭāṉ tiruccentūr centi
                     <lb n="1r8=8"/>māṉakarattilirunkkum cuppira<expan><abbr>mī</abbr><ex>māṉya</ex></expan>ya<expan><abbr>c=vi</abbr><ex>cuvāmi</ex></expan> kōvi=L t=tala
                     <lb n="1r9=9" break="no"/>t=tāril nārayaṇa pi=Lḷai Uṭaiyār pi=Lḷaiyeṉ kīḷ vem
-                    <lb n="1r10=10"/>
-                    <lb n="1r11=11"/>
-                    <lb n="1r12=12" break="no"/>
-                    <lb n="1r13=13"/>
-                    <lb n="1r14=14" break="no"/>
-                    <lb n="1r15=15" break="no"/>
-                    <lb n="1r16=16" break="no"/>
-                    <lb n="1r17=17"/>
-                    <lb n="1r18=18"/>
-                    <lb n="1r19=19"/>
-                    <lb n="1r20=20" break="no"/>
-                    <lb n="1r21=21"/>
-                    <lb n="1r22=22" break="no"/>
-                    <lb n="1r23=23"/>
-                    <lb n="1r24=24" break="no"/>
+                    <lb n="1r10=10" break="no"/><surplus>punāṭā</surplus>pu-nāṭāṉ tirunelveli yiruk=kum yiLaiya pe
+                    <lb n="1r11=11" break="no"/>rumāḷ pi=Lḷai cuntara-t-toḷ-pi=Lḷai<g ref="sym:tam-kku">kku</g> taṉma-cātaṉa-p-paṭṭai
+                    <lb n="1r12=12" break="no"/>ya=M yeḷuti-k kuṭu<choice><orig>ṟ=ṟa</orig><reg>tta</reg></choice> paricāvatu <unclear reason="eccentric_ductus">ku</unclear>ruk=kaḷukku-p puṇṇiyamāka
+                    <lb n="1r13=13" break="no"/>vum <expan><abbr>r=a<g ref="sym:bar"></g></abbr><ex>rāja</ex></expan> taḷavāy naracappayyaṉ avarkaḷuk=ku-p puṇṇiyam
+                    <lb n="1r14=14" break="no"/>ākavu=M vaṭamalaiyappa-p-pi=Lḷaiyeṉ <unclear rend="check"><g type="symbol">X</g></unclear><!-- here Krishnamurti reads "makaṉ" but I dont see on which basis, and in general he has misread this inscription quite a bit-->k=ku-p puṇṇiyamāka
+                    <lb n="1r15=15" break="no"/>vu=M muṟuṉāyakam pi=Lḷaik=kupuṇṇiyamākavum tirucce
+                    <lb n="1r16=16" break="no"/>ntūr <expan><abbr>c=vi</abbr><ex>cuvāmi</ex></expan> kōvi-L pōt=timā=r tāṉattā=r talattā=r muta
+                    <lb n="1r18=18" break="no"/>lāṉa perukaḷuk=ku p-puṇṇiyamākavu=M <expan><abbr>c=vi</abbr><ex>cuvāmi</ex></expan> cuppira<expan><abbr>mī</abbr><ex>māṉya</ex></expan>ya
+                    <lb n="1r19=19"/><expan><abbr>c=vi</abbr><ex>cuvāmi</ex></expan> kōvi=L-k-kaṭ=ṭaḷai naṭakkum pa=ṭik=ku yivarkaḷuk=ku nāṉ
+                    <lb n="1r20=20"/>viṭṭu k-kuṭu<choice><orig>ṟ=ṟa</orig><reg>tta</reg></choice> nilam āvatu 
+                </p>     
+                <p>
+                    eṉ nilamaiyāṉa Āṟumukane
+                    <lb n="1r21=21" break="no"/>riyai viṭṭukkuṭut=ta paṭiyiṉālē yitaṟk=ku kiṟaiya=M niṣ
+                    <lb n="1r22=22" break="no"/>cciyat=tukku <g ref="sym:tam-poṉ"></g> <num value="105"> <g type="numeral">100</g> 5</num> Ūcikkāntam <g ref="sym:tam-paṇam"></g> Āka nū<choice><orig>t=ti</orig><reg>ṟṟi</reg></choice>
+                    <lb n="1r23=23"/>Añcu poṉṉum Oru paṇam yin=ta poṉ <g ref="sym:tam-poṉ"></g> <num value="105"> <g type="numeral">100</g> 5</num>
+                    <lb n="1r24=24"/> <g ref="sym:tam-paṇam"></g> <unclear rend="check">O</unclear>ṉ=ṟuk=ku
                     <lb n="1r25=25" break="no"/>
                     <lb n="1r26=26" break="no"/>
                     <lb n="1r27=27"/>
