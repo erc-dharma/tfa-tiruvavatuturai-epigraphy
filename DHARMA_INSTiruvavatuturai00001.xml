@@ -153,7 +153,7 @@
                         <l n="a">svadattām · paradattāṁ vā</l>
                         <l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas<choice><sic>va</sic><corr>u</corr></choice>n <lb n="1v13=26=26" break="no"/>dharām <g ref="sym:bar" type="punctuation">.</g></l>
                         <l n="c">ṣaṣṭi<surplus>r</surplus>-varṣa-sahasrāṇi</l>
-                        <l n="d"> viṣṭhāyāñ jāyate kṛmiḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
+                        <l n="d"> viṣṭhāyāñ jāyate kr̥miḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
 
                     <lg n="4" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
@@ -164,7 +164,7 @@
                     </lg>
 
                     <lg n="5" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                        <l n="a">sā<lb n="1v15=28=28" break="no"/>māṉyo yan dharmma-setu<unclear>r</unclear> nṛpāṇāṁ</l>
+                        <l n="a">sā<lb n="1v15=28=28" break="no"/>māṉyo yan dharmma-setu<unclear>r</unclear> nr̥pāṇāṁ</l>
                         <l n="b">kāle kāle pālanīyo bhavat·bhi<supplied reason="omitted">ḥ</supplied> <g ref="sym:bar" type="punctuation">.</g></l>
                         <l n="c">sarvān etā<unclear>nn</unclear> <pb n="2r"/><lb n="2r1=29=29"/>bhāvinaḥ pā<supplied reason="omitted">r</supplied>tthivendr<choice><sic>a</sic><corr>ā</corr></choice>n·</l>
                         <l n="d">bhūyo bhūyo yācate rāmacandraḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
@@ -191,12 +191,12 @@
 
                     <p>
                         <lb n="2r5=33=1"/><hi rend="grantha">svasti śrīman· mahāmaṇḍaleśvaran· A</hi>riyar=āyar vi<hi rend="grantha">bhāṭan· bhāṣai</hi>kku tappuvaRāy<choice><orig>i</orig><reg>a</reg></choice>r <hi rend="grantha">ka</hi>
-                        <lb n="2r6=34=2" break="no"/><hi rend="grantha">ṇḍan· catusamudrādhipati śrī</hi>vīra<hi rend="grantha">pra<choice><orig>d</orig><reg>t</reg></choice>āpan· kṛṣṇadevamahārā</hi>yar <hi rend="grantha">pṛthi</hi>vī<hi rend="grantha">rā</hi>
+                        <lb n="2r6=34=2" break="no"/><hi rend="grantha">ṇḍan· catusamudrādhipati śrī</hi>vīra<hi rend="grantha">pra<choice><orig>d</orig><reg>t</reg></choice>āpan· kr̥ṣṇadevamahārā</hi>yar <hi rend="grantha">pr̥thi</hi>vī<hi rend="grantha">rā</hi>
                         <lb n="2r7=35=3" break="no"/><hi rend="grantha">jyam· pa</hi>ṇṇi
                     </p>
 
                     <p><hi rend="grantha">Aruḷā</hi> niṉṟ<choice><orig>ā</orig><reg>a</reg></choice> <hi rend="grantha">śakāb<choice><orig>t</orig><reg>d</reg></choice>am·</hi> <num value="1440"><g type="numeral">1000</g> <g type="numeral">4</g> <g type="numeral">100</g> <g type="numeral">4</g> <g type="numeral">10</g></num>-ṉ mēl cellā niṉṟa vē<hi rend="grantha"><choice><orig>vu</orig><reg>ku</reg></choice></hi>-
-                        <lb n="2r8=36=4" break="no"/><hi rend="grantha">dhānya-saṁvat·sarattu dakṣiṇāyanattu śara<supplied reason="omitted">d</supplied>ṛtu saṁjñitamāna vṛści</hi>-nāyaṟṟu <hi rend="grantha">pūrvvapa</hi>
+                        <lb n="2r8=36=4" break="no"/><hi rend="grantha">dhānya-saṁvat·sarattu dakṣiṇāyanattu śara<supplied reason="omitted">d</supplied>r̥tu saṁjñitamāna vr̥ści</hi>-nāyaṟṟu <hi rend="grantha">pūrvvapa</hi>
                         <lb n="2r9=37=5" break="no"/><hi rend="grantha">kṣa</hi>t=tu ṣ<hi rend="grantha">aṣṭi</hi>yu<hi rend="grantha">m· soma</hi>vā<hi rend="grantha">ramu</hi>m peṟṟa tiruvōṇattu nāḷ
                     </p>
 
@@ -316,7 +316,7 @@
                     <p>
                         <lb n="3v2=78=1"/><hi rend="grantha"><choice><orig>s</orig><reg>ś</reg></choice>akā <choice><orig>p</orig><reg>b</reg></choice>tam<supplied reason="omitted">·</supplied></hi> <num value="1448"><g type="numeral">1000</g> 4 <g type="numeral">100</g> 4 <g type="numeral">10</g> 8</num> ṉ mēl-c cellā niṉṟa v<choice><orig>e</orig><reg>i</reg></choice>ya-<hi rend="grantha">saṁ</hi>
                         <lb n="3v3=79=2" break="no"/>va<hi rend="grantha">t·sarattu d<choice><orig>e</orig><reg>a</reg></choice>kṣi</hi>ṇāyaṉat=tu kaṉṉi-nā<supplied reason="omitted">ya</supplied>ṟṟu <hi rend="grantha">pūrvva-pakṣa</hi>t=tu <hi rend="grantha">pau</hi>
-                        <lb n="3v=80=3" break="no"/><supplied reason="omitted">r</supplied><hi rend="grantha">ṉai</hi>yum <hi rend="grantha">b<choice><orig>ra</orig><reg>ṛ</reg></choice>haspa</hi>ti-vā=ramu<supplied reason="omitted">m</supplied> peṟṟa pūraṭṭāti nāḷ
+                        <lb n="3v=80=3" break="no"/><supplied reason="omitted">r</supplied><hi rend="grantha">ṉai</hi>yum <hi rend="grantha">b<choice><orig>ra</orig><reg>r̥</reg></choice>haspa</hi>ti-vā=ramu<supplied reason="omitted">m</supplied> peṟṟa pūraṭṭāti nāḷ
                     </p>
                     <p>miḻalai-k-kūṟṟa
                         <lb n="3v5=81=4" break="no"/>t=tu naṭuviṟ-kūṟṟu <hi rend="grantha">brahmadeyam</hi> taṉiyūr tiru-p-peruntuṟai-y-āṉa pavi<hi rend="grantha">tra
@@ -781,7 +781,7 @@
 
                     <p>
                         <lb n="9r7=261=1"/><hi rend="grantha">svasti śrī śakābdaM</hi> <num value="1448"> <g type="numeral">1000</g> 4 <g type="numeral">100</g> 1 <g type="numeral">10</g> 8</num>-ṉ mēl cellā <choice><orig>ṉ</orig><reg>n</reg></choice>iṉṟa <hi rend="grantha">pram</hi>āti <hi rend="grantha">saṁvaTsara</hi>ttu Ut=ta<hi rend="grantha">r</hi>āyanattu va<hi rend="grantha">sa</hi>
-                        <lb n="9r8=262=2" break="no"/>n=ta <hi rend="grantha">ṛ</hi>tuvāṉa <hi rend="grantha">ṛṣabha</hi>-nāyiṟṟu <hi rend="grantha">pūrva-pakṣa</hi>ttu <hi rend="grantha">ṣaṣ<supplied reason="omitted">ṭ</supplied>i</hi>yum <unclear rend="check">adi</unclear>tha-vā=ramum peṟṟa <hi rend="grantha">puṣyaṁ</hi> na<hi rend="grantha">kṣatra</hi>t
+                        <lb n="9r8=262=2" break="no"/>n=ta <hi rend="grantha">r̥</hi>tuvāṉa <hi rend="grantha">r̥ṣabha</hi>-nāyiṟṟu <hi rend="grantha">pūrva-pakṣa</hi>ttu <hi rend="grantha">ṣaṣ<supplied reason="omitted">ṭ</supplied>i</hi>yum <unclear rend="check">adi</unclear>tha-vā=ramum peṟṟa <hi rend="grantha">puṣyaṁ</hi> na<hi rend="grantha">kṣatra</hi>t
                         <lb n="9r9=263=3" break="no"/>tu
                     </p>
                     <p>
@@ -978,10 +978,10 @@
                 <div type="textpart" n="2">
                     <head xml:lang="eng">Grant no. 2: Śaka year 1440</head>
 
-                    <p n="1-3">Prosperity! He possesses good fortune, he is lord of the great region, he is the one who wins over the enemy kings, he is chastise of the kings who commit mistakes with regard to language [or: of those who do not keep their word ], he is lord of the four oceans, he is famous heroic majesty, he is the great king Kṛṣṇadevarāyar.
+                    <p n="1-3">Prosperity! He possesses good fortune, he is lord of the great region, he is the one who wins over the enemy kings, he is chastise of the kings who commit mistakes with regard to language [or: of those who do not keep their word ], he is lord of the four oceans, he is famous heroic majesty, he is the great king Kr̥ṣṇadevarāyar.
                     </p>
 
-                    <p n="3-5">While he is graciously exercising  his rule, in the bahudhānya year which is the current Śaka year 1440, during the southern course <supplied reason="subaudible">of the sun</supplied>, in the autumn season, in the month <foreign>vṛṣci</foreign> which is known as …, in the first part <supplied reason="subaudible">of the lunar cycle</supplied>, on the sixth day, which is a Saturday, in the day <supplied reason="subaudible">of the star</supplied> <foreign>tiruvōṇam</foreign>,
+                    <p n="3-5">While he is graciously exercising  his rule, in the bahudhānya year which is the current Śaka year 1440, during the southern course <supplied reason="subaudible">of the sun</supplied>, in the autumn season, in the month <foreign>vr̥ṣci</foreign> which is known as …, in the first part <supplied reason="subaudible">of the lunar cycle</supplied>, on the sixth day, which is a Saturday, in the day <supplied reason="subaudible">of the star</supplied> <foreign>tiruvōṇam</foreign>,
                     </p>
                     <p n="5-7">To the Supreme lord who rules over the gods in Caturvetimaṅkalam in Pavittira māṇikka nallūr, alias Tirupperuntuṟai, which is an indipendent town, and a Brahmin settlement in the division which is in the center of the Miḻalai kūṟṟam division,
                     </p>
