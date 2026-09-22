@@ -40,7 +40,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><!--<foreign>ka</foreign> and <foreign>ta</foreign> are very similar.--></p>
+                            <p>The long initial <foreign>ē</foreign> is not marked; short and long <foreign>i</foreign> look the same; long <foreign>ū</foreign> in <foreign>pū</foreign> is not marked ; Grantha <foreign>gu</foreign> and Tamil <foreign>pi</foreign> ressemble each other.</p>
                             
                         </handDesc>
                     </physDesc>
@@ -64,7 +64,31 @@
                 
                 <pb n="1r"/>
                 <p>
-                    ... 
+                    <lb n="1r1=1"/><hi rend="grantha">svasti śrīman</hi> makāmaṇṭalē<hi rend="grantha">śvara</hi>ṉ ari<hi rend="grantha">harā</hi>
+                    <lb n="1r2=2" break="no"/>ya ta<hi rend="grantha">ḷa</hi>vi<hi rend="grantha">pāṭan· pā</hi>kṣaikkut tappuvarāyira kaṇṭa
+                    <lb n="1r3=3" break="no"/>ṉ mūvarāyar kaṇṭaṉ kaṇṭa nāṭu koṇṭu koṇṭa n
+                    <lb n="1r4=4" break="no"/>āṭu kuṭātāṉ <hi rend="grantha">pūrvva dakṣa</hi>ṇa <hi rend="grantha">paścima</hi> Ut<supplied reason="omitted">t</supplied>a<hi rend="grantha">ra sapta samudr</hi>
+                    <lb n="1r5=5" break="no"/>āti<hi rend="grantha">pa</hi>ti Emmaṇṭalamuṅ koṇṭ’ īḻantiṟa koṇṭ’ aru-
+                    <lb n="1r6=6" break="no"/>ḷiya <hi rend="grantha">rājādhirāj<unclear>an·</unclear> rājaparamēsvaran rājamā</hi><supplied reason="omitted">r</supplied>t=t
+                    <lb n="1r7=7" break="no"/>āṇṭanā<hi rend="grantha">n· rāja<choice><orig>ke</orig><reg>ga</reg></choice>ṁbīra<surplus>ra</surplus>n rājā</hi>kkaḷ tampirāṉ sa
+                    <lb n="1r8=8" break="no"/>ka<hi rend="grantha">la-gu</hi>ṇa <hi rend="grantha">sam·panna<unclear>n</unclear> saptabhāsarā</hi>ya<hi rend="grantha">n sa</hi>kala-kalā<hi rend="grantha">pravī</hi>
+                    <lb n="1r9=9" break="no"/>ṇaṉ <hi rend="grantha">sa</hi>ṅkīta <hi rend="grantha">sā</hi>yujya vi<hi rend="grantha">dyā</hi> viṉōtaṉ keṭikōṭ
+                    <lb n="1r10=10" break="no"/>ṭu mallaṉ keṭikōṭṭu <hi rend="grantha">rāyan</hi> tu<surplus>tu</surplus>lukkar taḷa vipāṭa
+                    <lb n="1r11=11" break="no"/>ṉ tulukkar mōkan taviḻttāṉ vaṭavaracar maṇavāḷa
+                    <lb n="1r12=12" break="no"/>r Iḷaivaracar kulaikāṟaṉ <hi rend="grantha">rājā</hi>tirācaṉ <hi rend="grantha">rājaparameśvara</hi>
+                    <lb n="1r13=13" break="no"/>n mētiṉi yī<hi rend="grantha">śvara</hi> ka<choice><orig>ṇ</orig><reg>n</reg></choice><hi rend="grantha">dhan</hi> kaṭṭāric cāḷuvaṉ Oṭṭiyar
+                    <lb n="1r14=14"/>taḷavipāṭaṉ Oṭṭiyar mōkan taviḻttāṉ vīra-<hi rend="grantha">pra</hi>tā
+                    <lb n="1r15=15" break="no"/>pan <hi rend="grantha">A</hi>ta<hi rend="grantha">la</hi>-vita<hi rend="grantha">la-su</hi>ta<hi rend="grantha">la</hi>-nita<hi rend="grantha">la-rasā</hi>ta<hi rend="grantha">la-mahā</hi>ta<hi rend="grantha">la</hi>-
+                    <lb n="1r16=16"/><hi rend="grantha">pā</hi>tā<hi rend="grantha">ḷa</hi>-v-ēḻu<hi rend="grantha">lō</hi>ka-<hi rend="grantha">pra</hi>kaṇṭaṉ pāṇṭimaṇṭala-<hi rend="grantha">pa</hi>
+                    <lb n="1r17=17" break="no"/><hi rend="grantha"><choice><orig>tm</orig><reg>dm</reg></choice>āsa</hi>ṉattōṉ cōḻamaṇṭala <hi rend="grantha">s<supplied reason="omitted">·</supplied>thāpanācāryan</hi> to
+                    <lb n="1r18=18" break="no"/>ṇṭamaṇṭala-<hi rend="grantha">pra</hi>ti<hi rend="grantha">ṣṭāpa</hi>ṉācāriyaṉ mat=ta <choice><orig>ge</orig><reg>ga</reg></choice>ja pa<hi rend="grantha">ri-<choice><orig>g</orig><reg>k</reg></choice>u</hi>
+                    <lb n="1r19=19" break="no"/>lai n<choice><orig>i</orig><reg>a</reg></choice>kulaṉ <hi rend="grantha">giridurga</hi>-<unclear>va</unclear>ṉa<hi rend="grantha">durga-jaladurga pararā</hi>ca-kē<hi rend="grantha">sa</hi>r<unclear>i</unclear>
+                    <lb n="1r20=20"/><hi rend="grantha">Asvapa</hi>ti kecapati taṉapati na<hi rend="grantha">rapa</hi>tiyāṉa kumāra malli
+                    <lb n="1r21=21" break="no"/>kāṟcuṉarāyar viru<hi rend="grantha">pā</hi>k<hi rend="grantha">‌ṣi</hi>rāyar kumāramakārāyar ati
+                    <lb n="1r22=22" break="no"/>pa<hi rend="grantha">larā</hi>yar <hi rend="grantha">srī</hi> vi<hi rend="grantha">pa</hi>ṇa<hi rend="grantha">rā</hi>yar <hi rend="grantha">de</hi>va<hi rend="grantha">rā</hi>yar Accuta<hi rend="grantha">de</hi>va-
+                    <lb n="1r23=23"/><hi rend="grantha">makārā</hi>yar ta<hi rend="grantha">rmmarā</hi>yar <hi rend="grantha">sadāśi</hi>varāyar <hi rend="grantha">kṛṣṇadē</hi>
+                    <lb n="1r24=24" break="no"/>va-<hi rend="grantha">mahārā</hi>yar <hi rend="grantha">rāmade</hi>va<hi rend="grantha">mahārā</hi>yar <hi rend="grantha">prathi</hi>vi <hi rend="grantha">r<add place="below">ā</add>jyam</hi> paṇ-
+                    <lb n="1r25=25"/>ṇi aruḷā niṉṟa
                 </p>
                 
                 <pb n="1v"/>
