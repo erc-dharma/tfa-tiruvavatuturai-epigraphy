@@ -16,7 +16,7 @@
                         <surname>Trento</surname>
                     </persName>
                 </respStmt>
-            <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Aubervilliers</pubPlace>
@@ -48,8 +48,8 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
         <revisionDesc>
             <change who="part:matr" when="2024-03-21">Creation of the file</change>
         </revisionDesc>
@@ -99,22 +99,46 @@
                 
                 <p>cētu<hi rend="grantha">mūlā</hi> tu<hi rend="grantha">rantararā</hi>ṉa rācātirā
                     <lb n="1r30=30" break="no"/>caṉ rāca-paramēcuraṉ <hi rend="grantha">rāma</hi>nātha <hi rend="grantha">parvva<choice><orig>d</orig><reg>t</reg></choice>a <choice><orig>p</orig><reg>bh</reg></choice>at=tari pāda</hi>
-                    <lb n="1r31=31"/><hi rend="grantha">se</hi>vita<hi rend="grantha">n·</hi> Iravi<hi rend="grantha"><choice><orig>g</orig><reg>k</reg></choice>ula <choice><orig>s</orig><reg>ś</reg></choice>e</hi><choice><orig>v</orig><reg>k</reg></choice>ara<hi rend="grantha">n·</hi> Iravi <hi rend="grantha">mā<supplied reason="omitted">r</supplied>t=tāṁdhan·</hi> <!-- until here -->
-                    <lb n="1r32=32"/>corimuttu vaṉṉiyaṉ toṇṭiyantuṟai kāvala-
-                    <lb n="1r33=33"/>ṉ vaiykai vaḷaṉāṭaṉ vaḻiyiṟkāl nāṭṭi vali-
-                    <lb n="1r34=34"/>yac ceruvi tālikku vēli cāṭikkāṟa kaṇṭaṉ vīra-
-                    <lb n="1r35=35"/>veṇpā mālai paṉukkuvār kaṇṭaṉ pakaimaṉṉa-
-                    <lb n="1r36=36"/>r ciṅkam Āttilp pācci kaṭalilp pācci
+                    <lb n="1r31=31"/><hi rend="grantha">se</hi>vita<hi rend="grantha">n·</hi> Iravi<hi rend="grantha"><choice><orig>g</orig><reg>k</reg></choice>ula <choice><orig>s</orig><reg>ś</reg></choice>ekharan·</hi> Iravi-<hi rend="grantha">mā<supplied reason="omitted">r</supplied>t=tāṁdhan·</hi> 
+                    <lb n="1r32=32"/>cori-muttu-vaṉṉiyaṉ toṇṭi-y-an-tuṟai kāvala
+                    <lb n="1r33=33" break="no"/>ṉ vaiykai-vaḷaṉāṭaṉ vaḻiyiṟkāl nāṭṭi vali
+                    <lb n="1r34=34" break="no"/>ya-c caruvi tālikku vēli cāṭikkāṟa kaṇṭaṉ vīra
+                    <lb n="1r35=35"/>veṇpā mālai paṉukkuvār kaṇṭaṉ pakai-maṉṉa
+                    <lb n="1r36=36" break="no"/>r ciṅkam Āttil-p pācci kaṭalil-p pācci
                     <pb n="1v"/>
-                    <lb n="1v1=37"/>vīralakṣmi-vijaiyalakṣmi-savubhāgyalakṣmi
-                    <lb n="1v2=38"/>kāṁtan· saktiy ariccantiraṉ sakalaguṇa sampa-
-                    <lb n="1v3=39"/>ṉaṉ saṅkīta cāyi(>u)cciya vidyā vinōtan· vīrata-
-                    <lb n="1v4=40"/>ṉḍaic cēmaṉ Iraṇiyakeṟpa cutākaraṉ ākiya tiruma-
-                    <lb n="1v5=41"/>laic cētupati kātta raghunā(m>t)at tēvaravarkaḷ</p>
-                
+                    <lb n="1v1=37"/>vī<hi rend="grantha">ralakṣmi</hi>-vi<hi rend="grantha">jai</hi>ya<hi rend="grantha">lakṣmi</hi>-<hi rend="grantha">savubhāgyalakṣmi</hi>
+                    <lb n="1v2=38"/>kā<hi rend="grantha">ṁtan· sakti</hi> y-ariccantiraṉ <hi rend="grantha">sakalagu</hi>ṇa-campa
+                    <lb n="1v3=39" break="no"/>ṉaṉ caṅkīta-cāyi<choice><orig>cc</orig><reg>tt</reg></choice>iya-vi<hi rend="grantha">dyā</hi>-vinōta<hi rend="grantha">n·</hi> vī<hi rend="grantha">ra</hi>ta
+                    <lb n="1v4=40"/>ṉaiḍa-c cēmaṉ Iraṇiya-keṟpa-cutākaraṉ ākiya tiruma
+                    <lb n="1v5=41" break="no"/>lai-c cētupati kātta <hi rend="grantha">raghu</hi>nā<choice><sic>m</sic><corr><hi rend="grantha">th</hi></corr></choice>a-t tēva<hi rend="grantha">ra</hi>va<hi rend="grantha">r</hi>kaḷ</p>
                 
                 <p>
-                    <lb n="1v22=58"/> ...
+                    taṟma-
+                    <lb n="1v6=42"/>cātaṉaṅ koṭutta-paṭi tirupperuntuṟai Āḷuṭaiya para
+                    <lb n="1v7=43" break="no"/>ma cuvāmiyārukku Ucci-k-kālak kaṭṭaḷai naṭattum kōpā
+                    <lb n="1v8=44" break="no"/>lar kaṭṭaḷaikku <hi rend="grantha">rājasrī</hi> pa<hi rend="grantha"><choice><orig>ndh</orig><reg>ṇṭ</reg></choice>āra</hi>p pātattukku kītāra Ū
+                    <lb n="1v9=45" break="no"/>ḻiyam cekuṭṭakkōṉ puttiraṉ Ulakaṉum <hi rend="grantha">srīpātam</hi> t
+                    <lb n="1v10=46" break="no"/>āṅkiya kō<choice><orig>p</orig><reg>v</reg></choice>uṇṭamāril <hi rend="grantha">rāma-go</hi>vu<hi rend="grantha">ndha</hi>ṉum <hi rend="grantha">rājasrī</hi>-kaṟ-
+                    <lb n="1v11=47"/>tāk=kaḷ avarkaḷ kaiyil tāṉapu(>ū)ṟuvamāka vāṅkik koṭut=ta
+                    <lb n="1v12=48"/><choice><orig>E</orig><reg>Ē</reg></choice>ntal Añcukōṭ<supplied reason="omitted">ṭ</supplied>aip pat=til pullukkuṭi <choice><orig>E</orig><reg>Ē</reg></choice>ntal Inta
+                    <lb n="1v13=49"/><choice><orig>E</orig><reg>Ē</reg></choice>ntalukku nāṉk-ellai-y āvatu 
+                    <list><item>mēl-pāṟk-ellai ve
+                            <lb n="1v14=50" break="no"/>ṇṇat=tūr Eṭut=taṇi Ellaikku kiḻak=ku</item> 
+                        <item>vaṭa-pā<choice><orig>r</orig><reg>ṟ</reg></choice>k-ellai
+                            <lb n="1v15=51"/>viḷāṅkāṭṭūr Ellaik=ku-t teṟku </item>
+                        <item>kīḻ-pāṟk-ellai nallu
+                            <lb n="1v16=52" break="no"/>kkuṭi Ellaikku mēṟku</item> 
+                        <item>teṉ-pāṟk-ellai caṭaiyāmaṅkala
+                            <lb n="1v17=53" break="no"/>t=tu Ellaik=ku vaṭakku</item></list>
+                </p>
+                <p>
+                    Inta ṉā<add place="above">ṉ</add>k'ellaik=kuḷ-p paṭṭa nañcai-puñ
+                    <lb n="1v18=54" break="no"/>cai-<choice><orig><hi rend="grantha">ri</hi></orig><reg>ni</reg></choice>ti-niṭcēpa-cela-taru-pā<hi rend="grantha">ṣā</hi>ṇa-kūpa-taṭākaṅkaḷum caṟu
+                    <lb n="1v19=55" break="no"/>va-māṉiyam-āka Āḷu<choice><sic>p</sic><corr>ṭ</corr></choice>ai<choice><orig>pa</orig><reg>ya</reg></choice> <choice><orig>ya</orig><reg>pa</reg></choice>rama cuvāmiyārukku Api<hi rend="grantha">ṣe</hi>kam nai
+                    <lb n="1v20=56" break="no"/>vētaṉam tirumālai tiruviḷak=ku tiruppaṇi tirunantaṉavaṉam tiru
+                    <lb n="1v21=57" break="no"/>maṭam Itu mutalākiyikaṅkisayam ellām āticcantirāṟkkamā
+                    <lb n="1v22=58" break="no"/>yt taṟmam paripālaṉam paṇṇik koḷḷak=kaṭavar ākavum                     
+                    
                 </p>
                 
                 <p>
@@ -134,7 +158,7 @@
                 
                 <p>Inta cātaṉam kalliṉum
                     <lb n="1v31=67"/>veṭṭik koḷḷavum</p>
-               
+                
                 <ab>
                     rāmaliṁga-tuṇai
                 </ab>
@@ -142,13 +166,13 @@
                 
                 
                 <!--   
-                <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a"><lb n="20v=58"/>dānapālanayōr mmaddhyē</l> 
                     <l n="b">dānā<lb n="21v=59"/>t cchreyo ’nupālanam· <g type="danda">.</g></l>
                     <l n="c">dānāt· sva<lb n="22v=60"/>rgam avāpnōti</l> 
                     <l n="d">pālanād acyuta<lb n="22v=61"/>m· padam· <g type="ddanda">.</g> <g type="pc"/></l>
-                </lg>  
-                
+                    </lg>  
+                    
                     <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">svadattāt· dviguṇam · puṇyam ·</l> 
                     <l n="b">paradattānupā<add place="below" rend="mark">la</add>nam· <g type="danda">.</g></l> 
@@ -226,13 +250,13 @@
                     
                 </listBibl>
                 
-               <!--   <listBibl type="secondary">
+                <!--   <listBibl type="secondary">
                     <bibl>
-                        <ptr target="bib:ARIE1986-1987"/>
-                        <citedRange unit="page">21</citedRange>
-                        <citedRange unit="item">29</citedRange>
+                    <ptr target="bib:ARIE1986-1987"/>
+                    <citedRange unit="page">21</citedRange>
+                    <citedRange unit="item">29</citedRange>
                     </bibl>
-                </listBibl>	    
+                    </listBibl>	    
                 -->
             </div>
         </body>
