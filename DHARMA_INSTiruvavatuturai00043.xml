@@ -35,10 +35,7 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>					
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/>
-                    </msIdentifier>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
                         <summary>A set of two grants issued on the same year (Śaka 1632) recorded on the same copper plate.</summary>
                     </msContents>

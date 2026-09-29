@@ -28,11 +28,7 @@
                 <!-- only the handDesc can be filled in at this stage -->
                 <msDesc>
                     <!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/>
-                        <!-- don't modify this -->
-                    </msIdentifier>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
                         <!-- describe the intellectual content of an inscription -->
                         <summary>This plate records a donation made at the time of Tirumalai Cētupati Kātta Raghunātta Tēvar at the feet of a certain Rājaśrī paṇṭāram, for the sake of pūja, as well as taking care of the garden and the maṭam, in the temple of Tirupperuntuṟai aka Āvuṭaiyarkōyil, .</summary>
@@ -119,7 +115,7 @@
                     <lb n="1v8=44" break="no"/>lar kaṭṭaḷaikku <hi rend="grantha">rājasrī</hi> pa<hi rend="grantha"><choice><orig>ndh</orig><reg>ṇṭ</reg></choice>āra</hi>p pātattukku kītāra Ū
                     <lb n="1v9=45" break="no"/>ḻiyam cekuṭṭakkōṉ puttiraṉ Ulakaṉum <hi rend="grantha">srīpātam</hi> t
                     <lb n="1v10=46" break="no"/>āṅkiya kō<choice><orig>p</orig><reg>v</reg></choice>uṇṭamāril <hi rend="grantha">rāma-go</hi>vu<hi rend="grantha">ndha</hi>ṉum <hi rend="grantha">rājasrī</hi>-kaṟ-
-                    <lb n="1v11=47"/>tāk=kaḷ avarkaḷ kaiyil tāṉapu(>ū)ṟuvamāka vāṅkik koṭut=ta
+                    <lb n="1v11=47"/>tāk=kaḷ avarkaḷ kaiyil tāṉapu(&gt;ū)ṟuvamāka vāṅkik koṭut=ta
                     <lb n="1v12=48"/><choice><orig>E</orig><reg>Ē</reg></choice>ntal Añcukōṭ<supplied reason="omitted">ṭ</supplied>aip pat=til pullukkuṭi <choice><orig>E</orig><reg>Ē</reg></choice>ntal Inta
                     <lb n="1v13=49"/><choice><orig>E</orig><reg>Ē</reg></choice>ntalukku nāṉk-ellai-y āvatu 
                     <list><item>mēl-pāṟk-ellai ve

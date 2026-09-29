@@ -28,11 +28,7 @@
                 <!-- only the handDesc can be filled in at this stage -->
                 <msDesc>
                     <!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/>
-                        <!-- don't modify this -->
-                    </msIdentifier>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
                         <!-- describe the intellectual content of an inscription -->
                         <summary>This plate records the additional endowment of a village to perform pūja in honor of Tirumalai Nāyak and Cētupati Kātta Tēvar and the mother and father of the donor, Tirumalaiya Cētupati Rakunātat Tēvar.</summary>

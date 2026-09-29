@@ -28,11 +28,7 @@
                 <!-- only the handDesc can be filled in at this stage -->
                 <msDesc>
                     <!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/>
-                        <!-- don't modify this -->
-                    </msIdentifier>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
                         <!-- describe the intellectual content of an inscription -->
                         <summary>From ARE 1927, 60: Records an agreement between Iḷaiya-perumāḷ-piḷḷai, Sundarattōḷ-piḷḷai and the tānattār of Tiruchchendūr for the merit of the former as kōvilkaṭṭaḷai. The gifted land is said to have been purchased and given to the tāṉattār of the temple. Kaḷappirāṉ the nephew of Raṅganātha-piḷḷai, the nāṭṭūkkaṇakku, seems to have drafted the document.</summary>
@@ -67,9 +63,9 @@
                 </p>
                 <p>
                     cuvatti* cālivāka
-                    <lb n="1r2=2" break="no"/>ṉa cakāt=tam <num value="1619">1 <g type="numeral">1000</g> 6 <g type="numeral">100</g> <g type="numeral">10</g> 9</num> <g ref="sym:tam-kku">kku</g> <g ref="sym:tam-varuṣam"></g> cellā niṉra 
-                    <lb n="1r3=3"/>kollam <num value="872">8 <g type="numeral">100</g> 7 <g type="numeral">10</g> 2</num> <g ref="sym:tam-varuṣam"></g> yīcupā <g ref="sym:tam-varuṣam"></g> vaiyakāci <g ref="sym:tam-mātam"></g>
-                    <lb n="1r4=4"/> <num value="14"> <g type="numeral">10</g> 4</num> <g ref="sym:tam-tēti"></g><g ref="sym:tam-varuṣam"/> titi pūṟuva-paṭcat=til t=tiri-tikaiyu=M cikkiṟa-vāra 
+                    <lb n="1r2=2" break="no"/>ṉa cakāt=tam <num value="1619">1 <g type="numeral">1000</g> 6 <g type="numeral">100</g> <g type="numeral">10</g> 9</num> <g ref="sym:tam-kku">kku</g> <g ref="sym:tam-varuṣam"/> cellā niṉra 
+                    <lb n="1r3=3"/>kollam <num value="872">8 <g type="numeral">100</g> 7 <g type="numeral">10</g> 2</num> <g ref="sym:tam-varuṣam"/> yīcupā <g ref="sym:tam-varuṣam"/> vaiyakāci <g ref="sym:tam-mātam"/>
+                    <lb n="1r4=4"/> <num value="14"> <g type="numeral">10</g> 4</num> <g ref="sym:tam-tēti"/><g ref="sym:tam-varuṣam"/> titi pūṟuva-paṭcat=til t=tiri-tikaiyu=M cikkiṟa-vāra 
                     <lb n="1r5=5" break="no"/>mum cupa-yōkamum cupa-karaṇamum peṟ=ṟa miṟika-cīraṣa
                     <lb n="1r6=6" break="no"/>naṭccet=tirat=til nāl-c ceyta taṉma-cātaṉa-p-paṭ
                     <lb n="1r7=7" break="no"/>ṭaiya=Mmāvatu
@@ -81,7 +77,7 @@
                     <lb n="1r10=10" break="no"/><surplus>punāṭā</surplus>pu-nāṭāṉ tirunelveli yiruk=kum yiLaiya pe
                     <lb n="1r11=11" break="no"/>rumāḷ pi=Lḷai cuntara-t-toḷ-pi=Lḷai<g ref="sym:tam-kku">kku</g> taṉma-cātaṉa-p-paṭṭai
                     <lb n="1r12=12" break="no"/>ya=M yeḷuti-k kuṭu<choice><orig>ṟ=ṟa</orig><reg>tta</reg></choice> paricāvatu <unclear reason="eccentric_ductus">ku</unclear>ruk=kaḷukku-p puṇṇiyamāka
-                    <lb n="1r13=13" break="no"/>vum <expan><abbr>r=a<g ref="sym:bar"></g></abbr><ex>rāja</ex></expan> taḷavāy naracappayyaṉ avarkaḷuk=ku-p puṇṇiyam
+                    <lb n="1r13=13" break="no"/>vum <expan><abbr>r=a<g ref="sym:bar"/></abbr><ex>rāja</ex></expan> taḷavāy naracappayyaṉ avarkaḷuk=ku-p puṇṇiyam
                     <lb n="1r14=14" break="no"/>ākavu=M vaṭamalaiyappa-p-pi=Lḷaiyeṉ <unclear rend="check"><g type="symbol">X</g></unclear><!-- here Krishnamurti reads "makaṉ" but I dont see on which basis, and in general he has misread this inscription quite a bit-->k=ku-p puṇṇiyamāka
                     <lb n="1r15=15" break="no"/>vu=M muṟuṉāyakam pi=Lḷaik=kupuṇṇiyamākavum tirucce
                     <lb n="1r16=16" break="no"/>ntūr <expan><abbr>c=vi</abbr><ex>cuvāmi</ex></expan> kōvi-L pōt=timā=r tāṉattā=r talattā=r muta
@@ -92,9 +88,9 @@
                 <p>
                     eṉ nilamaiyāṉa Āṟumukane
                     <lb n="1r21=21" break="no"/>riyai viṭṭukkuṭut=ta paṭiyiṉālē yitaṟk=ku kiṟaiya=M niṣ
-                    <lb n="1r22=22" break="no"/>cciyat=tukku <g ref="sym:tam-poṉ"></g> <num value="105"> <g type="numeral">100</g> 5</num> Ūcikkāntam <g ref="sym:tam-paṇam"></g> Āka nū<choice><orig>t=ti</orig><reg>ṟṟi</reg></choice>
-                    <lb n="1r23=23"/>Añcu poṉṉum Oru paṇam yin=ta poṉ <g ref="sym:tam-poṉ"></g> <num value="105"> <g type="numeral">100</g> 5</num>
-                    <lb n="1r24=24"/> <g ref="sym:tam-paṇam"></g> <unclear rend="check">O</unclear>ṉ=ṟuk=ku nāṉ viṭṭu-k kuṭutta Ārumukanerikku E
+                    <lb n="1r22=22" break="no"/>cciyat=tukku <g ref="sym:tam-poṉ"/> <num value="105"> <g type="numeral">100</g> 5</num> Ūcikkāntam <g ref="sym:tam-paṇam"/> Āka nū<choice><orig>t=ti</orig><reg>ṟṟi</reg></choice>
+                    <lb n="1r23=23"/>Añcu poṉṉum Oru paṇam yin=ta poṉ <g ref="sym:tam-poṉ"/> <num value="105"> <g type="numeral">100</g> 5</num>
+                    <lb n="1r24=24"/> <g ref="sym:tam-paṇam"/> <unclear rend="check">O</unclear>ṉ=ṟuk=ku nāṉ viṭṭu-k kuṭutta Ārumukanerikku E
                     <lb n="1r25=25" break="no"/>lkakaiyāvatu
                 </p>
                 <p>
@@ -129,7 +125,7 @@
                     <lb n="1r46=46"/>Uṭaiyar pi=Lḷai yipa=ṭik=ku yivarkaḷ colla yin=ta
                     <lb n="1r47=47"/>taṟma-cātaṉa-paṭṭaiyam Eḷutiṉē nāṭṭukaṇa<g ref="sym:tam-kku">kku</g>
                     <lb n="1r48=48"/>Iraṅkunāta pu=Lḷai marumakaṉ kaḷḷappirāṉ Eḷu
-                    <lb n="1r49=49"/><choice><orig>ṟ=ṟu</orig><reg>ttu</reg></choice> yippa=ṭi Aṟivēṉ nayiṉāpi=Lḷai <g ref="sym:tam-piḷḷaiyarcuḻi" type="punctuation"></g>
+                    <lb n="1r49=49"/><choice><orig>ṟ=ṟu</orig><reg>ttu</reg></choice> yippa=ṭi Aṟivēṉ nayiṉāpi=Lḷai <g ref="sym:tam-piḷḷaiyarcuḻi" type="punctuation"/>
                 </p>
                 
       
