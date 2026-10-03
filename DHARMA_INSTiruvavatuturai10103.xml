@@ -194,7 +194,7 @@
                 <p>
                     In-nilam kallilum 
                     <lb n="57"/>cempilum veṭṭi-k koḷ
-                    <lb n="58" break="no"/>ḷa-p peṟuvat’ āka Iṟai-y-ili-p pi<supplied reason="omitted">ra</supplied>ma
+                    <lb n="58" break="no"/>ḷa-p peṟuvat’ āka Iṟai-y-I<surplus>il</surplus>i-p pi<supplied reason="omitted">ra</supplied>ma
                     <lb n="59" break="no"/>ṇam c<choice><sic>ai</sic><corr>ey</corr></choice>tu kuṭuttōm
                 </p>
                 
@@ -203,9 +203,9 @@
                     <lb n="60" break="no"/>-tēvarkku mē<supplied reason="omitted">ṟ</supplied>-k-kiḷimaṅkalattu
                     <lb n="61"/>In-nilam Uṭaiyār rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>
                     <lb n="62" break="no"/>-cōḻa-tēvar kuru-tēvar tiru-nāmam
-                    <lb n="63"/>sa<reg>r</reg>vva-tēvan tiru-maṭattē Itil-p p<unclear>ō</unclear>
+                    <lb n="63"/>sa<reg>r</reg>vva-tēva<choice><orig>n</orig><reg>ṉ</reg></choice> tiru-maṭattē Itil-p p<unclear>ō</unclear>
                     <lb n="64" break="no"/>nta pōkam koṇṭu <hi rend="grantha">śrī-<supplied reason="omitted">pa</supplied>nmāhe<unclear>śva</unclear></hi><unclear>rar</unclear>
-                    <lb n="65" break="no"/>kku ni c<unclear>i</unclear> ca ṟa p pa ṭi Amutu c<choice><sic>ai</sic><corr>ey</corr></choice>
+                    <lb n="65" break="no"/>kku niccaṟ-p paṭi Amutu c<choice><sic>ai</sic><corr>ey</corr></choice>
                     <lb n="66" break="no"/>t-aruḷa kututtōm
                     mē<choice><orig>r</orig><reg>ṟ</reg></choice>-k-kiḷi-ma
                     <lb n="67" break="no"/>ṅkalattu <hi rend="grantha">sabhai</hi>yōm
@@ -219,7 +219,7 @@
                         <lb n="69" break="no"/>-veṇkāṭa-paṭṭa-<hi rend="grantha">somai</hi>-yā<hi rend="grantha"/>jiyā
                         <lb n="70" break="no"/>rum</item>
                         
-                        <item>kurava<unclear>ca</unclear>ri-tatta-paṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice>um</item>
+                        <item>kuravacari-tatta-paṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice>um</item>
                         
                         <item>Iḻakkanti
                             <lb n="71" break="no"/>ṟattu cantira-cēkara-kirama-vitta<choice><orig>n</orig><reg>ṉ</reg></choice>um</item>
@@ -237,7 +237,7 @@
                             <lb n="76" break="no"/>ma-vitta<choice><orig>n</orig><reg>ṉ</reg></choice>um</item>
                         
                         <item>kuravacari śrī-kūṣṇa-pura-tēva-paṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice>u
-                            <lb n="77" break="no"/><unclear>m</unclear></item>
+                            <lb n="77" break="no"/>m</item>
                         
                         <item>piṟān=tūr-t tāmōtira-k-kirama-vitta<choice><orig>n</orig><reg>ṉ</reg></choice>um</item>
                         
@@ -305,6 +305,16 @@
                     <app loc="37">
                         <lem><supplied reason="lost">mu</supplied>ttoḷir</lem>
                         <rdg source="bib:ASI">moyttoḷir</rdg>			
+                    </app>
+                    
+                    <app loc="70">
+                        <lem>tatta</lem>
+                        <rdg source="bib:ASI">cutta</rdg>			
+                    </app>
+                    
+                    <app loc="78">
+                        <lem>ca<choice><orig>n</orig><reg>ṉ</reg></choice>ṉaiya</lem>
+                        <rdg source="bib:ASI">caknaiya</rdg>			
                     </app>
                     
                 </listApp>

@@ -15,7 +15,11 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-                </respStmt>                
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                </respStmt>         
                 <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
@@ -56,53 +60,52 @@
                 
                 <p>
                     <milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">Wall</label>
-                    <lb n="A1=1"/>Uṭaiyār <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-cōḻa-tēvar nam
-                    <lb n="A2=2"/>pirāṭṭiyār <hi rend="grantha">trai</hi>lōkkiya-mā-tēviyār ta
-                    <lb n="A3=3" break="no"/>ṅkaḷ ācciyār Irāma<choice><orig>n</orig><reg>ṉ</reg></choice> Apimā<choice><orig>n</orig><reg>ṉ</reg></choice>a-toṅkiyār tiru-v-ā
-                    <lb n="A4=4" break="no"/>vaṭu-tuṟai Uṭaiyārkku Amutu ceyt-aruḷa ve<unclear>ḷḷi</unclear>
-                    <lb n="A5=5" break="no"/>-t-taḷikai <unclear>1</unclear>		
-                    nāl
-                    kuṭiñai-k-kallāl ni<add place="below">ṟai</add> ... kaḻañcum
+                    <lb n="1"/>Uṭaiyār <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-cōḻa-tēvar nam
+                    <lb n="2"/>pirāṭṭiyār <hi rend="grantha">trai</hi>lōkkiya-mā-tēviyār ta
+                    <lb n="3" break="no"/>ṅkaḷ ācciyār Irāma<choice><orig>n</orig><reg>ṉ</reg></choice> Apimā<choice><orig>n</orig><reg>ṉ</reg></choice>a-toṅkiyār tiru-v-ā
+                    <lb n="4" break="no"/>vaṭu-tuṟai Uṭaiyārkku Amutu ceyt-aruḷa ve<unclear>ḷḷi</unclear>
+                    <lb n="5" break="no"/>-t-taḷikai 1 nāl
+                    kuṭiñai-k-kallāl ni<add place="below">ṟai</add> 2 <g type="numeral">100</g> 7 <g type="numeral">10</g> ti<choice><orig>n</orig><reg>ṉ</reg></choice> kaḻañcum
                 </p>
                 
                 <p>
                     mēṟ<milestone type="pagelike" n="B" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
-                    <lb n="B1=6" break="no"/>-p-pa<unclear>ṭi</unclear>yāḷē-y Uṭaiyārkku ...
-                    <lb n="B2=7"/><unclear>po</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> koḷkai 1
+                    <lb n="6" break="no"/>-p-pa<unclear>ṭi</unclear>yāḷē-y Uṭaiyārkku cā<reg>r</reg>tti y-aruḷa ⌈ 
+                    <lb n="7" break="no"/><unclear>po</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> koḷkai 1
                     nāl kuṭiñai-k-kkallāl
-                    <lb n="B3=8"/><surplus>n</surplus>niṟai cempon nā-nūṟṟu Oru		
+                    <lb n="8"/><surplus>n</surplus>niṟai cempon nā-nūṟṟu Oru		
                     <milestone type="pagelike" n="C" unit="zone" break="no"/><label xml:lang="eng">Wall</label>
-                    <lb n="C1=9" break="no"/>pattu mu
-                    <lb n="C2=10" break="no"/>-k-kaḻañ<surplus>c</surplus>c’ arai		
+                    <lb n="9" break="no"/>pattu mu
+                    <lb n="10" break="no"/>-k-kaḻañ<surplus>c</surplus>c’ arai		
                 </p>	
                 
                 <p>
-                    <lb n="C3=11"/>Ip-poṟ-k ko
-                    <lb n="C4=12" break="no"/>ḷkai nā-nūṟṟu I
-                    <lb n="C5=13" break="no"/>rupattu mu-k-kaḻañ
-                    <lb n="C6=14" break="no"/>c’ araiyum
+                    <lb n="11"/>Ip-poṟ-k ko
+                    <lb n="12" break="no"/>ḷkai nā-nūṟṟu I
+                    <lb n="13" break="no"/>rupattu mu-k-kaḻañ
+                    <lb n="14" break="no"/>c’ araiyum
                 </p>
                 
                 <p>		
                     Uṭaiyār <hi rend="grantha">śrī</hi>
-                    <lb n="C7=15" break="no"/>-rāj<hi rend="grantha">ādhi</hi>rā<hi rend="grantha">jade</hi>var kuru-<hi rend="grantha">d</hi>evar I
-                    <lb n="C8=16" break="no"/>ṭṭa poṉ Irupatt’ aṟu kaḻañcu
-                    <lb n="C9=17" break="no"/>-p
+                    <lb n="15" break="no"/>-rāj<hi rend="grantha">ādhi</hi>rā<hi rend="grantha">jade</hi>var kuru-<hi rend="grantha">d</hi>evar I
+                    <lb n="16" break="no"/>ṭṭa poṉ Irupatt’ aṟu kaḻañcu
+                    <lb n="17" break="no"/><g>m</g>
                 </p>
                 <p>		
                     periya-vēḷattu Arai		
-                    <lb n="C10=18" break="no"/>yaṉ Aṇukki Iṭṭa
-                    <lb n="C11=19"/>poṉ ṉūṟṟu muppa
-                    <lb n="C12=20" break="no"/>tt’ eṇ kaḻañc’ arai
-                    <lb n="C13=21" break="no"/>yum
+                    <lb n="18" break="no"/>yaṉ Aṇukki Iṭṭa
+                    <lb n="19"/>poṉ ṉūṟṟu muppa
+                    <lb n="20" break="no"/>tt’ eṇ kaḻañc’ ar<hi rend="grantha">ai</hi>
+                    <lb n="21" break="no"/><unclear reason="eccentric_ductus">yu</unclear>m
                 </p>
                 
                 <p>		
                     mēṟpa<surplus>ṭ</surplus>ṭi vēḷa
-                    <lb n="C14=22" break="no"/>ttu-t tūtuvaṉ arumo
-                    <lb n="C15=23" break="no"/>ḻi Iṭṭa po<choice><orig>n</orig><reg>ṉ</reg></choice> muppat
-                    <lb n="C16=24" break="no"/>t’ aṟu kaḻañc’ ēḻu-k kālu
-                    <lb n="C17=25" break="no"/>m 
+                    <lb n="22" break="no"/>ttu-t tūtuvaṉ arumo
+                    <lb n="23" break="no"/>ḻi Iṭṭa po<choice><orig>n</orig><reg>ṉ</reg></choice> muppat
+                    <lb n="24" break="no"/>t’ aṟu kaḻañcē mu-k-kālu
+                    <lb n="25" break="no"/>m 
                 </p>
                 
                 <p>
@@ -110,39 +113,38 @@
                     <list>
                         <item>                
                             po
-                            <lb n="C18=26" break="no"/>ṟpū Irupatt’ ēḻum
+                            <lb n="26" break="no"/>ṟpū Irupatt’ ēḻum
                         </item>
                         <item>
                             ce
-                            <lb n="C19=27" break="no"/>ṅkaḻunīr pū mu-p-pa
-                            <lb n="C20=28" break="no"/>tt’ āṟum
+                            <lb n="27" break="no"/>ṅkaḻunīr pū mu-p-pa
+                            <lb n="28" break="no"/>tt’ āṟum
                         </item>
                         <item>
                             māntaḷir O                
                             <milestone type="pagelike" n="D" unit="zone" break="no"/><label xml:lang="eng">Wall</label>
-                            <lb n="D1=29" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>ṟum             
+                            <lb n="29" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>ṟum             
                         </item>
                         <item>
                             picca-tēvar
-                            <lb n="D2=30"/>kaṇṭa-k-kāṟai O<choice><orig>n</orig><reg>ṉ</reg></choice>
-                            <lb n="D3=31" break="no"/>ṟum
+                            <lb n="30"/>kaṇṭa-k-kāṟai O<choice><orig>n</orig><reg>ṉ</reg></choice>
+                            <lb n="31" break="no"/>ṟum
                         </item>
                         <item>
                             poṟ-kai Īc
-                            <lb n="D4=32" break="no"/>-cōppi O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟum</item>
-                    </list>
-                    
-                    mu
-                    <lb n="D5=33" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>pu kaḷveṭṭiṉa ⌈
-                    <lb n="D6=34"/>koḷkaiyilum
+                            <lb n="32" break="no"/>-cōppi O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟum</item>
+                        <item>mu
+                            <lb n="33" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>pu kaḷveṭṭiṉa ⌈
+                            <lb n="34" break="no"/>koḷkaiyilum</item>
+                    </list>                    
                     Āka
-                    <lb n="D7=35"/>It-tēvar aṭiya<choice><orig>n</orig><reg>ṉ</reg></choice> tiru-nā
-                    <lb n="D8=36" break="no"/>vukkaraiya<choice><orig>n</orig><reg>ṉ</reg></choice> piccaiyāl va
-                    <lb n="D9=37" break="no"/>nta kuṭiñai-k-kallāl mā⌈
-                    <lb n="D10=38" break="no"/>ṭai po<choice><orig>n</orig><reg>ṉ</reg></choice> Aṟu ṉūṟṟu E
-                    <lb n="D11=39" break="no"/>ṉpati<choice><orig>n</orig><reg>ṉ</reg></choice> kaḻañc’ ēḻu-k
-                    <lb n="D12=40" break="no"/>kālē mu<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu mañcāṭi
-                    <lb n="D13=41" break="no"/>yum		
+                    <lb n="35"/>It-tēvar aṭiya<choice><orig>n</orig><reg>ṉ</reg></choice> tiru-nā
+                    <lb n="36" break="no"/>vukkaraiya<choice><orig>n</orig><reg>ṉ</reg></choice> piccaiyāl va
+                    <lb n="37" break="no"/>nta kuṭiñai-k-kallāl mā⌈
+                    <lb n="38" break="no"/>ṭai po<choice><orig>n</orig><reg>ṉ</reg></choice> Aṟu ṉūṟṟu E
+                    <lb n="39" break="no"/>ṉpati<choice><orig>n</orig><reg>ṉ</reg></choice> kaḻañcē mu-k
+                    <lb n="40" break="no"/>-kālē mu<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu mañcāṭi
+                    <lb n="41" break="no"/>yum		
                 </p>
                 
                 <p>
@@ -150,112 +152,121 @@
                     
                     <list>
                         <item>
-                            <lb n="D14=42"/>Uṭaiyār cārttum
-                            <lb n="D15=43"/>tiru-k-k<unclear>o</unclear>cakamu <gap reason="illegible" quantity="3" unit="character" precision="low"/>-k ⌈
-                            <lb n="D16=44"/>koṭukkum paṭṭam O<choice><orig>n</orig><reg>ṉ</reg></choice>
-                            <lb n="D17=45" break="no"/>ṟum
+                            <lb n="42"/>Uṭaiyār cārttum
+                            <lb n="43"/>tiru-k-k<unclear>o</unclear>cakamu<unclear>n</unclear>
+                        </item>
+                        <item>
+                            <unclear>tiru</unclear>-k-⌈
+                            <lb n="44" break="no"/>koṭukkum
+                        </item>
+                        <item>
+                            paṭṭam O<choice><orig>n</orig><reg>ṉ</reg></choice>
+                            <lb n="45" break="no"/>ṟum
                         </item>
                         <item>
                             poṟpū nālum
                         </item>
                         <item>
                             Āṭa
-                            <lb n="D18=46" break="no"/><supplied reason="omitted">val</supplied>llār cā<reg>r</reg>ttum poṟpū Iru-pat
-                            <lb n="D19=47" break="no"/>tt’ o<choice><orig>n</orig><reg>ṉ</reg></choice>ṟum
+                            <lb n="46" break="no"/><supplied reason="omitted">va</supplied>llār cā<reg>r</reg>ttum poṟpū Iru-pat
+                            <lb n="47" break="no"/>tt’ o<choice><orig>n</orig><reg>ṉ</reg></choice>ṟum
                         </item>
                         <item>
                             Ivarē cā<reg>r</reg>ttu mut
-                            <lb n="D20=48" break="no"/>tu-c ... po<choice><orig>n</orig><reg>ṉ</reg></choice>ṉum can
-                            <lb n="D21=49" break="no"/>tira-cēkara-tēvar tiru-v-a<hi rend="grantha">bhiṣe</hi>kam O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟ<unclear>u</unclear>
-                            <lb n="D22=50" break="no"/>m
+                            <lb n="48" break="no"/>tu-c-cari nāli<choice><orig>n</orig><reg>ṉ</reg></choice>āl po<choice><orig>n</orig><reg>ṉ</reg></choice>ṉum
                         </item>
-                    </list>
-                    
-                    tiruvaṭi-nilai Iraṇṭināl ...
-                    <lb n="D23=51"/>po<choice><orig>n</orig><reg>ṉ</reg></choice>ṉum Uḷḷiṭṭu tiru-mē<choice><orig>n</orig><reg>ṉ</reg></choice>ika
-                    <lb n="D24=52" break="no"/>ḷ cā<reg>r</reg>ttum tiru-v-āparaṇaṅkaḷā
-                    <lb n="D25=53" break="no"/>lum poṟ-kai Ī-c-cōppiyālu
-                    <lb n="D26=54" break="no"/>m 
-                    Āka
+                        <item>
+                            can
+                            <lb n="49" break="no"/>tira-cēkara-tēvar tiru-v-a<hi rend="grantha">bhiṣe</hi>kam O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟ<unclear>u</unclear>
+                            <lb n="50" break="no"/>m
+                        </item>
+                        <item>tiruvaṭi-nilai Iraṇṭināl pōrtta
+                            <lb n="51"/>po<choice><orig>n</orig><reg>ṉ</reg></choice>ṉum
+                        </item>
+                        <item>
+                            Uḷḷiṭṭu tiru-mē<choice><orig>n</orig><reg>ṉ</reg></choice>ika
+                            <lb n="52" break="no"/>ḷ cā<reg>r</reg>ttum tiru-v-āparaṇaṅkaḷā
+                            <lb n="53" break="no"/>lum
+                        </item>
+                        <item>poṟ-kai Ī-c-cōppiyālu
+                            <lb n="54" break="no"/>m</item> 
+                    </list>Āka
                     
                     kuṭiñai-k-kallāl rā<hi rend="grantha">ja</hi>
-                    <lb n="D27=55" break="no"/>rā<hi rend="grantha">ja</hi><choice><orig>n</orig><reg>ṉ</reg></choice> māṭai-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ O<choice><orig>n</orig><reg>ṉ</reg></choice>patu māṟi
-                    <lb n="D28=56"/>po<choice><orig>n</orig><reg>ṉ</reg></choice> nā-ṉūṟṟu Aṟu<unclear>ppa</unclear>t’ o
-                    <lb n="D29=57" break="no"/>ru-k kaḻañcē O<choice><orig>n</orig><reg>ṉ</reg></choice>patu mañcāṭiyu
-                    <lb n="D30=58" break="no"/>m
+                    <lb n="55" break="no"/>rā<hi rend="grantha">ja</hi><choice><orig>n</orig><reg>ṉ</reg></choice> māṭai-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ O<choice><orig>n</orig><reg>ṉ</reg></choice>patu māṟi
+                    <lb n="56"/>po<choice><orig>n</orig><reg>ṉ</reg></choice> nā-ṉūṟṟu Aṟuppat’ o
+                    <lb n="57" break="no"/>ru-k kaḻañcē O<choice><orig>n</orig><reg>ṉ</reg></choice>patu mañcāṭiyu
+                    <lb n="58" break="no"/>m
                     Āka-p 
                     
                     po<choice><orig>n</orig><reg>ṉ</reg></choice> Āyiratt’ oru <choice><orig>n</orig><reg>ṉ</reg></choice>ū
-                    <lb n="D31=59" break="no"/>ṟṟu nāṟpatt’ iru kaḷañcē Ēḻu mañ
-                    <lb n="D32=60" break="no"/>cāṭi
+                    <lb n="59" break="no"/>ṟṟu nāṟpatt’ iru kaḷañcē Ēḻu mañ
+                    <lb n="60" break="no"/>cāṭi
                 </p>
                 
                 <p>
                     veḷḷi mutal kuṭiñai-k
-                    <lb n="D33=61" break="no"/>kallāl Āyirattu mu-p-pati<choice><orig>n</orig><reg>ṉ</reg></choice> kaḻa
-                    <lb n="D32=60" break="no"/>ñci<choice><orig>n</orig><reg>ṉ</reg></choice>āl tavas<unclear>i</unclear> tiru-nāvukkaraiyaṉu
-                    <lb n="D35=63" break="no"/>m caṇṭēcuvara-cōkiyum Eḻunt-aruḷu
+                    <lb n="61" break="no"/>kallāl Āyirattu mu-p-pati<choice><orig>n</orig><reg>ṉ</reg></choice> kaḻa
+                    <lb n="62" break="no"/>ñci<choice><orig>n</orig><reg>ṉ</reg></choice>āl tapa<hi rend="grantha">s<unclear>i</unclear></hi> tiru-nāvukkaraiyaṉu
+                    <lb n="63" break="no"/>m caṇṭēcuvara-cōkiyum Eḻunt-aruḷu
                     
                     <milestone type="pagelike" n="E" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
-                    <lb n="E1=64" break="no"/><unclear>vi</unclear>tta ve<unclear>ḷḷi</unclear>-t tiru-mē<choice><orig>n</orig><reg>ṉ</reg></choice>-p<choice><orig>i</orig><reg>ī</reg></choice>ṭamum pira 
-                    <lb n="E2=65" break="no"/><unclear>vai</unclear>yum uṭpaṭa <hi rend="grantha">śrī</hi>-pali Eḻunt-aruḷun tiru-mē<choice><orig>n</orig><reg>ṉ</reg></choice>i Oruvar <unclear>veḷ</unclear>
-                    <lb n="E3=66" break="no"/>ḷi-p parikalam uṭpaṭa ... <unclear>ta</unclear>
-                    <lb n="E4=67" break="no"/>ḷikai O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟum
+                    <lb n="64" break="no"/>vitta veḷḷi-t tiru-mē<choice><orig>n</orig><reg>ṉ</reg></choice>-p<choice><orig>i</orig><reg>ī</reg></choice>ṭamum pira 
+                    <lb n="65" break="no"/>vaiyum uṭpaṭa <hi rend="grantha">śrī</hi>-pali Eḻunt-aruḷun tiru-mē<choice><orig>n</orig><reg>ṉ</reg></choice>i Oruvar <unclear>veḷ</unclear>
+                    <lb n="66" break="no"/>ḷi-p parikalam uṭpaṭa Uru O<choice><orig>n</orig><reg>ṉ</reg></choice>patum mu<choice><orig>n</orig><reg>ṉ</reg></choice>pu kalveṭṭi<choice><orig>n</orig><reg>ṉ</reg></choice>a  <unclear>ta</unclear>
+                    <lb n="67" break="no"/>ḷikai O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟum
                     Āka
                     
-                    Uruppati nāl kuṭiñai-k-kallāl veḷḷi Ā
+                    Uru-p patti<choice><orig>n</orig><reg>ṉ</reg></choice>āl kuṭiñai-k-kallāl veḷḷi Ā
                     <milestone type="pagelike" n="F" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
-                    <lb n="F1=68" break="no"/>yiratt’ iru-ṉūṟṟu Ēḻupattu
-                    <lb n="F2=69"/>nāṟ kaḻañcē mu-k-kālē
+                    <lb n="68" break="no"/>yiratt’ iru-<choice><orig>ṉ</orig><reg>n</reg></choice>ūṟṟu Ēḻupattu
+                    <lb n="69"/>nāṟ kaḻañcē mu-k-kālē Iraṇ
+                    <lb n="70" break="no"/>ṭu mañcāṭi
                 </p>
                 <p>        
-                    Iraṇ
-                    <lb n="F3=70" break="no"/>ṭum
-                    ... 
                     <list>
                         <item>
-                            veḷḷi
+                            mēṟpaṭi veḷḷi
                             <milestone type="pagelike" n="E" unit="zone" break="no"/><label xml:lang="eng">Moulding</label>
-                            <lb n="G1=71" break="no"/>-maṇṭai
+                            <lb n="71" break="no"/>-maṇṭai Oṉṟum 
                         </item>
                         <item>
-                            Oṉṟum vaṭṭil Oṉṟum
+                            vaṭṭil Oṉṟum
                         </item>
                     </list>
-                    Āka
-                    
+                    Āka                    
                     nūṟṟu mu-p-patt’ aṟu kaḻañcē mu-k-kāl
                 </p>
                 <p>
-                    mēṟpaṭi poṟpū
-                    ...        
-                    <lb n="G2=72" break="no"/>...
+                    
                     <list>
                         <item>
-                            pu<hi rend="grantha">ṣpa</hi>m Onṟum
+                            mēṟpaṭi poṟpū
+                            <lb n="72" break="no"/>pati<choice><orig>n</orig><reg>ṉ</reg></choice> ēḻu mantira-pu<hi rend="grantha">ṣpa</hi>m Onṟum
                         </item>
                         <item>
                             ceṅkaḻ<choice><sic>a</sic><corr>u</corr></choice>nīr-pū mu-p-patum
                         </item>
                     </list>
                     Āka
-                    ...
-                    kaḻañcu        
+                    po<choice><orig>n</orig><reg>ṉ</reg></choice> nūṟṟu pattu nāṟ kaḻañcu
+                    
                 </p>
                 
             </div>	
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
                 <listApp>
-                <app loc="0">
-                <lem></lem>
-                <rdg source="bib:..."></rdg>
-                <note></note>
-                </app>
-                
+                    
+                    <app loc="51">
+                        <lem>pōrtta</lem>
+                        <rdg source="bib:ASI">vārtta</rdg>
+                        <note></note>
+                    </app>
+                    
                 </listApp>
-                </div>-->
+            </div>
             
             <div type="translation" resp="part:emfr">
                 
@@ -380,8 +391,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/104).</p>	
-                <p>Edited here by Emmanuel Francis, based on photos (E. Francis, 2024).</p>
-                <p>ASI transcript and estampage, if any, yet to be consulted.</p>    
+                <p>This edition by Emmanuel Francis and Renato Dávalos, based on photos (E. Francis, 2024 and 2025), and ASI transcript available on <ref>BharatSHRI, Bharat Shared Repository of Inscriptions</ref> (accessed 2026-06-21). Thanks to Centamiḻ Celvaṉ for his feedback.</p>   
                 
                 <listBibl type="primary">
                     
