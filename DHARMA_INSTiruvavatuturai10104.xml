@@ -16,7 +16,7 @@
                         <surname>Francis</surname>
                     </persName>
                 </respStmt>                
-            <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Aubervilliers</pubPlace>
@@ -40,8 +40,8 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
         <revisionDesc>
             <change who="part:emfr" when="2024-10-13">Creation of the file.</change>
         </revisionDesc>
@@ -383,15 +383,13 @@
                 <p>Edited here by Emmanuel Francis, based on photos (E. Francis, 2024).</p>
                 <p>ASI transcript and estampage, if any, yet to be consulted.</p>    
                 
-                <!--<listBibl type="primary">
+                <listBibl type="primary">
                     
-                    <bibl n="...">
-                    <ptr target="bib:..."/>
-                    <citedRange unit="page">...</citedRange>
-                    <citedRange unit="item">...</citedRange>
+                    <bibl n="ASI">
+                        <ptr target="bib:ASI"/>
                     </bibl>
                     
-                    </listBibl>-->
+                </listBibl>
                 
                 <listBibl type="secondary">
                     

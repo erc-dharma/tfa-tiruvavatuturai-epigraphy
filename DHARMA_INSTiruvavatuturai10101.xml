@@ -20,7 +20,7 @@
                         <surname>Dávalos</surname>
                     </persName>
                 </respStmt>
-            <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Aubervilliers</pubPlace>
@@ -139,7 +139,7 @@
                         <item>Ip-paṭi Aṟivēṉ teṉ-karai-p-pāṇṭikulācaṉi-vaḷanāṭṭu <hi rend="grantha">brahmade</hi>yam ci-kaṇṭa-c-catu<hi rend="grantha">rvvedi</hi>-maṅkalattu ma<hi rend="grantha"><choice><sic>tsy</sic><corr>dhy</corr></choice>as<supplied reason="omitted">t</supplied>a</hi>n Āyirava<supplied reason="omitted">ṉ</supplied> U<hi rend="grantha">da</hi>ya<hi rend="grantha">di</hi> vākāṉ-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a civa-patta<choice><orig>n</orig><reg>ṉ</reg></choice>-ē<choice><orig>n</orig><reg>ṉ</reg></choice>
                         </item>
                         <item>
-                            <supplied reason="omitted">Ip-paṭi Aṟivēṉ</supplied> Uyyak⌈<lb n="7" break="no"/>koṇtār-vaḷanāṭṭu-p pērāvūr-nāṭṭu-p pira<supplied reason="omitted">ma</supplied>tēyam ciṟu-puliyūr ma<hi rend="grantha"><choice><sic>tsy</sic><corr>dhy</corr></choice>asta</hi><choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="check"><num value="40"><unclear reason="eccentric_ductus">5</unclear> <g type="numeral">100</g> 4 <g type="numeral">10</g></num> ti<supplied reason="omitted">ṟ</supplied>man kāṉṉ-ēṉ</hi>
+                            <supplied reason="omitted">Ip-paṭi Aṟivēṉ</supplied> Uyyak⌈<lb n="7" break="no"/>koṇtār-vaḷanāṭṭu-p pērāvūr-nāṭṭu-p pira<supplied reason="omitted">ma</supplied>tēyam ciṟu-puliyūr ma<hi rend="grantha"><choice><sic>tsy</sic><corr>dhy</corr></choice>asta</hi><choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="check"><num value="40"><unclear reason="eccentric_ductus">5</unclear> <g type="numeral">100</g> 4 <g type="numeral">10</g></num> ti<supplied reason="omitted">n</supplied>man kāḷaṉēṉ</hi>
                         </item>
                         <item>
                             Ip-paṭi Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> pērāvūr-nāṭṭu-p piramatēyam ciṟupuliyūr kāccavaṉ nārāya<supplied reason="lost">ṇa</supplied><choice><orig>n</orig><reg>ṉ</reg></choice> <unclear>m</unclear>ātava<choice><orig>n</orig><reg>ṉ</reg></choice>-ē<choice><orig>n</orig><reg>ṉ</reg></choice>
@@ -212,28 +212,28 @@
                         </app>
                         
                         <app loc="7">
-                            <lem><num value="40"><unclear reason="eccentric_ductus">5</unclear> <g type="numeral">100</g> 4 <g type="numeral">10</g></num> ti<supplied reason="omitted">ṟ</supplied>man kāṉṉēṉ</lem>
+                            <lem><hi rend="check"><num value="40"><unclear reason="eccentric_ductus">5</unclear> <g type="numeral">100</g> 4 <g type="numeral">10</g></num> ti<supplied reason="omitted">n</supplied>man kāḷaṉēṉ</hi></lem>
                             <note>We follow here the reading of the ASI transcript.</note>
                         </app>
                         
                         <app loc="7">
                             <lem>nakkaṉ</lem>
-                            <note>The ASI transcript reads: <foreign>nākaṉ</foreign>.</note>
+                            <rdg source="bib:ASI">nākaṉ</rdg>
                         </app>
                         
                         <app loc="7">
                             <lem>marun=turākāṟi</lem>
-                            <note>The ASI transcript reads: <foreign>marun=turā<hi rend="grantha">kā</hi>ri</foreign>.</note>
+                            <rdg source="bib:ASI">marun=turā<hi rend="grantha">kā</hi>ri</rdg>
                         </app>
                         
                         <app loc="8">
                             <lem>tinakkaḷarkkaraṇattā<choice><orig>n</orig><reg>ṉ</reg></choice></lem>
-                            <note>The ASI transcript reads: <foreign>tirukkaḷar-karaṇattān</foreign>.</note>
+                            <rdg source="bib:ASI">tirukkaḷar-karaṇattān</rdg>
                         </app>
                         
                         <app loc="8">
                             <lem>Ī<hi rend="grantha">śvara</hi>-nak<unclear cert="low">ka</unclear>tāṭiyē<choice><orig>n</orig><reg>ṉ</reg></choice></lem>
-                            <note>The ASI transcript reads: <foreign>nakkattāṭiyēṉ</foreign>.</note>
+                            <rdg source="bib:ASI">nakkattāṭiyēṉ</rdg>
                         </app>
                     </listApp>
                 </div>
@@ -242,7 +242,7 @@
                     <listApp>
                         <app loc="8">
                             <lem>In-nilam kālukkum </lem>
-                            <note>The ASI transcript reads: <foreign>In-nila<supplied reason="omitted">m</supplied> kālukkum </foreign>.</note>
+                            <rdg source="bib:ASI">In-nila<supplied reason="omitted">m</supplied> kālukkum</rdg>
                         </app>
                         
                         <app loc="9">
@@ -293,15 +293,13 @@
                 <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/101).</p>	
                 <p>Edited here by Emmanuel Francis and Renato Dávalos, based on photos (E. Francis, 2024), and ASI transcript and estampage available on <ref>BharatSHRI, Bharat Shared Repository of Inscriptions</ref> (accessed 2026-06-21).</p>    
                 
-                <!--<listBibl type="primary">
+                <listBibl type="primary">
                     
-                    <bibl n="...">
-                    <ptr target="bib:..."/>
-                    <citedRange unit="page">...</citedRange>
-                    <citedRange unit="item">...</citedRange>
+                    <bibl n="ASI">
+                        <ptr target="bib:ASI"/>
                     </bibl>
                     
-                    </listBibl>-->
+                </listBibl>
                 
                 <listBibl type="secondary">
                     
