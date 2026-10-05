@@ -31,7 +31,7 @@
                     <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
                         <!-- describe the intellectual content of an inscription -->
-                        <summary>This plate records an endowment made by Cuppiramaṇiya Tirumalai Cētupati Rakunāta to Ampalattāṭum paṇṭāram for performing pūja in Avudaiyarkoil to honor his ancestors and Tirumalai Nāyakkar.</summary>
+                        <summary>This plate records an endowment made by the Arantaṅki Toṇṭaimāṉ, for the sake of the Cētupati.</summary>
                         <!-- offers the possibility to give a summary of the inscription's content -->
                     </msContents>
                     <physDesc>
@@ -60,22 +60,52 @@
                 
                 <pb n="1r"/>
                 <p>
-               ... 
+                    <lb n="1r1=1"/><hi rend="grantha">svasti śrī śakābdam</hi> <num value="1602"> <g type="numeral">1000</g> 6 <g type="numeral">100</g> 2</num> mēl cellā niṉṟa <hi rend="grantha">rau<choice><sic>pdra</sic><corr>dri</corr></choice> <g ref="sym:tam-varuṣam"></g> dakṣi</hi>ṇāya
+                    <lb n="1r2=2"/>ṇat=tu varuṣatituvil kāt=tikai <g ref="sym:tam-mācam"></g> <g ref="sym:tam-tēti"></g> <num value="13"> <g type="numeral">10</g> 3</num> cōmavāramum tiṟiyōteciyum
+                    <lb n="1r3=3"/>Acupatiyum petta puṇṇiyakālat=til 
                 </p>
-                
-                <pb n="1v"/>
-                
                 <p>
-                    <lb n="1v6=23"/>... yinta taṉmat=tuk=ku yā<add place="below">tā</add>moruttar paripalāṉam paṇṇi 
+                    tēvai-nakar-ātipaṉ, cētu-<hi rend="grantha">mula</hi>-ra
+                    <lb n="1r4=4" break="no"/><hi rend="grantha">kṣā-dhurandharan</hi> rāmanāta-cuvāmi-kāriya-turantaraṉ civa-pūcā-turantara
+                    <lb n="1r5=5" break="no"/>ṉ para-rāca-cēkaraṉ ravi-kula-cēkaraṉ mūvarāyira kaṇṭaṉ kaṇṭa
+                    <lb n="1r6=6"/>ṉāṭu koṇṭu koṇṭaṉāṭu kuṭātāṉ vīra-vaḷa-ṉāṭaṉ vētiyar
+                    <lb n="1r7=7"/>kāvalaṉ an=<add place="below">t</add>am-piṟakaṇṭaṉ cuvāmi-t=turōki miṇṭaṉ pañca-vaṇṇa
+                    <lb n="1r8=8"/>rāyar-āvuttaṉ vaikai vaḷanāṭaṉ aṭaik=kāttāṉ vaṉṉiyar āṭṭan tavi
+                    <lb n="1r9=9" break="no"/>rt=tāṉ kīt=ti-p-piṟatāpaṉ toṇṭiyan tuṟai kāvalaṉ vicaiya-le
+                    <lb n="1r10=10" break="no"/><hi rend="grantha">ṣ</hi>cumi kāntaṉ catti<supplied reason="explanation">ya</supplied> <add place="below">aricca</add>ntiraṉ cētuṅkarāyaṉ vaṅkiṣāti paṉāṉ tuka
+                    <lb n="1r11=11" break="no"/>vūr-k-kūt=tat=til kāt=tūr-āṉa kulōt=tuṅka-c
+                    <lb n="1r12=12"/>cōḻa-nallūr kīḻpāl viraiyāta kaṇṭanil iruk=kum taḷavā
+                    <lb n="1r13=13" break="no"/>y cētupati put=tiraṉ <hi rend="grantha">śrī</hi> tirumalai yiraṇiya keṟpayāti cētu
+                    <lb n="1r14=14" break="no"/>pati rakunāta-t tēvar avarkaḷukku-p puṇṇiyamāka-c cāttakkāḷ āyi
+                    <lb n="1r15=15"/>tampi-y āyi Avarkaḷ puṇṇiyamāka Āvuṭaiya-parama-cu<add place="below">vā</add>mik=ku kuru-pūcai-k-kaṭṭa
+                    <lb n="1r16=16" break="no"/>ḷai vāmatēvaṉ aṟai-k-kaṭṭaḷai tampā-paṇṭārat=tiṉ kaṭṭaḷai
+                    <lb n="1r17=17" break="no"/>yum Oru-cēkaram-āka-k=kaṭṭaḷaiyiṭṭōm 
+                </p>
+                <p>
+                    
+                    ciṉṉavaṉ kayyil
+                    <pb n="1v"/>
+                    <lb n="1v1=18"/>aḻakappa toṇṭaimāṉār kaṭṭaḷaiyum kiṟāmamum taṉmamu=M
+                    <lb n="1v2=19"/>nammuṭa puṇṇiyamākak kaṭṭaḷaiyiṭṭa kiṟāmam āvatu putuvai
+                    <lb n="1v3=20"/>kkōṭṭai pullaṅkuṭi kāṭukuṭi narikkuṭi <add place="below">eṭ=ṭiccēri</add> uḷḷūril uḷk=kiṭaiyum
+                    <lb n="1v4=21"/>piṟavūr Uḷkkiṭai ēntalum tāṉa-puṟuṇayam kaṭṭaḷaiyiṭṭōm
+                    <lb n="1v5=22"/>yituvum kaṭṭaḷaiyuṭaṉē cēnta pacu Aṟai maṇ=ṭakam tōppu uḷ-paṭa-k kaṭ
+                    <lb n="1v6=23" break="no"/>ṭaḷaiyiṭṭōm
+                </p>
+                <p>
+                    yinta taṉmat=tuk=ku yā<add place="below">tā</add>moruttar paripalāṉam paṇṇi 
                     <lb n="1v7=24"/>naṭat=tinōrkaḷ kōṭi civaliṅka-p piṟatiṭṭai caṇṭa 
                     <lb n="1v8=25"/>cukiṟtattai Aṭaivār ākavum yinta t=taṉmat=tuk=ku yātāmo 
                     <lb n="1v9=26" break="no"/>ruttar Akitam paṇṇiṉa pēr keṅkaik karaiyilum cētu
-                    <lb n="1v10-27" break="no"/>vilum mātā pitāvaiyum kurukkaḷaiyum kāramām pacuvaiyum 
+                    <lb n="1v10=27" break="no"/>vilum mātā pitāvaiyum kurukkaḷaiyum kāramām pacuvaiyum 
                     <lb n="1v11=28"/>ko<choice><orig>ṇṇ</orig><reg>ṉṟ</reg></choice>a tō<hi rend="bold">ṣa</hi>ttilē pōkak kaṭavarākavum palavari mutalāki 
-                    <lb n="1v12=29" rend="bt-rotated"/>ya caṟuva variyum ve<unclear>ṇṭā</unclear>m eṉṟu kaṭṭaḷaiyiṭṭōm
+                    <lb n="1v12=29" rend="bt-rotated"/>ya caṟuva variyum ve<unclear>ṇṭā</unclear>m eṉṟu kaṭṭaḷaiyiṭṭōm <g ref="sym:tam-pillaiyarCuli" type="punctuation">@</g>
+                </p>
+                <p>
+                    <lb n="1v13=30"/>ćiva
                 </p>
                 
-                 
+                
                 
                 
                 
