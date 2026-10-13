@@ -28,7 +28,7 @@
                 <msDesc>
                     <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
-                        <summary>The grant included a second plate, now lost. </summary>
+                        <summary>The grant included a second plate, now lost. It seems to be a copy of an earlier document, since the scribe made what appear to be basic errors in reading (i.e., <foreign>cu</foreign> > <foreign>ka</foreign>).  </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -84,16 +84,17 @@
                     <lb n="1r24=24" break="no"/><choice><orig>tta</orig><reg>ṟṟa</reg></choice> cupa-tiṉattil 
                 </p>
                 <p>
-                    rācarāca vaḻaṉāṭu rācēntira cōḻa
-                    <lb n="1r25=25"/>vaḻaṉāṭu cōḻamaṇṭalam kāval koṇṭa ṉāṭu kallūr nel
-                    <lb n="1r26=26"/>lūr ceyittu ammaṉam kaṉikoṇṭa ṉāṭu cempoṉ māriyai ce
-                    <lb n="1r27=27"/>yaṅkoṇṭa nāṭu ceyaṅkoṇṭār tiruppaṇipurinta vaḻaṉāṭu
-                    <lb n="1r28=28"/>miḻalaik kūttattil naṭuvikkūttam pavuttiramāṇikkam catur
-                    <lb n="1r29=29"/>vētamaṅkalamāṉa taṉiyūr tirupperuntuṟai cuvāmi ā
-                    <lb n="1r30=30"/>ḷuṭaiya paramacuvāmiyārukku uṣcā kālāti pūcaikku rā
-                    <lb n="1r31=31"/>caḻī rekuṉāta ṉāyakkaravarkaḷ ṉāḷaiyil vācamākāḷiyā
-                    <lb n="1r32=32"/>piḷḷaiyavarkaḷ kiṟaiya cātaṉamāka reṅkalam palakāṟa
-                    <lb n="1r33=33"/>rilē vaḻacaṉāta oṭṭaṉ kaṭṭi paḻaiyāṉṉuḷḷiṭṭārum ka
+                    rāca-rāca-vaḻa-ṉāṭu rācēntira-cōḻa
+                    <lb n="1r25=25"/>vaḻa-ṉāṭu cōḻa-maṇṭalam kāval koṇṭa ṉāṭu kallūr nel
+                    <lb n="1r26=26" break="no"/>lūr ceyittu ammaḷam kaṉi koṇṭa ṉāṭu yeḻuṉūṟu vil
+                    <lb n="1r27=27"/>lāḷar palla tuti raiyaṉucaraḷa-ṉāṭu cempoṉ māriyai ce
+                    <lb n="1r27=27" break="no"/>yaṅ-<add place="below">k</add>oṇṭa nāṭu ceyaṅ-koṇṭār tirup=paṇi purinta vaḻa-ṉāṭu
+                    <lb n="1r28=28"/>miḻalai-kūttat=til naṭuvi=L-kūttam pavuttira-māṇikkam catur
+                    <lb n="1r29=29" break="no"/>vēta-maṅkalam-āṉa taṉiyūr tiru-<add place="above">p</add>-peruntuṟai <choice><orig>cū</orig><reg>cu</reg></choice>vāmi Ā
+                    <lb n="1r30=30" break="no"/>ḷuṭaiya-parama-<choice><orig>ku</orig><reg>cu</reg></choice>vāmiyārukku uṣcā-kālāti pūcaikku rā
+                    <lb n="1r31=31" break="no"/>ca <hi rend="grantha">śrī</hi> reku<add place="below">ṉāta</add> ṉāyakkar avarkaḷ ṉāḷaiyil vāccamākāḷiyā
+                    <lb n="1r32=32"/>piḷḷai y-avarkaḷ kiṟaiya cātaṇamāka reṅkalam palakāṟa
+                    <lb n="1r33=33"/>rilē <!-- it's really hard to read --> vaḻacaṉāta oṭṭaṉ kaṭṭi paḻaiyāṉṉuḷḷiṭṭārum ka
                     <lb n="1r34=34"/>ṭammaṅkaḷāṭu kuruvikkarampai vaṇṭi uḷḷiṭṭārum paṅkāṭ
                     <lb n="1r35=35"/>ṭu ṉāṭu kaḷattūr virutukku mīṇṭa vīraṉuḷḷiṭṭāru
                     <lb n="1r36=36"/>m teṉṉaṅkuṭip piramaṉuḷḷiṭṭārum caṅkamaṅkalam e
