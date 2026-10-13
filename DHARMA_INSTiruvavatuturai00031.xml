@@ -28,7 +28,7 @@
                 <msDesc>
                     <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
-                        <summary>The grant included a second plate, now lost.</summary>
+                        <summary>The grant included a second plate, now lost. </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -67,21 +67,21 @@
                     <lb n="1r10=10" break="no"/>r ciṅkaḷar maṟāṭar tuḷuvar toṭṭiyar tēcaṅ
                     <lb n="1r11=11"/>kaliṅkam tiṟai koṇṭa karuṇāvatāraṉ ye
                     <lb n="1r12=12" break="no"/>vvirutākilum avvirutukoṇṭōṉ ku <!-- revised until here -->
-                    <lb n="1r13=13"/>ṭaikku kaṟṉaṉ aḷakukku maṉmataṉ poṟuai
-                    <lb n="1r14=14"/>makku taṟmar kutiraiyēttattukku nakulaṉ
-                    <lb n="1r15=15"/>āṟil oru kaṭamai koṇṭa cēra cōḻa pāṇṭiya
-                    <lb n="1r16=16"/>ṉ vayatukku mārkaṇṭaṉ rācakōttiram cātakaḷa
-                    <lb n="1r17=17"/>rāyar accutarāyar kōpālarāyar āṉantarāyar ki
-                    <lb n="1r18=18"/>ṣṇa rāyar rāmarāyar ippaṭi piṟittuvi rācciya
-                    <lb n="1r19=19"/>m paṇṇiyaruḷāniṉṟa 
+                    <lb n="1r13=13" break="no"/>ṭaikku kaṟṉaṉ Aḷakukku maṉmataṉ poṟu
+                    <lb n="1r14=14" break="no"/>maikku taṟmmar kutirai y-ēttat=tukku nakulaṉ
+                    <lb n="1r15=15"/>Āṟil Oru kaṭamai koṇṭa cēra-cōḻa-pāṇṭiya
+                    <lb n="1r16=16" break="no"/>ṉ vayatukku mārkaṇṭaṉ rāca-kōttiram cāta-kaḷa
+                    <lb n="1r17=17"/>rāyar ccuta-rāyar kōpāla-rāyar Āṉanta-rāyar ki
+                    <lb n="1r18=18" break="no"/>ṣṇa-rāyar rāma-rāyar ippaṭi piṟutivi-rācciya
+                    <lb n="1r19=19" break="no"/>m paṇṇi y-aruḷā niṉṟa 
                 </p>
                 <p>
-                    cāliyavākaṉa cakāṟttam
-                    <lb n="1r20=20"/><num value="1375"> <g type="numeral">1000</g> 3 <g type="numeral">100</g> 7 <g type="numeral">10</g> 5</num>kku mēl cellā niṉṟa pavanāma camvatca
-                    <lb n="1r21=21"/>rattu uttirāyaṇattu vacanta rituvil vaiy
-                    <lb n="1r22=22"/>kāci <g ref="sym:tam-varuṣam"></g> 23 <g ref="sym:tam-mācam"></g> pūṟuva paṣacattil cōmavāram tica
-                    <lb n="1r23=23"/>miyum pūca naṣcettiramum cupayōka cupakaruṇamum pe
-                    <lb n="1r24=24"/>tta cupatiṉattil 
+                    cāli<surplus>ya</surplus>vākaṉa cakāṟt=tam
+                    <lb n="1r20=20"/><num value="1375"> <g type="numeral">1000</g> 3 <g type="numeral">100</g> 7 <g type="numeral">10</g> 5</num>kku mēl cellā niṉṟa pava-nāma-camva=t<!--this looks like an shorthand "vat"-->ca
+                    <lb n="1r21=21" break="no"/>rattu Uttirāyaṇattu vacanta-<surplus>pi</surplus><choice><orig>ru</orig><reg>ri</reg></choice>tuvil vaiy
+                    <lb n="1r22=22" break="no"/>kāci <g ref="sym:tam-varuṣam"></g> <num value="23">2 <g type="numeral">10</g> 3</num> <g ref="sym:tam-mācam"></g> pūṟuva-paṣcattil cōmavāram tica
+                    <lb n="1r23=23" break="no"/>miyum pūca-naṣcettiramum cupa-yōka-cupa-karuṇamum pe
+                    <lb n="1r24=24" break="no"/><choice><orig>tta</orig><reg>ṟṟa</reg></choice> cupa-tiṉattil 
                 </p>
                 <p>
                     rācarāca vaḻaṉāṭu rācēntira cōḻa
