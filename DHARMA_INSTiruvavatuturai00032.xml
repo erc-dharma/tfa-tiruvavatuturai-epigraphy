@@ -16,7 +16,7 @@
                         <surname>Trento</surname>
                     </persName>
                 </respStmt>
-            <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Aubervilliers</pubPlace>
@@ -44,8 +44,8 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
         <revisionDesc>
             <change who="part:matr" when="2024-03-21">Creation of the file</change>
         </revisionDesc>
@@ -60,16 +60,73 @@
                 
                 <pb n="1r"/>
                 <p>
-                    <lb n="1r=1"/> <g ref="sym:tam-pillaiyarCuli" type="symbol"></g> Āḷuṭaiyap praramacuvāmiyāṟ tuṇai svasti 
-                    
-                    
-                   <lb n="1r34=34"/>... kallum
+                    <lb n="1r=1"/><g ref="sym:tam-pillaiyarCuli" type="symbol"></g> Āḷuṭaiyap praramacuvāmiyāṟ tuṇai <hi rend="grantha">subha</hi>m <supplied reason="subaudible">astu makāmaṇṭalecura</supplied> 
+                    <lb n="1r2=2" break="no"/>ṉ āriya-taḷa-vipāṭaṉ pācaikki tappu varāta kaṇṭaṉ mūvāyira <unclear>kaṇṭaṉ ka</unclear>
+                    <lb n="1r3=3" break="no"/>ṇṭa nāṭu koṇṭu koṇṭa ṉāṭu kuṭātāṉ pāṇṭi-maṇṭala-t-tāpa<supplied reason="subaudible">ṉācā</supplied>
+                    <lb n="1r4=4" break="no"/>riyaṉ cōḻa-maṇṭala-piṟatiṭṭāpaṉācāriyaṉ toṇṭa-maṇṭala-piṟa<supplied reason="subaudible">caṇṭaṉ</supplied>
+                    <lb n="1r5=5"/>pūṟuva-te<hi rend="grantha"><unclear reason="eccentric_ductus">kṣa</unclear></hi>ṇa-pa<hi rend="grantha"><unclear reason="eccentric_ductus">kṣa</unclear></hi>ama-Uttara-camuttirātipaṉ y-īḷamum koṅkum <unclear>yāḻp</unclear>
+                    <lb n="1r6=6" break="no"/>pāṇa-paṭṭaṇam aḻittu keca-vēṭṭai kaṇṭaruḷiya rācāti-rācaṉ rāca-<unclear>para</unclear>
+                    <lb n="1r7=7" break="no"/>mēcuraṉ rāca-kempīraṉ para-rāca-ciṅkam <add place="above">t</add>ēva-patiyāṉ tariyavarkaḷ iṭiyēṟu tāli
+                    <lb n="1r8=8" break="no"/>kki vēli cori-mattiraḷ paṭai tulaittiṭu ciṅkam ciṅka-koṭiyāṉ ciṉa-p-puli-t
+                    <lb n="1r9=9"/>taṇṭaiyāṉ kaṟṟavar pukaḷum kaliyuka rāmaṉ ravi-kula-tīraṉ muṉkāyam vāṅki mu
+                    <lb n="1r10=10" break="no"/><unclear>ṉai</unclear> ceyivār <supplied reason="omitted">ka</supplied>ṇṭaṉ Aṉṉa-cattira-cōmaṉ aivāy-p-puli Evvirutumuṭaiyō
+                    <lb n="1r11=11" break="no"/>ṉ camarir-c caṟukkāta kaṇṭaṉ parimēl nakulaṉ, karimēlutaiyaṉ yiṉṉamum anēka
+                    <lb n="1r12=12" break="no"/>m piṟatiṭṭā paripālakaṉ, kaccip patiyāṉ ravikula turaṅtaraṉ, rā vaṇaṅkāmuṭi
+                    <lb n="1r13=13"/>ātoṇṭaimāṉāravarkaḷ, maṉunīti muṟaimai tappāmal ceṅkōl celutti piṟu
+                    <lb n="1r14=14"/>tivi rācciya paripālaṉam paṇṇiyaruḷāniṇṭa 
+                </p>
+                <p> 
+                    cālivākaṉa cakāṟttam 14
+                    <lb n="1r15=15"/>52mēṟ cellāniṇṭa vikāri ila āṭi mī 17va yeṉatu 
+                </p>
+                <p>
+                    kuruvāṉa miḻalaikūt
+                    <lb n="1r16=16"/>tattu tuñcaṉūr uṭaiyāṉ kumuḷūr uṭaiyāṉ āṉa rā-accutappāla āto
+                    <lb n="1r17=17"/>ṇṭamāṉāravarkaḷ kuṭi ākiya kumuṇap piḷaikki, amaraṭakki maṅkalam porpe
+                    <lb n="1r18=18"/>ttiuṭaiyāṉ, maṟikkavoṇṇāṉ, āviṇa nayiṉāṉ, ulaku uyya vanta perumāḷ
+                    <lb n="1r19=19"/>ciṉṉa āviṇa nayiṉāṉ, uḷpaṭṭārōm kāṇiyāṭci tāmpura cātaṉa paṭṭayam ceṅkāl
+                    <lb n="1r20=20"/>piḷḷaiyavarkaḷ maṇṭilēṟṟi āṟppaṉāta cuvāmi muṉmpāka-rā-rekuṉāta pūpāla
+                    <lb n="1r21=21"/>ātoṇṭaimāṉāravarkaḷ maṇṭapattil, malaiyān tavamuṉiyavarkaḷ, muṉṉilai nā
+                    <lb n="1r22=22"/>m cittūr ētti paṇṇi kuṭutta paric' āvatu nāṅkaḷ vikkiṇṭa kiṟāmam amaraṭakkiai
+                    ti. 12.
+                    <lb n="1r23=23"/>ya cēnta paruvūru pattil kōṉāpaṭṭi uḷkkaṭai uḷpaṭa tāḷai ēntal kiṟāmam 1
+                    <lb n="1r24=24"/>kāṉukkuṟicci uḷkkaṭai uḷpaṭa parivīru maṅkalam kiṟāmam 1, māpaṉai kiṟāmam 1, ciṉṉa
+                    <lb n="1r25=25"/>māpaṉai kiṟāmam 1, mēlkkāṉāṭu kiṟāmam 1, ēmpal kiṟāmam 1, puḷḷāṉ ēntalk ki
+                    <lb n="1r26=26"/>ṟāmam 1. āka ēḻu kiṟāmamum nāṅkaḷ cakala caṉa cammatiyāyi viṟppōm eṇṭuvi
+                    <lb n="1r27=27"/>ṟpatarkkicaintu avar koḷvōm eṇṭu koḷvatarkki caintu nālvar kūṭimuṉ
+                    <lb n="1r28=28"/>pāka.. cāvi vilai niṭṣeyittatu. kali miṉṉal poṉ 650 inta aṟuṉūttu aṉm
+                    <lb n="1r29=29"/>patupoṉṉum oru kiḷippaṭa kāṭṭi yētti kayic cilavaṟap pattikkoṇṭa pa
+                    <lb n="1r30=30"/>ṭiyiṉālē yinta ēḻu kiṟāmattukkum ṉālpākkellaik kuḷpaṭṭa āvā
+                    <lb n="1r31=31"/>rai koḷuñci aṟuku tāḷivayippu ceppu māvaṭai maravaṭai mēṉōk
+                    <lb n="1r32=32"/>kiya viruṭcam kīṉōkkiya kiṇaṟu kōvil kuḷam perunīrnilai ciṟunīrnilai nīrva
+                    <lb n="1r33=33"/>rum āṟu tāṉ pōkum kuḷakkāl, paṟamai, valamai, patiṉeṉ cuvantiramu
+                    <lb n="1r34=34"/>m ampalam, umpaḷam, col cuvantiram, cakala camutāya pirāttiyaḷum 
+                </p>
+                <p>
+                    kallum
                     <lb n="1r35=35"/>kāvēriyum pullum pūmiyum cantirātitta varaikkum puttirar pa<supplied reason="omitted">vu</supplied>ttira pa
                     <lb n="1r36=36" break="no"/>rāmparaikkum Ā<choice><orig>ṉ</orig><reg>ṇ</reg></choice>ṭum Aṉupovittum cītaṉam kuṭuttum ciṉeki-t ta
                     <lb n="1r37=37" break="no"/>āṉam paṇṇiyum vittum Otti vayittum Upaya kuṭuttu Āṇṭu Aṉupavit
                     <lb n="1r38=38" break="no"/>tu-k koḷḷak kaṭavar ākavum Intappaṭikki Eḻu ēntalum kiṟaya cātaṉamāy <add place="below">pa</add>ṇ
                     <lb n="1r39=39" break="no"/>ṇi-k kuṭuttu-y iruppatāl neriñci tūttukkuṭi-y etti tiraviya-p-piṟayā
-                    <lb n="1r40=40" break="no"/>camāyi kiṟāma paripālaṉam paṇṇik koḷḷak kaṭavar ākavum ...
+                    <lb n="1r40=40" break="no"/>camāyi kiṟāma paripālaṉam paṇṇik koḷḷak kaṭavar ākavum 
+                </p>
+                <p>
+                    yinta
+                    <lb n="1r41=41"/>ppaṭi nāṅkaḷ aṉavarum kumuṇappiḷḷaikku kiṟaya cātaṉa paṭṭayam paṇṇik
+                    <lb n="1r42=42"/>kuṭuttōm. yintapaṭi cāṭci poṉṉamaṅkalapattuṭaiya cū
+                    <lb n="1r43=43"/>riyapiḷḷai viḷattup pattuṭaiya vekumāṉirāyar intapaṭi ce
+                    <lb n="1r44=44"/>ṅkāl piḷḷai maṇṭil kūṭiya aṉavarum koḷkiṇṭa pēr vikki
+                    <lb n="1r45=45"/>ṇṭa pērkaḷum colla eḻutiṉēṉ. malaiyān tavamuṉi kāriyattu
+                    <lb n="1r46=46"/>kku kaṟṟaṉāṉa ciṉṉa āvuṭaiyappaṉ kaiyineṭṭeḻuttu. yip
+                    <lb n="1r47=47"/>paṭikki-rā-turaiyavarkaḷuṭa uttaraviṉ pēril aṟantāṅ
+                    <lb n="1r48=48"/>kiyilirukkum aṟuṉācala pattar makaṉ cuppiramaṇiyaṉveṭṭe]ḷuttu. ātikēcavar tuṇai.
+                </p>
+                <p>
+                    <lb n="1r49=49"/>maṟikkavoṇṇaṇāḷ
+                    <lb n="1r50=50"/>āvaṇa nayiṉāṉ
+                    <lb n="1r51=51"/>ciṉṉa āvaṇa nayiṉāṉ
+                    <lb n="1r52=52"/>ulaku uyya vantāṉ
                 </p>
                 
                 <!--  
@@ -79,23 +136,23 @@
                     <l n="b">paradattā<choice><sic>ra</sic><corr>nu</corr></choice>pālanam· <g type="danda">.</g></l> 
                     <l n="c">paradattāpahārēṇa</l> 
                     <l n="d">svadatt<choice><sic>ā</sic><corr>am</corr></choice> niṣphalam· bhavēt·<g type="ddanda">.</g></l> 
-                  </lg> 
-               
-                <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    </lg> 
+                    
+                    <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">dānapālanayōr mmaddhyē</l> 
                     <l n="b">dānāc chreyo ’nupālanam· <g type="danda">.</g></l>
                     <l n="c">dānāt svarga<lb n="1v24=55"/>m avāpnōti</l> 
                     <l n="d">pālanād acyutam· padam· <g type="ddanda">.</g> <g type="pc"/></l>
-                </lg> 
-                
-                <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    </lg> 
+                    
+                    <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">Ekaika bhaginī lok<lb n="1v25=56"/>e</l> 
                     <l n="b">sarvveṣām <choice><sic>i</sic><corr>e</corr></choice>va bhūbhujām· <g type="danda">.</g></l> 
                     <l n="c">nā bhōjyā na <choice><sic>ka</sic>k<corr>a</corr></choice>ragrāhyā</l> 
                     <l n="d">vipradattā va<lb n="1v26=57"/>sundharā<g type="ddanda">.</g></l><g type="pc"/>
-                </lg>
-                
-          
+                    </lg>
+                    
+                    
                     <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">svadattām· paradattāṁ vā</l> 
                     <l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vas<choice><sic>va</sic><corr>u</corr></choice>n <lb n="1v13=26" break="no"/>dharām <g type="danda">.</g></l> 
@@ -142,7 +199,7 @@
             
             <div type="bibliography">
                 
-          <!--    <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/41).</p> -->   
+                <!--    <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl>(ARIE/1986-1987/A/1986-1987/41).</p> -->   
                 
                 <p>Edited in <bibl><ptr target="bib:Kirusnamurtti2000_01"/></bibl> (no. 39). This edition is not taken systematically into account since the editor regularly adapts Sanskrit words to Tamil spelling.</p>
                 
@@ -157,16 +214,16 @@
                         <citedRange unit="item">39</citedRange>
                     </bibl>
                     
-         <!--        </listBibl>
-                
-                <listBibl type="secondary">
-                    <bibl>
+                    <!--        </listBibl>
+                        
+                        <listBibl type="secondary">
+                        <bibl>
                         <ptr target="bib:ARIE1986-1987"/>
                         <citedRange unit="page">23</citedRange>
                         <citedRange unit="item">41</citedRange>
-                    </bibl> -->  
+                        </bibl> -->  
                 </listBibl>  
-           	    
+                
                 
             </div>
         </body>
