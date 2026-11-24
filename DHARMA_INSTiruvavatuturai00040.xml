@@ -61,19 +61,19 @@
                 <pb n="1r"/>
                 <p>
                     <lb n="1r1=1"/><hi rend="bold">svasti śrī vijayābhyudaya śālivākana śaka varṣaṁ</hi> <num value="1612"> <num>1000</num> 6 <num>100</num>
-                    <lb n="1r2=2"/><num>10</num> 2</num>k=ku mēl cellā niṉṟa <!-- until here -->vikrama ila āvaṇi mī 5 pūrva paṭcattut ti
-                    <lb n="1r3=3"/>ritiyai cōmavāram uttiraṭṭāti nakṣattiram civanāmayō
-                    <lb n="1r4=4"/>kam pālavākaraṇam itukaḷ kūṭiṉa cupatiṉattil 
+                    <lb n="1r2=2"/><num>10</num> 2</num>k=ku mēl cellā niṉṟa vi<hi rend="grantha">krama</hi> <g ref="sym:tam-varusam"></g> āvaṇi <g ref="sym:tam-macam"></g> 5 <g ref="sym:tam-teti"></g> <hi rend="grantha">pūrva-pakṣatti</hi>
+                    <lb n="1r3=3" break="no"/>l <hi rend="grantha">tri</hi>tiyai <hi rend="grantha">soma-vāram uttara-phalgu</hi>ni na<hi rend="grantha">kṣatraM śi</hi>va-nā<hi rend="grantha">ma</hi>-yō
+                    <lb n="1r4=4" break="no"/><hi rend="grantha">gam pālavā-karaṇaM</hi> itukaḷ kūṭiṉa <hi rend="grantha">śubha-dina</hi>t=til 
                 </p>
                 <p>
-                    śrīmar rā
-                    <lb n="1r5=5"/>jāti rāja rāja paramēsvara rāja mārttāṇṭa śrī rāmatē
-                    <lb n="1r6=6"/>varāyarkku cimmāca nārūṭarāka pirutvi cāmrā
-                    <lb n="1r7=7"/>jyam paṇṇā nikkiṟa kālattil 
+                    <hi rend="grantha">śrī maD rā
+                    <lb n="1r5=5"/>jādhi-rāja rāja-parameśvara rāja-mārtāṇṭa śrī rāma-de
+                    <lb n="1r6=6" break="no"/>va-rāyarku siṁhāsanār Uḍar</hi>āka <hi rend="grantha">pṛth<unclear reason="eccentric_ductus">vi</unclear>-sāmmrā
+                    <lb n="1r7=7" break="no"/>jyaM</hi> paṇṇā nik=kuṟa kālattil 
                 </p>
                 <p>
-                    uyya koṇṭa śrī cōḻa
-                    <lb n="1r8=8"/>vaḷa nāṭṭil pirammatēcam kōṭṭaikkarai matiḷukkuk kiḻa
+                    <hi rend="grantha">ja</hi>yya koṇṭa <hi rend="grantha">śrī</hi> cōḻa
+                    <lb n="1r8=8"/>vaḷa-nāṭṭil <hi rend="grantha">brahma-deśaM</hi> kōṭṭaikkarai matiḷukkuk kiḻa
                     <lb n="1r9=9"/>kku tirumacciyūr cāvaṭikku mēṟku kāvēriyāttukku e
                     <lb n="1r10=10"/>taṟku tiruvārūr cāvaṭikku vaṭakku rājakampīra vaḷāra
                     <lb n="1r11=11"/>ṭṭil hari natikku vaṭakaraiyil tivya civa cēttiramāṉa tiru
