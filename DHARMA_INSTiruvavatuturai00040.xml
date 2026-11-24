@@ -36,7 +36,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><!--<foreign>ka</foreign> and <foreign>ta</foreign> are very similar.--></p>
+                            <p>The consonants <foreign>va</foreign> and <foreign>la</foreign> are very similar.</p>
                             
                         </handDesc>
                     </physDesc>
@@ -73,11 +73,14 @@
                 </p>
                 <p>
                     <hi rend="grantha">ja</hi>yya koṇṭa <hi rend="grantha">śrī</hi> cōḻa
-                    <lb n="1r8=8"/>vaḷa-nāṭṭil <hi rend="grantha">brahma-deśaM</hi> kōṭṭaikkarai matiḷukkuk kiḻa
-                    <lb n="1r9=9"/>kku tirumacciyūr cāvaṭikku mēṟku kāvēriyāttukku e
-                    <lb n="1r10=10"/>taṟku tiruvārūr cāvaṭikku vaṭakku rājakampīra vaḷāra
-                    <lb n="1r11=11"/>ṭṭil hari natikku vaṭakaraiyil tivya civa cēttiramāṉa tiru
-                    <lb n="1r12=12"/>vīḻimiḻalaiyil śrītēci nivantēsvara cuvāmikku 
+                    <lb n="1r8=8"/>vaḷa-nāṭṭil <hi rend="grantha">brahma-deśaM</hi> kōṭṭaik=karai ma<choice><orig>ta</orig><reg>ti</reg></choice>ḷuk=ku-k=kiḻa
+                    <lb n="1r9=9" break="no"/>k=ku tirumacciyūr cāvaṭik=ku mēṟku kāvēriyā<choice><orig>t=t</orig><reg>ṟṟ</reg></choice>uk=ku 
+                    <lb n="1r10=10"/>ṟeṟku tiruvārūr cāvaṭik=ku vaṭak=ku <hi rend="grantha">rāja-gambhīra</hi> vaḷa-nā
+                    <lb n="1r11=11" break="no"/>ṭṭil <hi rend="grantha">hari</hi>-na<hi rend="grantha">di</hi>k=ku vaṭakaraiyil <hi rend="grantha">divya-śiva-kṣetram</hi>āṉa tiru
+                    <lb n="1r12=12" break="no"/>vīḻimiḻalaiyil 
+                </p>
+                <p>
+                    <hi rend="grantha">śrī</hi> tē<hi rend="grantha">ji</hi>-nivan<supplied reason="omitted">t</supplied>ēsvara-svāmik=ku<!-- edited from plate untile here -->
                    <list><item>mallūr
                     <lb n="1r13=13"/>pattu kīḻmukam mēl mukam acēṣa vitva makājaṉaṅkaḷum</item> 
                     <item>cam
